@@ -75,14 +75,14 @@ export const loadDb = (path: string, params: string[]) => {
       r.spaces();
       const b = readLevel1(r);
       r.spaces();
-      if (!b) throw new Error("expected somethinf after /");
+      if (!b) throw new Error("expected something after /");
       return { type: "/", a, b };
     }
     if (r.pop("*")) {
       r.spaces();
       const b = readLevel1(r);
       r.spaces();
-      if (!b) throw new Error("expected somethinf after *");
+      if (!b) throw new Error("expected something after *");
       return { type: "*", a, b };
     }
     return a;
