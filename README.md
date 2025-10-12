@@ -137,11 +137,19 @@ $ ./cars query 'Speed.kmph. / Weight.kg.' | plot
 </figure>
 
 ```
-$ ./cars query 'Power.hp. / Cylinders' | plot
+$ ./cars query 'Volume.l. / Cylinders' | plot
 ```
 
 <figure>
     <img src="img/volume-per-cylinder.png">
+</figure>
+
+```
+$ ./cars query speed.kmph/power.hp | plot
+```
+
+<figure>
+    <img src="img/speed-per-horsepower.png">
 </figure>
 
 The database itself doesn't care about formats or parameter names, it works with abstract facts and values.

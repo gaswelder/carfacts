@@ -10,6 +10,12 @@ export const parseVal = (s: string) => {
     throw new Error("unexpected format: " + s);
   }
   const r = reader(n);
+
+  // hack: skip non-digits to let "R8" or "V6" work with calculations.
+  while (r.more() && r.peek().match(/[a-z]/i)) {
+    r.get();
+  }
+
   const val = r.num();
   r.spaces();
   const unit = r.rest();
