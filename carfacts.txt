@@ -226,6 +226,10 @@
 1935 Mercedes-Benz 130 | Engine placement | rear
 1935 Opel Olympia | Price | 2500 DM
 1935 Opel Olympia | Count | 81661
+1935 Opel Olympia | Volume | 1.3 L
+1935 Opel Olympia | Volume | 1.3 L
+1935 Opel Olympia | Cylinders | R4
+1935 Opel Olympia | Power | 24 hp
 1935 Opel Olympia | Speed | 100 kmph
 1935 Opel Olympia | Fuel consumption | 8.8 L/100km
 1935 Opel Olympia | Weight | 835 kg
@@ -325,8 +329,13 @@
 1938 Auto Union Type D | Wheelbase | 277 cm
 1938 Auto Union Type D | Gears | 5
 1938 Opel Kadett | Price | 2000 DM
+1938 Opel Kadett | Volume | 1.3 L
+1938 Opel Kadett | Cylinders | R4
+1938 Opel Kadett | Power | 24 hp
 1938 Opel Kadett | Speed | 98 kmph
 1938 Opel Olympia (2) | Volume | 1279 cc
+1938 Opel Olympia (2) | Cylinders | R4
+1938 Opel Olympia (2) | Power | 24 hp @ 3500 rpm
 1938 Opel Olympia (2) | Fuel feed | carb
 1938 Opel Olympia (2) | Compression ratio | 6.0
 1938 Opel Olympia (2) | Bore | 67.5 mm
@@ -524,11 +533,19 @@
 1951 Opel Olympia | Volume | 1488 cc
 1951 Opel Olympia | Power | 39 hp @ 3700 rpm
 1951 Opel Olympia | Gears | 3
+1951 Porsche 1300 | Volume | 1286 cc
+1951 Porsche 1300 | Volume | 1286 cc
+1951 Porsche 1300 | Power | 44 hp
+1951 Porsche 1300 | Power | 44 hp
+1951 Porsche 1500 | Volume | 1488 cc
+1951 Porsche 1500 | Power | 60 hp
 1951-02 Opel Kapitan | Price | 9600 DM
 1951-02 Opel Kapitan | Count | 48587
 1951-02 Opel Kapitan | Power | 58 hp
 1951-02 Opel Kapitan | Speed | 128 kmph
 1951-02 Opel Kapitan | Body | sedan
+1952 Porsche 1500 S | Volume | 1488 cc
+1952 Porsche 1500 S | Power | 70 hp
 1952 Porsche 356 America Roadster | Count | 20
 1952 Porsche 356 America Roadster | Volume | 1488 cc
 1952 Porsche 356 America Roadster | Cylinders | B4
@@ -565,6 +582,8 @@
 1953 Opel Olympia Rekord cabrio | Body | cabriolet 2
 1953 Opel Olympia Rekord sedan2 | Price | 6410 DM
 1953 Opel Olympia Rekord sedan2 | Body | sedan 2
+1953 Porsche 1300 S | Volume | 1290 cc
+1953 Porsche 1300 S | Power | 60 hp
 1953-11 Opel Kapitan | Price | 9660 DM
 1953-11 Opel Kapitan | Count | 61543
 1953-11 Opel Kapitan | Power | 68 hp
@@ -579,6 +598,7 @@
 1954 Jaguar D-Type | 0-100 kmph | 4.7 s
 1954 Jaguar XK140 | Power | 190 hp
 1954 Porsche 550 | Count | 1953 15
+1954-10 Opel Kapitan | Power | 71 hp
 1954-10 Opel Olympia Rekord | Price | 5850 DM
 1954-10 Opel Olympia Rekord | Body | sedan
 1954-10 Opel Olympia Rekord | Doors | 2
@@ -588,6 +608,16 @@
 1955 Messerschmitt Kabinenroller KR-175 | Length | 2820 mm
 1955 Messerschmitt Kabinenroller KR-175 | Width | 1220 mm
 1955 Packard Panther | Cylinders | V8
+1955 Porsche 356 1500 GS Carrera | Volume | 1498 cc
+1955 Porsche 356 1500 GS Carrera | Power | 100 hp
+1955 Porsche 356 1600 | Volume | 1582 cc
+1955 Porsche 356 1600 | Volume | 1582 cc
+1955 Porsche 356 1600 | Power | 60 hp
+1955 Porsche 356 1600 | Power | 60 hp
+1955 Porsche 356 1600 S | Volume | 1582 cc
+1955 Porsche 356 1600 S | Volume | 1582 cc
+1955 Porsche 356 1600 S | Power | 75 hp
+1955 Porsche 356 1600 S | Power | 75 hp
 1955 Porsche 356 A Speedster | Volume | 1488 cc
 1955 Porsche 356 A Speedster | Volume | 1582 cc
 1955 Porsche 356 A Speedster | Cylinders | B4
@@ -745,6 +775,8 @@
 1957 Chevrolet Corvette SS | Engine placement | front longitudinal
 1957 Chevrolet Corvette SS | Gears | 4 manual
 1957 Chevrolet Corvette SS | Drive | rear
+1957 Jaguar XK 150 | Volume | 3.4 L
+1957 Jaguar XK 150 | Volume | 3.8 L
 1957 Jaguar XK 150 | Body | roadster
 1957 Jaguar XK 150 | Brakes | disc
 1957 Jaguar XK SS | Volume | 3.4 L
@@ -761,6 +793,12 @@
 1957 Jaguar XK150 | Speed | 210 kmph
 1957 Jaguar XK150 | Brakes | disc
 1957 Opel Olympia Rekord (P1) | Count | 603597
+1957 Opel Olympia Rekord (P1) | Volume | 1.5 L
+1957 Opel Olympia Rekord (P1) | Volume | 1.7 L
+1957 Opel Olympia Rekord (P1) | Volume | 1488 cc
+1957 Opel Olympia Rekord (P1) | Power | 50 hp
+1957 Opel Olympia Rekord (P1) | Speed | 125 kmph
+1957 Opel Olympia Rekord (P1) | Speed | 132 kmph
 1957 Opel Olympia Rekord (P1) | Body | sedan 2
 1957 Opel Olympia Rekord (P1) | Body | sedan 4
 1957 Opel Olympia Rekord sedan2 (P1) | Price | 6545 DM @ 1958
@@ -782,6 +820,7 @@
 1958 DB Panhard HBR-5 | Width | 1600 mm
 1958 DB Panhard HBR-5 | Height | 1270 mm
 1958 DB Panhard HBR-5 | Wheelbase | 2159 mm
+1958 Porsche 356 A 1500 GS Carrera GT | Power | 110 hp
 1958 Porsche 356 Carrera GT | Volume | 1.6 L
 1958 Porsche 718 (RSK 718/1500) | Volume | 1.5 L
 1958 Porsche 718 (RSK 718/1500) | Speed | 155 mph
@@ -815,6 +854,9 @@
 1959 Jaguar Mark IX | Count | 10002
 1959 Jaguar Mark IX | Body | sedan
 1959 Jaguar Mark IX | Brakes | disc
+1959 Porsche 356 1600 Carrera GS-GT | Volume | 1588 cc
+1959 Porsche 356 1600 Carrera GS-GT | Power | 115 hp
+1959 Porsche 356 1600 Carrera GS-GT de Luxe | Power | 105 hp
 1959 Porsche 356 B Coupe 1.6 | Volume | 1582 cc
 1959 Porsche 356 B Coupe 1.6 | Cylinders | B4
 1959 Porsche 356 B Coupe 1.6 | Power | 60 hp @ 4500 rpm
@@ -863,6 +905,8 @@
 1959 Porsche 718 (RSK 718/1600) | Power | 148 hp
 1959 Porsche Bergspyder | Volume | 1.6 L
 1959 Porsche Bergspyder | Power | 148 hp
+1959-07 Opel Olympia Rekord (P1) | Volume | 1680 cc
+1959-07 Opel Olympia Rekord (P1) | Power | 55 hp @ 4000 rpm
 1959-08 Opel 1200 | Price | 5835 DM
 1959-08 Opel 1200 | Count | 67952
 1959-08 Opel 1200 | Volume | 1.2 L
@@ -1026,6 +1070,8 @@
 1960 Porsche 356 B Roadster 1.6 S90 | Wheels | 4.5x15
 1960 Porsche 356 B Roadster 1.6 S90 | Gears | 4 manual
 1960 Porsche 356 B Roadster 1.6 S90 | Drive | rear
+1960 Porsche Super 90 | Volume | 1582 cc
+1960 Porsche Super 90 | Power | 90 hp
 1960-08 Opel Rekord P2 | Price | 6545 DM
 1960-08 Opel Rekord P2 | Count | 555419
 1960-08 Opel Rekord P2 | Volume | 1488 cc
@@ -1123,13 +1169,27 @@
 1962 Ferrari 250 GTO | Gears | 5 manual
 1962 Ferrari 250 GTO | Drive | rear
 1962 Opel Kadett (A) | Count | 649512
+1962 Opel Kadett (A) | Volume | 993 cc
+1962 Opel Kadett (A) | Volume | 993 cc
+1962 Opel Kadett (A) | Cylinders | R4
+1962 Opel Kadett (A) | Cylinders | R4
+1962 Opel Kadett (A) | Power | 40 hp
+1962 Opel Kadett (A) | Power | 48 hp
+1962 Opel Kadett (A) | Speed | 120 kmph
+1962 Opel Kadett (A) | Speed | 130 kmph
 1962 Opel Kadett (A) | Weight | 700 kg
 1962 Opel Kadett (A) | Body | coupe
 1962 Opel Kadett (A) | Body | sedan
 1962 Opel Kadett (A) | Body | wagon
 1962 Opel Kadett (A) | Gears | 4 manual
+1962 Porsche 1600 C | Power | 75 hp
+1962 Porsche 1600 C | Power | 75 hp
+1962 Porsche 1600 SC | Power | 95 hp
+1962 Porsche 356 B | Brakes | disc
 1962 Porsche 356 Carrera GT | Volume | 2 L
 1962 Porsche 356 Carrera GT | Brakes | disc
+1962 Porsche Carrera 2 | Volume | 1966 cc
+1962 Porsche Carrera 2 | Power | 130 hp
 1962 Shelby Cobra 289 | Volume | 4736 cc
 1962 Shelby Cobra 289 | Cylinders | V8
 1962 Shelby Cobra 289 | Power | 271 hp @ 6000 rpm
@@ -1170,6 +1230,14 @@
 1963 Lamborghini 350GT | Engine placement | center
 1963 Opel Rekord (A) | Price | 7230 DM
 1963 Opel Rekord (A) | Count | 720976
+1963 Opel Rekord (A) | Volume | 1.5 L
+1963 Opel Rekord (A) | Volume | 1.7 L
+1963 Opel Rekord (A) | Volume | 1.7 L
+1963 Opel Rekord (A) | Volume | 2.6 L
+1963 Opel Rekord (A) | Power | 55 hp
+1963 Opel Rekord (A) | Power | 60 hp
+1963 Opel Rekord (A) | Power | 67 hp
+1963 Opel Rekord (A) | Power | 100 hp
 1963 Opel Rekord (A) | Speed | 134 kmph
 1963 Opel Rekord (A) | Speed | 142 kmph
 1963 Opel Rekord (A) | Weight | 965 kg
@@ -1194,6 +1262,7 @@
 1963 Porsche 356 C | Speed | 171 kmph
 1963 Porsche 356 C | 0-100 kmph | 12.3 s
 1963 Porsche 356 C | Weight | 935 kg
+1963 Porsche 356 C | Body | coupe
 1963 Porsche 356 C | Length | 4010 mm
 1963 Porsche 356 C | Width | 1670 mm
 1963 Porsche 356 C | Height | 1315 mm
@@ -1270,8 +1339,12 @@
 1963 Porsche 901 | Cylinders | 6
 1963 Porsche 901 | Power | 130 hp @ 6100 rpm
 1963 Porsche 901 | Body | coupe
+1963 Porsche 904 GTS | Body | coupe
 1963 Porsche 911 | Volume | 2 L
+1963 Porsche 911 | Volume | 1991 cc
 1963 Porsche 911 | Cylinders | B6
+1963 Porsche 911 | Cylinders | B6
+1963 Porsche 911 | Power | 130 hp
 1963 Porsche 911 | Power | 130 hp
 1963 Porsche 911 | Speed | 130 mph
 1963 Porsche 911 | 0-30 mph | 2.8 s
@@ -1302,6 +1375,7 @@
 1963-11 Porsche 904 | Power | 180 hp
 1963-11 Porsche 904 | Speed | 250 kmph
 1963-11 Porsche 904 | Brakes | disc
+1964 Jaguar E-Type | Volume | 4.2 L
 1964 Opel Diplomat (A) | Price | 20000 DM
 1964 Opel Diplomat (A) | Price | 25500 DM
 1964 Opel Diplomat (A) | Volume | 4554 cc
@@ -1337,7 +1411,9 @@
 1964 Porsche 904 Carrera GTS | Engine placement | center
 1964 Porsche 911 | Volume | 1600 cc
 1964 Porsche 911 | Volume | 1991 cc
+1964 Porsche 911 | Volume | 2 L
 1964 Porsche 911 | Cylinders | B4
+1964 Porsche 911 | Cylinders | 6
 1964 Porsche 911 | Power | 130 hp @ 6200 rpm
 1964 Porsche 911 | Power | 90 hp
 1964 Porsche 911 | Torque | 128 lb-ft
@@ -1348,6 +1424,7 @@
 1964 Porsche 911 | Compression ratio | 9.0
 1964 Porsche 911 | Bore | 80 mm
 1964 Porsche 911 | Stroke | 66 mm
+1964 Porsche 911 | Valves per cylinder | 2
 1964 Porsche 911 | Valves per cylinder | 2
 1964 Porsche 911 | Max rpm | 6500
 1964 Porsche 911 | Speed | 130 mph
@@ -1443,6 +1520,8 @@
 1965 Opel Admiral (A) | Cylinders | R6
 1965 Opel Admiral (A) | Power | 125 hp
 1965 Opel Admiral (A) | Fuel feed | carb
+1965 Opel Kapitan S | Power | 125 hp @ 4800 rpm
+1965 Opel Kapitan S | Fuel feed | carb
 1965 Porsche 906 | Count | 50
 1965 Porsche 906 | Volume | 1991 cc
 1965 Porsche 906 | Cylinders | 6
@@ -1467,6 +1546,8 @@
 1965 Porsche 911 | Front track | 1337 mm
 1965 Porsche 911 | Rear track | 1317 mm
 1965 Porsche 911 | Wheelbase | 2211 mm
+1965 Porsche 911 S | Volume | 2.2 L
+1965 Porsche 911 S | Power | 160 hp
 1965 Porsche 911 Targa | Volume | 1991 cc
 1965 Porsche 911 Targa | Power | 130 hp @ 6100 rpm
 1965 Porsche 911 Targa | Torque | 174 nm @ 4200 rpm
@@ -1482,7 +1563,10 @@
 1965 Porsche 911 Targa | Wheelbase | 2211 mm
 1965 Porsche 912 | Volume | 1.6 L
 1965 Porsche 912 | Volume | 1582 cc
+1965 Porsche 912 | Volume | 1582 cc
 1965 Porsche 912 | Cylinders | B4
+1965 Porsche 912 | Cylinders | 4
+1965 Porsche 912 | Power | 90 hp
 1965 Shelby Cobra 427 | Volume | 6991 cc
 1965 Shelby Cobra 427 | Cylinders | V8
 1965 Shelby Cobra 427 | Power | 425 hp @ 6500 rpm
@@ -1508,6 +1592,14 @@
 1965-08 Opel Rekord B | Price | 6980 DM
 1965-08 Opel Rekord B | Price | 8065 DM
 1965-08 Opel Rekord B | Count | 239812
+1965-08 Opel Rekord B | Volume | 1.5 L
+1965-08 Opel Rekord B | Volume | 1.7 L
+1965-08 Opel Rekord B | Volume | 1.9 L
+1965-08 Opel Rekord B | Volume | 2.6 L
+1965-08 Opel Rekord B | Power | 60 hp
+1965-08 Opel Rekord B | Power | 75 hp
+1965-08 Opel Rekord B | Power | 90 hp
+1965-08 Opel Rekord B | Power | 100 hp
 1965-08 Opel Rekord B | Speed | 136 kmph
 1965-08 Opel Rekord B | Speed | 165 kmph
 1965-08 Opel Rekord B | Weight | 965 kg
@@ -1540,6 +1632,16 @@
 1966 Lamborghini Miura P400 SV | Rear track | 1541 mm
 1966 Lamborghini Miura P400 SV | Wheelbase | 2504 mm
 1966 Lamborghini Miura P400 SV | Clearance | 127 mm
+1966 Opel Rekord (C) | Volume | 1.5 L
+1966 Opel Rekord (C) | Volume | 1.7 L
+1966 Opel Rekord (C) | Volume | 1.9 L
+1966 Opel Rekord (C) | Volume | 2.2 L
+1966 Opel Rekord (C) | Power | 58 hp
+1966 Opel Rekord (C) | Power | 60 hp
+1966 Opel Rekord (C) | Power | 90 hp
+1966 Opel Rekord (C) | Power | 95 hp
+1966 Opel Rekord 1.7S (C) | Volume | 1.7 L
+1966 Opel Rekord 1.7S (C) | Power | 75 hp
 1966 Opel Rekord С | Price | 7590 DM
 1966 Opel Rekord С | Count | 1253161
 1966 Opel Rekord С | Fuel feed | carb
@@ -1554,11 +1656,13 @@
 1966 Opel Rekord С | Front brakes | disc
 1966 Opel Rekord С | Gears | 3 auto
 1966 Opel Rekord С | Gears | 4 manual
+1966 Porsche 911 S | Power | 160 hp
 1966 Porsche 911 Targa | Volume | 2 L
 1966 Porsche 911 Targa | Cylinders | B6
 1966 Porsche 911 Targa | Max rpm | 6500
 1966 Porsche 911 Targa | Speed | 210 kmph
 1966 Porsche 911 Targa | 0-100 kmph | 9.1 s
+1966 Porsche 911 Targa | Body | targa
 1966 Porsche 911 Targa | Body | targa
 1966 Porsche 911 Targa | Seats | 2+2
 1966 Porsche 911 Targa | Doors | 2
@@ -1589,7 +1693,10 @@
 1967 NSU Ro80 | Brakes | disc
 1967 NSU Ro80 | Gears | 3 semi-auto
 1967 NSU Ro80 | Drive | front
+1967 Opel Commodore (A) | Volume | 2.5 L
 1967 Opel Commodore (A) | Cylinders | R6
+1967 Opel Commodore (A) | Power | 95 hp
+1967 Opel Commodore (A) | Power | 115 hp
 1967 Opel Commodore (A) | Fuel feed | carb Solex
 1967 Opel Commodore (A) | Weight | 1130 kg
 1967 Opel Commodore (A) | Weight | 1170 kg
@@ -1602,6 +1709,11 @@
 1967 Opel Commodore (A) | Gears | 4 manual
 1967 Opel Commodore 2.5 2-door (A) | Price | 9775 DM @ Germany
 1967 Opel Commodore 2.5 4-door (A) | Price | 10200 DM @ Germany
+1967 Opel Kapitan | Cylinders | 6
+1967 Opel Kapitan | Power | 140 hp @ 4900 rpm
+1967 Opel Kapitan | Fuel feed | 2 carb
+1967 Opel Kapitan | Speed | 180 kmph
+1967 Opel Kapitan | Weight | 1390 kg
 1967 Porsche 907 | Volume | 1981 cc
 1967 Porsche 907 | Cylinders | B8
 1967 Porsche 907 | Power | 260 hp @ 9000 rpm
@@ -1617,7 +1729,9 @@
 1967 Porsche 910/908 Bergspyder | Volume | 2.2 L
 1967 Porsche 910/908 Bergspyder | Power | 220 hp
 1967 Porsche 910/908 Bergspyder | Power | 272 hp
+1967 Porsche 910/908 Bergspyder | Weight | 450 kg
 1967 Porsche 910/908 Bergspyder | Body | coupe
+1967 Porsche 910/908 Bergspyder | Body | roadster
 1967 Porsche 911 | Volume | 2 L
 1967 Porsche 911 | Volume | 1991 cc
 1967 Porsche 911 | Power | 130 hp @ 6100 rpm
@@ -1633,12 +1747,15 @@
 1967 Porsche 911 | Wheelbase | 2211 mm
 1967 Porsche 911 S | Count | 1162
 1967 Porsche 911 S | Volume | 1991 cc
+1967 Porsche 911 S | Cylinders | 6
 1967 Porsche 911 S | Power | 160 hp @ 6600 rpm
+1967 Porsche 911 S | Power | 160 hp
 1967 Porsche 911 S | Torque | 132 lb-ft
 1967 Porsche 911 S | Torque | 179 nm @ 5200 rpm
 1967 Porsche 911 S | Torque | 180 nm @ 5200 rpm
 1967 Porsche 911 S | Fuel feed | carb Weber
 1967 Porsche 911 S | Compression ratio | 9.8
+1967 Porsche 911 S | Valves per cylinder | 2
 1967 Porsche 911 S | Speed | 140 mph
 1967 Porsche 911 S | Speed | 138 mph
 1967 Porsche 911 S | 0-60 mph | 6.8 s
@@ -1656,6 +1773,9 @@
 1967 Porsche 911 S 2.0 | Torque | 179 nm @ 5200 rpm
 1967 Porsche 911 S 2.0 | Compression ratio | 9.8
 1967 Porsche 911 S 2.0 | Weight | 1090 kg
+1967 Porsche 911 T | Price | 20000 DM
+1967 Porsche 911 T | Cylinders | 6
+1967 Porsche 911 T | Power | 110 hp
 1967 Porsche 911 Targa | Volume | 1991 cc
 1967 Porsche 911 Targa | Power | 130 hp @ 6100 rpm
 1967 Porsche 911 Targa | Torque | 174 nm @ 4200 rpm
@@ -1663,6 +1783,7 @@
 1967 Porsche 911 Targa | Bore | 80 mm
 1967 Porsche 911 Targa | Stroke | 66 mm
 1967 Porsche 911 Targa | Weight | 1030 kg
+1967 Porsche 911 Targa | Body | targa
 1967 Porsche 911 Targa | Body | targa
 1967 Porsche 911 Targa | Length | 4163 mm
 1967 Porsche 911 Targa | Width | 1610 mm
@@ -1708,15 +1829,28 @@
 1968 Opel GT Coupe | Gears | 4 manual
 1968 Opel GT Coupe 1.1 | Count | 3553
 1968 Opel GT Coupe 1.9 | Count | 99820
+1968 Opel GT-A Coupe 1100 SR | Price | 10780 DM
+1968 Opel GT-A Coupe 1100 SR | Volume | 1078 cc
+1968 Opel GT-A Coupe 1100 SR | Cylinders | R4
+1968 Opel GT-A Coupe 1100 SR | Power | 60 hp
+1968 Opel GT-A Coupe 1100 SR | Speed | 155 kmph
+1968 Opel GT-AL Coupe 1900 S | Price | 13645 DM
+1968 Opel GT-AL Coupe 1900 S | Volume | 1897 cc
+1968 Opel GT-AL Coupe 1900 S | Cylinders | R4
+1968 Opel GT-AL Coupe 1900 S | Power | 90 hp
+1968 Opel GT-AL Coupe 1900 S | Fuel feed | carb Solex
+1968 Opel GT-AL Coupe 1900 S | Speed | 185 kmph
 1968 Porsche 908 | Volume | 2997 cc
 1968 Porsche 908 | Cylinders | 8
 1968 Porsche 908 | Power | 350 hp
 1968 Porsche 908 | Speed | 180 mph
 1968 Porsche 911 | Volume | 1991 cc
 1968 Porsche 911 | Volume | 2 L
+1968 Porsche 911 | Cylinders | 6
 1968 Porsche 911 | Power | 130 hp @ 6100 rpm
 1968 Porsche 911 | Torque | 174 nm @ 4200 rpm
 1968 Porsche 911 | Torque | 176 nm @ 4200 rpm
+1968 Porsche 911 | Fuel feed | mechanical injection Bosch
 1968 Porsche 911 | Compression ratio | 9.0
 1968 Porsche 911 | Bore | 80 mm
 1968 Porsche 911 | Stroke | 66 mm
@@ -1729,6 +1863,7 @@
 1968 Porsche 911 | Wheelbase | 2211 mm
 1968 Porsche 911 | Brakes | ventilated disc
 1968 Porsche 911 | Gears | 4 auto
+1968 Porsche 911 E | Power | 140 hp
 1968 Porsche 911 L | Volume | 1991 cc
 1968 Porsche 911 L | Volume | 2 L
 1968 Porsche 911 L | Power | 130 hp @ 6100 rpm
@@ -1740,6 +1875,7 @@
 1968 Porsche 911 L | Gears | 5 manual
 1968 Porsche 911 S | Volume | 1991 cc
 1968 Porsche 911 S | Power | 160 hp @ 6600 rpm
+1968 Porsche 911 S | Power | 170 hp
 1968 Porsche 911 S | Torque | 180 nm @ 5200 rpm
 1968 Porsche 911 S | Fuel feed | carb Weber
 1968 Porsche 911 S | Compression ratio | 9.8
@@ -1758,6 +1894,7 @@
 1968 Porsche 911 S 2.0 | Weight | 1075 kg
 1968 Porsche 911 T | Volume | 1991 cc
 1968 Porsche 911 T | Power | 110 hp @ 5800 rpm
+1968 Porsche 911 T | Power | 110 hp
 1968 Porsche 911 T | Torque | 156 nm @ 4200 rpm
 1968 Porsche 911 T | Fuel feed | carb Weber
 1968 Porsche 911 T | Compression ratio | 8.6
@@ -1802,6 +1939,10 @@
 1968 Rolls Royce Phantom VI Park Ward | Rear brakes | drum
 1968 Rolls Royce Phantom VI Park Ward | Front brakes | drum
 1968 Rolls Royce Phantom VI Park Ward | Gears | 4 manual
+1968-02 Opel Rekord (C) | Volume | 1.5 L
+1968-02 Opel Rekord (C) | Power | 60 hp
+1968-09 Opel Rekord (C) | Gears | 3 manual
+1969 Aston Martin V8 | Cylinders | V8
 1969 Audi 100 (C1) | Body | sedan
 1969 Audi 100 (C1) | Length | 4590 mm
 1969 Audi 100 (C1) | Width | 1730 mm
@@ -1819,7 +1960,9 @@
 1969 Pontiac GTO The Judge | Weight | 4000 lbs
 1969 Pontiac GTO The Judge | Wheelbase | 112 in
 1969 Porsche 911 E | Volume | 1991 cc
+1969 Porsche 911 E | Volume | 2195 cc
 1969 Porsche 911 E | Power | 140 hp @ 6500 rpm
+1969 Porsche 911 E | Power | 155 hp
 1969 Porsche 911 E | Torque | 175 nm @ 4500 rpm
 1969 Porsche 911 E | Compression ratio | 9.1
 1969 Porsche 911 E | Weight | 1020 kg
@@ -1838,8 +1981,10 @@
 1969 Porsche 911 E (между T и S) | Weight | 1020 kg
 1969 Porsche 911 S | Volume | 2195 cc
 1969 Porsche 911 S | Volume | 1991 cc
+1969 Porsche 911 S | Volume | 2195 cc
 1969 Porsche 911 S | Power | 170 hp
 1969 Porsche 911 S | Power | 170 hp @ 6800 rpm
+1969 Porsche 911 S | Power | 180 hp
 1969 Porsche 911 S | Torque | 183 nm @ 5500 rpm
 1969 Porsche 911 S | Fuel feed | mechanical injection
 1969 Porsche 911 S | Compression ratio | 9.9
@@ -1858,10 +2003,13 @@
 1969 Porsche 911 S 2.0 | Compression ratio | 9.9
 1969 Porsche 911 S 2.0 | Weight | 995 kg
 1969 Porsche 911 T | Volume | 1992 cc
+1969 Porsche 911 T | Volume | 2195 cc
 1969 Porsche 911 T | Power | 110 hp @ 5800 rpm
+1969 Porsche 911 T | Power | 125 hp
 1969 Porsche 911 T | Torque | 156 nm @ 4200 rpm
 1969 Porsche 911 T | Fuel feed | carb Weber
 1969 Porsche 911 T | Compression ratio | 8.6
+1969 Porsche 911 T | Weight | 1020 kg
 1969 Porsche 911 T | Weight | 1020 kg
 1969 Porsche 911 T | Length | 4163 mm
 1969 Porsche 911 T | Width | 1310 mm
@@ -1875,8 +2023,11 @@
 1969 Porsche 911 T 2.0 | Weight | 1020 kg
 1969 Porsche 914/4 | Count | 115598
 1969 Porsche 914/4 | Volume | 1971 cc
+1969 Porsche 914/4 | Volume | 1679 cc
 1969 Porsche 914/4 | Cylinders | B4
+1969 Porsche 914/4 | Cylinders | 4
 1969 Porsche 914/4 | Power | 100 hp @ 5000 rpm
+1969 Porsche 914/4 | Power | 80 hp
 1969 Porsche 914/4 | Power | 80 hp
 1969 Porsche 914/4 | Torque | 114 lb-ft
 1969 Porsche 914/4 | Compression ratio | 7.6
@@ -1901,12 +2052,23 @@
 1969 Porsche 914/4 | Rear wheels | 5.5x15.0
 1969 Porsche 914/4 | Gears | 5 manual
 1969 Porsche 914/4 | Drive | rear
+1969 Porsche 914/6 | Volume | 1991 cc
+1969 Porsche 914/6 | Cylinders | 6
+1969 Porsche 914/6 | Power | 110 hp
 1969 Porsche 914/8 | Count | 1
 1969 Porsche 914/8 | Count | 2
 1969 Porsche 914/8 | Volume | 3 L
 1969 Porsche 914/8 | Volume | 3000 cc
+1969 Porsche 914/8 | Volume | 3 L
+1969 Porsche 914/8 | Volume | 3 L
 1969 Porsche 914/8 | Cylinders | B8
+1969 Porsche 914/8 | Cylinders | 8
+1969 Porsche 914/8 | Cylinders | 8
 1969 Porsche 914/8 | Power | 300 hp
+1969 Porsche 914/8 | Power | 300 hp
+1969 Porsche 914/8 | Power | 260 hp
+1969 Porsche 914/8 | Fuel feed | injection
+1969 Porsche 914/8 | Fuel feed | 4 carb Weber
 1969 Porsche 914/8 | Speed | 155 mph
 1969 Porsche 914/8 | 0-60 mph | 4.8 s
 1969 Porsche 914/8 | Weight | 2340 lbs
@@ -1931,6 +2093,16 @@
 1969-03 Opel Admiral (B) | Speed | 175 kmph
 1969-03 Opel Admiral (B) | Weight | 1475 kg
 1969-03 Opel Admiral (B) | Gears | 4 manual
+1969-03 Opel Admiral 2.8 (B) | Volume | 2.8 L
+1969-03 Opel Admiral 2.8 (B) | Power | 132 hp
+1969-03 Opel Admiral 2.8 (B) | Fuel feed | carb
+1969-03 Opel Admiral 2.8E (B) | Volume | 2.8 L
+1969-03 Opel Admiral 2.8E (B) | Power | 165 hp @ 5600 rpm
+1969-03 Opel Admiral 2.8E (B) | Fuel feed | injection Jetronic
+1969-03 Opel Admiral 2.8H (B) | Volume | 2.8 L
+1969-03 Opel Admiral 2.8H (B) | Power | 145 hp
+1969-03 Opel Admiral 2.8H (B) | Fuel feed | carb
+1969-09 Opel Commodore (A) | Power | 120 hp
 1969-09 Opel Diplomat (B) | Speed | 205 kmph
 1969-09 Opel Diplomat (B) | Body | cabriolet
 1969-09 Opel Diplomat (B) | Body | coupe 4
@@ -1986,6 +2158,9 @@
 1970 Mercedes-Benz 280 SE | Doors | 2
 1970 Mercedes-Benz 280 SE | Drive | rear
 1970 Opel Ascona (A) (1450) | Count | 680000
+1970 Opel Ascona (A) (1450) | Volume | 1.2 L
+1970 Opel Ascona (A) (1450) | Volume | 1.6 L
+1970 Opel Ascona (A) (1450) | Volume | 1.9 L
 1970 Opel Commodore | Price | 13565 DM
 1970 Opel Commodore | Price | 15010 DM
 1970 Opel Commodore | Count | 9982
@@ -1999,6 +2174,10 @@
 1970 Porsche 911 | Power | 180 hp @ 6500 rpm
 1970 Porsche 911 | Wheels | 6Jx15
 1970 Porsche 911 E | Volume | 2195 cc
+1970 Porsche 911 E | Volume | 2.2 L
+1970 Porsche 911 E | Volume | 2.2 L
+1970 Porsche 911 E | Power | 155 hp @ 6200 rpm
+1970 Porsche 911 E | Power | 155 hp
 1970 Porsche 911 E | Power | 155 hp @ 6200 rpm
 1970 Porsche 911 E | Torque | 191 nm @ 4500 rpm
 1970 Porsche 911 E | Compression ratio | 9.1
@@ -2011,11 +2190,14 @@
 1970 Porsche 911 E | Gears | 5 manual
 1970 Porsche 911 E | Gears | 4 auto
 1970 Porsche 911 S | Volume | 2341 cc
+1970 Porsche 911 S | Volume | 2.2 L
 1970 Porsche 911 S | Power | 180 hp @ 6500 rpm
+1970 Porsche 911 S | Power | 180 hp
 1970 Porsche 911 S | Torque | 199 nm @ 5200 rpm
 1970 Porsche 911 S | Fuel feed | mechanical injection
 1970 Porsche 911 S | Compression ratio | 9.8
 1970 Porsche 911 S | Weight | 1020 kg
+1970 Porsche 911 S | Weight | 838 kg
 1970 Porsche 911 S | Length | 4163 mm
 1970 Porsche 911 S | Width | 1610 mm
 1970 Porsche 911 S | Front track | 1372 mm
@@ -2030,9 +2212,13 @@
 1970 Porsche 911 S Monte Carlo Prototype | Gears | 5 manual
 1970 Porsche 911 S Monte Carlo Prototype | Drive | rear
 1970 Porsche 911 T | Volume | 2195 cc
+1970 Porsche 911 T | Volume | 2.2 L
 1970 Porsche 911 T | Power | 125 hp @ 5800 rpm
+1970 Porsche 911 T | Power | 125 hp
 1970 Porsche 911 T | Torque | 177 nm @ 4200 rpm
 1970 Porsche 911 T | Fuel feed | carb Zenith
+1970 Porsche 911 T | Fuel feed | carb Zenith
+1970 Porsche 911 T | Compression ratio | 8.6
 1970 Porsche 911 T | Compression ratio | 8.6
 1970 Porsche 911 T | Weight | 1020 kg
 1970 Porsche 911 T | Length | 4163 mm
@@ -2070,12 +2256,24 @@
 1970 Porsche 914/6 | Gears | 5 manual
 1970 Porsche 914/6 | Drive | rear
 1970-09 Opel Manta (A) | Price | 8269 DM
+1970-09 Opel Manta (A) | Volume | 1.9 L
+1970-09 Opel Manta (A) | Power | 90 hp
 1970-09 Opel Manta (A) | Weight | 950 kg
 1970-09 Opel Manta (A) | Body | coupe
 1970-09 Opel Manta (A) | Length | 4292 mm
 1970-09 Opel Manta (A) | Width | 1626 mm
 1970-09 Opel Manta (A) | Height | 1355 mm
 1970-09 Opel Manta (A) | Seats | 2+2
+1970-09 Opel Manta 1.6S (A) | Volume | 1.6 L
+1970-09 Opel Manta 1.6S (A) | Power | 68 hp
+1970-09 Opel Manta 1.6S (A) | Fuel | petrol
+1970-09 Opel Manta 1.6S (A) | Fuel feed | carb
+1970-09 Opel Manta 1.6S (A) | Speed | 154 kmph
+1970-09 Opel Manta 1.9S (A) | Volume | 1.9 L
+1970-09 Opel Manta 1.9S (A) | Power | 105 hp
+1970-09 Opel Manta 1.9S (A) | Fuel | petrol
+1970-09 Opel Manta 1.9S (A) | Fuel feed | carb
+1970-09 Opel Manta 1.9S (A) | Speed | 188 kmph
 1970-1971 Porsche 911 E 2.2 | Volume | 2.2 L
 1970-1971 Porsche 911 E 2.2 | Power | 155 hp @ 6200 rpm
 1970-1971 Porsche 911 E 2.2 | Torque | 191 nm @ 4500 rpm
@@ -2096,14 +2294,57 @@
 1971 Jaguar JX12 | Volume | 5.3 L
 1971 Jaguar JX12 | Cylinders | 12
 1971 Jaguar JX12 | Speed | 240 kmph
+1971 Porsche 914/8 #1 | Volume | 2997 cc
+1971 Porsche 914/8 #1 | Cylinders | 8
+1971 Porsche 914/8 #1 | Power | 260 hp
+1971 Porsche 914/8 #2 | Volume | 2997 cc
+1971 Porsche 914/8 #2 | Cylinders | 8
+1971 Porsche 914/8 #2 | Power | 300 hp
+1971 Porsche 916 | Volume | 2341 cc
+1971 Porsche 916 | Power | 190 hp
 1971 Porsche 917 | Volume | 5 L
+1971 Porsche 917 | Volume | 5000 cc
 1971 Porsche 917 | Power | 630 bhp
+1971 Porsche 917 | Power | 630 bhp
+1971-09 Porsche 911 | Volume | 2341 cc
+1971-09 Porsche 911 | Cylinders | 6
+1971-09 Porsche 911 E | Power | 165 hp
+1971-09 Porsche 911 S | Power | 190 hp
+1971-09 Porsche 911 T | Power | 130 hp
 1971-12 Opel Rekord (D) | Fuel feed | carb Solex
 1971-12 Opel Rekord (D) | Doors | 2
 1971-12 Opel Rekord (D) | Doors | 4
 1971-12 Opel Rekord (D) | Rear brakes | drum
 1971-12 Opel Rekord (D) | Front brakes | disc
 1971-12 Opel Rekord (D) | Gears | 4 manual
+1971-12 Opel Rekord 1.7 (D) | Volume | 1.7 L
+1971-12 Opel Rekord 1.7 (D) | Power | 66 hp
+1971-12 Opel Rekord 1.7S (D) | Volume | 1.7 L
+1971-12 Opel Rekord 1.7S (D) | Power | 83 hp
+1971-12 Opel Rekord 1.9SH (D) | Volume | 1.9 L
+1971-12 Opel Rekord 1.9SH (D) | Power | 97 hp
+1971-12 Opel Rekord 2100D(D) | Volume | 2.1 L
+1971-12 Opel Rekord 2100D(D) | Power | 60 hp
+1971-12 Opel Rekord 2100D(D) | Fuel | diesel
+1972 Audi 80 | Volume | 1300 cc
+1972 Audi 80 | Volume | 1500 cc
+1972 Audi 80 | Volume | 1600 cc
+1972 Audi 80 | Volume | 1600 cc
+1972 Audi 80 | Power | 55 hp
+1972 Audi 80 | Power | 75 hp
+1972 Audi 80 | Power | 110 hp
+1972 Audi 80 | Power | 54 hp
+1972 Audi 80 | Fuel | petrol
+1972 Audi 80 | Fuel | petrol
+1972 Audi 80 | Fuel | diesel
+1972 Audi 80 | Fuel feed | injection
+1972 Audi 80 | Fuel consumption | 9 L/100km
+1972 Audi 80 | Fuel consumption | 11 L/100km
+1972 Audi 80 | Fuel consumption | 10 L/100km
+1972 Audi 80 | Fuel consumption | 12 L/100km
+1972 Audi 80 | Fuel consumption | 7 L/100km
+1972 Audi 80 | Fuel consumption | 8 L/100km
+1972 Audi 80 (B1) | Body | sedan 2
 1972 Cadillac Eldorado | Drive | front
 1972 Ferrari Dino 246 GTS | Count | 1274
 1972 Ferrari Dino 246 GTS | Body | targa
@@ -2111,6 +2352,12 @@
 1972 Jaguar JX12 | Power | 311 hp
 1972 Jaguar XJ12 | Cylinders | 12
 1972 Mercedes-Benz 250 E | Body | coupe
+1972 Opel Commodore (B) | Volume | 2.8 L
+1972 Opel Commodore (B) | Volume | 2.8 L
+1972 Opel Commodore (B) | Power | 142 hp
+1972 Opel Commodore (B) | Power | 160 hp
+1972 Opel Commodore (B) | Fuel feed | carb
+1972 Opel Commodore (B) | Fuel feed | injection L-Jetronic
 1972 Opel Commodore (B) | Body | coupe
 1972 Opel Commodore (B) | Body | sedan
 1972 Opel Commodore (B) | Length | 4607 mm
@@ -2121,6 +2368,8 @@
 1972 Opel Commodore GS (B) | Price | 14185 DM
 1972 Opel Commodore S (B) | Price | 12990 DM
 1972 Opel Manta | Price | 8528 DM
+1972 Opel Manta | Volume | 1.2 L
+1972 Opel Manta | Power | 60 hp
 1972 Opel Manta | Fuel feed | carb Solex
 1972 Opel Manta | Speed | 150 kmph
 1972 Opel Manta | Weight | 930 kg
@@ -2131,8 +2380,13 @@
 1972 Opel Manta | Wheelbase | 2518 mm
 1972 Opel Manta | Rear brakes | drum
 1972 Opel Manta | Front brakes | disc
+1972 Porsche 2.8 Carrera RSR | Volume | 2806 cc
+1972 Porsche 2.8 Carrera RSR | Power | 300 hp
 1972 Porsche 911 Carrera RS | Count | 1036
 1972 Porsche 911 Carrera RS | Volume | 2687 cc
+1972 Porsche 911 Carrera RS | Volume | 2687 cc
+1972 Porsche 911 Carrera RS | Volume | 2.7 L
+1972 Porsche 911 Carrera RS | Power | 210 hp
 1972 Porsche 911 Carrera RS | Power | 210 hp
 1972 Porsche 911 Carrera RS | Bore | 90 mm
 1972 Porsche 911 Carrera RS | Speed | 149 mph
@@ -2140,7 +2394,9 @@
 1972 Porsche 911 Carrera RS | Weight | 980 kg
 1972 Porsche 911 E | Volume | 2.4 L
 1972 Porsche 911 E | Volume | 2341 cc
+1972 Porsche 911 E | Volume | 2.4 L
 1972 Porsche 911 E | Power | 165 hp @ 6200 rpm
+1972 Porsche 911 E | Power | 165 hp
 1972 Porsche 911 E | Power | 165 hp
 1972 Porsche 911 E | Torque | 206 nm @ 4500 rpm
 1972 Porsche 911 E | Compression ratio | 8.0
@@ -2153,13 +2409,17 @@
 1972 Porsche 911 E | Gears | 5 manual
 1972 Porsche 911 E | Gears | 4 auto
 1972 Porsche 911 RS | Volume | 2687 cc
+1972 Porsche 911 RS | Volume | 2.7 L
+1972 Porsche 911 RS | Power | 210 hp
 1972 Porsche 911 RS | Power | 210 hp
 1972 Porsche 911 RS | Speed | 149 mph
 1972 Porsche 911 RS | 0-60 mph | 5.5 s
 1972 Porsche 911 RS | Weight | 980 kg
 1972 Porsche 911 RS 2.7 | Volume | 2687 cc
+1972 Porsche 911 RS 2.7 | Cylinders | 6
 1972 Porsche 911 RS 2.7 | Power | 210 hp
 1972 Porsche 911 RS 2.7 | Torque | 188 lb-ft
+1972 Porsche 911 RS 2.7 | Valves per cylinder | 2
 1972 Porsche 911 RS 2.7 | Speed | 149 mph
 1972 Porsche 911 RS 2.7 | 0-60 mph | 5.5 s
 1972 Porsche 911 RS 2.7 | Weight | 980 kg
@@ -2168,6 +2428,7 @@
 1972 Porsche 911 S | Volume | 2.4 L
 1972 Porsche 911 S | Power | 190 hp @ 6500 rpm
 1972 Porsche 911 S | Power | 190 hp
+1972 Porsche 911 S | Power | 190 hp @ 7700 rpm
 1972 Porsche 911 S | Torque | 216 nm @ 5200 rpm
 1972 Porsche 911 S | Compression ratio | 8.5
 1972 Porsche 911 S | Weight | 1050 kg
@@ -2178,10 +2439,13 @@
 1972 Porsche 911 S | Wheelbase | 2271 mm
 1972 Porsche 911 T | Volume | 2.4 L
 1972 Porsche 911 T | Volume | 2341 cc
+1972 Porsche 911 T | Volume | 2.4 L
 1972 Porsche 911 T | Power | 130 hp @ 5600 rpm
 1972 Porsche 911 T | Power | 130 hp
+1972 Porsche 911 T | Power | 140 hp @ 5600 rpm
 1972 Porsche 911 T | Torque | 196 nm @ 4000 rpm
 1972 Porsche 911 T | Fuel feed | injection Bosch K-Jetronic
+1972 Porsche 911 T | Fuel feed | mechanical injection
 1972 Porsche 911 T | Compression ratio | 7.5
 1972 Porsche 911 T | Weight | 1050 kg
 1972 Porsche 911 T | Length | 4127 mm
@@ -2197,6 +2461,8 @@
 1972 Porsche 917/10 | Volume | 5000 cc
 1972 Porsche 917/10 | Compressor pressure | 20 psi
 1972 Porsche 917/10 | Power | 1000 bhp
+1972-01 Opel Diplomat (B) | Volume | 2.8 L
+1972-01 Opel Diplomat (B) | Fuel feed | injection
 1972-05 Audi 80 (B1) | Volume | 1.3 L
 1972-05 Audi 80 (B1) | Volume | 1.5 L
 1972-05 Audi 80 (B1) | Volume | 1.6 L
@@ -2214,9 +2480,11 @@
 1972-1973 Porsche 911 T 2.4 | Power | 140 hp @ 5600 rpm
 1972-1973 Porsche 911 T 2.4 | Fuel feed | mechanical injection
 1972-1973 Porsche 911 T 2.4 | Compression ratio | 7.5
+1973 Audi 80 (B1) | Body | sedan 4
 1973 Jaguar XJ | Speed | 250 kmph
 1973 Jaguar XJ | Body | coupe
 1973 Jaguar XJ | Seats | 2
+1973 Porsche 911 2.7 | Power | 210 hp
 1973 Porsche 911 Carerra RS 2.7 | Volume | 2687 cc
 1973 Porsche 911 Carerra RS 2.7 | Cylinders | B6
 1973 Porsche 911 Carerra RS 2.7 | Power | 210 hp @ 6300 rpm
@@ -2241,6 +2509,8 @@
 1973 Porsche 911 Carerra RS 2.7 | Front wheels | 6Jx15
 1973 Porsche 911 Carerra RS 2.7 | Rear wheels | 7Jx15
 1973 Porsche 911 Carerra RS 2.7 | Drive | rear
+1973 Porsche 911 Carrera | Volume | 2687 cc
+1973 Porsche 911 Carrera | Power | 220 hp
 1973 Porsche 911 Carrera RS | Price | 34000 DM @ 1972
 1973 Porsche 911 Carrera RS | Count | 1636
 1973 Porsche 911 Carrera RS | Volume | 2.7 L
@@ -2267,10 +2537,19 @@
 1973 Porsche 911 Carrera RS | Rear tyres | 215/60 VR15
 1973 Porsche 911 Carrera RS | Gears | 5 manual
 1973 Porsche 911 Carrera RS | Drive | rear
+1973 Porsche 911 Carrera RS 3.0 sport version | Volume | 2994 cc
+1973 Porsche 911 Carrera RS 3.0 sport version | Power | 230 hp
+1973 Porsche 911 Carrera RSR 3.0 | Volume | 2994 cc
+1973 Porsche 911 Carrera RSR 3.0 | Power | 330 hp
+1973 Porsche 911 Carrera RSR 3.0 | Power | 320 hp
+1973 Porsche 911 SC | Volume | 2.7 L
+1973 Porsche 911 SC | Power | 180 hp
 1973 Porsche 911 T | Volume | 2342 cc
 1973 Porsche 911 T | Power | 130 hp @ 5600 rpm
+1973 Porsche 911 T | Power | 140 hp
 1973 Porsche 911 T | Torque | 196 nm @ 4000 rpm
 1973 Porsche 911 T | Fuel feed | injection Bosch K-Jetronic
+1973 Porsche 911 T | Fuel feed | injection K-Jetronic
 1973 Porsche 911 T | Compression ratio | 7.5
 1973 Porsche 911 T | Weight | 1050 kg
 1973 Porsche 911 T | Length | 4127 mm
@@ -2280,12 +2559,18 @@
 1973 Porsche 911 T | Wheelbase | 2271 mm
 1973 Porsche 911 T | Gears | 5 manual
 1973 Porsche 911 T | Gears | 4 auto
+1973 Porsche 914 | Volume | 1795 cc
+1973 Porsche 914 | Power | 85 hp
 1973 Porsche 917/30 | Volume | 5400 cc
 1973 Porsche 917/30 | Compressor | turbo
 1973 Porsche 917/30 | Power | 1560 bhp
+1973-05 Volkswagen Passat | Volume | 1.3 L
+1973-05 Volkswagen Passat | Volume | 1.5 L
+1973-05 Volkswagen Passat | Drive | front
 1973-07 Volkswagen Passat (B1) | Power | 55 hp
 1973-07 Volkswagen Passat (B1) | Power | 85 hp
 1973-07 Volkswagen Passat (B1) | Body | hatchback
+1973-10 Volkswagen Passat | Body | wagon
 1974 Lamborghini Countach | Volume | 3929 cc
 1974 Lamborghini Countach | Volume | 4 L
 1974 Lamborghini Countach | Cylinders | V12
@@ -2333,6 +2618,10 @@
 1974 Lancia Stratos HF | Brakes | ventilated disc
 1974 Lancia Stratos HF | Gears | 5 manual
 1974 Lancia Stratos HF | Drive | rear
+1974 Opel Manta 1.6GT/E (A) | Volume | 1.6 L
+1974 Opel Manta 1.6GT/E (A) | Power | 80 hp
+1974 Opel Manta 1.6GT/E (A) | Fuel feed | injection
+1974 Opel Manta 1.6GT/E (A) | Speed | 164 kmph
 1974 Opel Rekord (D) | Fuel | petrol
 1974 Opel Rekord (D) | Speed | 143 kmph
 1974 Opel Rekord (D) | Speed | 155 kmph
@@ -2348,10 +2637,16 @@
 1974 Opel Rekord sedan (D) | Count | 1007831
 1974 Opel Rekord wagon (D) | Count | 209300
 1974 Porsche 911 | Volume | 2687 cc
+1974 Porsche 911 | Volume | 2.7 L
+1974 Porsche 911 | Volume | 2687 cc
 1974 Porsche 911 | Power | 150 bhp @ 5700 rpm
+1974 Porsche 911 | Power | 150 hp
+1974 Porsche 911 | Power | 150 hp
 1974 Porsche 911 | Torque | 235 nm @ 3800 rpm
 1974 Porsche 911 | Compression ratio | 8.0
 1974 Porsche 911 | Weight | 1075 kg
+1974 Porsche 911 (930) | Volume | 2687 cc
+1974 Porsche 911 (930) | Power | 175 hp
 1974 Porsche 911 2.7 | Volume | 2.7 L
 1974 Porsche 911 2.7 | Cylinders | B6
 1974 Porsche 911 2.7 | Power | 150 hp
@@ -2370,7 +2665,11 @@
 1974 Porsche 911 Carerra RS 3.0 | Gears | 5 manual
 1974 Porsche 911 Carerra RS 3.0 | Drive | rear
 1974 Porsche 911 Carrera | Volume | 2687 cc
+1974 Porsche 911 Carrera | Volume | 2.7 L
+1974 Porsche 911 Carrera | Volume | 2687 cc
 1974 Porsche 911 Carrera | Power | 210 bhp @ 6300 rpm
+1974 Porsche 911 Carrera | Power | 175 hp
+1974 Porsche 911 Carrera | Power | 210 hp
 1974 Porsche 911 Carrera | Torque | 255 nm @ 5100 rpm
 1974 Porsche 911 Carrera | Compression ratio | 8.5
 1974 Porsche 911 Carrera | Weight | 1075 kg
@@ -2391,9 +2690,13 @@
 1974 Porsche 911 Carrera RS 3.0 | Compression ratio | 8.5
 1974 Porsche 911 Carrera RS 3.0 | Weight | 900 kg
 1974 Porsche 911 G | Volume | 2681 cc
+1974 Porsche 911 RS 3.0 | Count | 106
+1974 Porsche 911 RS 3.0 | Power | 230 hp
+1974 Porsche 911 S | Volume | 2687 cc
 1974 Porsche 911 S | Volume | 2687 cc
 1974 Porsche 911 S | Power | 175 bhp @ 5800 rpm
 1974 Porsche 911 S | Power | 175 hp @ 5800 rpm
+1974 Porsche 911 S | Power | 175 hp
 1974 Porsche 911 S | Torque | 235 nm @ 4000 rpm
 1974 Porsche 911 S | Compression ratio | 8.5
 1974 Porsche 911 S | Weight | 1075 kg
@@ -2407,6 +2710,12 @@
 1974 Porsche 911 T | Compression ratio | 8.0
 1974 Porsche 911 T | Weight | 1075 kg
 1974 Porsche 911 Turbo | Power | 260 hp
+1974 Porsche 911 Turbo | Power | 260 hp
+1974 Porsche 911 Turbo (930) | Volume | 2994 cc
+1974 Porsche 911 Turbo (930) | Volume | 2994 cc
+1974 Porsche 911 Turbo (930) | Power | 260 hp
+1974 Porsche 911 Turbo (930) | Power | 260 hp
+1974 Porsche 911 Turbo RSR | Compressor | turbo
 1974 Porsche 935 | Volume | 2.8 L
 1974 Porsche 935 | Volume | 2856 cc
 1974 Porsche 935 | Compressor | turbo
@@ -2418,6 +2727,9 @@
 1974 Porsche 935 | Gears | 4
 1974 Porsche RSR 3.0 | Count | 109
 1974 Porsche RSR 3.0 | Power | 230 hp
+1974 Volkswagen Golf | Volume | 1.1 L
+1974 Volkswagen Golf | Volume | 1.3 L
+1974 Volkswagen Golf | Volume | 1.5 L
 1974 Volkswagen Golf | Body | hatchback 3
 1974 Volkswagen Golf | Body | hatchback 5
 1974 Volkswagen Scirocco | Volume | 1.3 L
@@ -2444,14 +2756,35 @@
 1975 Alpine Renault Le Mans A442 | Length | 4.8 m
 1975 Alpine Renault Le Mans A442 | Width | 1.84 m
 1975 Alpine Renault Le Mans A442 | Height | 1.3 m
+1975 Audi 80 | Volume | 1600 cc
+1975 Audi 80 | Power | 75 hp
+1975 Audi 80 | Power | 85 hp
+1975 Audi 80 | Fuel consumption | 10 L/100km
+1975 Audi 80 | Fuel consumption | 12.5 L/100km
 1975 Audi Fox (B1) | Body | wagon
+1975 Jaguar XJ (2) | Volume | 3.4 L
+1975 Jaguar XJ (2) | Cylinders | R6
+1975 Jaguar XJ (2) | Cylinders | V12
+1975 Jaguar XJ (2) | Fuel feed | injection
 1975 Jaguar XJS | Count | 110007
 1975 Jaguar XJS | 0-60 mph | 6.9 s
 1975 Opel GT2 Coupe | Count | 3
 1975 Opel GT2 Coupe | Body | coupe
+1975 Opel Manta (B) | Volume | 1.2 L
+1975 Opel Manta (B) | Power | 60 hp
+1975 Opel Manta (B) | Fuel feed | carb
 1975 Opel Manta (B) | Gears | 4 manual
 1975 Opel Manta 1.2 (B) | Price | 10600 DM
 1975 Opel Manta 1.6 (B) | Price | 11675 DM
+1975 Opel Manta 1.6 (B) | Volume | 1.6 L
+1975 Opel Manta 1.6 (B) | Power | 75 hp
+1975 Opel Manta 1.9N (B) | Volume | 1.9 L
+1975 Opel Manta 1.9N (B) | Power | 75 hp
+1975 Opel Manta 1.9N (B) | Fuel feed | carb
+1975 Opel Manta 1.9S (B) | Price | 11756 DM
+1975 Opel Manta 1.9S (B) | Volume | 1.9 L
+1975 Opel Manta 1.9S (B) | Power | 90 hp
+1975 Opel Manta 1.9S (B) | Fuel feed | carb
 1975 Opel Rekord | Count | 40783
 1975 Opel Rekord | Power | 100 hp
 1975 Opel Rekord | Speed | 170 kmph
@@ -2459,21 +2792,36 @@
 1975 Opel Rekord 2.0 | Count | 2461
 1975 Opel Rekord 2.0 | Volume | 2 L
 1975 Porsche 911 (930) Turbo | 0-60 mph | 6.1 s
+1975 Porsche 911 Carrera | Power | 165 hp
 1975 Porsche 911 Carrera | Weight | 1120 kg
+1975 Porsche 911 Carrera 3.0 | Volume | 2994 cc
 1975 Porsche 911 Carrera 3.0 | Compressor | no
+1975 Porsche 911 Carrera 3.0 | Power | 200 hp
 1975 Porsche 911 Carrera S (US) | Weight | 1100 kg
 1975 Porsche 911 S (US) | Volume | 2687 cc
 1975 Porsche 911 S (US) | Power | 165 bhp @ 5800 rpm
 1975 Porsche 911 S (US) | Torque | 235 nm @ 4000 rpm
 1975 Porsche 911 S (US) | Compression ratio | 8.5
 1975 Porsche 911 S (US) | Weight | 1100 kg
+1975 Porsche 911 S Silver Anniversary | Body | coupe
+1975 Porsche 911 S Silver Anniversary | Body | targa
+1975 Porsche 911 Turbo | Power | 260 hp
 1975 Porsche 911 Turbo 3.0 (930) | Volume | 2994 cc
+1975 Porsche 911 Turbo 3.0 (930) | Volume | 3 L
+1975 Porsche 911 Turbo 3.0 (930) | Volume | 3 L
 1975 Porsche 911 Turbo 3.0 (930) | Cylinders | 6
+1975 Porsche 911 Turbo 3.0 (930) | Cylinders | 6
+1975 Porsche 911 Turbo 3.0 (930) | Compressor | turbo
+1975 Porsche 911 Turbo 3.0 (930) | Compressor | turbo
+1975 Porsche 911 Turbo 3.0 (930) | Compressor | turbo
 1975 Porsche 911 Turbo 3.0 (930) | Power | 260 hp @ 5500 rpm
 1975 Porsche 911 Turbo 3.0 (930) | Power | 260 hp
+1975 Porsche 911 Turbo 3.0 (930) | Power | 270 hp
 1975 Porsche 911 Turbo 3.0 (930) | Torque | 254 lb-ft @ 4000 rpm
 1975 Porsche 911 Turbo 3.0 (930) | Torque | 254 lb-ft
+1975 Porsche 911 Turbo 3.0 (930) | Torque | 254 lb-ft
 1975 Porsche 911 Turbo 3.0 (930) | Compression ratio | 6.5
+1975 Porsche 911 Turbo 3.0 (930) | Valves per cylinder | 2
 1975 Porsche 911 Turbo 3.0 (930) | Speed | 153 mph
 1975 Porsche 911 Turbo 3.0 (930) | 0-60 mph | 6.1 s
 1975 Porsche 911 Turbo 3.0 (930) | Weight | 1230 kg
@@ -2488,8 +2836,16 @@
 1975 Porsche 911 Turbo 3.3 (930) | 0-60 mph | 5.3 s
 1975 Porsche 911 Turbo 3.3 (930) | Weight | 1385 kg
 1975 Porsche 911 Turbo 3.3 (930) | Brakes | ventilated disc
+1975 Porsche 912 E | Volume | 1971 cc
+1975 Porsche 912 E | Volume | 2 L
+1975 Porsche 912 E | Cylinders | 4
+1975 Porsche 912 E | Power | 90 hp
+1975 Porsche 914 | Volume | 2 L
+1975 Porsche 914 | Power | 95 hp
 1975 Porsche 924 | Volume | 2 L
 1975 Porsche 924 | Cylinders | 4
+1975 Porsche 924 | Cylinders | 4
+1975 Porsche 924 | Power | 125 hp
 1975 Porsche 924 | Power | 125 hp
 1975 Porsche 924 | Torque | 164 nm
 1975 Porsche 924 | Speed | 204 kmph
@@ -2512,7 +2868,15 @@
 1975 Харьков-6 | Wheelbase | 3200 mm
 1975 Харьков-6 | Wheels | 6x16
 1975 Харьков-6 | Gears | 3
+1975-07 BMW 3-Series (E21) | Volume | 1.6 L
+1975-07 BMW 3-Series (E21) | Volume | 1.8 L
+1975-07 BMW 3-Series (E21) | Volume | 2 L
+1975-07 BMW 3-Series (E21) | Volume | 2 L
 1975-07 BMW 3-Series (E21) | Cylinders | 4
+1975-07 BMW 3-Series (E21) | Fuel feed | carb
+1975-07 BMW 3-Series (E21) | Fuel feed | carb
+1975-07 BMW 3-Series (E21) | Fuel feed | carb
+1975-07 BMW 3-Series (E21) | Fuel feed | mechanical injection
 1975-09 Porsche 934 | Count | 31
 1975-09 Porsche 934 | Volume | 2993 cc
 1975-09 Porsche 934 | Compressor | turbo
@@ -2533,6 +2897,8 @@
 1976 Aston Martin Lagonda | Power | 390 hp
 1976 Aston Martin Lagonda | Body | sedan
 1976 Aston Martin Lagonda | Doors | 4
+1976 Audi 100 | Volume | 2 L
+1976 Audi 100 | Fuel | petrol
 1976 Audi 100 (C2) | Body | sedan 2
 1976 Audi 100 (C2) | Body | sedan 4
 1976 Cadillac DeVille | Body | coupe
@@ -2559,6 +2925,7 @@
 1976 Ferrari 512 BB | Gears | 5
 1976 Porsche 911 | Volume | 2687 cc
 1976 Porsche 911 | Power | 165 bhp @ 5800 rpm
+1976 Porsche 911 | Power | 165 hp
 1976 Porsche 911 | Torque | 235 nm @ 4000 rpm
 1976 Porsche 911 | Compression ratio | 8.5
 1976 Porsche 911 Carerra 3.0 | Volume | 2994 cc
@@ -2580,6 +2947,10 @@
 1976 Porsche 911 Carrera 3 | Power | 200 bhp @ 6000 rpm
 1976 Porsche 911 Carrera 3 | Torque | 255 nm @ 4200 rpm
 1976 Porsche 911 Carrera 3 | Compression ratio | 8.5
+1976 Porsche 911 Carrera 3.0 | Volume | 2997 cc
+1976 Porsche 911 Carrera 3.0 | Power | 200 hp
+1976 Porsche 911 Carrera 3.0 | Power | 200 hp
+1976 Porsche 911 Carrera 3.0 | Fuel feed | mechanical injection Bosch
 1976 Porsche 911 Carrera 3.0 | Weight | 1120 kg
 1976 Porsche 911 S | Volume | 2687 cc
 1976 Porsche 911 S | Power | 165 bhp @ 5800 rpm
@@ -2591,11 +2962,16 @@
 1976 Porsche 924 | Count | 1985 3214
 1976 Porsche 924 | Volume | 1984 cc
 1976 Porsche 924 | Volume | 2 L
+1976 Porsche 924 | Volume | 1984 cc
 1976 Porsche 924 | Cylinders | R4
 1976 Porsche 924 | Power | 115 hp
 1976 Porsche 924 | Power | 125 hp
+1976 Porsche 924 | Power | 125 hp
+1976 Porsche 924 | Power | 125 hp
 1976 Porsche 924 | Fuel feed | injection
 1976 Porsche 924 | Valves per cylinder | 2
+1976 Porsche 924 | Speed | 126 mph
+1976 Porsche 924 | 0-60 mph | 9.7 s
 1976 Porsche 924 | Engine placement | front
 1976 Porsche 924 | Gears | 5 manual
 1976 Porsche 930 912E | Count | 2000
@@ -2640,6 +3016,7 @@
 1976 Porsche 935/76 | Valves per cylinder | 2
 1976 Porsche 935/76 | Speed | 199.5 mph
 1976 Porsche 935/76 | Cx | 0.390
+1976 Porsche Carrera 3.0 | Power | 200 bhp
 1976 Volkswagen Golf GTi | Power | 112 hp
 1976 Volkswagen Golf GTi | Fuel feed | injection
 1976-03 Porsche 936 | Volume | 2.14 L
@@ -2655,6 +3032,10 @@
 1976-08 BMW 630 CS (E24) | Volume | 3 L
 1976-08 BMW 630 CS (E24) | Cylinders | 6
 1976-08 BMW 630 CS (E24) | Fuel feed | 2 carb
+1976-10 Audi 100 | Volume | 1.6 L
+1976-10 Audi 100 | Power | 63 kW
+1976-10 Audi 100 | Fuel | petrol
+1977 Aston Martin Vantage | Power | 370 hp
 1977 Audi 100 | Volume | 2.2 L
 1977 Audi 100 | Cylinders | 5
 1977 Audi 100 | Fuel | petrol
@@ -2667,6 +3048,11 @@
 1977 Audi 80 (B1) | Doors | 4
 1977 Audi 80 (B1) | Gears | 3 auto
 1977 Audi 80 (B1) | Gears | 4 manual
+1977 Opel Manta 1.9E (B) | Price | 14000 DM
+1977 Opel Manta 1.9E (B) | Volume | 1.9 L
+1977 Opel Manta 1.9E (B) | Power | 105 hp
+1977 Opel Manta 1.9E (B) | Fuel feed | injection
+1977 Opel Manta 1.9E (B) | Speed | 185 kmph
 1977 Opel Rekord E | Price | 13640 DM
 1977 Opel Rekord E | Price | 15708 DM
 1977 Opel Rekord E | Price | 16575 DM
@@ -2693,14 +3079,20 @@
 1977 Opel Rekord E | Wheelbase | 2668 mm
 1977 Porsche 911 | Weight | 1075 kg
 1977 Porsche 911 (US) | Weight | 1145 kg
+1977 Porsche 911 3.0 | Power | 180 hp
 1977 Porsche 911 SC | Volume | 3 L
 1977 Porsche 911 SC | Weight | 1160 kg
 1977 Porsche 911 SC | Wheels | 6Jx15
+1977 Porsche 911 Turbo | Volume | 3299 cc
+1977 Porsche 911 Turbo | Power | 300 hp
 1977 Porsche 928 | Volume | 4.5 L
 1977 Porsche 928 | Volume | 4474 cc
+1977 Porsche 928 | Volume | 4474 cc
+1977 Porsche 928 | Cylinders | V8
 1977 Porsche 928 | Cylinders | V8
 1977 Porsche 928 | Power | 240 hp
 1977 Porsche 928 | Power | 300 hp
+1977 Porsche 928 | Power | 240 hp
 1977 Porsche 928 | Torque | 348 nm
 1977 Porsche 928 | Valves per cylinder | 2
 1977 Porsche 928 | Speed | 225 kmph
@@ -2745,6 +3137,18 @@
 1977-05 BMW 7 (E23) | Width | 1800 mm
 1977-05 BMW 7 (E23) | Height | 1430 mm
 1977-05 BMW 7 (E23) | Trunk size | 640 L
+1977-05 BMW 728 (E23) | Cylinders | R6
+1977-05 BMW 728 (E23) | Power | 170 hp
+1977-05 BMW 728 (E23) | Fuel feed | carb Solex
+1977-05 BMW 728 (E23) | Fuel feed | carb
+1977-05 BMW 730 (E23) | Cylinders | R6
+1977-05 BMW 730 (E23) | Power | 184 hp
+1977-05 BMW 730 (E23) | Fuel feed | carb Solex
+1977-05 BMW 730 (E23) | Fuel feed | carb
+1977-05 BMW 732i (E23) | Power | 197 hp
+1977-05 BMW 732i (E23) | Fuel feed | injection L-Jetronic
+1977-05 BMW 733i (E23) | Power | 197 hp
+1977-05 BMW 733i (E23) | Fuel feed | injection L-Jetronic
 1977-08 Audi 50 (1977) | Volume | 1.3 L
 1977-08 Audi 50 (1977) | Cylinders | 4
 1977-08 Audi 50 (1977) | Power | 44 kW
@@ -2752,8 +3156,16 @@
 1977-08 Audi 50 (1977) | Gears | 4 manual
 1977-08 Audi 50 (1977) | Drive | front
 1977-09 Audi 100 Avant | Body | wagon
+1977-09 Opel Monza Coupe (A1) | Price | 25325 DM
 1977-09 Opel Monza Coupe (A1) | Count | 29414
+1977-09 Opel Monza Coupe (A1) | Volume | 2.8 L
+1977-09 Opel Monza Coupe (A1) | Volume | 3 L
+1977-09 Opel Monza Coupe (A1) | Volume | 2.8 L
 1977-09 Opel Monza Coupe (A1) | Cylinders | 6
+1977-09 Opel Monza Coupe (A1) | Power | 140 hp
+1977-09 Opel Monza Coupe (A1) | Power | 150 hp
+1977-09 Opel Monza Coupe (A1) | Fuel | petrol
+1977-09 Opel Monza Coupe (A1) | Fuel | petrol
 1977-09 Opel Monza Coupe (A1) | Speed | 195 kmph
 1977-09 Opel Monza Coupe (A1) | Weight | 1375 kg
 1977-09 Opel Monza Coupe (A1) | Body | coupe
@@ -2772,6 +3184,8 @@
 1978 Audi 200 | Cylinders | 5
 1978 Audi 200 | Compressor | turbo
 1978 Audi 200 | Power | 170 hp
+1978 BMW 7 (E23) | Power | 170 hp
+1978 BMW 7 (E23) | Fuel feed | injection L-Jetronic
 1978 BMW M1 | Count | 399
 1978 BMW M1 | Volume | 3453 cc
 1978 BMW M1 | Cylinders | 6
@@ -2787,15 +3201,31 @@
 1978 BMW M1 | Drive | rear
 1978 Opel Manta B Coupe CC | Speed | 163 kmph
 1978 Opel Manta B Coupe CC | Body | hatchback
+1978 Opel Manta B Coupe CC 1.6 | Volume | 1.6 L
+1978 Opel Manta B Coupe CC 1.6 | Power | 75 hp
+1978 Opel Manta B Coupe CC 1.8S | Volume | 1.8 L
+1978 Opel Manta B Coupe CC 1.8S | Power | 90 hp
+1978 Opel Manta B Coupe CC 2.0S | Volume | 2 L
+1978 Opel Manta B Coupe CC 2.0S | Power | 100 hp
 1978 Opel Senator (A) | Rear brakes | disc
 1978 Opel Senator (A) | Front brakes | ventilated disc
 1978 Opel Senator (A) | Front brakes size | 10.7 in
 1978 Opel Senator (A) | Rear brakes size | 11 in
 1978 Opel Senator (A) | Tyres | 195/70 HR14
 1978 Opel Senator (A) | Wheels | 6Jx14
+1978 Opel Senator 2.5i (A) | Volume | 2.5 L
+1978 Opel Senator 2.5i (A) | Fuel feed | injection
+1978 Opel Senator 3.0i (A) | Volume | 3 L
+1978 Opel Senator 3.0i (A) | Fuel feed | injection
+1978 Opel Senator 3.0i CD (A) | Volume | 3 L
+1978 Opel Senator 3.0i CD (A) | Fuel feed | injection
+1978 Porsche 911 SC | Volume | 3 L
 1978 Porsche 911 SC | Volume | 3 L
 1978 Porsche 911 SC | Power | 180 hp
+1978 Porsche 911 SC | Power | 180 hp
+1978 Porsche 911 SC | Power | 180 hp @ 5500 rpm
 1978 Porsche 911 SC | Weight | 1160 kg
+1978 Porsche 911 SC | Wheels | 6Jx15
 1978 Porsche 911 SC (european) | Volume | 2994 cc
 1978 Porsche 911 SC (european) | Power | 180 bhp @ 5500 rpm
 1978 Porsche 911 SC (european) | Torque | 265 nm @ 4200 rpm
@@ -2812,9 +3242,12 @@
 1978 Porsche 911 Turbo 3.3 (930) | Volume | 3.3 L
 1978 Porsche 911 Turbo 3.3 (930) | Volume | 3299 cc
 1978 Porsche 911 Turbo 3.3 (930) | Cylinders | 6
+1978 Porsche 911 Turbo 3.3 (930) | Cylinders | 6
 1978 Porsche 911 Turbo 3.3 (930) | Compressor | 2 turbo
+1978 Porsche 911 Turbo 3.3 (930) | Compressor | turbo
 1978 Porsche 911 Turbo 3.3 (930) | Power | 300 hp
 1978 Porsche 911 Turbo 3.3 (930) | Torque | 303 lb-ft
+1978 Porsche 911 Turbo 3.3 (930) | Valves per cylinder | 2
 1978 Porsche 911 Turbo 3.3 (930) | Speed | 160 mph
 1978 Porsche 911 Turbo 3.3 (930) | Speed | 162 mph
 1978 Porsche 911 Turbo 3.3 (930) | 0-60 mph | 5.1 s
@@ -2825,10 +3258,13 @@
 1978 Porsche 911 Turbo 3.3 (930) | Gears | 4
 1978 Porsche 911 Turbo 3.3 (930) | Drive | rear
 1978 Porsche 924 Turbo | Compressor | turbo
+1978 Porsche 924 Turbo | Compressor | turbo
 1978 Porsche 924 Turbo | Power | 170 hp
 1978 Porsche 924 Turbo | Power | 177 hp
+1978 Porsche 928 | Price | 28500 USD
 1978 Porsche 928 | Volume | 4.5 L
 1978 Porsche 928 | Power | 219 hp
+1978 Porsche 928 | Power | 219 hp @ 5250 rpm
 1978 Porsche 928 | Engine placement | front
 1978 Porsche 930 Turbo 3.3 | Volume | 3.3 L
 1978 Porsche 930 Turbo 3.3 | Power | 300 hp
@@ -2868,19 +3304,31 @@
 1978 Porsche 935/78 Moby Dick | Rear tyres | 350/700 - 16
 1978 Porsche 935/78 Moby Dick | Gears | 4 manual
 1978 Porsche 935/78 Moby Dick | Drive | rear
+1978-08 Audi 100 | Volume | 2 L
+1978-08 Audi 100 | Power | 51 kW
+1978-08 Audi 100 | Fuel | diesel
 1979 Audi 200 | Body | sedan
+1979 Audi 80 | Volume | 1800 cc
+1979 Audi 80 | Power | 90 hp
+1979 Audi 80 | Fuel | petrol
 1979 Jaguar XJ6 (3) | Count | 171118
 1979 Opel Kadett (D) | Body | hatchback 3
 1979 Opel Kadett (D) | Body | hatchback 5
 1979 Opel Kadett (D) | Body | wagon
 1979 Opel Kadett (D) | Engine placement | front transverse
 1979 Opel Kadett (D) | Drive | front
+1979 Opel Manta (B) | Volume | 1.3 L
+1979 Porsche 911 | Power | 188 hp
 1979 Porsche 911 SC | Count | 58000
 1979 Porsche 911 SC | Volume | 2994 cc
+1979 Porsche 911 SC | Volume | 3 L
 1979 Porsche 911 SC | Cylinders | B6
+1979 Porsche 911 SC | Power | 180 hp
+1979 Porsche 911 SC | Torque | 265 nm @ 4200 rpm
 1979 Porsche 911 SC | Speed | 135 mph
 1979 Porsche 911 SC | 0-60 mph | 7.0 s
 1979 Porsche 911 SC | Gears | 5 manual
+1979 Porsche 911 SC Targa | Body | targa
 1979 Porsche 924 Carrera GT | Price | 19210 GBP
 1979 Porsche 924 Carrera GT | Count | 406
 1979 Porsche 924 Carrera GT | Cylinders | R4
@@ -2888,10 +3336,12 @@
 1979 Porsche 924 Carrera GT | Power | 210 hp
 1979 Porsche 924 Carrera GT | Speed | 150 mph
 1979 Porsche 924 Carrera GT | Wheels | 7Jx15
+1979 Porsche 924 Turbo | Power | 170 hp
 1979 Porsche 924 turbo (931) | Power | 177 hp
 1979 Porsche 924 Turbo (931) | Count | 13616
 1979 Porsche 924 Turbo (931) | Power | 150 hp
 1979 Porsche 924 Turbo (931) | Speed | 230 kmph
+1979 Porsche 928 | Power | 219 hp @ 5250 rpm
 1979 Porsche 928 S | Volume | 4.7 L
 1979 Porsche 928 S | Volume | 4464 cc
 1979 Porsche 928 S | Cylinders | V8
@@ -2911,8 +3361,12 @@
 1979 Porsche 928 S | Gears | 5 manual
 1979 Porsche 928 S | Drive | rear
 1979 Porsche 928S | Power | 300 hp
+1979 Porsche 928S | Power | 300 hp
+1979 Porsche 928S | Speed | 250 kmph
 1979 Porsche 928S | Speed | 250 kmph
 1979 Rolls Royce Phantom VI Park Ward | Gears | 3 auto
+1979-03 Jaguar XJ (III) | Volume | 4.2 L
+1979-03 Jaguar XJ (III) | Fuel feed | injection
 1979-03 Jaguar XJ (III) | Gears | 4 manual
 1979-03 Jaguar XJ (III) | Gears | 5 manual
 1979-07 BMW 745i Turbo | Volume | 3.2 L
@@ -2963,6 +3417,8 @@
 1980 Audi Quattro (B2) | Gears | 5 manual
 1980 Audi Quattro (B2) | Drive | full
 1980 Porsche 911 SC | Power | 204 hp
+1980 Porsche 911 SC | Power | 204 hp
+1980 Porsche 911 SC | Power | 188 hp
 1980 Porsche 911 SC (european) | Volume | 2994 cc
 1980 Porsche 911 SC (european) | Power | 180 bhp @ 5500 rpm
 1980 Porsche 911 SC (european) | Torque | 265 nm @ 4200 rpm
@@ -2976,6 +3432,7 @@
 1980 Porsche 924 Carrera GT | Compressor pressure | 0.75 bar
 1980 Porsche 924 Carrera GT | Power | 210 hp
 1980 Porsche 924 Carrera GT | Power | 210 hp @ 6000 rpm
+1980 Porsche 924 Carrera GT | Power | 210 hp
 1980 Porsche 924 Carrera GT | Torque | 203 nm
 1980 Porsche 924 Carrera GT | Compression ratio | 8.5
 1980 Porsche 924 Carrera GT | Bore | 86.5 mm
@@ -2991,10 +3448,15 @@
 1980 Porsche 924 Carrera GT | Tyres | 205/55 VR 16 and 225/50 VR 16 (front rear)
 1980 Porsche 924 Carrera GT | Gears | 5 manual
 1980 Porsche 924 Carrera GT | Drive | rear
+1980 Porsche 928 | Price | 38850 USD
+1980 Porsche 928 | Power | 220 hp @ 5500 rpm
 1980 Porsche 928 S | Volume | 4.7 L
+1980 Porsche 928 S | Volume | 4664 cc
+1980 Porsche 928 S | Power | 300 hp
 1980 Porsche 928 S | Power | 300 hp
 1980 Porsche 930 SC Weissach | Count | 400
 1980 Porsche 930 SC Weissach | Body | coupe
+1980 Volkswagen Golf | Fuel | diesel
 1980-01 BMW 635 csi (E24) | Cylinders | 6
 1980-01 BMW 635 csi (E24) | Fuel feed | mechanical injection
 1980-01 BMW 635 csi (E24) | Valves per cylinder | 2
@@ -3008,19 +3470,33 @@
 1980-10 Audi Coupe GT5S WN | Gears | 3 auto
 1981 Audi 4000 S | Volume | 1.7 L
 1981 Audi 4000 S | Cylinders | 4
+1981 Audi 90 SD | Volume | 2144 cc
+1981 Audi 90 SD | Cylinders | 5
+1981 Audi 90 SD | Power | 115 hp
+1981 Audi 90 SD | Fuel | petrol
 1981 Audi Coupe (B2) | Body | coupe
 1981 Audi Coupe (B2) | Length | 4421 mm
 1981 Audi Coupe (B2) | Width | 1682 mm
 1981 Audi Coupe (B2) | Height | 1350 mm
 1981 Audi Coupe (B2) | Doors | 2
+1981 Cadillac DeVille | Volume | 6 L
+1981 Cadillac DeVille | Cylinders | V6
+1981 Cadillac DeVille | Cylinders | V8
+1981 Cadillac DeVille | Fuel | diesel
+1981 Cadillac DeVille | Fuel | petrol
+1981 Cadillac DeVille | Fuel | petrol
 1981 Cadillac DeVille | Speed | 190 kmph
 1981 Cadillac DeVille | Body | coupe
 1981 Cadillac DeVille | Body | sedan
 1981 Cadillac DeVille | Length | 5620 mm
 1981 Cadillac DeVille | Width | 1915 mm
 1981 Cadillac DeVille | Height | 1405 mm
+1981 Jaguar XJ (III) | Cylinders | V12
+1981 Jaguar XJ (III) | Compression ratio | 12.5
 1981 Lamborghini Jalpa | Cylinders | V8
 1981 Lamborghini Jalpa | Power | 255 hp
+1981 Porsche 911 SC | Power | 204 hp @ 5900 rpm
+1981 Porsche 911 SC | Torque | 267 nm
 1981 Porsche 911 SC (european) | Volume | 2994 cc
 1981 Porsche 911 SC (european) | Power | 204 bhp @ 5900 rpm
 1981 Porsche 911 SC (european) | Torque | 267 nm @ 4300 rpm
@@ -3029,17 +3505,30 @@
 1981 Porsche 924 Carrera GT | Cylinders | 4
 1981 Porsche 924 Carrera GT | Power | 245 hp
 1981 Porsche 924 Carrera GT | Engine placement | front
+1981 Porsche 924 Carrera GTR | Price | 34600 GBP
 1981 Porsche 924 Carrera GTR | Count | 17
 1981 Porsche 924 Carrera GTR | Power | 375 hp
 1981 Porsche 924 Carrera GTR | 0-60 mph | 5.0 s
 1981 Porsche 924 Carrera GTS | Count | 59
 1981 Porsche 924 Carrera GTS | Power | 245 hp
+1981 Porsche 924 Turbo | Power | 177 hp
+1981 Porsche 928 | Power | 220 hp @ 5500 rpm
+1981 Porsche 944 | Volume | 2.5 L
+1981 Porsche 944 | Volume | 2.5 L
+1981 Porsche 944 | Volume | 2.5 L
 1981 Porsche 944 | Volume | 2.5 L
 1981 Porsche 944 | Cylinders | 4
+1981 Porsche 944 | Cylinders | 4
+1981 Porsche 944 | Cylinders | 4
+1981 Porsche 944 | Cylinders | 4
 1981 Porsche 944 | Power | 220 hp
+1981 Porsche 944 | Power | 150 hp
 1981 Porsche 944 | Speed | 250 kmph
 1981 Porsche 944 | Engine placement | front
+1981 Porsche Turbo Cabriolet | Drive | full
 1981 Volkswagen Golf GTi | Body | hatchback 5
+1981 Volkswagen Polo (II) | Body | wagon 3
+1981 Volkswagen Santana | Body | sedan
 1981 Volkswagen Scirocco | Volume | 1.8 L
 1981-02 Audi Coupe GL YN | Volume | 1.6 L
 1981-02 Audi Coupe GL YN | Power | 55 kW
@@ -3056,6 +3545,18 @@
 1981-04 Audi Coupe GT5S WE | Power | 77 kW
 1981-04 Audi Coupe GT5S WE | Fuel | petrol
 1981-04 Audi Coupe GT5S WE | Gears | 3 auto
+1981-06 Porsche 924 Carrera GTS | Price | 27500 GBP
+1981-06 Porsche 924 Carrera GTS | Power | 210 hp
+1981-06 Porsche 924 Carrera GTS | Body | coupe
+1981-07 Opel Monza | Volume | 2.5 L
+1981-07 Opel Monza | Volume | 3 L
+1981-07 Opel Monza | Power | 136 hp
+1981-07 Opel Monza | Power | 180 hp
+1981-07 Opel Monza | Fuel feed | injection
+1981-07 Opel Monza | Fuel feed | injection
+1981-07 Opel Monza | Speed | 195 kmph
+1981-07 Opel Monza | Speed | 215 kmph
+1981-07 Opel Monza | Tyres | tyres 195/70-14
 1981-08 Audi Coupe GL DD | Volume | 1.6 L
 1981-08 Audi Coupe GL DD | Power | 55 kW
 1981-08 Audi Coupe GL DD | Fuel | petrol
@@ -3073,8 +3574,15 @@
 1982 Opel Corsa (A) | Power | 55 hp
 1982 Opel Corsa (A) | Power | 70 hp
 1982 Opel Corsa (A) | Body | hatchback 3
+1982 Porsche 911 Convertible | Body | cabriolet
+1982 Porsche 911 SC cabriolet | Body | cabriolet
 1982 Porsche 911 SC Cabriolet | Body | cabriolet
 1982 Porsche 911 SC Cabriolet | Drive | full
+1982 Porsche 911 SC Sport | Body | coupe
+1982 Porsche 928 | Power | 220 hp @ 5500 rpm
+1982 Porsche 928 S | Price | 39000 USD
+1982 Porsche 928 S | Volume | 4.7 L
+1982 Porsche 928 S | Power | 310 hp
 1982 Porsche 928 S2 | Volume | 4664 cc
 1982 Porsche 928 S2 | Cylinders | V8
 1982 Porsche 928 S2 | Power | 310 hp
@@ -3126,6 +3634,14 @@
 1982 Porsche 962 | Compressor pressure | 2..3 bar
 1982 Porsche 962 | Power | 1000 hp
 1982 Porsche 962 | Body | monocock
+1982 Rolls Royce Phantom VI Park Ward | Volume | 6750 cc
+1982 Volkswagen Golf | Volume | 1.6 L
+1982 Volkswagen Golf | Volume | 1.6 L
+1982 Volkswagen Golf | Compressor | turbo
+1982 Volkswagen Golf | Fuel | petrol
+1982 Volkswagen Golf | Fuel | diesel
+1982 Volkswagen Golf GTi | Volume | 1.6 L
+1982 Volkswagen Golf GTi | Fuel | petrol
 1982 Volkswagen Scirocco | Volume | 1.6 L
 1982-06 BMW 635 (E24) | Volume | 3.5 L
 1982-08 Audi Coupe GT WE | Volume | 2.2 L
@@ -3147,6 +3663,7 @@
 1982-09 Audi Coupe GT KL | Power | 96 kW
 1982-09 Audi Coupe GT KL | Fuel | petrol
 1982-09 Audi Coupe GT KL | Gears | 5 manual
+1982-09 Volkswagen Polo | Volume | 1.3 L
 1982-10 Opel Rekord (E2) | Speed | 155 kmph
 1982-10 Opel Rekord (E2) | Speed | 190 kmph
 1982-10 Opel Rekord (E2) | Weight | 1100 kg
@@ -3160,8 +3677,24 @@
 1982-10 Opel Rekord (E2) | Gears | 5 manual
 1982-10 Opel Rekord (E2) | Gears | 5 auto
 1982-10 Opel Rekord (E2) | Drive | rear
+1982-10 Opel Rekord 1.8N (E2) | Volume | 1.8 L
+1982-10 Opel Rekord 1.8N (E2) | Power | 75 hp
+1982-10 Opel Rekord 1.8S (E2) | Volume | 1.8 L
+1982-10 Opel Rekord 1.8S (E2) | Power | 90 hp
 1982-10 Opel Rekord 2.0 (E2) | Price | 19928 DM
+1982-10 Opel Rekord 2.0E (E2) | Volume | 2 L
+1982-10 Opel Rekord 2.0E (E2) | Power | 110 hp
+1982-10 Opel Rekord 2.0S (E2) | Volume | 2 L
+1982-10 Opel Rekord 2.0S (E2) | Power | 110 hp
+1982-10 Opel Rekord 2.3D (E2) | Price | 20150 DM
+1982-10 Opel Rekord 2.3D (E2) | Volume | 2.3 L
+1982-10 Opel Rekord 2.3D (E2) | Volume | 2.3 L
+1982-10 Opel Rekord 2.3D (E2) | Power | 65 hp
+1982-10 Opel Rekord 2.3D (E2) | Fuel | diesel
+1982-10 Opel Rekord 2.3D (E2) | Fuel | diesel
 1982-10 Opel Rekord E2 | Price | 20000 DM
+1982-10 Opel Rekord E2 | Volume | 2.2 L
+1982-10 Opel Rekord E2 | Power | 115 hp
 1983 AM General Hummer | Volume | 9450 cc
 1983 AM General Hummer | Cylinders | V8
 1983 AM General Hummer | Power | 190 hp @ 4000 rpm
@@ -3244,20 +3777,28 @@
 1983 Jaguar XJ-S | Volume | 3.6 L
 1983 Jaguar XJ-S | Power | 225 hp
 1983 Opel Monza GSE | Price | 34.968 DM
+1983 Opel Monza GSE | Volume | 3 L
+1983 Opel Monza GSE | Fuel feed | injection
 1983 Porsche 911 Carrera | Volume | 3164 cc
+1983 Porsche 911 Carrera | Cylinders | 6
 1983 Porsche 911 Carrera | Cylinders | 6
 1983 Porsche 911 Carrera | Power | 231 hp
 1983 Porsche 911 Carrera | Torque | 210 lb-ft
+1983 Porsche 911 Carrera | Valves per cylinder | 2
 1983 Porsche 911 Carrera | Speed | 150 mph
 1983 Porsche 911 Carrera | 0-60 mph | 5.4 s
 1983 Porsche 911 Carrera | Weight | 1210 kg
 1983 Porsche 911 Carrera | Engine placement | rear
 1983 Porsche 911 Carrera | Gears | 5
 1983 Porsche 911 Carrera | Drive | rear
+1983 Porsche 911 SC Cabriolet | Body | cabriolet
 1983 Porsche 911 turbo 3.3 | Volume | 3299 cc
 1983 Porsche 911 turbo 3.3 | Cylinders | 6
+1983 Porsche 911 turbo 3.3 | Cylinders | 6
+1983 Porsche 911 turbo 3.3 | Compressor | turbo
 1983 Porsche 911 turbo 3.3 | Power | 300 hp
 1983 Porsche 911 turbo 3.3 | Torque | 318 lb-ft
+1983 Porsche 911 turbo 3.3 | Valves per cylinder | 2
 1983 Porsche 911 turbo 3.3 | Speed | 162 mph
 1983 Porsche 911 turbo 3.3 | 0-60 mph | 4.9 s
 1983 Porsche 911 turbo 3.3 | Weight | 1385 kg
@@ -3265,8 +3806,11 @@
 1983 Porsche 911 turbo 3.3 | Gears | 4
 1983 Porsche 911 turbo 3.3 | Drive | rear
 1983 Porsche 928 S | Volume | 4.7 L
+1983 Porsche 928 S | Volume | 4.7 L
 1983 Porsche 928 S | Power | 234 hp @ 5250 rpm
 1983 Porsche 928 S | Power | 310 hp
+1983 Porsche 928 S | Power | 310 hp
+1983 Porsche 928 S | Valves per cylinder | 4
 1983 Porsche 928 S (US) | Volume | 4.7 L
 1983 Porsche 928 S (US) | Power | 234 hp
 1983 Porsche 944 | Volume | 2479 cc
@@ -3296,12 +3840,21 @@
 1983-03 BMW 525e (E28) | Cylinders | 6
 1983-03 BMW 525e (E28) | Power | 129 hp
 1983-03 BMW 525e (E28) | Fuel feed | injection Bosch Motronic
+1983-03 Opel Monza Coupe (A2) | Cylinders | 6
 1983-03 Opel Monza Coupe (A2) | Length | 4720 mm
 1983-03 Opel Monza Coupe (A2) | Width | 1722 mm
 1983-03 Opel Monza Coupe (A2) | Height | 1380 mm
 1983-03 Opel Monza Coupe (A2) | Wheelbase | 2668 mm
 1983-03 Opel Monza Coupe (A2) | Gears | 3 auto
 1983-03 Opel Monza Coupe (A2) | Gears | 5 manual
+1983-03 Opel Monza Coupe 2.0E (A2) | Price | 29125 DM @ 1983-01
+1983-03 Opel Monza Coupe 2.0E (A2) | Volume | 2 L
+1983-03 Opel Monza Coupe 2.0E (A2) | Volume | 2 L
+1983-03 Opel Monza Coupe 2.0E (A2) | Cylinders | R4
+1983-03 Opel Monza Coupe 2.0E (A2) | Power | 115 hp
+1983-03 Opel Monza Coupe 2.0E (A2) | Fuel feed | injection
+1983-03 Opel Monza Coupe 2.0E (A2) | Fuel feed | injection
+1983-03 Opel Monza Coupe 2.0E (A2) | Speed | 185 kmph
 1983-05 BMW 745i | Volume | 3.4 L
 1983-05 BMW 745i | Power | 218 hp
 1983-05 BMW 745i Turbo | Volume | 3.4 L
@@ -3325,6 +3878,13 @@
 1983-09 BMW 524td | Power | 115 hp
 1983-09 BMW 524td | Fuel | diesel
 1983-09 BMW 524td | Fuel consumption | 9.0 L/100km
+1984 Audi 100 | Volume | 2.2 L
+1984 Audi 100 | Volume | 2.2 L
+1984 Audi 100 | Compressor | turbo
+1984 Audi 100 | Power | 100 kW
+1984 Audi 100 | Power | 100 kW
+1984 Audi 100 | Fuel | petrol
+1984 Audi 100 | Fuel | petrol
 1984 Audi 200 C3 | Length | 4807 mm
 1984 Audi 200 C3 | Width | 1814 mm
 1984 Audi 200 C3 | Height | 1422 mm
@@ -3455,10 +4015,23 @@
 1984 Isdera Imperator 108i | Front wheels | 9Jx17
 1984 Isdera Imperator 108i | Rear wheels | 13Jx17
 1984 Isdera Imperator 108i | Gears | 5 manual
+1984 Opel Kadett (E) | Volume | 1.8 L
+1984 Opel Kadett (E) | Volume | 2 L
+1984 Opel Kadett (E) | Volume | 2 L
+1984 Opel Kadett (E) | Volume | 1.6 L
+1984 Opel Kadett (E) | Volume | 1.2 L
+1984 Opel Kadett (E) | Power | 60 hp
+1984 Opel Kadett (E) | Power | 75 hp
+1984 Opel Kadett (E) | Fuel | diesel
+1984 Opel Kadett (E) | Fuel feed | distributed injection
+1984 Opel Kadett (E) | Fuel feed | carb
 1984 Opel Kadett (E) | Body | hatchback 3
 1984 Opel Kadett (E) | Body | hatchback 5
 1984 Opel Kadett (E) | Body | sedan 4
 1984 Opel Kadett (E) | Body | wagon
+1984 Opel Monza Coupe (A2) | Volume | 2.2 L
+1984 Opel Monza Coupe (A2) | Power | 115 hp
+1984 Opel Monza Coupe (A2) | Speed | 195 kmph
 1984 Porsche 911 | Power | 250 hp
 1984 Porsche 911 Carrera | Volume | 3164 cc
 1984 Porsche 911 Carrera | Cylinders | B6
@@ -3475,6 +4048,8 @@
 1984 Porsche 911 Carrera | Engine placement | rear
 1984 Porsche 911 Carrera | Gears | 5 manual
 1984 Porsche 911 Carrera | Drive | rear
+1984 Porsche 911 Carrera (930) | Volume | 3164 cc
+1984 Porsche 911 Carrera (930) | Power | 231 hp
 1984 Porsche 911 Carrera 3.2 | Volume | 3164 cc
 1984 Porsche 911 Carrera 3.2 | Power | 231 bhp @ 5900 rpm
 1984 Porsche 911 Carrera 3.2 | Torque | 284 nm @ 4800 rpm
@@ -3485,6 +4060,7 @@
 1984 Porsche 911 Carrera 3.2 (US) | Power | 207 bhp @ 5900 rpm
 1984 Porsche 911 Carrera 3.2 (US) | Torque | 260 nm @ 4800 rpm
 1984 Porsche 911 Carrera 3.2 (US) | Compression ratio | 9.5
+1984 Porsche 928 S | Price | 44000 USD
 1984 Porsche 928 S | Power | 234 hp @ 5250 rpm
 1984 Porsche 930 SC/RS | Count | 20
 1984 Porsche 930 SC/RS | Volume | 3 L
@@ -3503,6 +4079,8 @@
 1984 Porsche 959 | Cylinders | 6
 1984 Porsche 959 | Power | 450 hp
 1984 Porsche 959 | Valves per cylinder | 4
+1984 Porsche Carrera | Volume | 3.2 L
+1984 Porsche Carrera | Power | 202 hp
 1984 Volkswagen Passat Syncro | Drive | full
 1984-09 Audi Coupe GT HY | Volume | 2.23 L
 1984-09 Audi Coupe GT HY | Power | 100 kW
@@ -3544,8 +4122,14 @@
 1985 Lamborghini Countach | Speed | 286 kmph
 1985 Lamborghini LP500S QV | Valves per cylinder | 4
 1985 Porsche 924 S | Body | coupe
+1985 Porsche 928 S | Price | 44600 USD
+1985 Porsche 928 S | Count | 5356
+1985 Porsche 928 S | Volume | 5 L
 1985 Porsche 928 S | Volume | 5 L
 1985 Porsche 928 S | Power | 288 hp
+1985 Porsche 928 S | Power | 288 hp @ 5750 rpm
+1985 Porsche 928 S | Valves per cylinder | 4
+1985 Porsche 928 S | Speed | 155 mph
 1985 Porsche 928 S2 | Volume | 5 L
 1985 Porsche 928 S2 | Power | 288 hp
 1985 Porsche 928 S2 | Torque | 409 nm
@@ -3562,6 +4146,7 @@
 1985 Porsche 944 Turbo | Count | 25107
 1985 Porsche 944 Turbo | Volume | 2479 cc
 1985 Porsche 944 Turbo | Cylinders | R4
+1985 Porsche 944 Turbo | Compressor | turbo
 1985 Porsche 944 Turbo | Compressor | turbo
 1985 Porsche 944 Turbo | Power | 220 hp
 1985 Porsche 944 Turbo | Power | 250 hp @ 5800 rpm
@@ -3598,7 +4183,12 @@
 1985 Porsche 944 Turbo | Gears | 5 manual
 1985 Porsche 944 Turbo | Drive | rear
 1985 Porsche 959 | Volume | 3200 cc
+1985 Porsche 959 | Volume | 3200 cc
 1985 Porsche 962 | Volume | 3.2 L
+1985 Porsche 962 | Volume | 3200 cc
+1985 Volkswagen Polo GT 40 | Volume | 1.3 L
+1985 Volkswagen Polo GT 40 | Compressor | mechanical
+1985 Volkswagen Polo GT 40 | Power | 115 hp
 1985-01 Audi Coupe GT JN | Volume | 1.8 L
 1985-01 Audi Coupe GT JN | Power | 68 kW
 1985-01 Audi Coupe GT JN | Fuel | petrol
@@ -3614,6 +4204,7 @@
 1985-01 Audi Coupe GT KX | Fuel | petrol
 1985-01 Audi Coupe GT KX | Gears | 5 manual
 1985-01 Audi Coupe GT KX | Gears | 3 auto
+1985-04 Opel Corsa (A) | Body | hatchback 5
 1985-06 Volkswagen Golf | Volume | 1.8 L
 1985-06 Volkswagen Golf | Valves per cylinder | 4
 1985-06 Volkswagen Scirocco | Power | 139 hp
@@ -3622,6 +4213,8 @@
 1985-08 Audi Coupe Quattro JT | Power | 89 kW
 1985-08 Audi Coupe Quattro JT | Fuel | petrol
 1985-08 Audi Coupe Quattro JT | Gears | 5 manual
+1985-09 Opel Corsa (A) | Volume | 1.3 L
+1985-09 Opel Corsa (A) | Power | 60 hp
 1986 Jaguar XJ6 | Volume | 2.9 L
 1986 Jaguar XJ6 | Volume | 4 L
 1986 Opel Omega (A) | Count | 900000
@@ -3629,29 +4222,48 @@
 1986 Opel Omega (A) | Cx | 0.280
 1986 Porsche 911 turbo SE (930) | Power | 330 hp
 1986 Porsche 911 turbo SE (930) | Speed | 170 mph
+1986 Porsche 911 Turbo SE (930) | Compressor | turbo
+1986 Porsche 911 Turbo SE (930) | Power | 330 hp
+1986 Porsche 911 Turbo SE (930) | Speed | 170 mph
 1986 Porsche 924 S | Count | 16669
 1986 Porsche 924 S | Volume | 2.5 L
 1986 Porsche 924 S | Volume | 2479 cc
+1986 Porsche 924 S | Volume | 2457 cc
 1986 Porsche 924 S | Power | 150 hp @ 5900 rpm
+1986 Porsche 924 S | Power | 150 hp
 1986 Porsche 924 S | Compression ratio | 9.7
 1986 Porsche 924 S | Bore | 100 mm
 1986 Porsche 924 S | Stroke | 78.9 mm
 1986 Porsche 924 S | Weight | 1191 kg
+1986 Porsche 924 S | Body | coupe
+1986 Porsche 928 S | Price | 51900 USD
+1986 Porsche 928 S | Count | 4617
+1986 Porsche 928 S | Volume | 5 L
+1986 Porsche 928 S | Power | 288 hp @ 5750 rpm
+1986 Porsche 928 S | Valves per cylinder | 4
 1986 Porsche 928 S4 | Volume | 4957 cc
+1986 Porsche 928 S4 | Volume | 4957 cc
+1986 Porsche 928 S4 | Power | 320 hp
 1986 Porsche 928 S4 | Power | 320 hp
 1986 Porsche 928 S4 | Valves per cylinder | 4
 1986 Porsche 944 | Volume | 2479 cc
+1986 Porsche 944 | Volume | 2457 cc
 1986 Porsche 944 | Power | 150 hp @ 5500 rpm
+1986 Porsche 944 | Power | 150 hp
 1986 Porsche 944 | Compression ratio | 9.5
 1986 Porsche 944 | Bore | 100 mm
 1986 Porsche 944 | Stroke | 78.9 mm
 1986 Porsche 944 | Weight | 1197 kg
 1986 Porsche 944 S | Volume | 2479 cc
+1986 Porsche 944 S | Volume | 2457 cc
 1986 Porsche 944 S | Cylinders | R4
+1986 Porsche 944 S | Power | 190 hp
 1986 Porsche 944 S | Valves per cylinder | 4
 1986 Porsche 944 S | Drive | rear
 1986 Porsche 944 Turbo | Volume | 2479 cc
+1986 Porsche 944 Turbo | Volume | 2457 cc
 1986 Porsche 944 Turbo | Power | 217 hp @ 5800 rpm
+1986 Porsche 944 Turbo | Power | 220 hp
 1986 Porsche 944 Turbo | Compression ratio | 8.0
 1986 Porsche 944 Turbo | Bore | 100 mm
 1986 Porsche 944 Turbo | Stroke | 78.9 mm
@@ -3688,7 +4300,34 @@
 1986-09 Opel Omega (A) | Gears | 4 auto
 1986-09 Opel Omega (A) | Gears | 5 manual
 1986-09 Opel Omega (A) | Drive | rear
+1986-09 Opel Omega 1.8 (A) | Volume | 1796 cc
+1986-09 Opel Omega 1.8 (A) | Volume | 1.8 L
+1986-09 Opel Omega 1.8i (A) | Volume | 1796 cc
+1986-09 Opel Omega 1.8i (A) | Volume | 1.8 L
+1986-09 Opel Omega 1.8i (A) | Fuel feed | injection
+1986-09 Opel Omega 2.0i (A) | Volume | 1998 cc
+1986-09 Opel Omega 2.0i (A) | Volume | 2 L
+1986-09 Opel Omega 2.0i (A) | Fuel feed | injection
+1986-09 Opel Omega 2.3DTR (A) | Volume | 2.3 L
+1986-09 Opel Omega 2.3DTR (A) | Compressor | turbo
+1986-09 Opel Omega 2.3DTR (A) | Fuel | diesel
+1986-09 Opel Omega 2.3YD (A) | Volume | 2260 cc
+1986-09 Opel Omega 2.3YD (A) | Fuel | diesel
+1986-09 Opel Omega 2.3YDT (A) | Volume | 2.3 L
+1986-09 Opel Omega 2.3YDT (A) | Compressor | turbo
+1986-09 Opel Omega 2.3YDT (A) | Fuel | diesel
+1986-09 Opel Omega 2.4i (A) | Volume | 2393 cc
+1986-09 Opel Omega 2.4i (A) | Volume | 2.4 L
+1986-09 Opel Omega 2.4i (A) | Fuel feed | injection
+1986-09 Opel Omega 2.6i (A) | Volume | 2594 cc
+1986-09 Opel Omega 2.6i (A) | Volume | 2.6 L
+1986-09 Opel Omega 2.6i (A) | Fuel feed | injection
+1986-09 Opel Omega 3.0i (A) | Volume | 2969 cc
+1986-09 Opel Omega 3.0i (A) | Volume | 3 L
+1986-09 Opel Omega 3.0i (A) | Fuel feed | injection
 1986-10 Jaguar XJ40 Sovereign | Valves per cylinder | 4
+1986-10 Volkswagen Polo | Volume | 1.3 L
+1986-10 Volkswagen Polo | Fuel | diesel
 1987 Audi 80 (B3) | Body | sedan
 1987 Audi 80 (B3) | Length | 4393 mm
 1987 Audi 80 (B3) | Width | 1695 mm
@@ -3738,6 +4377,7 @@
 1987 Ferrari F40 | Rear wheels | 13x17
 1987 Ferrari F40 | Gears | 5 manual
 1987 Ferrari F40 | Drive | rear
+1987 Porsche 911 Carrera | Power | 217 hp
 1987 Porsche 911 Carrera 3.2 (european) | Weight | 1210 kg
 1987 Porsche 911 Carrera 3.2 (Japan) | Weight | 1260 kg
 1987 Porsche 911 Carrera 3.2 (US) | Volume | 3164 cc
@@ -3750,9 +4390,11 @@
 1987 Porsche 911 Carrera 3.2 (US) | Front track | 1389 mm
 1987 Porsche 911 Carrera 3.2 (US) | Rear track | 1405 mm
 1987 Porsche 911 Carrera 3.2 (US) | Wheelbase | 2271 mm
+1987 Porsche 911 Carrera Club Sport | Body | coupe
 1987 Porsche 911 Club Sport (european) | Weight | 1160 kg
 1987 Porsche 924 S | Volume | 2479 cc
 1987 Porsche 924 S | Power | 150 hp @ 5900 rpm
+1987 Porsche 924 S | Power | 160 hp
 1987 Porsche 924 S | Compression ratio | 9.7
 1987 Porsche 924 S | Bore | 100 mm
 1987 Porsche 924 S | Stroke | 78.9 mm
@@ -3763,10 +4405,14 @@
 1987 Porsche 928 S4 | Count | 1989 2919
 1987 Porsche 928 S4 | Count | 1990 3088
 1987 Porsche 928 S4 | Volume | 5 L
+1987 Porsche 928 S4 | Volume | 5 L
 1987 Porsche 928 S4 | Cylinders | V8
 1987 Porsche 928 S4 | Power | 316 hp
+1987 Porsche 928 S4 | Power | 320 hp
+1987 Porsche 928 S4 | Valves per cylinder | 4
 1987 Porsche 928 S4 | Valves per cylinder | 4
 1987 Porsche 928 S4 | Speed | 140 mph
+1987 Porsche 928 S4 | 0-100 kmph | 5.5 s
 1987 Porsche 928 S4 SE | Volume | 4957 cc
 1987 Porsche 928 S4 SE | Cylinders | V8
 1987 Porsche 928 S4 SE | Power | 320 hp
@@ -3781,6 +4427,8 @@
 1987 Porsche 928 S4 SE | Drive | rear
 1987 Porsche 944 | Volume | 2479 cc
 1987 Porsche 944 | Power | 158 hp @ 5900 rpm
+1987 Porsche 944 | Power | 160 hp
+1987 Porsche 944 | Power | 160 hp
 1987 Porsche 944 | Compression ratio | 10.2
 1987 Porsche 944 | Bore | 100 mm
 1987 Porsche 944 | Stroke | 78.9 mm
@@ -3792,6 +4440,10 @@
 1987 Porsche 944 Turbo | Bore | 100 mm
 1987 Porsche 944 Turbo | Stroke | 78.9 mm
 1987 Porsche 944 Turbo | Weight | 1252 kg
+1987 Porsche 944 Turbo S | Volume | 2479 cc
+1987 Porsche 944 Turbo S | Volume | 2479 cc
+1987 Porsche 944 Turbo S | Power | 250 hp
+1987 Porsche 944 Turbo S | Power | 250 hp
 1987 Porsche 944S | Volume | 2479 cc
 1987 Porsche 944S | Power | 188 hp @ 6000 rpm
 1987 Porsche 944S | Compression ratio | 10.9
@@ -3820,6 +4472,7 @@
 1987 Porsche 959 | Gears | 6 manual
 1987 Porsche 959 | Drive | full
 1987 Porsche 959 | Drive | rear
+1987 Porsche Carrera CS | Count | 340
 1987 Ruf 911 CTR | Volume | 3.4 L
 1987 Ruf 911 CTR | Cylinders | 6
 1987 Ruf 911 CTR | Compressor | 2 turbo
@@ -3847,6 +4500,14 @@
 1987-02 Audi Coupe GT NG | Fuel | petrol
 1987-02 Audi Coupe GT NG | Gears | 5 manual
 1987-02 Audi Coupe GT NG | Gears | 3 auto
+1987-08 Opel Corsa (A) | Volume | 1.5 L
+1987-08 Opel Corsa (A) | Power | 50 hp
+1987-08 Opel Corsa (A) | Fuel | diesel
+1987-09 Opel Senator 2.5i (B) | Volume | 2.5 L
+1987-09 Opel Senator 2.5i (B) | Fuel feed | injection
+1987-09 Opel Senator 3.0i (B) | Volume | 3 L
+1987-09 Opel Senator 3.0i (B) | Power | 156 hp
+1987-09 Opel Senator 3.0i (B) | Fuel feed | injection
 1988 Aston Martin Vantage | Volume | 5340 cc
 1988 Aston Martin Vantage | Cylinders | V8
 1988 Aston Martin Vantage | Power | 557 hp @ 6500 rpm
@@ -4016,9 +4677,19 @@
 1988 Opel Omega GL2.6i | Speed | 215 kmph
 1988 Opel Omega GL2.6i | 0-100 kmph | 10.3 s
 1988 Opel Omega GL2.6i | Fuel consumption | 11.6 L/100km
+1988 Porsche 911 964 Carrera 4 | Volume | 3600 cc
+1988 Porsche 911 964 Carrera 4 | Cylinders | 6
+1988 Porsche 911 964 Carrera 4 | Power | 250 hp
+1988 Porsche 911 Carrera 4 | Drive | full
+1988 Porsche 911 Carrera 4 (964) | Volume | 3600 cc
+1988 Porsche 911 Carrera 4 (964) | Cylinders | 6
+1988 Porsche 911 Carrera 4 (964) | Power | 250 hp
+1988 Porsche 911 Carrera 4 (964) | Drive | full
+1988 Porsche 911 Carrera Clubsport | Body | coupe
 1988 Porsche 911 Club Sport (european) | Weight | 1172 kg
 1988 Porsche 911 Club Sport (US) | Weight | 1210 kg
 1988 Porsche 911 Clubsport | Count | 300
+1988 Porsche 911 Silver Anniverary | Count | 300
 1988 Porsche 924 S | Volume | 2479 cc
 1988 Porsche 924 S | Power | 160 hp @ 5900 rpm
 1988 Porsche 924 S | Compression ratio | 10.2
@@ -4030,11 +4701,22 @@
 1988 Porsche 930 Commemorative Special Edition | Body | cabriolet
 1988 Porsche 930 Commemorative Special Edition | Body | targa
 1988 Porsche 944 | Volume | 2479 cc
+1988 Porsche 944 | Volume | 2681 cc
+1988 Porsche 944 | Volume | 2681 cc
+1988 Porsche 944 | Volume | 2990 cc
+1988 Porsche 944 | Volume | 2990 cc
 1988 Porsche 944 | Power | 158 hp @ 5900 rpm
+1988 Porsche 944 | Power | 165 hp
+1988 Porsche 944 | Power | 165 hp
+1988 Porsche 944 | Power | 211 hp
+1988 Porsche 944 | Power | 211 hp
 1988 Porsche 944 | Compression ratio | 10.2
 1988 Porsche 944 | Bore | 100 mm
 1988 Porsche 944 | Stroke | 78.9 mm
+1988 Porsche 944 | Valves per cylinder | 4
+1988 Porsche 944 | Valves per cylinder | 4
 1988 Porsche 944 | Weight | 1197 kg
+1988 Porsche 944 S | Valves per cylinder | 4
 1988 Porsche 944 S2 | Volume | 2681 cc
 1988 Porsche 944 S2 | Volume | 2990 cc
 1988 Porsche 944 S2 | Volume | 3 L
@@ -4052,15 +4734,19 @@
 1988 Porsche 944 S2 | 0-96 kmph | 7.0 s
 1988 Porsche 944 S2 | Weight | 1320 kg
 1988 Porsche 944 S2 | Weight | 1350 kg
+1988 Porsche 944 S2 | Body | coupe
 1988 Porsche 944 S2 | Engine placement | front
 1988 Porsche 944 S2 | Gears | 5 manual
 1988 Porsche 944 S2 | Drive | rear
+1988 Porsche 944 S2 Cabriolet | Body | cabriolet
 1988 Porsche 944 Turbo | Volume | 2479 cc
 1988 Porsche 944 Turbo | Power | 217 hp @ 5800 rpm
+1988 Porsche 944 Turbo | Power | 250 hp
 1988 Porsche 944 Turbo | Compression ratio | 8.0
 1988 Porsche 944 Turbo | Bore | 100 mm
 1988 Porsche 944 Turbo | Stroke | 78.9 mm
 1988 Porsche 944 Turbo | Weight | 1252 kg
+1988 Porsche 944 Turbo | Gears | 5 manual
 1988 Porsche 944 Turbo S | Volume | 2479 cc
 1988 Porsche 944 Turbo S | Power | 250 hp @ 5800 rpm
 1988 Porsche 944 Turbo S | Compression ratio | 8.0
@@ -4084,18 +4770,62 @@
 1988 Porsche 944S | Bore | 100 mm
 1988 Porsche 944S | Stroke | 78.9 mm
 1988 Porsche 944S | Weight | 1197 kg
+1988 Porsche Carrera 4 (964) | Body | coupe
+1988-01 Opel Senator (B) | Volume | 3 L
+1988-01 Opel Senator (B) | Power | 177 hp
+1988-05 Audi 100 | Volume | 2.2 L
+1988-05 Audi 100 | Compressor | turbo
+1988-05 Audi 100 | Power | 125 kW
+1988-05 Audi 100 | Fuel | petrol
 1988-05 Opel Corsa GSi (A) | Power | 100 hp
 1988-09 Opel Vectra (A) | Body | hatchback 5
 1988-09 Opel Vectra (A) | Body | sedan 4
 1988-09 Opel Vectra (A) | Engine placement | front transverse
 1988-09 Opel Vectra (A) | Drive | front
 1988-09 Opel Vectra (A) | Drive | full constant
+1988-09 Opel Vectra 1.4 (A) | Volume | 1.4 L
+1988-09 Opel Vectra 1.4 (A) | Cylinders | R4
+1988-09 Opel Vectra 1.4 (A) | Fuel | petrol
+1988-09 Opel Vectra 1.6 (A) | Volume | 1.6 L
+1988-09 Opel Vectra 1.6 (A) | Cylinders | R4
+1988-09 Opel Vectra 1.6 (A) | Fuel | petrol
+1988-09 Opel Vectra 1.8 (A) | Volume | 1.8 L
+1988-09 Opel Vectra 1.8 (A) | Cylinders | R4
+1988-09 Opel Vectra 1.8 (A) | Fuel | petrol
+1988-09 Opel Vectra 2.0 (A) | Volume | 2 L
+1988-09 Opel Vectra 2.0 (A) | Cylinders | R4
+1988-09 Opel Vectra 2.0 (A) | Fuel | petrol
+1988-09 Opel Vectra 2.5 (A) | Volume | 2.5 L
+1988-09 Opel Vectra 2.5 (A) | Cylinders | V6
 1988-11 Audi Coupe | Gears | 5 manual
 1988-11 Audi Coupe | Gears | 4 auto
+1988-11 Audi Coupe 2.2E | Volume | 3 L
+1988-11 Audi Coupe 2.2E | Volume | 2.2 L
+1988-11 Audi Coupe 2.2E | Power | 100 kW
+1988-11 Audi Coupe 2.2E | Fuel | petrol
+1988-11 Audi Coupe 2.3E | Volume | 2.3 L
+1988-11 Audi Coupe 2.3E | Power | 100 kW
+1988-11 Audi Coupe 2.3E | Fuel | petrol
 1988-11 Audi Coupe Quattro (B3) | Length | 4845 mm
 1988-11 Audi Coupe Quattro (B3) | Width | 1750 mm
 1988-11 Audi Coupe Quattro (B3) | Height | 1410 mm
 1988-11 Audi quattro | Gears | 5 manual
+1988-11 Audi quattro 2.0 | Volume | 2 L
+1988-11 Audi quattro 2.0 | Power | 118 kW
+1988-11 Audi quattro 2.0 | Fuel | petrol
+1988-11 Audi quattro 2.23 | Volume | 3 L
+1988-11 Audi quattro 2.23 | Volume | 2.2 L
+1988-11 Audi quattro 2.23 | Power | 100 kW
+1988-11 Audi quattro 2.23 | Fuel | petrol
+1988-11 Audi quattro 2.3 | Volume | 2.3 L
+1988-11 Audi quattro 2.3 | Volume | 2.3 L
+1988-11 Audi quattro 2.3 | Power | 125 kW
+1988-11 Audi quattro 2.3 | Power | 100 kW
+1988-11 Audi quattro 2.3 | Fuel | petrol
+1988-11 Audi quattro 2.3 | Fuel | petrol
+1989 Audi 80 (B3) | Volume | 1.9 L
+1989 Audi 80 (B3) | Fuel | diesel
+1989 Audi 90 (B3) | Cylinders | 5
 1989 Audi Coupe (B3) | Body | coupe
 1989 Audi Coupe (B3) | Length | 4366 mm
 1989 Audi Coupe (B3) | Width | 1716 mm
@@ -4137,6 +4867,11 @@
 1989 Ferrari 348 Spyder | Rear wheels | 9x17
 1989 Ferrari 348 Spyder | Gears | 5 manual
 1989 Ferrari 348 Spyder | Drive | rear
+1989 Mercedes-Benz 500 SL | Cylinders | V8
+1989 Mercedes-Benz 500 SL | Power | 322 hp
+1989 Mercedes-Benz 500 SL | Torque | 450 nm
+1989 Mercedes-Benz 500 SL | Speed | 250 kmph
+1989 Mercedes-Benz 500 SL | 0-100 kmph | 6.2 s
 1989 Opel Lotus Omega | Price | 48000 GBP @ UK
 1989 Opel Lotus Omega | Count | 950
 1989 Opel Lotus Omega | Volume | 3.6 L
@@ -4180,6 +4915,8 @@
 1989 Porsche 911 Carrera 4 | Gears | 5
 1989 Porsche 911 Carrera 4 | Drive | full
 1989 Porsche 911 Carrera 4 (964) | Volume | 3600 cc
+1989 Porsche 911 Carrera 4 (964) | Volume | 3.6 L
+1989 Porsche 911 Carrera 4 (964) | Power | 250 hp
 1989 Porsche 911 Carrera 4 (964) | Power | 250 hp
 1989 Porsche 911 Carrera 4 (964) | Fuel feed | injection Bosch Motroniс
 1989 Porsche 911 Carrera 4 (964) | Compression ratio | 11.3
@@ -4189,25 +4926,34 @@
 1989 Porsche 911 Carrera 4 (964) | Cx | 0.320
 1989 Porsche 911 Carrera 4 (964) | Drive | full
 1989 Porsche 911 Carrera 4 (964) | Drive | rear
+1989 Porsche 911 Carrera 4 (964) | Drive | full
 1989 Porsche 911 Speedster | Count | 2065
 1989 Porsche 911 Speedster | Volume | 3.2 L
 1989 Porsche 911 Speedster (european) | Weight | 1180 kg
 1989 Porsche 911 Speedster (US) | Weight | 1210 kg
 1989 Porsche 911 turbo 3.3 | Volume | 3299 cc
 1989 Porsche 911 turbo 3.3 | Cylinders | 6
+1989 Porsche 911 turbo 3.3 | Cylinders | 6
+1989 Porsche 911 turbo 3.3 | Compressor | turbo
 1989 Porsche 911 turbo 3.3 | Power | 300 hp
 1989 Porsche 911 turbo 3.3 | Torque | 317 lb-ft
+1989 Porsche 911 turbo 3.3 | Valves per cylinder | 2
 1989 Porsche 911 turbo 3.3 | Speed | 158 mph
 1989 Porsche 911 turbo 3.3 | 0-60 mph | 4.9 s
 1989 Porsche 911 turbo 3.3 | Weight | 1385 kg
 1989 Porsche 911 turbo 3.3 | Engine placement | rear
 1989 Porsche 911 turbo 3.3 | Gears | 5
 1989 Porsche 911 turbo 3.3 | Drive | rear
+1989 Porsche 928 GT | Price | 76500 USD
 1989 Porsche 928 GT | Volume | 4898 cc
 1989 Porsche 928 GT | Volume | 5 L
+1989 Porsche 928 GT | Volume | 5 L
+1989 Porsche 928 GT | Cylinders | V8
 1989 Porsche 928 GT | Cylinders | V8
 1989 Porsche 928 GT | Power | 326 hp
 1989 Porsche 928 GT | Power | 330 hp @ 6200 rpm
+1989 Porsche 928 GT | Power | 330 hp
+1989 Porsche 928 GT | Power | 330 hp
 1989 Porsche 928 GT | Torque | 430 nm @ 4100 rpm
 1989 Porsche 928 GT | Fuel | petrol
 1989 Porsche 928 GT | Compression ratio | 10.4
@@ -4231,9 +4977,11 @@
 1989 Porsche 928 GT | Front brakes | ventilated disc
 1989 Porsche 928 GT | Front tyres | 225/50 ZR16
 1989 Porsche 928 GT | Rear tyres | 245/45 ZR16
+1989 Porsche 928 GT | Wheels | 9x16
 1989 Porsche 928 GT | Gears | 5 manual
 1989 Porsche 928 GT | Gears | 5 auto
 1989 Porsche 928 GT | Drive | rear
+1989 Porsche 930 Anniversary | Count | 300
 1989 Porsche 930 Speedster | Count | 2100
 1989 Porsche 930 Speedster | Volume | 3.2 L
 1989 Porsche 930 Speedster | Power | 217 hp
@@ -4244,6 +4992,8 @@
 1989 Porsche 944 | Bore | 104 mm
 1989 Porsche 944 | Stroke | 78.9 mm
 1989 Porsche 944 | Weight | 1197 kg
+1989 Porsche 944 2.7 | Volume | 2.7 L
+1989 Porsche 944 2.7 | Bore | 102 mm
 1989 Porsche 944 S2 | Volume | 3000 cc
 1989 Porsche 944 S2 | Power | 208 hp @ 5800 rpm
 1989 Porsche 944 S2 | Compression ratio | 10.9
@@ -4263,15 +5013,31 @@
 1989 Volkswagen Golf Rally | Volume | 1.8 L
 1989 Volkswagen Golf Rally | Power | 160 hp
 1989 Volkswagen Golf Rally | Drive | full
+1989-05 Audi Coupe 3A | Volume | 2 L
+1989-05 Audi Coupe 3A | Power | 85 kW
+1989-05 Audi Coupe 3A | Fuel | petrol
 1989-05 Audi Coupe 3A | Gears | 5 manual
 1989-05 Audi Coupe 3A | Gears | 3 auto
 1989-08 Audi 80 | Body | sedan
 1989-08 Audi 80 | Doors | 4
 1989-08 Audi Coupe | Gears | 5 manual
 1989-08 Audi Coupe | Gears | 4 auto
+1989-08 Audi Coupe 1.8 DZ | Volume | 1.8 L
+1989-08 Audi Coupe 1.8 DZ | Power | 82 kW
+1989-08 Audi Coupe 1.8 DZ | Fuel | petrol
+1989-08 Audi Coupe 2.0 | Volume | 2 L
+1989-08 Audi Coupe 2.0 | Power | 118 kW
+1989-08 Audi Coupe 2.0 | Fuel | petrol
+1989-08 Audi Coupe 2.3 | Volume | 2.3 L
+1989-08 Audi Coupe 2.3 | Power | 125 kW
+1989-08 Audi Coupe 2.3 | Fuel | petrol
 1989-08 Audi Coupe DZ | Gears | 5 manual
 1989-09 BMW 8 Series | Power | 300 hp
 1989-09 BMW 8 Series | Body | coupe
+1989-10 Opel Senator 3.0i CD (B) | Volume | 3 L
+1989-10 Opel Senator 3.0i CD (B) | Power | 204 hp
+1989-10 Opel Senator 3.0i CD (B) | Fuel feed | injection
+1990 BMW 850i | Body | coupe
 1990 Bugatti EB 110 | Volume | 3.5 L
 1990 Bugatti EB 110 | Volume | 3500 cc
 1990 Bugatti EB 110 | Cylinders | V12
@@ -4334,6 +5100,7 @@
 1990 Jaguar Sovereign V12 | Trunk size | 390 L
 1990 Jaguar Sovereign V12 | Tyres | 215/70 VR15
 1990 Jaguar Sovereign V12 | Drive | rear
+1990 Porsche 911 | Power | 320 hp
 1990 Porsche 911 Carrera 2 | Volume | 3600 cc
 1990 Porsche 911 Carrera 2 | Cylinders | B6
 1990 Porsche 911 Carrera 2 | Compressor | no
@@ -4352,6 +5119,7 @@
 1990 Porsche 911 Carrera 2 (964) | 0-60 mph | 5.2 s
 1990 Porsche 911 Carrera 2 (964) | Weight | 1460 kg
 1990 Porsche 911 Carrera 2 (964) | Drive | rear
+1990 Porsche 911 Carrera 2 (964) | Drive | rear
 1990 Porsche 911 Carrera RS | Count | 2051
 1990 Porsche 911 Carrera RS | Power | 260 bhp
 1990 Porsche 911 Carrera RS | Weight | 1230 kg
@@ -4369,6 +5137,11 @@
 1990 Porsche 964 Carrera | 0-60 mph | 5.5 s
 1990 Porsche 964 Carrera | Gears | 4 auto
 1990 Porsche 964 Carrera | Gears | 5 manual
+1990 Volkswagen Polo (3) | Volume | 1.6 L
+1990-03 Opel Calibra | Volume | 2 L
+1990-03 Opel Calibra | Volume | 2 L
+1990-03 Opel Calibra | Power | 115 hp
+1990-03 Opel Calibra | Fuel feed | injection
 1990-03 Opel Calibra | Speed | 250 kmph
 1990-03 Opel Calibra | 0-100 kmph | 7.8 s
 1990-03 Opel Calibra | Fuel consumption | 10 L/100km
@@ -4381,9 +5154,33 @@
 1990-03 Opel Calibra | Gears | 6 manual
 1990-03 Opel Calibra | Drive | front
 1990-03 Opel Calibra | Drive | full
+1990-08 Audi Coupe AAD | Volume | 2 L
+1990-08 Audi Coupe AAD | Power | 85 kW
+1990-08 Audi Coupe AAD | Fuel | petrol
 1990-08 Audi Coupe AAD | Gears | 5 manual
 1990-08 Audi Coupe AAD | Gears | 4 auto
+1990-08 Opel Senator (B) | Volume | 2.6 L
+1990-08 Opel Senator (B) | Power | 150 hp
+1990-08 Opel Senator (B) | Fuel feed | injection
+1990-09 Audi quattro S2 | Volume | 2.2 L
+1990-09 Audi quattro S2 | Compressor | turbo
+1990-09 Audi quattro S2 | Power | 162 kW
+1990-09 Audi quattro S2 | Fuel | petrol
 1990-09 Audi quattro S2 | Gears | 6 manual
+1990-09 Porsche 911 Turbo | Volume | 3299 cc
+1990-09 Porsche 911 Turbo | Volume | 3299 cc
+1990-09 Porsche 911 Turbo | Compressor | turbo
+1990-09 Porsche 911 Turbo | Compressor | turbo
+1990-09 Porsche 911 Turbo | Power | 320 hp
+1990-09 Porsche 911 Turbo | Power | 320 hp
+1990-10 Opel Omega | Length | 4768 mm
+1990-10 Opel Omega | Width | 1760 mm
+1990-10 Opel Omega | Height | 1445 mm
+1990-11 Opel Calibra | Volume | 2 L
+1990-11 Opel Calibra | Cylinders | R4
+1990-11 Opel Calibra | Power | 150 hp
+1990-11 Opel Calibra | Fuel feed | injection
+1990-11 Opel Calibra | Valves per cylinder | 4
 1990-12 Audi 100 (C4) | Volume | 2.8 L
 1990-12 Audi 100 (C4) | Cylinders | V6
 1990-12 Audi 100 (C4) | Power | 174 hp
@@ -4407,6 +5204,11 @@
 1991 Audi 100 (C4) | Body | wagon
 1991 Audi 100 (C4) | Doors | 4
 1991 Audi 80 (B4) | Wheels | 15
+1991 Audi 80 2.6 (B4) | Volume | 2.6 L
+1991 Audi 80 2.6 (B4) | Cylinders | V6
+1991 Audi 80 2.8 (B4) | Volume | 2.8 L
+1991 Audi 80 2.8 (B4) | Cylinders | V6
+1991 Audi 90 (B4) | Volume | 2.8 L
 1991 Audi Avus | Volume | 4785 cc
 1991 Audi Avus | Cylinders | W12
 1991 Audi Avus | Power | 354 hp @ 6300 rpm
@@ -4494,6 +5296,25 @@
 1991 Opel Astra (F) | Body | sedan
 1991 Opel Astra (F) | Body | van
 1991 Opel Astra (F) | Body | wagon
+1991 Opel Astra 1.4 (F) | Volume | 1.4 L
+1991 Opel Astra 1.4 (F) | Power | 60 hp
+1991 Opel Astra 1.4 (F) | Power | 80 hp
+1991 Opel Astra 1.6 (F) | Volume | 1.6 L
+1991 Opel Astra 1.6 (F) | Power | 75 hp
+1991 Opel Astra 1.6 (F) | Power | 100 hp
+1991 Opel Astra 1.7 (F) | Volume | 1.7 L
+1991 Opel Astra 1.7 (F) | Compressor | turbo
+1991 Opel Astra 1.7 (F) | Power | 68 hp
+1991 Opel Astra 1.7 (F) | Power | 82 hp
+1991 Opel Astra 1.7 (F) | Fuel | diesel
+1991 Opel Astra 1.8 (F) | Volume | 1.8 L
+1991 Opel Astra 1.8 (F) | Power | 115 hp
+1991 Opel Astra 1.8 (F) | Valves per cylinder | 4
+1991 Opel Astra 2.0 (F) | Volume | 2 L
+1991 Opel Astra 2.0 (F) | Volume | 2 L
+1991 Opel Astra 2.0 (F) | Power | 136 hp
+1991 Opel Astra 2.0 (F) | Power | 150 hp
+1991 Opel Astra 2.0 (F) | Valves per cylinder | 4
 1991 Opel Calibra Turbo 4x4 | Volume | 1998 cc
 1991 Opel Calibra Turbo 4x4 | Power | 204 hp @ 5600 rpm
 1991 Opel Calibra Turbo 4x4 | Torque | 280 nm @ 2400 rpm
@@ -4513,23 +5334,42 @@
 1991 Opel Calibra Turbo 4x4 | Drive | full
 1991 Opel Frontera (A) | Body | wagon 3
 1991 Opel Frontera (A) | Body | wagon 5
+1991 Opel Frontera 2.0 (A) | Volume | 2 L
+1991 Opel Frontera 2.0 (A) | Fuel | petrol
+1991 Opel Frontera 2.2 (A) | Volume | 2.2 L
+1991 Opel Frontera 2.2 (A) | Fuel | petrol
+1991 Opel Frontera 2.5 (A) | Volume | 2.5 L
+1991 Opel Frontera 2.5 (A) | Compressor | turbo
+1991 Opel Frontera 2.5 (A) | Fuel | diesel
+1991 Porsche 911 Carrera RS | Power | 260 hp
 1991 Porsche 911 turbo 3.3 (964) | Volume | 3.3 L
 1991 Porsche 911 turbo 3.3 (964) | Compressor | turbo
 1991 Porsche 911 turbo 3.3 (964) | Power | 320 hp
 1991 Porsche 911 turbo 3.3 (964) | 0-60 mph | 4.7 s
 1991 Porsche 928 GTS | Volume | 5.4 L
+1991 Porsche 928 GTS | Volume | 5397 cc
+1991 Porsche 928 GTS | Volume | 5397 cc
+1991 Porsche 928 GTS | Power | 350 hp
+1991 Porsche 928 GTS | Power | 350 hp
 1991 Porsche 928 GTS | Power | 350 hp
 1991 Porsche 928 GTS | Speed | 275 kmph
 1991 Porsche 944 | Volume | 3000 cc
+1991 Porsche 944 | Volume | 3 L
+1991 Porsche 944 | Cylinders | 8
 1991 Porsche 944 | Power | 208 hp @ 5800 rpm
+1991 Porsche 944 | Power | 240 hp
 1991 Porsche 944 | Compression ratio | 10.9
 1991 Porsche 944 | Bore | 104 mm
 1991 Porsche 944 | Stroke | 87.8 mm
 1991 Porsche 944 | Weight | 1297 kg
+1991 Porsche 964 Turbo | Compressor | turbo
 1991 Porsche 968 | Volume | 2990 cc
 1991 Porsche 968 | Volume | 3 L
+1991 Porsche 968 | Volume | 3 L
 1991 Porsche 968 | Cylinders | R4
+1991 Porsche 968 | Cylinders | 8
 1991 Porsche 968 | Power | 236 hp @ 6200 rpm
+1991 Porsche 968 | Power | 240 hp
 1991 Porsche 968 | Power | 240 hp
 1991 Porsche 968 | Torque | 305 nm
 1991 Porsche 968 | Torque | 305 nm @ 4100 rpm
@@ -4562,12 +5402,34 @@
 1991 Porsche 989 | Power | 370 hp
 1991 Porsche 989 | Doors | 4
 1991 Porsche 989 | Engine placement | front
+1991 Volkswagen Passat | Volume | 1.9 L
+1991 Volkswagen Passat | Cylinders | VR6
+1991 Volkswagen Passat | Compressor | turbo
+1991 Volkswagen Passat | Fuel | diesel
 1991 Volkswagen Passat (B3) | Cylinders | VR6
+1991-08 Audi quattro | Volume | 2.8 L
+1991-08 Audi quattro | Cylinders | V6
+1991-08 Audi quattro | Power | 128 kW
+1991-08 Audi quattro | Fuel | petrol
 1991-08 Audi quattro | Gears | 5 manual
+1991-08 Opel Corsa (A) | Volume | 1.5 L
+1991-08 Opel Corsa (A) | Compressor | turbo
+1991-08 Opel Corsa (A) | Power | 67 hp
+1991-08 Opel Corsa (A) | Fuel | diesel
+1991-08 Opel Corsa (A) | Fuel feed | injection
 1991-08 Volkswagen Golf (III) | Volume | 2.8 L
 1991-08 Volkswagen Golf (III) | Cylinders | VR6
 1991-09 Audi Coupe | Gears | 5 manual
 1991-09 Audi Coupe | Gears | 4 auto
+1991-09 Audi Coupe 2.8E | Volume | 2.8 L
+1991-09 Audi Coupe 2.8E | Volume | 2.8 L
+1991-09 Audi Coupe 2.8E | Cylinders | V6
+1991-09 Audi Coupe 2.8E | Power | 128 kW
+1991-09 Audi Coupe 2.8E | Fuel | petrol
+1991-09 Audi Coupe 2.8E | Fuel feed | injection
+1991-09 Audi Coupe ABK | Volume | 2 L
+1991-09 Audi Coupe ABK | Power | 85 kW
+1991-09 Audi Coupe ABK | Fuel | petrol
 1991-09 Audi Coupe ABK | Gears | 5 manual
 1991-09 Audi Coupe ABK | Gears | 4 auto
 1991-09 Opel Astra | Body | hatchback
@@ -4577,6 +5439,39 @@
 1991-09 Opel Astra | Doors | 5
 1991-09 Opel Astra | Trunk size | ..1200 L
 1991-09 Opel Astra | Trunk size | ..1630 L
+1991-09 Opel Astra 1.4 | Volume | 1.4 L
+1991-09 Opel Astra 1.4 | Power | 82 hp
+1991-09 Opel Astra 1.4SE | Volume | 1.4 L
+1991-09 Opel Astra 1.4SE | Power | 60 hp
+1991-09 Opel Astra 1.7DR | Volume | 1.7 L
+1991-09 Opel Astra 1.7DR | Power | 60 hp
+1991-09 Opel Astra 1.7DR | Fuel | diesel
+1991-09 Opel Astra 1.8 | Volume | 1.8 L
+1991-09 Opel Astra 1.8 | Power | 90 hp
+1991-09 Opel Astra 2.0 | Volume | 2 L
+1991-09 Opel Astra 2.0 | Power | 115 hp
+1991-09 Opel Astra C16 NZ | Volume | 1.6 L
+1991-09 Opel Astra C16 NZ | Power | 75 hp
+1991-09 Аudi 100/S4 (C4) | Volume | 1890 cc
+1991-09 Аudi 100/S4 (C4) | Volume | 1984 cc
+1991-09 Аudi 100/S4 (C4) | Volume | 2309 cc
+1991-09 Аudi 100/S4 (C4) | Volume | 2598 cc
+1991-09 Аudi 100/S4 (C4) | Volume | 2771 cc
+1991-09 Аudi 100/S4 (C4) | Volume | 2460 cc
+1991-09 Аudi 100/S4 (C4) | Compressor | turbo
+1991-09 Аudi 100/S4 (C4) | Compressor | turbo
+1991-09 Аudi 100/S4 (C4) | Power | 91 hp
+1991-09 Аudi 100/S4 (C4) | Power | 115 hp
+1991-09 Аudi 100/S4 (C4) | Power | 133 hp
+1991-09 Аudi 100/S4 (C4) | Power | 150 hp
+1991-09 Аudi 100/S4 (C4) | Power | 174 hp
+1991-09 Аudi 100/S4 (C4) | Power | 115 hp
+1991-09 Аudi 100/S4 (C4) | Fuel | diesel
+1991-09 Аudi 100/S4 (C4) | Fuel | petrol
+1991-09 Аudi 100/S4 (C4) | Fuel | petrol
+1991-09 Аudi 100/S4 (C4) | Fuel | petrol
+1991-09 Аudi 100/S4 (C4) | Fuel | petrol
+1991-09 Аudi 100/S4 (C4) | Fuel | diesel
 1991-09 Аudi 100/S4 (C4) | Gears | 4 auto
 1991-09 Аudi 100/S4 (C4) | Gears | 5 manual
 1992 Audi 80 (B4) | Body | sedan
@@ -4585,6 +5480,7 @@
 1992 Audi 80 (B4) | Height | 1397 mm
 1992 Audi 80 (B4) | Doors | 4
 1992 Audi Coupe | Body | coupe
+1992 Audi S2 Turbo | Compressor | turbo
 1992 BMW 850csi | Volume | 5578 cc
 1992 BMW 850csi | Power | 380 hp
 1992 BMW 850csi | Body | coupe
@@ -4626,20 +5522,42 @@
 1992 Ferrari 456 GT | Gears | 6
 1992 Ferrari 456 GT | Gears | 6 manual
 1992 Ferrari 456 GT | Drive | rear
+1992 Opel Calibra | Volume | 2 L
+1992 Opel Calibra | Compressor | turbo
+1992 Opel Calibra | Power | 204 hp
+1992 Opel Calibra | Fuel feed | injection
+1992 Opel Calibra | Valves per cylinder | 4
 1992 Opel Monterey | Count | 1995 1627
 1992 Opel Monterey | Count | 1994 2609
 1992 Opel Monterey | Count | 1999 758
 1992 Opel Monterey | Count | 1996 919
 1992 Opel Monterey | Count | 1997 937
 1992 Opel Monterey | Count | 1998 980
+1992 Opel Monterey | Volume | 3.2 L
+1992 Opel Monterey | Cylinders | V6
+1992 Opel Monterey | Power | 177 hp
+1992 Opel Monterey | Fuel | petrol
 1992 Opel Monterey | Gears | 5 manual
 1992 Opel Monterey 3-door | Wheelbase | 2330 mm
+1992 Opel Monterey 3.1TDS | Volume | 3.1 L
+1992 Opel Monterey 3.1TDS | Compressor | turbo
+1992 Opel Monterey 3.1TDS | Power | 114 hp
+1992 Opel Monterey 3.1TDS | Fuel | diesel
 1992 Opel Monterey 4-door | Wheelbase | 2760 mm
 1992 Porsche 911 RS (964) | Volume | 3.8 L
+1992 Porsche 911 RS (964) | Volume | 3.6 L
 1992 Porsche 911 RS (964) | Power | 300 hp
+1992 Porsche 911 RS 3.8 (964) | Volume | 3.8 L
+1992 Porsche 911 RS 3.8 (964) | Power | 300 hp
+1992 Porsche 911 Turbo | Speed | 280 kmph
+1992 Porsche 911 Turbo | Body | coupe
 1992 Porsche 911 Turbo (964) | Volume | 3.6 L
+1992 Porsche 911 Turbo (964) | Volume | 3600 cc
 1992 Porsche 911 Turbo (964) | Compressor | turbo
 1992 Porsche 911 Turbo (964) | Power | 360 hp
+1992 Porsche 911 Turbo (964) | Power | 360 hp
+1992 Porsche 911 Turbo (964) | Power | 360 hp
+1992 Porsche 911 Turbo (964) | 0-60 mph | 4.5 s
 1992 Porsche 911 Turbo (964) | 0-60 mph | 4.5 s
 1992 Porsche 911 turbo 3.6 | Volume | 3600 cc
 1992 Porsche 911 turbo 3.6 | Cylinders | B6
@@ -4658,11 +5576,21 @@
 1992 Porsche 911 Turbo Cabriolet | Power | 282 hp @ 5500 rpm
 1992 Porsche 911 Turbo Cabriolet | Speed | 253 kmph
 1992 Porsche 911 Turbo Cabriolet | 0-60 mph | 5.3 s
+1992 Porsche 911 turbo S (964) | Count | 81
+1992 Porsche 911 turbo S (964) | Volume | 3.3 L
+1992 Porsche 911 turbo S (964) | Power | 380 hp
+1992 Porsche 911 turbo S (964) | Power | 380 hp
+1992 Porsche 911 turbo S (964) | Torque | 361 lb-ft
+1992 Porsche 911 turbo S (964) | Torque | 361 lb-ft
+1992 Porsche 911 turbo S (964) | Weight | 1280 kg
+1992 Porsche 911 turbo S (964) | Weight | 1280 kg
 1992 Porsche 928 GTS | Volume | 5.4 L
 1992 Porsche 928 GTS | Volume | 5397 cc
+1992 Porsche 928 GTS | Volume | 5.4 L
 1992 Porsche 928 GTS | Cylinders | V8
 1992 Porsche 928 GTS | Power | 345 hp @ 5700 rpm
 1992 Porsche 928 GTS | Power | 345 hp @ 6200 rpm
+1992 Porsche 928 GTS | Power | 350 hp
 1992 Porsche 928 GTS | Power | 350 hp
 1992 Porsche 928 GTS | Torque | 500 nm @ 4250 rpm
 1992 Porsche 928 GTS | Torque | 490 nm
@@ -4743,12 +5671,38 @@
 1992 Porsche 968 | Engine placement | front
 1992 Porsche 968 | Brakes | ventilated disc
 1992 Porsche 968 | Gears | 6 manual
+1992 Porsche American Roadster | Count | 250
+1992-01 Audi Coupe | Volume | 2 L
+1992-01 Audi Coupe | Power | 101 kW
+1992-01 Audi Coupe | Fuel | petrol
+1992-01 Audi Coupe | Valves per cylinder | 4
 1992-01 Audi Coupe | Gears | 5 manual
+1992-01 Audi Coupe | Gears | 6 auto
+1992-08 Audi Coupe | Volume | 2 L
+1992-08 Audi Coupe | Volume | 2.5 L
+1992-08 Audi Coupe | Cylinders | V6
+1992-08 Audi Coupe | Power | 103 kW
+1992-08 Audi Coupe | Power | 110 kW
+1992-08 Audi Coupe | Fuel | petrol
+1992-08 Audi Coupe | Fuel | petrol
+1992-08 Audi Coupe | Valves per cylinder | 4
 1992-08 Audi Coupe | Gears | 5 manual
 1992-08 Audi Coupe | Gears | 4 auto
 1992-08 Audi quattro | Gears | 5 manual
+1992-08 Audi Quattro | Volume | 2.6 L
+1992-08 Audi Quattro | Cylinders | V6
+1992-08 Audi Quattro | Power | 110 kW
+1992-08 Audi Quattro | Fuel | petrol
 1992-08 Audi S2 | Gears | 5 manual
+1992-08 Audi S2 3B | Volume | 2.2 L
+1992-08 Audi S2 3B | Compressor | turbo
+1992-08 Audi S2 3B | Power | 162 kW
+1992-08 Audi S2 3B | Fuel | petrol
 1992-10 Audi quattro S2 | Gears | 6 manual
+1992-10 Audi Quattro S2 | Volume | 2.2 L
+1992-10 Audi Quattro S2 | Compressor | turbo
+1992-10 Audi Quattro S2 | Power | 169 kW
+1992-10 Audi Quattro S2 | Fuel | petrol
 1993 Alpine A610 | Cylinders | V6
 1993 Alpine A610 | Compressor | 2 turbo
 1993 Alpine A610 | Power | 450 hp
@@ -4828,18 +5782,38 @@
 1993 Bugatti EB112 | Engine placement | front
 1993 Bugatti EB112 | Brakes | ventilated disc
 1993 Bugatti EB112 | Gears | 6 manual
+1993 Daewoo Racer | Volume | 1.5 L
+1993 Opel Astra | Volume | 1.4 L
+1993 Opel Astra | Volume | 1.4 L
+1993 Opel Astra | Volume | 1.6 L
+1993 Opel Astra | Volume | 1.6 L
+1993 Opel Astra | Volume | 1.8 L
+1993 Opel Astra | Power | 90 hp
+1993 Opel Astra | Power | 75 hp
+1993 Opel Astra | Power | 116 hp
+1993 Opel Astra | Power | 75 hp
+1993 Opel Astra | Power | 90 hp
+1993 Opel Astra | Power | 71 hp
+1993 Opel Astra | Power | 100 hp
+1993 Opel Astra | Power | 116 hp
+1993 Opel Astra | Valves per cylinder | 4
 1993 Opel Astra | Clearance | 130 mm
 1993 Opel Astra | Drive | front
+1993 Opel Astra 2.0 | Volume | 2 L
+1993 Opel Astra 2.0 | Power | 136 hp
 1993 Opel Corsa (B) | Body | hatchback 3
 1993 Opel Corsa (B) | Body | hatchback 5
 1993 Opel Corsa (B) | Body | sedan
 1993 Opel Corsa (B) | Gears | 4 auto
 1993 Porsche 911 (993) | Volume | 3600 cc
+1993 Porsche 911 (993) | Volume | 3600 cc
 1993 Porsche 911 (993) | Power | 272 hp
 1993 Porsche 911 (993) | Power | 285 hp
+1993 Porsche 911 (993) | Power | 272 hp
 1993 Porsche 911 (993) | Body | coupe
 1993 Porsche 911 (993) | Wheels | 16
 1993 Porsche 911 (993) | Gears | 4 auto
+1993 Porsche 911 (993) | Gears | 6 manual
 1993 Porsche 911 (993) | Gears | 6 manual
 1993 Porsche 911 (993) | Drive | rear
 1993 Porsche 911 993 Carrera 4 & 2 | Volume | 3600 cc
@@ -5011,10 +5985,17 @@
 1993 Porsche Boxster | Gears | 5 auto
 1993 Porsche Boxster | Gears | 5 manual
 1993 Porsche Boxster | Drive | rear
+1993 Porsche Boxster prototype | Body | roadster
 1993 Volkswagen Golf GTi | Volume | 2 L
 1993 Volkswagen Golf GTi | Power | 150 hp
 1993 Volkswagen Golf GTi | Valves per cylinder | 4
 1993 Volkswagen Passat (B4) | Count | 6919000
+1993 Volkswagen Passat (IV) | Volume | 1.9 L
+1993 Volkswagen Passat (IV) | Compressor | turbo
+1993 Volkswagen Passat (IV) | Power | 90 hp
+1993 Volkswagen Passat (IV) | Fuel | diesel
+1993 Volkswagen Passat (IV) | Fuel | diesel
+1993 Volkswagen Passat (IV) | Fuel feed | direct injection
 1993-03 Lamborghini Diablo VT | Drive | full
 1993-09 Porsche 962 Dauer | Volume | 2994 cc
 1993-09 Porsche 962 Dauer | Cylinders | B6
@@ -5045,6 +6026,9 @@
 1993-09 Porsche 962 Dauer | Drive | rear
 1994 Audi A4 (B5) | Rear brakes | disc
 1994 Audi A4 (B5) | Gears | 5 auto
+1994 Audi A4 1.8 (B5) | Volume | 1.8 L
+1994 Audi A4 1.8 (B5) | Compressor | turbo
+1994 Audi A4 1.8 (B5) | Power | 150 hp
 1994 Audi A8 | Count | 105000
 1994 Audi A8 (D2 4D) (D2) | Volume | 2496 cc
 1994 Audi A8 (D2 4D) (D2) | Volume | 3697 cc
@@ -5096,7 +6080,20 @@
 1994 De Tomaso Guara | Body | spyder
 1994 De Tomaso Guara | Body | roadster
 1994 De Tomaso Guara | Seats | 2
+1994 Jaguar XJ 3.2 | Volume | 3.2 L
+1994 Jaguar XJ 3.2 | Cylinders | V6
+1994 Jaguar XJ 4.0 | Volume | 4 L
+1994 Jaguar XJ 4.0 | Cylinders | V6
+1994 Jaguar XJ 6.0 | Volume | 6 L
+1994 Jaguar XJ 6.0 | Cylinders | V12
 1994 Lamborghini Diablo Special Edition | Count | 150
+1994 Opel Calibra 2.0i | Volume | 2 L
+1994 Opel Calibra 2.0i | Fuel feed | injection
+1994 Opel Calibra 2.0i | Valves per cylinder | 4
+1994 Opel Calibra 2.5i | Volume | 2.5 L
+1994 Opel Calibra 2.5i | Cylinders | V6
+1994 Opel Calibra 2.5i | Power | 170 hp @ 6000 rpm
+1994 Opel Calibra 2.5i | Fuel feed | injection
 1994 Opel Tigra | Count | 1994 6517
 1994 Opel Tigra | Count | 1995 24772
 1994 Opel Tigra | Count | 1996 12114
@@ -5114,8 +6111,16 @@
 1994 Opel Tigra | Gears | 4 auto
 1994 Opel Tigra | Gears | 5 manual
 1994 Opel Tigra | Drive | front
+1994 Opel Tigra 1.4i | Price | 14000 EUR
+1994 Opel Tigra 1.4i | Volume | 1.4 L
+1994 Opel Tigra 1.4i | Fuel feed | injection
+1994 Opel Tigra 1.6 Just | Price | 17000 EUR
+1994 Opel Tigra 1.6 Just | Volume | 1.6 L
+1994 Porsche 911 Carrera RS | Volume | 3746 cc
 1994 Porsche 911 Carrera RS | Volume | 3746 cc
 1994 Porsche 911 Carrera RS | Power | 300 hp
+1994 Porsche 911 Carrera RS | Power | 300 hp
+1994 Porsche 911 Speedster (964) | Price | 66400 USD @ 1994
 1994 Porsche 911 Speedster (964) | Count | 2939
 1994 Porsche 911 Speedster (964) | Volume | 3.6 L
 1994 Porsche 911 Speedster (964) | Power | 247 hp
@@ -5133,11 +6138,15 @@
 1994 Porsche 911 turbo | Engine placement | rear
 1994 Porsche 911 turbo | Gears | 6
 1994 Porsche 911 turbo | Drive | full
+1994 Porsche 911 Turbo | Power | 408 hp
+1994 Porsche 911 Turbo | Drive | full
 1994 Porsche 911 Turbo (993) | Power | 408 hp
 1994 Porsche 911 Turbo (993) | Drive | full
+1994 Porsche 911 Turbo S (964) | Price | 120000 USD @ USA
 1994 Porsche 911 Turbo S (964) | Count | 100
 1994 Porsche 911 Turbo S (964) | Power | 381 hp
 1994 Porsche 911 Turbo S (964) | Speed | 180 mph
+1994 Porsche 911 Turbo S flatnose (964) | Price | 160000 USD @ USA
 1994 Porsche 928 GTS | Power | 345 hp @ 5700 rpm
 1994 Porsche 968 CS | Volume | 2990 cc
 1994 Porsche 968 CS | Power | 240 hp @ 6200 rpm
@@ -5207,8 +6216,14 @@
 1994 Porsche 968 Turbo S | Gears | 6 manual
 1994 Porsche 968 Turbo S | Gears | 6 manual
 1994 Porsche 968 Turbo S | Drive | rear
+1994 Porsche C88 | Count | 1
+1994 Porsche C88 | Volume | 1.1 L
+1994 Porsche C88 | Body | sedan
 1994 Volkswagen Polo (4) | Body | hatchback 3
 1994 Volkswagen Polo (4) | Body | hatchback 5
+1994-02 Opel Omega (B) | Volume | 2498 cc
+1994-02 Opel Omega (B) | Cylinders | V6
+1994-02 Opel Omega (B) | Fuel feed | injection
 1994-02 Opel Omega (B) | Body | sedan 4
 1994-02 Opel Omega (B) | Body | wagon 5
 1994-02 Opel Omega (B) | Brakes | ventilated disc
@@ -5216,11 +6231,60 @@
 1994-02 Opel Omega (B) | Gears | 4 auto
 1994-02 Opel Omega (B) | Gears | 5 manual
 1994-02 Opel Omega (B) | Drive | rear
+1994-02 Opel Omega 2.0i (B) | Volume | 1998 cc
+1994-02 Opel Omega 2.0i (B) | Valves per cylinder | 4
+1994-02 Opel Omega 2.5TD (B) | Volume | 2497 cc
+1994-02 Opel Omega 2.5TD (B) | Compressor | turbo
+1994-02 Opel Omega 2.5TD (B) | Fuel | diesel
+1994-06 Audi A8 2.8 (D2 4D) | Volume | 2.8 L
+1994-06 Audi A8 2.8 (D2 4D) | Cylinders | V6
+1994-06 Audi A8 2.8 (D2 4D) | Power | 128 kW
+1994-06 Audi A8 2.8 (D2 4D) | Fuel | petrol
+1994-06 Audi A8 2.8 (D2 4D) | Gears | 5 manual
+1994-06 Audi A8 2.8 (D2 4D) | Gears | 4 auto
+1994-07 Audi Coupe | Volume | 2 L
+1994-07 Audi Coupe | Volume | 2 L
+1994-07 Audi Coupe | Volume | 2 L
+1994-07 Audi Coupe | Volume | 2.6 L
+1994-07 Audi Coupe | Volume | 2.8 L
+1994-07 Audi Coupe | Cylinders | V6
+1994-07 Audi Coupe | Cylinders | V6
+1994-07 Audi Coupe | Power | 103 kW
+1994-07 Audi Coupe | Power | 85 kW
+1994-07 Audi Coupe | Power | 110 kW
+1994-07 Audi Coupe | Power | 128 kW
+1994-07 Audi Coupe | Fuel | petrol
+1994-07 Audi Coupe | Fuel | petrol
+1994-07 Audi Coupe | Fuel | petrol
+1994-07 Audi Coupe | Fuel | petrol
+1994-07 Audi Coupe | Valves per cylinder | 4
 1994-07 Audi Coupe | Gears | 5 manual
 1994-07 Audi Coupe | Gears | 4 auto
+1994-07 Audi S2 | Volume | 2 L
+1994-07 Audi S2 | Compressor | turbo
+1994-07 Audi S2 | Power | 169 kW
+1994-07 Audi S2 | Fuel | petrol
 1994-07 Audi S2 | Gears | 6 manual
+1994-08 Audi 2.6 quattro | Volume | 2.6 L
+1994-08 Audi 2.6 quattro | Cylinders | V6
+1994-08 Audi 2.6 quattro | Power | 110 kW
+1994-08 Audi 2.6 quattro | Fuel | petrol
 1994-08 Audi 2.6 quattro | Gears | 5 manual
+1994-08 Audi 2.8 quattro | Volume | 2.8 L
+1994-08 Audi 2.8 quattro | Cylinders | V6
+1994-08 Audi 2.8 quattro | Power | 128 kW
+1994-08 Audi 2.8 quattro | Fuel | petrol
 1994-08 Audi 2.8 quattro | Gears | 5 manual
+1994-08 Opel Astra | Volume | 1.7 L
+1994-08 Opel Astra | Compressor | turbo
+1994-08 Opel Astra | Power | 82 hp
+1994-08 Opel Astra | Fuel | diesel
+1994-09 Opel Tigra 1.4i | Volume | 1.4 L
+1994-09 Opel Tigra 1.4i | Fuel feed | injection
+1994-09 Opel Tigra 1.4i | Valves per cylinder | 4
+1994-09 Opel Tigra 1.6i | Volume | 1.6 L
+1994-09 Opel Tigra 1.6i | Fuel feed | injection
+1994-09 Opel Tigra 1.6i | Valves per cylinder | 4
 1995 Alfa Romeo GTV | Volume | 1997 cc
 1995 Alfa Romeo GTV | Cylinders | 6
 1995 Alfa Romeo GTV | Power | 200 hp @ 6000 rpm
@@ -5349,11 +6413,15 @@
 1995 Porsche 911 (993) Carrera RS Clubsport | Gears | 6 manual
 1995 Porsche 911 Carrera | Power | 285 hp
 1995 Porsche 911 Carrera 4 | Weight | 1400 kg
+1995 Porsche 911 Carrera 4S | Power | 286 bhp
 1995 Porsche 911 GT2 | Volume | 3.6 L
 1995 Porsche 911 GT2 | Compressor | 2 turbo
 1995 Porsche 911 GT2 | Power | 430 hp
 1995 Porsche 911 GT2 | Speed | 300 kmph
 1995 Porsche 911 GT2 | 0-100 kmph | 4.4 s
+1995 Porsche 911 GT2 (993) | Power | 430 hp
+1995 Porsche 911 GT2 (993) | Weight | 1290 kg
+1995 Porsche 911 GT2 (993) | Drive | rear
 1995 Porsche 911 RS | Volume | 3746 cc
 1995 Porsche 911 RS | Cylinders | 6
 1995 Porsche 911 RS | Compressor | no
@@ -5366,10 +6434,20 @@
 1995 Porsche 911 RS | Engine placement | rear
 1995 Porsche 911 RS | Gears | 6
 1995 Porsche 911 RS | Drive | rear
+1995 Porsche 911 RS (993) | Volume | 3.8 L
+1995 Porsche 911 RS (993) | Power | 300 hp
 1995 Porsche 911 Targa | Body | targa
+1995 Porsche 911 Targa | Body | targa
+1995 Porsche 911 Targa | Body | targa
+1995 Porsche 911 Targa | Body | targa
+1995 Porsche 911 Turbo | Volume | 3600 cc
 1995 Porsche 911 Turbo | Volume | 3600 cc
 1995 Porsche 911 Turbo | Compressor | turbo
 1995 Porsche 911 Turbo | Power | 408 hp
+1995 Porsche 911 Turbo | Power | 408 hp
+1995 Porsche 911 Turbo | Power | 408 hp
+1995 Porsche 911 Turbo | Speed | 290 kmph
+1995 Porsche 911 Turbo | 0-100 kmph | 4.5 s
 1995 Porsche 911 Turbo | Drive | full
 1995 Porsche 928 GTS | Power | 345 hp @ 5700 rpm
 1995 Porsche GT2 | Power | 430 hp
@@ -5377,9 +6455,33 @@
 1995 Porshe 911 Turbo | Volume | 3600 cc
 1995 Porshe 911 Turbo | Power | 408 hp
 1995 Volkswagen Polo Classic | Body | sedan
+1995-05 Audi Coupe quattro 2.6 | Volume | 2.6 L
+1995-05 Audi Coupe quattro 2.6 | Cylinders | V6
+1995-05 Audi Coupe quattro 2.6 | Power | 110 kW
+1995-05 Audi Coupe quattro 2.6 | Fuel | petrol
 1995-05 Audi Coupe quattro 2.6 | Gears | 5 manual
+1995-05 Audi Coupe quattro 2.8 | Volume | 2.8 L
+1995-05 Audi Coupe quattro 2.8 | Cylinders | V6
+1995-05 Audi Coupe quattro 2.8 | Power | 128 kW
+1995-05 Audi Coupe quattro 2.8 | Fuel | petrol
 1995-05 Audi Coupe quattro 2.8 | Gears | 5 manual
+1995-05 Audo Coupe quattro S2 | Volume | 2.2 L
+1995-05 Audo Coupe quattro S2 | Compressor | turbo
+1995-05 Audo Coupe quattro S2 | Power | 169 kW
+1995-05 Audo Coupe quattro S2 | Fuel | petrol
 1995-05 Audo Coupe quattro S2 | Gears | 6 manual
+1995-07 Audi A8 2.8 (D2 4D) | Volume | 2.8 L
+1995-07 Audi A8 2.8 (D2 4D) | Cylinders | V6
+1995-07 Audi A8 2.8 (D2 4D) | Power | 120 kW
+1995-07 Audi A8 2.8 (D2 4D) | Fuel | petrol
+1995-07 Audi A8 2.8 (D2 4D) | Gears | 5 manual
+1995-07 Audi A8 2.8 (D2 4D) | Gears | 4 auto
+1995-07 Audi A8 3.7 (D2 4D) | Volume | 3.7 L
+1995-07 Audi A8 3.7 (D2 4D) | Cylinders | V8
+1995-07 Audi A8 3.7 (D2 4D) | Power | 169 kW
+1995-07 Audi A8 3.7 (D2 4D) | Fuel | petrol
+1995-07 Audi A8 3.7 (D2 4D) | Gears | 5 auto
+1995-10 Porsche 911 Targa | Body | targa
 1996 Aston Martin V8 Coupe | Volume | 5341 cc
 1996 Aston Martin V8 Coupe | Cylinders | V8
 1996 Aston Martin V8 Coupe | Power | 355 hp @ 6000 rpm
@@ -5399,9 +6501,27 @@
 1996 Aston Martin V8 Coupe | Gears | 4 auto
 1996 Aston Martin V8 Coupe | Drive | rear
 1996 Audi A3 | Volume | 1.8 L
+1996 Audi A3 | Volume | 1.6 L
+1996 Audi A3 | Volume | 1.8 L
+1996 Audi A3 | Volume | 1.8 L
+1996 Audi A3 | Volume | 1.9 L
+1996 Audi A3 | Volume | 1.9 L
 1996 Audi A3 | Cylinders | 4
 1996 Audi A3 | Compressor | no
 1996 Audi A3 | Compressor | turbo
+1996 Audi A3 | Compressor | turbo
+1996 Audi A3 | Compressor | turbo
+1996 Audi A3 | Compressor | turbo
+1996 Audi A3 | Power | 101 hp
+1996 Audi A3 | Power | 125 hp
+1996 Audi A3 | Power | 150 hp
+1996 Audi A3 | Power | 110 hp
+1996 Audi A3 | Power | 90 hp
+1996 Audi A3 | Fuel | petrol
+1996 Audi A3 | Fuel | petrol
+1996 Audi A3 | Fuel | petrol
+1996 Audi A3 | Fuel | diesel
+1996 Audi A3 | Fuel | diesel
 1996 Audi A3 | Valves per cylinder | 5
 1996 Audi A3 | Body | hatchback
 1996 Audi A3 | Doors | 3
@@ -5581,6 +6701,13 @@
 1996 Nissan Skyline GT-R | Brakes | ventilated disc
 1996 Nissan Skyline GT-R | Gears | 5 manual
 1996 Nissan Skyline GT-R | Drive | full
+1996 Opel Monterey | Volume | 3.5 L
+1996 Opel Monterey | Cylinders | V6
+1996 Opel Monterey | Compressor | turbo
+1996 Opel Monterey | Power | 159 hp
+1996 Opel Monterey | Fuel | petrol
+1996 Opel Monterey | Fuel | diesel
+1996 Opel Monterey | Fuel feed | direct injection
 1996 Opel Monterey | Drive | full
 1996 Porsche 911 993 Carrera 4 & 2 | Volume | 3600 cc
 1996 Porsche 911 993 Carrera 4 & 2 | Power | 285 bhp @ 6100 rpm
@@ -5667,7 +6794,9 @@
 1996 Porsche 911 GT1 Strasseversion | Gears | 6 manual
 1996 Porsche 911 GT1 Strasseversion | Drive | rear
 1996 Porsche 911 GT2 | Volume | 3600 cc
+1996 Porsche 911 GT2 | Volume | 3.2 L
 1996 Porsche 911 GT2 | Cylinders | B6
+1996 Porsche 911 GT2 | Cylinders | 6
 1996 Porsche 911 GT2 | Compressor | 2 turbo
 1996 Porsche 911 GT2 | Power | 430 hp @ 5750 rpm
 1996 Porsche 911 GT2 | Power | 544 hp
@@ -5698,6 +6827,7 @@
 1996 Porsche 911 S | Width | 1795 mm
 1996 Porsche 911 S | Front track | 1405 mm
 1996 Porsche 911 S | Rear track | 1536 mm
+1996 Porsche 911 Targa (993) | Body | targa
 1996 Porsche 959 S | Volume | 2649 cc
 1996 Porsche 959 S | Cylinders | B6
 1996 Porsche 959 S | Compressor | 2 turbo
@@ -5716,8 +6846,14 @@
 1996 Porsche 959 S | Wheelbase | 2650 mm
 1996 Porsche 959 S | Gears | 5 manual
 1996 Porsche Boxster | Volume | 2480 cc
+1996 Porsche Boxster | Volume | 2480 cc
+1996 Porsche Boxster | Cylinders | B6
+1996 Porsche Boxster | Cylinders | B6
 1996 Porsche Boxster | Cylinders | B6
 1996 Porsche Boxster | Power | 204 hp
+1996 Porsche Boxster | Power | 204 hp
+1996 Porsche Boxster | Power | 204 hp
+1996 Porsche Boxster | Valves per cylinder | 4
 1996 Porsche Boxster | Valves per cylinder | 4
 1996 Subaru Forester | Price | 23000 USD @ USA
 1996 Subaru Forester | Volume | 1994 cc
@@ -5739,6 +6875,30 @@
 1996 Subaru Forester | Tyres | 205/70 R15
 1996 Subaru Forester | Gears | 4 auto
 1996 Subaru Forester | Drive | full
+1996 Volkswagen Passat (B5) | Volume | 1.6 L
+1996 Volkswagen Passat (B5) | Volume | 1.8 L
+1996 Volkswagen Passat (B5) | Volume | 1.8 L
+1996 Volkswagen Passat (B5) | Volume | 2 L
+1996 Volkswagen Passat (B5) | Volume | 2.3 L
+1996 Volkswagen Passat (B5) | Cylinders | R4
+1996 Volkswagen Passat (B5) | Cylinders | R4
+1996 Volkswagen Passat (B5) | Cylinders | VR5
+1996 Volkswagen Passat (B5) | Cylinders | V6
+1996 Volkswagen Passat (B5) | Compressor | turbo
+1996 Volkswagen Passat (B5) | Compressor | turbo
+1996 Volkswagen Passat (B5) | Compressor | turbo
+1996 Volkswagen Passat (B5) | Power | 100 hp
+1996 Volkswagen Passat (B5) | Power | 125 hp
+1996 Volkswagen Passat (B5) | Power | 150 hp
+1996 Volkswagen Passat (B5) | Power | 150 hp
+1996 Volkswagen Passat (B5) | Power | 110 hp
+1996 Volkswagen Passat (B5) | Power | 90 hp
+1996 Volkswagen Passat (B5) | Power | 193 hp
+1996 Volkswagen Passat (B5) | Fuel | diesel
+1996 Volkswagen Passat (B5) | Fuel | diesel
+1996 Volkswagen Passat (B5) | Valves per cylinder | 5
+1996 Volkswagen Passat (B5) | Valves per cylinder | 5
+1996 Volkswagen Passat (B5) | Valves per cylinder | 5
 1996 Volkswagen Passat (B5) | Body | sedan
 1996 Volkswagen Passat (B5) | Body | wagon
 1996 Volkswagen Passat (B5) | Cx | 0.270
@@ -5815,6 +6975,16 @@
 1996-03 Isotta Franschini T8 | Brakes | ventilated disc
 1996-03 Isotta Franschini T8 | Gears | 4 auto
 1996-03 Isotta Franschini T8 | Drive | full
+1996-04 Audi A8 2.8 (D2 4D) | Volume | 2.8 L
+1996-04 Audi A8 2.8 (D2 4D) | Cylinders | V6
+1996-04 Audi A8 2.8 (D2 4D) | Power | 142 kW
+1996-04 Audi A8 2.8 (D2 4D) | Fuel | petrol
+1996-04 Audi A8 2.8 (D2 4D) | Gears | 5 manual
+1996-04 Audi A8 2.8 (D2 4D) | Gears | 4 auto
+1996-04 Audi A8 2.8 (D2 4D) | Gears | 5 auto
+1996-06 Opel Tigra 1.4 | Volume | 1.4 L
+1996-06 Opel Tigra 1.6 | Volume | 1.6 L
+1996-06 Opel Tigra 1.6 | Volume | 1.6 L
 1996-09 Koenigsegg CC | Price | 225000 USD
 1996-09 Koenigsegg CC | Volume | 3820 cc
 1996-09 Koenigsegg CC | Cylinders | V12
@@ -5830,6 +7000,22 @@
 1996-09 Koenigsegg CC | Gears | 6 manual
 1996-09 Koenigsegg CC | Gears | 6 seq
 1996-09 Koenigsegg CC | Drive | rear
+1996-09 Opel Vectra Caravan (B) | Volume | 1.6 L
+1996-09 Opel Vectra Caravan (B) | Volume | 1.8 L
+1996-09 Opel Vectra Caravan (B) | Volume | 2 L
+1996-09 Opel Vectra Caravan (B) | Volume | 2.5 L
+1996-09 Opel Vectra Caravan (B) | Volume | 1.7 L
+1996-09 Opel Vectra Caravan (B) | Volume | 2 L
+1996-09 Opel Vectra Caravan (B) | Volume | 2 L
+1996-09 Opel Vectra Caravan (B) | Cylinders | V6
+1996-09 Opel Vectra Caravan (B) | Cylinders | V6
+1996-09 Opel Vectra Caravan (B) | Compressor | turbo
+1996-09 Opel Vectra Caravan (B) | Fuel | petrol
+1996-09 Opel Vectra Caravan (B) | Fuel | petrol
+1996-09 Opel Vectra Caravan (B) | Fuel | diesel
+1996-09 Opel Vectra Caravan (B) | Fuel | diesel
+1996-09 Opel Vectra Caravan (B) | Fuel | diesel
+1996-09 Opel Vectra Caravan (B) | Valves per cylinder | 4
 1996-10 Volkswagen Passat (V) | Power | 150 hp
 1996-10 Volkswagen Passat (V) | Power | 90 hp
 1997 Alfa Romeo Spider V6 | Volume | 2959 cc
@@ -5850,6 +7036,10 @@
 1997 Alfa Romeo Spider V6 | Brakes | ventilated disc
 1997 Alfa Romeo Spider V6 | Gears | 5 manual
 1997 Alfa Romeo Spider V6 | Drive | front
+1997 Audi A4 2.5 (B5) | Volume | 2.5 L
+1997 Audi A4 2.5 (B5) | Compressor | turbo
+1997 Audi A4 2.5 (B5) | Fuel | diesel
+1997 Audi A4 2.5 (B5) | Gears | 6 manual
 1997 Audi A6 | Volume | 2.7 L
 1997 Audi A6 | Volume | 2.8 L
 1997 Audi A6 | Cylinders | V6
@@ -5857,6 +7047,13 @@
 1997 Audi A6 | Valves per cylinder | 5
 1997 Audi A6 | Body | sedan
 1997 Audi A6 | Body | wagon
+1997 Audi A6 (C5) | Volume | 2.4 L
+1997 Audi A6 (C5) | Volume | 2.8 L
+1997 Audi A6 (C5) | Cylinders | V6
+1997 Audi A6 (C5) | Cylinders | V6
+1997 Audi A6 (C5) | Cylinders | R4
+1997 Audi A6 (C5) | Power | 165 hp
+1997 Audi A6 (C5) | Power | 193 hp
 1997 Audi A6 (C5) | Body | sedan
 1997 Audi A6 4.2 V8 Quattro | Volume | 4172 cc
 1997 Audi A6 4.2 V8 Quattro | Cylinders | V8
@@ -5988,14 +7185,36 @@
 1997 Opel Sintra | Gears | 4 auto
 1997 Opel Sintra | Gears | 5 manual
 1997 Opel Sintra | Drive | front
+1997 Opel Sintra 2.2 | Volume | 2.2 L
+1997 Opel Sintra 2.2 | Volume | 2.2 L
+1997 Opel Sintra 2.2 | Speed | 181 kmph
+1997 Opel Sintra 2.2 | Weight | 1605 kg
+1997 Opel Sintra 3.0 | Volume | 3 L
+1997 Opel Sintra 3.0 | Volume | 3 L
+1997 Opel Sintra 3.0 | Volume | 3 L
+1997 Opel Sintra 3.0 | Speed | 201 kmph
+1997 Opel Sintra 3.0 | Fuel consumption | 15.6 L/100km
+1997 Opel Sintra 3.0 | Fuel consumption | 9.1 L/100km
+1997 Opel Sintra 3.0 | Weight | 1705 kg
+1997 Opel Sintra DTI | Volume | 2171 cc
+1997 Opel Sintra DTI | Compressor | turbo
+1997 Opel Sintra DTI | Power | 116 hp @ 4300 rpm
+1997 Opel Sintra DTI | Torque | 230 nm @ 1600 rpm
+1997 Opel Sintra DTI | Fuel | diesel
+1997 Opel Sintra GLS | Fuel consumption | 12.5 L/100km
+1997 Opel Sintra GLS | Fuel consumption | 8.1 L/100km
 1997 Porsche 911 | Power | 300 hp
 1997 Porsche 911 | Speed | 280 kmph
+1997 Porsche 911 (993) | Volume | 3387 cc
+1997 Porsche 911 (993) | Power | 300 hp
 1997 Porsche 911 Carrera (996) | Volume | 3387 cc
 1997 Porsche 911 Carrera (996) | Cylinders | B6
 1997 Porsche 911 Carrera (996) | Power | 300 hp
 1997 Porsche 911 Carrera (996) | Valves per cylinder | 4
+1997 Porsche 911 Carrera 2 (996) | Body | coupe
 1997 Porsche 911 Carrera 4S | Weight | 1400 kg
 1997 Porsche 911 Carrera S | Weight | 1400 kg
+1997 Porsche 911 Carrera S (993) | Drive | rear
 1997 Porsche 911 GT1 | Volume | 3163 cc
 1997 Porsche 911 GT1 | Volume | 3.2 L
 1997 Porsche 911 GT1 | Cylinders | B6
@@ -6013,11 +7232,17 @@
 1997 Porsche 911 GT1 | Front tyres | 295/35 ZR18
 1997 Porsche 911 GT1 | Rear tyres | 335/30 ZR18
 1997 Porsche 911 GT1 | Gears | 6 manual
+1997 Porsche 911 Turbo (993) | Compressor | turbo
+1997 Porsche 911 Turbo (993) | Power | 424 hp
+1997 Porsche 911 Turbo (993) | Power | 424 hp
 1997 Porsche 911 Turbo S | Price | 150000 USD
+1997 Porsche 911 Turbo S | Volume | 3.6 L
 1997 Porsche 911 Turbo S | Volume | 3.6 L
 1997 Porsche 911 Turbo S | Cylinders | B6
 1997 Porsche 911 Turbo S | Compressor | 2 turbo
 1997 Porsche 911 Turbo S | Power | 424 hp
+1997 Porsche 911 Turbo S | Power | 450 hp
+1997 Porsche 911 Turbo S | Drive | full
 1997 Porsche 911 Turbo S | Drive | full
 1997 Ruf CTR 2 Sport | Volume | 3600 cc
 1997 Ruf CTR 2 Sport | Cylinders | B6
@@ -6071,6 +7296,7 @@
 1997 RUF Porsche CTR-2 | Brakes | disc
 1997 RUF Porsche CTR-2 | Gears | 6 manual
 1997 RUF Porsche CTR-2 | Drive | rear
+1997 Venturi Atlantique 300 | Power | 210 hp
 1997 Volkswagen Passat VR5 | Volume | 2327 cc
 1997 Volkswagen Passat VR5 | Cylinders | 5
 1997 Volkswagen Passat VR5 | Power | 150 hp @ 6000 rpm
@@ -6094,9 +7320,29 @@
 1997 Volkswagen Passat VR5 | Drive | front
 1997-03 Audi A6 (B5) | Price | 15000 USD
 1997-03 Audi A6 (B5) | Price | 30000 USD
+1997-03 Opel Tigra 1.4 | Volume | 1.4 L
+1997-03 Opel Tigra 1.6 | Volume | 1.6 L
+1997-05 Audi A8 3.7 (D2 4D) | Volume | 3.7 L
+1997-05 Audi A8 3.7 (D2 4D) | Cylinders | V8
+1997-05 Audi A8 3.7 (D2 4D) | Power | 169 kW
+1997-05 Audi A8 3.7 (D2 4D) | Fuel | petrol
+1997-05 Audi A8 3.7 (D2 4D) | Gears | 5 auto
+1997-06 Audi A8 2.5 (D2 4D) | Volume | 2.5 L
+1997-06 Audi A8 2.5 (D2 4D) | Cylinders | V6
+1997-06 Audi A8 2.5 (D2 4D) | Compressor | turbo
+1997-06 Audi A8 2.5 (D2 4D) | Power | 110 kW
+1997-06 Audi A8 2.5 (D2 4D) | Fuel | diesel
+1997-06 Audi A8 2.5 (D2 4D) | Gears | 6 manual
+1997-06 Audi A8 2.5 (D2 4D) | Gears | 5 auto
 1997-06 Volkswagen Passat Variant | Volume | 2.3 L
 1997-06 Volkswagen Passat Variant | Cylinders | V5
 1997-06 Volkswagen Passat Variant | Power | 150 hp
+1997-10 Audi A8 2.8 (D2 4D) | Volume | 2.8 L
+1997-10 Audi A8 2.8 (D2 4D) | Cylinders | V6
+1997-10 Audi A8 2.8 (D2 4D) | Power | 142 kW
+1997-10 Audi A8 2.8 (D2 4D) | Fuel | petrol
+1997-10 Audi A8 2.8 (D2 4D) | Gears | 5 manual
+1997-10 Audi A8 2.8 (D2 4D) | Gears | 4 auto
 1997-10 BMW Z07 Concept | Volume | 5000 cc
 1997-10 BMW Z07 Concept | Cylinders | V8
 1997-10 BMW Z07 Concept | Power | 400 hp
@@ -6107,6 +7353,13 @@
 1997-10 Volkswagen Passat Syncro | Cylinders | V6
 1997-10 Volkswagen Passat Syncro | Power | 193 hp
 1997-10 Volkswagen Passat Syncro | Drive | full
+1997-11 Audi A8 2.5 (D2 4D) | Volume | 2.5 L
+1997-11 Audi A8 2.5 (D2 4D) | Cylinders | V6
+1997-11 Audi A8 2.5 (D2 4D) | Compressor | turbo
+1997-11 Audi A8 2.5 (D2 4D) | Power | 110 kW
+1997-11 Audi A8 2.5 (D2 4D) | Fuel | diesel
+1997-11 Audi A8 2.5 (D2 4D) | Gears | 6 manual
+1997-11 Audi A8 2.5 (D2 4D) | Gears | 5 auto
 1998 AC Cobra Superblower | Price | 69795 GBP
 1998 AC Cobra Superblower | Volume | 4942 cc
 1998 AC Cobra Superblower | Cylinders | V8
@@ -6138,7 +7391,13 @@
 1998 AC Cobra Superblower | Gears | 5 manual
 1998 Audi A6 Avant | Body | wagon
 1998 Audi Allroad | Volume | 4.2 L
+1998 Audi Allroad | Volume | 2.5 L
+1998 Audi Allroad | Volume | 2.7 L
 1998 Audi Allroad | Compressor | 2 turbo
+1998 Audi Allroad | Power | 180 hp
+1998 Audi Allroad | Power | 250 hp
+1998 Audi Allroad | Fuel | diesel
+1998 Audi Allroad | Fuel | petrol
 1998 Audi Allroad | Clearance | 142..208 mm
 1998 Audi Allroad | Gears | 5 auto
 1998 Audi Allroad | Gears | 6 manual
@@ -6181,6 +7440,10 @@
 1998 Audi S4 | Wheelbase | 2610 mm
 1998 Audi S4 | Engine placement | front
 1998 Audi S4 | Gears | 6 manual
+1998 Audi TT | Volume | 1.8 L
+1998 Audi TT | Compressor | turbo
+1998 Audi TT | Power | 132 kW
+1998 Audi TT | Fuel | petrol
 1998 Audi TT | Gears | 5
 1998 Audi TT | Drive | full
 1998 Audi TT Coupe (A4) | Volume | 1.8 L
@@ -6195,6 +7458,10 @@
 1998 Audi TT Coupe (A4) | Drive | front
 1998 Audi TT Coupe (A4) | Drive | full
 1998 Audi TT Coupe (A4) | Drive | full auto-switchable
+1998 Audi TT Quattro | Volume | 1.8 L
+1998 Audi TT Quattro | Compressor | turbo
+1998 Audi TT Quattro | Power | 165 kW
+1998 Audi TT Quattro | Fuel | petrol
 1998 Audi TT Quattro | Gears | 6
 1998 Audi TTS Roadster | Volume | 1810 cc
 1998 Audi TTS Roadster | Cylinders | V4
@@ -6379,6 +7646,11 @@
 1998 Opel Astra (G) | Brakes | disc
 1998 Opel Astra (G) | Gears | 4 auto
 1998 Opel Astra (G) | Gears | 5 manual
+1998 Opel Astra 1.2 (G) | Volume | 1.2 L
+1998 Opel Astra 1.6 (G) | Volume | 1.6 L
+1998 Opel Astra 2.0 (G) | Volume | 2 L
+1998 Opel Astra 2.0D (G) | Volume | 2 L
+1998 Opel Astra 2.0D (G) | Fuel | diesel
 1998 Opel Frontera (B) | Count | 1994 10760
 1998 Opel Frontera (B) | Count | 1995 10258
 1998 Opel Frontera (B) | Count | 1996 7580
@@ -6386,6 +7658,17 @@
 1998 Opel Frontera (B) | Count | 1998 4861
 1998 Opel Frontera (B) | Count | 1999 7232
 1998 Opel Frontera (B) | Count | 2001 5400
+1998 Opel Frontera (B) | Volume | 2.2 L
+1998 Opel Frontera (B) | Volume | 2.2 L
+1998 Opel Frontera (B) | Volume | 3.2 L
+1998 Opel Frontera (B) | Volume | 3.2 L
+1998 Opel Frontera (B) | Cylinders | V6
+1998 Opel Frontera (B) | Power | 136 hp
+1998 Opel Frontera (B) | Power | 205 hp
+1998 Opel Frontera (B) | Torque | 202 nm @ 2500 rpm
+1998 Opel Frontera (B) | Torque | 290 nm @ 3000 rpm
+1998 Opel Frontera (B) | Fuel | petrol
+1998 Opel Frontera (B) | Fuel | petrol
 1998 Opel Frontera (B) | Fuel consumption | 9.1 L/100km
 1998 Opel Frontera (B) | Weight | 1870 kg
 1998 Opel Frontera (B) | Length | 4474 mm
@@ -6402,6 +7685,12 @@
 1998 Opel Frontera (B) 3-door | Trunk size | 321..1137 L
 1998 Opel Frontera (B) 5-door | Body | wagon 5
 1998 Opel Frontera (B) 5-door | Trunk size | 518..1790 L
+1998 Opel Frontera X22DTH (B) | Volume | 2.2 L
+1998 Opel Frontera X22DTH (B) | Compressor | turbo
+1998 Opel Frontera X22DTH (B) | Power | 115 hp
+1998 Opel Frontera X22DTH (B) | Torque | 260 nm @ 1900 rpm
+1998 Opel Frontera X22DTH (B) | Fuel | diesel
+1998 Opel Frontera X22DTH (B) | Valves per cylinder | 4
 1998 Porsche 911 (996) | Volume | 3387 cc
 1998 Porsche 911 (996) | Cylinders | B6
 1998 Porsche 911 (996) | Power | 296 hp @ 6800 rpm
@@ -6440,9 +7729,18 @@
 1998 Porsche 911 GT1 Evo | Front tyres | 295/35 ZR18
 1998 Porsche 911 GT1 Evo | Rear tyres | 335/30 ZR18
 1998 Porsche 911 GT1 Evo | Gears | 6 seq
+1998 Porsche 911 GT2 | Power | 450 hp
+1998 Porsche 911 Turbo S (993) | Compressor | turbo
 1998 Venturi Atlantique 300 2 turbo | Cylinders | V6
 1998 Venturi Atlantique 300 2 turbo | Compressor | 2 turbo
 1998 Venturi Atlantique 300 2 turbo | Power | 310 hp
+1998-01 Opel Tigra Sports 1.4 | Volume | 1.4 L
+1998-01 Opel Tigra Sports 1.6 | Volume | 1.6 L
+1998-01 Porsche 911 Turbo (993) | Power | 443 hp
+1998-01 Porsche 911 Turbo (993) | Torque | 431 lb-ft
+1998-01 Porsche 911 Turbo (993) | Weight | 1456 kg
+1998-03 Porsche 911 Cabriolet (993) | Body | cabriolet
+1998-07 Opel Tigra 1.6 | Volume | 1.6 L
 1998-10 Jaguar S-Type V8 | Volume | 3996 cc
 1998-10 Jaguar S-Type V8 | Cylinders | V8
 1998-10 Jaguar S-Type V8 | Power | 276 hp @ 6100 rpm
@@ -6460,6 +7758,22 @@
 1998-11 Opel Frontera | Gears | 4 auto
 1998-11 Opel Frontera | Gears | 5 manual
 1998-11 Opel Frontera | Drive | full switchable
+1998-11 Opel Frontera 2.2 | Volume | 2.2 L
+1998-11 Opel Frontera 2.2 | Power | 136 hp
+1998-11 Opel Frontera 2.2 | Torque | 202 nm @ 2500 rpm
+1998-11 Opel Frontera 2.2 | Fuel | petrol
+1998-11 Opel Frontera 2.2 | Fuel feed | direct injection
+1998-11 Opel Frontera 2.2D | Volume | 2.2 L
+1998-11 Opel Frontera 2.2D | Power | 115 hp
+1998-11 Opel Frontera 2.2D | Torque | 260 nm @ 1900 rpm
+1998-11 Opel Frontera 2.2D | Fuel | diesel
+1998-11 Opel Frontera 2.2D | Fuel feed | direct injection
+1998-11 Opel Frontera 2.2D | Fuel consumption | 9.1 L/100km
+1998-11 Opel Frontera 3.2 | Volume | 3.2 L
+1998-11 Opel Frontera 3.2 | Cylinders | V6
+1998-11 Opel Frontera 3.2 | Power | 205 hp
+1998-11 Opel Frontera 3.2 | Torque | 290 nm @ 3000 rpm
+1998-11 Opel Frontera 3.2 | Fuel | petrol
 1998-12 Audi R8 | Cylinders | V8
 1998-12 Audi R8 | Compressor | turbo
 1998-12 Audi R8 | Power | 550 hp
@@ -6512,6 +7826,13 @@
 1999 Audi RS4 (B5) | Height | 1400 mm
 1999 Audi RS4 (B5) | Gears | 6
 1999 Audi RS4 (B5) | Drive | full
+1999 Audi S3 | Volume | 1.8 L
+1999 Audi S3 | Compressor | turbo
+1999 Audi S3 | Compressor | turbo
+1999 Audi S3 | Power | 180 hp
+1999 Audi S3 | Power | 90 hp
+1999 Audi S3 | Fuel | diesel
+1999 Audi S3 | Drive | full
 1999 Audi S3 | Drive | full
 1999 Audi S3 (A4) | Volume | 1781 cc
 1999 Audi S3 (A4) | Cylinders | 4
@@ -6568,6 +7889,16 @@
 1999 Audi S6 | Gears | 6 manual
 1999 Audi S6 | Drive | front
 1999 Audi S6 | Drive | full
+1999 Audi TT Roadster | Volume | 1.8 L
+1999 Audi TT Roadster | Volume | 1.8 L
+1999 Audi TT Roadster | Compressor | turbo
+1999 Audi TT Roadster | Compressor | turbo
+1999 Audi TT Roadster | Power | 132 kW
+1999 Audi TT Roadster | Power | 165 kW
+1999 Audi TT Roadster | Fuel | petrol
+1999 Audi TT Roadster | Fuel | petrol
+1999 Audi TT Roadster | Gears | 5 manual
+1999 Audi TT Roadster | Gears | 6 manual
 1999 Audi TT Roadster (A4) | Body | roadster
 1999 Audi TT Roadster (A4) | Drive | front
 1999 Audi TT Roadster (A4) | Drive | full switchable
@@ -6655,6 +7986,11 @@
 1999 Bugatti EB 18/3 Chiron | Rear tyres | 335/30
 1999 Bugatti EB 18/3 Chiron | Wheels | 20
 1999 Bugatti EB 18/3 Chiron | Drive | full
+1999 Opel Arena | Volume | 2.5 L
+1999 Opel Arena | Volume | 1.9 L
+1999 Opel Arena | Power | 76 hp
+1999 Opel Arena | Power | 61 hp
+1999 Opel Arena | Fuel | diesel
 1999 Opel Arena | Body | van
 1999 Opel Arena | Length | 4.54 m
 1999 Opel Arena | Trunk size | 5300 L
@@ -6662,8 +7998,30 @@
 1999 Opel Campo | Length | 2.3 m
 1999 Opel Campo | Seats | 2
 1999 Opel Campo | Seats | 4
+1999 Opel Campo 2.5DI | Volume | 2.5 L
+1999 Opel Campo 2.5DI | Volume | 2.5 L
+1999 Opel Campo 2.5DI | Compressor | turbo
+1999 Opel Campo 2.5DI | Power | 76 hp
+1999 Opel Campo 2.5DI | Fuel | diesel
+1999 Opel Campo 3.1TDS | Volume | 3.1 L
+1999 Opel Campo 3.1TDS | Volume | 3.1 L
+1999 Opel Campo 3.1TDS | Compressor | turbo
+1999 Opel Campo 3.1TDS | Power | 109 hp
+1999 Opel Campo 3.1TDS | Fuel | diesel
+1999 Opel Movano | Volume | 2.5 L
+1999 Opel Movano | Compressor | turbo
+1999 Opel Movano | Power | 80 hp
+1999 Opel Movano | Power | 115 hp
+1999 Opel Movano | Fuel | diesel
+1999 Opel Movano | Fuel | diesel
+1999 Opel Movano | Fuel feed | direct injection
 1999 Opel Movano | Body | van
 1999 Opel Zafira | Price | 21000 USD
+1999 Opel Zafira | Compressor | turbo
+1999 Opel Zafira | Fuel | diesel
+1999 Opel Zafira | Fuel | petrol
+1999 Opel Zafira | Fuel | petrol
+1999 Opel Zafira | Fuel feed | distributed injection
 1999 Opel Zafira | Body | van
 1999 Opel Zafira | Cx | 0.330
 1999 Opel Zafira | Rear brakes | disc
@@ -6676,14 +8034,36 @@
 1999 Pagani Zonda C12 | Volume | 7 L
 1999 Pagani Zonda C12 | Cylinders | V12
 1999 Pagani Zonda C12 | Power | 550 hp
+1999 Porsche 911 Turbo (996) | Compressor | turbo
+1999 Porsche GT3 (996) | 0-100 kmph | 4.8 s
 1999 Porsche GT3 (996) | 0-100 kmph | 4.8 s
 1999-01 Audi A6 quattro 4.2 | Cylinders | V8
 1999-01 Audi A6 quattro 4.2 | Power | 220 kW
 1999-01 Audi A6 quattro 4.2 | Valves per cylinder | 5
+1999-01 Opel Tigra Wave 1.4 | Volume | 1.4 L
+1999-01 Opel Tigra Wave 1.6 | Volume | 1.6 L
+1999-01 Volkswagen Passat V6 TDI (B5) | Cylinders | V6
+1999-01 Volkswagen Passat V6 TDI (B5) | Compressor | turbo
+1999-01 Volkswagen Passat V6 TDI (B5) | Power | 150 hp
+1999-01 Volkswagen Passat V6 TDI (B5) | Fuel | diesel
+1999-10 Opel Astra Van | Volume | 1.6 L
+1999-10 Opel Astra Van | Volume | 1.7 L
+1999-10 Opel Astra Van | Volume | 2 L
+1999-10 Opel Astra Van | Compressor | turbo
+1999-10 Opel Astra Van | Compressor | turbo
+1999-10 Opel Astra Van | Power | 75 hp
+1999-10 Opel Astra Van | Power | 68 hp
+1999-10 Opel Astra Van | Power | 82 hp
+1999-10 Opel Astra Van | Fuel | petrol
+1999-10 Opel Astra Van | Fuel | diesel
+1999-10 Opel Astra Van | Fuel | diesel
+1999-10 Opel Astra Van | Fuel feed | direct injection
 1999-10 Opel Astra Van | Valves per cylinder | 4
 1999-10 Opel Astra Van | Speed | 170 kmph
+1999-10 Opel Astra Van | Fuel consumption | 6 L/100km
 1999-10 Opel Astra Van | Doors | 3
 1999-10 Opel Astra Van | Trunk size | 1600 L
+2000 Aston Martin V12 Vanquish | Cylinders | V12
 2000 Audi A3 | Engine placement | front transverse
 2000 Audi Allroad | Volume | 2.5 L
 2000 Audi Allroad | Volume | 2.7 L
@@ -6748,6 +8128,14 @@
 2000 Opel Agila | Wheels | 1.5Jx14
 2000 Opel Agila | Wheels | 14
 2000 Opel Agila | Gears | 5 manual
+2000 Opel Agila 1.0 | Volume | 1 L
+2000 Opel Agila 1.0 | Cylinders | R3
+2000 Opel Agila 1.0 | Power | 58 hp
+2000 Opel Agila 1.0 | Valves per cylinder | 4
+2000 Opel Agila 1.2 | Volume | 1.2 L
+2000 Opel Agila 1.2 | Cylinders | R4
+2000 Opel Agila 1.2 | Power | 75 hp
+2000 Opel Agila 1.2 | Valves per cylinder | 4
 2000 Opel Agila Njoy 1.2 | Price | 12890 EUR @ 2002-03
 2000 Opel Speedster | Price | 45000 USD @ 2003 Russia
 2000 Opel Speedster | Price | 60000 DM @ Germany
@@ -6905,6 +8293,8 @@
 2000 Porsche 911 3.6 Turbo (996) | Drive | full
 2000 Porsche 911 Turbo | Power | 420 hp
 2000 Porsche 911 Turbo | 0-100 kmph | 4.2 s
+2000 Porsche 911 Turbo (996) | Power | 420 hp
+2000 Porsche 911 Turbo (996) | 0-100 kmph | 4.2 s
 2000 Porsche Boxster | Cylinders | B6
 2000 Porsche Boxster | Power | 217 hp
 2000 Porsche Boxster | 0-60 mph | 6.6 s
@@ -6980,6 +8370,18 @@
 2000 Сadillac Northstar LMP | Gears | 6 seq
 2000 Сadillac Northstar LMP | Drive | rear
 2000-01 Jaguar F-Type | Body | roadster
+2000-03-18 Opel Astra 1.8i Coupe | Price | 36900 DM @ Germany
+2000-03-18 Opel Astra 1.8i Coupe | Price | 38380 DM @ Germany
+2000-03-18 Opel Astra 1.8i Coupe | Volume | 1.8 L
+2000-03-18 Opel Astra 1.8i Coupe | Volume | 1.8 L
+2000-03-18 Opel Astra 1.8i Coupe | Power | 125 hp
+2000-03-18 Opel Astra 1.8i Coupe | Fuel feed | injection
+2000-03-18 Opel Astra 1.8i Coupe | Fuel feed | injection
+2000-03-18 Opel Astra 1.8i Coupe | Valves per cylinder | 4
+2000-03-18 Opel Astra 2.2i Coupe | Price | 42900 DM @ Germany
+2000-03-18 Opel Astra 2.2i Coupe | Volume | 2.2 L
+2000-03-18 Opel Astra 2.2i Coupe | Fuel feed | injection
+2000-03-18 Opel Astra 2.2i Coupe | Valves per cylinder | 4
 2000-03-18 Opel Astra Coupe | Fuel | petrol
 2000-03-18 Opel Astra Coupe | Valves per cylinder | 4
 2000-03-18 Opel Astra Coupe | Speed | 200 kmph
@@ -6990,6 +8392,29 @@
 2000-03-18 Opel Astra Coupe | Wheels | 16
 2000-03-18 Opel Astra Coupe | Wheels | 6Jx16
 2000-03-18 Opel Astra Coupe | Gears | 5 manual
+2000-03-18 Opel Astra Coupe 1.8 | Volume | 1.8 L
+2000-03-18 Opel Astra Coupe 1.8 | Power | 115 hp
+2000-03-18 Opel Astra Coupe 1.8 | Power | 125 hp
+2000-03-18 Opel Astra Coupe 1.8 | Fuel feed | injection
+2000-03-18 Opel Astra Coupe 1.8 | Valves per cylinder | 4
+2000-03-18 Opel Astra Coupe 2.0 | Volume | 2 L
+2000-03-18 Opel Astra Coupe 2.0 | Compressor | turbo
+2000-03-18 Opel Astra Coupe 2.0 | Power | 190 hp
+2000-03-18 Opel Astra Coupe 2.0 | Fuel feed | injection
+2000-03-18 Opel Astra Coupe 2.0 | Valves per cylinder | 4
+2000-03-18 Opel Astra Coupe 2.2 | Volume | 2.2 L
+2000-03-18 Opel Astra Coupe 2.2 | Power | 147 hp
+2000-03-18 Opel Astra Coupe 2.2 | Fuel feed | injection
+2000-03-18 Opel Astra Coupe 2.2 | Valves per cylinder | 4
+2000-03-18 Opel Astra turbo Coupe | Price | 47900 DM @ Germany
+2000-03-18 Opel Astra turbo Coupe | Compressor | turbo
+2000-10 Opel Corsa (C) | Volume | 1 L
+2000-10 Opel Corsa (C) | Volume | 1.2 L
+2000-10 Opel Corsa (C) | Volume | 1.7 L
+2000-10 Opel Corsa (C) | Power | 75 hp
+2000-10 Opel Corsa (C) | Power | 90 hp
+2000-10 Opel Corsa (C) | Fuel | petrol
+2000-10 Opel Corsa (C) | Fuel consumption | 4.7 L/100km
 2000-10 Opel Corsa (C) | Body | hatchback 3
 2000-10 Opel Corsa (C) | Body | hatchback 5
 2000-10 Opel Corsa (C) | Gears | 4 auto
@@ -7014,8 +8439,13 @@
 2001 Ferrari 550 GTS | Front wheels | 12x18
 2001 Ferrari 550 GTS | Rear wheels | 14x18
 2001 Ford EX | Count | 1
+2001 Ford EX | Volume | 4 L
 2001 Ford EX | Cylinders | 4
+2001 Ford EX | Cylinders | V6
+2001 Ford EX | Compressor | mechanical
 2001 Ford EX | Power | 375 hp
+2001 Ford EX | Power | 375 hp
+2001 Ford EX | Torque | 560 nm
 2001 Ford EX | Body | buggy
 2001 Ford EX | Seats | 2
 2001 Ford EX | Engine placement | front
@@ -7032,9 +8462,26 @@
 2001 Maserati Spyder | Gears | 6 seq
 2001 Opel Astra Cabrio | Body | cabriolet
 2001 Opel Combo | Price | 20000 DM
+2001 Opel Combo | Volume | 1.4 L
+2001 Opel Combo | Volume | 1.7 L
+2001 Opel Combo | Power | 60 hp
+2001 Opel Combo | Power | 60 hp
+2001 Opel Combo | Fuel | petrol
+2001 Opel Combo | Fuel | diesel
+2001 Opel Combo | Fuel feed | injection
+2001 Opel Combo | Fuel feed | injection
 2001 Opel Combo | Body | truck
 2001 Opel Frogster | Count | 1
 2001 Opel Frogster | Volume | 1 L
+2001 Porsche 911 Targa | Volume | 3.6 L
+2001 Porsche 911 Targa | Power | 320 hp
+2001 Porsche 911 Targa | Gears | 6 manual
+2001 Porsche 911 Turbo | Volume | 3.6 L
+2001 Porsche 911 Turbo | Compressor | turbo
+2001 Porsche 911 Turbo | Power | 420 hp
+2001 Porsche GT2 | Volume | 3.6 L
+2001 Porsche GT2 | Compressor | turbo
+2001 Porsche GT2 | Power | 462 hp
 2001 Sbarro Christelle | Volume | 3405 cc
 2001 Sbarro Christelle | Cylinders | V8
 2001 Sbarro Christelle | Compressor | turbo
@@ -7051,11 +8498,19 @@
 2001 Volkswagen Passat (B6) | Fuel | petrol
 2001 Volkswagen Passat (B6) | Valves per cylinder | 5
 2001 Volkswagen Passat (B6) | 0-60 mph | 8.8 s
+2001 Volkswagen Passat (B6) | Fuel consumption | 20 mpg
+2001 Volkswagen Passat (B6) | Fuel consumption | 29 mpg
+2001 Volkswagen Passat (B6) | Fuel consumption | 18 mpg
+2001 Volkswagen Passat (B6) | Fuel consumption | 26 mpg
+2001 Volkswagen Passat (B6) | Weight | 3333 lbs
+2001 Volkswagen Passat (B6) | Weight | 3452 lbs
 2001 Volkswagen Passat (B6) | Length | 185.2 in
 2001 Volkswagen Passat (B6) | Width | 68.7 in
 2001 Volkswagen Passat (B6) | Fuel tank | 16.4 gal
 2001 Volkswagen Passat (B6) | Wheelbase | 106.4 in
 2001 Volkswagen Passat (B6) | Tyres | P205/55 R 16 H
+2001 Volkswagen Passat (B6) | Gears | 5 manual
+2001 Volkswagen Passat (B6) | Gears | 5 auto
 2001-01 Porsche 911 GT2 | Price | 175000 USD
 2001-01 Porsche 911 GT2 | Price | 184674 EUR @ Europe
 2001-01 Porsche 911 GT2 | Price | 180000 USD
@@ -7155,7 +8610,13 @@
 2001-06 Audi A4 Avant | Gears | var
 2001-06 Audi A4 Avant | Drive | front
 2001-06 Audi A4 Avant | Drive | full
+2001-09 Audi A4 Cabriolet | Volume | 2.4 L
+2001-09 Audi A4 Cabriolet | Volume | 3 L
 2001-09 Audi A4 Cabriolet | Cylinders | V6
+2001-09 Audi A4 Cabriolet | Power | 170 hp
+2001-09 Audi A4 Cabriolet | Power | 220 hp
+2001-09 Audi A4 Cabriolet | Fuel | petrol
+2001-09 Audi A4 Cabriolet | Fuel | petrol
 2001-09 Audi A4 Cabriolet | Length | 4.57 m
 2001-09 Audi A4 Cabriolet | Width | 1.77 m
 2001-09 Audi A4 Cabriolet | Seats | 4
@@ -7179,9 +8640,15 @@
 2002 Audi A6 2002 | Power | 130 hp
 2002 Audi A6 2002 | Fuel | diesel
 2002 Audi A6 2002 | Fuel | petrol
+2002 Audi A8 | Volume | 3.4 L
+2002 Audi A8 | Volume | 4.2 L
+2002 Audi A8 | Cylinders | V8
+2002 Audi A8 | Power | 280 hp
+2002 Audi A8 | Power | 335 hp
 2002 Audi A8 | Body | sedan
 2002 Audi A8 | Gears | 6 auto
 2002 Audi A8 | Drive | full constant
+2002 BMW M3 Cabriolet | Body | cabriolet
 2002 Enzo Ferrari | Count | 399
 2002 Enzo Ferrari | Volume | 5998 cc
 2002 Enzo Ferrari | Cylinders | V12
@@ -7220,6 +8687,15 @@
 2002 Opel Astra Caravan 1.6CNG (G) | Fuel consumption | 5.1 kg/100km
 2002 Opel Astra Caravan 1.6CNG (G) | Body | van
 2002 Opel Astra Caravan 1.6CNG (G) | Trunk size | 1470 L
+2002 Opel Corsa MPV | Volume | 1.2 L
+2002 Opel Corsa MPV | Volume | 1.7 L
+2002 Opel Corsa MPV | Volume | 1.8 L
+2002 Opel Corsa MPV | Power | 75 hp
+2002 Opel Corsa MPV | Power | 125 hp
+2002 Opel Corsa MPV | Fuel | petrol
+2002 Opel Corsa MPV | Fuel | diesel
+2002 Opel Corsa MPV | Fuel | petrol
+2002 Opel Corsa MPV | Valves per cylinder | 4
 2002 Opel Corsa MPV | Body | bus
 2002 Opel Corsa MPV | Seats | 5
 2002 Porsche Boxster | Price | 42100 EUR
@@ -7264,20 +8740,59 @@
 2002 Porsche Cayenne Turbo 4.5 V8 | Tyres | 255/55 R18
 2002 Porsche Cayenne Turbo 4.5 V8 | Gears | 6 auto
 2002 Porsche Cayenne Turbo 4.5 V8 | Drive | full constant
+2002 Volkswagen Phaeton | Volume | 3.2 L
+2002 Volkswagen Phaeton | Volume | 6 L
+2002 Volkswagen Phaeton | Cylinders | V10
+2002 Volkswagen Phaeton | Cylinders | V6
+2002 Volkswagen Phaeton | Cylinders | W12
+2002 Volkswagen Phaeton | Power | 313 hp
+2002 Volkswagen Phaeton | Power | 241 hp
+2002 Volkswagen Phaeton | Power | 420 hp
+2002 Volkswagen Phaeton | Fuel | diesel
+2002 Volkswagen Phaeton | Fuel | petrol
+2002 Volkswagen Phaeton | Fuel | petrol
 2002 Volkswagen Phaeton | Drive | front
 2002 Volkswagen Phaeton | Drive | full
+2002 Volkswagen Touareg | Volume | 6 L
+2002 Volkswagen Touareg | Cylinders | W12
+2002 Volkswagen Touareg | Power | 420 hp
 2002 Volkswagen Touareg | Speed | 200 kmph
+2002-01 Opel Vectra (C) | Volume | 1.8 L
+2002-01 Opel Vectra (C) | Volume | 2.2 L
+2002-01 Opel Vectra (C) | Volume | 2 L
+2002-01 Opel Vectra (C) | Volume | 3.2 L
+2002-01 Opel Vectra (C) | Volume | 2 L
+2002-01 Opel Vectra (C) | Volume | 2.2 L
+2002-01 Opel Vectra (C) | Compressor | turbo
+2002-01 Opel Vectra (C) | Compressor | turbo
+2002-01 Opel Vectra (C) | Compressor | turbo
+2002-01 Opel Vectra (C) | Fuel | petrol
+2002-01 Opel Vectra (C) | Fuel | petrol
+2002-01 Opel Vectra (C) | Fuel | petrol
+2002-01 Opel Vectra (C) | Fuel | petrol
+2002-01 Opel Vectra (C) | Fuel | diesel
+2002-01 Opel Vectra (C) | Fuel | diesel
 2002-01 Opel Vectra (С) | Fuel | petrol
 2002-01 Opel Vectra (С) | Body | sedan
 2002-01 Opel Vectra (С) | Gears | 5 manual
 2002-01 Opel Vectra (С) | Gears | 5 auto
 2002-01 Opel Vectra (С) | Gears | 6 manual
+2002-01 Opel Vectra 1.9CDTI (C) | Volume | 1.9 L
+2002-01 Opel Vectra 1.9CDTI (C) | Compressor | 2 turbo
+2002-01 Opel Vectra 1.9CDTI (C) | Fuel | diesel
+2002-09 Opel ECO-Speedster | Volume | 1.3 L
+2002-09 Opel ECO-Speedster | Power | 112 hp
+2003 Audi A6 S line | Volume | 2.7 L
+2003 Audi A6 S line | Volume | 3 L
 2003 Audi A6 S line | Volume | 2.7 L
 2003 Audi A6 S line | Volume | 3 L
 2003 Audi A6 S line | Cylinders | 6
 2003 Audi A6 S line | Compressor | 2 turbo
+2003 Audi A6 S line | Compressor | 2 turbo
 2003 Audi A6 S line | Power | 220 hp
 2003 Audi A6 S line | Power | 250 hp
+2003 Audi A6 S line | Power | 250 hp
+2003 Audi A6 S line | Power | 220 hp
 2003 Audi Nuvolari | Volume | 5 L
 2003 Audi Nuvolari | Cylinders | V10
 2003 Audi Nuvolari | Compressor | 2 turbo
@@ -7298,9 +8813,43 @@
 2003 BMW X3 | Power | 150 hp
 2003 BMW X3 | Fuel | diesel
 2003 BMW X3 | Fuel | petrol
+2003 Jaguar XJ | Volume | 3 L
+2003 Jaguar XJ | Volume | 3.5 L
+2003 Jaguar XJ | Volume | 4.2 L
+2003 Jaguar XJ | Volume | 4.2 L
+2003 Jaguar XJ | Cylinders | V6
+2003 Jaguar XJ | Cylinders | V8
+2003 Jaguar XJ | Cylinders | V8
+2003 Jaguar XJ | Cylinders | V8
+2003 Jaguar XJ | Compressor | mechanical
+2003 Jaguar XJ | Power | 240 hp
+2003 Jaguar XJ | Power | 262 hp
+2003 Jaguar XJ | Power | 300 hp
+2003 Jaguar XJ | Power | 400 hp
 2003 Jaguar XJ | Gears | 6 auto
 2003 Opel Agila | Price | 9950 EUR
+2003 Opel Agila | Volume | 1.3 L
+2003 Opel Agila | Volume | 1 L
+2003 Opel Agila | Volume | 1.2 L
+2003 Opel Agila | Power | 70 hp
+2003 Opel Agila | Power | 60 hp
+2003 Opel Agila | Power | 75 hp
+2003 Opel Agila | Fuel | diesel
+2003 Opel Agila | Fuel | petrol
+2003 Opel Agila | Fuel | petrol
+2003 Opel Agila | Fuel feed | injection
 2003 Opel Viva | Price | 18000 USD
+2003 Opel Viva | Volume | 1.2 L
+2003 Opel Viva | Volume | 1.7 L
+2003 Opel Viva | Volume | 1.8 L
+2003 Opel Viva | Compressor | turbo
+2003 Opel Viva | Power | 75 hp
+2003 Opel Viva | Power | 75 hp
+2003 Opel Viva | Power | 125 hp
+2003 Opel Viva | Fuel | petrol
+2003 Opel Viva | Fuel | diesel
+2003 Opel Viva | Fuel | petrol
+2003 Opel Viva | Fuel feed | direct injection
 2003 Opel Viva | Body | van
 2003 Opel Viva | Seats | 4+2
 2003 Opel Viva | Gears | 4 auto
@@ -7392,6 +8941,21 @@
 2003 Rolls-Royce Phantom | Gears | 6 auto
 2003 Rolls-Royce Phantom | Drive | rear
 2003-03 Opel Meriva | Price | 14000 EUR
+2003-03 Opel Meriva | Volume | 1.6 L
+2003-03 Opel Meriva | Volume | 1.6 L
+2003-03 Opel Meriva | Volume | 1.8 L
+2003-03 Opel Meriva | Volume | 1.7 L
+2003-03 Opel Meriva | Volume | 1.7 L
+2003-03 Opel Meriva | Compressor | turbo
+2003-03 Opel Meriva | Power | 87 hp
+2003-03 Opel Meriva | Power | 100 hp
+2003-03 Opel Meriva | Power | 125 hp
+2003-03 Opel Meriva | Power | 100 hp
+2003-03 Opel Meriva | Power | 75 hp
+2003-03 Opel Meriva | Fuel | diesel
+2003-03 Opel Meriva | Fuel feed | direct injection
+2003-03 Opel Meriva | Speed | 192 kmph
+2003-03 Opel Meriva | Speed | 175 kmph
 2003-03 Opel Meriva | Weight | 1350 kg
 2003-03 Opel Meriva | Body | van
 2003-03 Opel Meriva | Length | 4042 mm
@@ -7405,6 +8969,26 @@
 2003-03 Opel Meriva | Drive | front
 2003-04 Opel Signum | Price | 21000 EUR
 2003-04 Opel Signum | Price | 40000 EUR
+2003-04 Opel Signum | Volume | 2 L
+2003-04 Opel Signum | Volume | 2.2 L
+2003-04 Opel Signum | Volume | 3 L
+2003-04 Opel Signum | Volume | 1.8 L
+2003-04 Opel Signum | Volume | 2 L
+2003-04 Opel Signum | Volume | 2.2 L
+2003-04 Opel Signum | Volume | 3.2 L
+2003-04 Opel Signum | Cylinders | V6
+2003-04 Opel Signum | Compressor | turbo
+2003-04 Opel Signum | Compressor | turbo
+2003-04 Opel Signum | Compressor | turbo
+2003-04 Opel Signum | Fuel | diesel
+2003-04 Opel Signum | Fuel | diesel
+2003-04 Opel Signum | Fuel | diesel
+2003-04 Opel Signum | Fuel | petrol
+2003-04 Opel Signum | Fuel | petrol
+2003-04 Opel Signum | Fuel | petrol
+2003-04 Opel Signum | Fuel | petrol
+2003-04 Opel Signum | Fuel feed | direct injection
+2003-04 Opel Signum | Fuel feed | direct injection
 2003-04 Opel Signum | Drive | front
 2003-04 Opel Speedster Turbo | Volume | 2 L
 2003-04 Opel Speedster Turbo | Compressor | turbo
@@ -7464,7 +9048,11 @@
 2004 Pontiac GTO | Gears | 6 manual
 2004 Pontiac GTO | Gears | 4 auto
 2004 Pontiac GTO | Drive | rear
+2004 Porsche 911 (997) | Volume | 3.6 L
+2004 Porsche 911 (997) | Volume | 3.8 L
 2004 Porsche 911 (997) | Cylinders | B6
+2004 Porsche 911 (997) | Power | 320 hp
+2004 Porsche 911 (997) | Power | 350 hp
 2004 Porsche 911 (997) | Wheels | 19
 2004 Porsche 996 GT3 RSR | Volume | 3598 cc
 2004 Porsche 996 GT3 RSR | Cylinders | B6
@@ -7490,6 +9078,34 @@
 2004 Porsche 996 GT3 RSR | Drive | rear
 2004 Volvo YCC | Cylinders | 5
 2004 Volvo YCC | Power | 215 hp
+2004-02 Opel Astra (C) | Volume | 1.7 L
+2004-02 Opel Astra (C) | Volume | 1.9 L
+2004-02 Opel Astra (C) | Volume | 1.4 L
+2004-02 Opel Astra (C) | Volume | 1.6 L
+2004-02 Opel Astra (C) | Volume | 1.8 L
+2004-02 Opel Astra (C) | Volume | 2 L
+2004-02 Opel Astra (C) | Volume | 2 L
+2004-02 Opel Astra (C) | Compressor | turbo
+2004-02 Opel Astra (C) | Compressor | turbo
+2004-02 Opel Astra (C) | Compressor | turbo
+2004-02 Opel Astra (C) | Compressor | turbo
+2004-02 Opel Astra (C) | Power | 80 hp
+2004-02 Opel Astra (C) | Power | 100 hp
+2004-02 Opel Astra (C) | Power | 150 hp
+2004-02 Opel Astra (C) | Power | 90 hp
+2004-02 Opel Astra (C) | Power | 105 hp
+2004-02 Opel Astra (C) | Power | 125 hp
+2004-02 Opel Astra (C) | Power | 170 hp
+2004-02 Opel Astra (C) | Power | 200 hp
+2004-02 Opel Astra (C) | Fuel | diesel
+2004-02 Opel Astra (C) | Fuel | diesel
+2004-02 Opel Astra (C) | Fuel | petrol
+2004-02 Opel Astra (C) | Fuel | petrol
+2004-02 Opel Astra (C) | Fuel | petrol
+2004-02 Opel Astra (C) | Fuel | petrol
+2004-02 Opel Astra (C) | Fuel | petrol
+2004-02 Opel Astra (C) | Fuel feed | direct injection
+2004-02 Opel Astra (C) | Fuel feed | direct injection
 2004-02 Opel Astra C | Body | hatchback 3
 2004-02 Opel Astra C | Body | hatchback 5
 2004-02 Opel Astra C | Body | wagon
@@ -7504,10 +9120,14 @@
 2004-03 Opel Tigra TwinTop | Seats | 2
 2004-03 Opel Tigra TwinTop | Trunk size | 440..510 L
 2004-03 Opel Tigra TwinTop | Gears | 5 manual
+2004-03 Opel Tigra TwinTop 1.4 | Price | 16695 EUR @ Germany
 2004-03 Opel Tigra TwinTop 1.4 | Volume | 1.4 L
 2004-03 Opel Tigra TwinTop 1.4 | Power | 90 hp
 2004-03 Opel Tigra TwinTop 1.4 | Fuel consumption | 6.1 L/100km
+2004-03 Opel Tigra TwinTop 1.8 | Price | 17895 EUR @ Germany
 2004-03 Opel Tigra TwinTop 1.8 | Volume | 1.8 L
+2004-03 Opel Tigra TwinTop 1.8 | Volume | 1.8 L
+2004-03 Opel Tigra TwinTop 1.8 | Power | 125 hp
 2004-03 Opel Tigra TwinTop 1.8 | Power | 125 hp
 2004-03 Opel Tigra TwinTop 1.8 | Fuel consumption | 9.0 L/100km
 2005 Aston Martin DBR9 | Count | 20
@@ -7521,6 +9141,7 @@
 2005 Aston Martin DBR9 | Engine placement | front
 2005 Aston Martin DBR9 | Gears | 6
 2005 Aston Martin DBR9 | Drive | rear
+2005 Aston Martin V8 Vantage | Cylinders | V8
 2005 Audi Audi TT Quattro Sport | Volume | 1.8 L
 2005 Audi Audi TT Quattro Sport | Cylinders | 4
 2005 Audi Audi TT Quattro Sport | Compressor | turbo
@@ -7714,6 +9335,14 @@
 2008 Ferrari California | Rear tyres | 285/35 ZR20
 2008 Kia c'eed | Price | 490440 RUR @ 2009 Russia
 2008 Kia c'eed | Price | 641860 RUR @ 2009 Russia
+2008 Kia c'eed | Volume | 1.4 L
+2008 Kia c'eed | Volume | 1591 cc
+2008 Kia c'eed | Volume | 1.6 L
+2008 Kia c'eed | Volume | 2 L
+2008 Kia c'eed | Power | 109 hp
+2008 Kia c'eed | Power | 122 hp
+2008 Kia c'eed | Power | 143 hp
+2008 Kia c'eed | Torque | 154 nm @ 5200 rpm
 2008 Kia c'eed | Speed | 192 kmph
 2008 Kia c'eed | 0-100 kmph | 10.8 s
 2008 Kia c'eed | Fuel consumption | 6.4 L/100km
@@ -7733,14 +9362,26 @@
 2008 Porsche GT3 RSR | Gears | 6 seq
 2008 Skoda Octavia | Price | 499000 RUR @ 2009 Russia
 2008 Skoda Octavia | Price | 779000 RUR @ 2009 Russia
+2008 Skoda Octavia | Volume | 1.4 L
+2008 Skoda Octavia | Volume | 1.4 L
+2008 Skoda Octavia | Volume | 1598 cc
+2008 Skoda Octavia | Volume | 1.6 L
+2008 Skoda Octavia | Volume | 1.8 L
+2008 Skoda Octavia | Power | 80 hp
+2008 Skoda Octavia | Power | 122 hp
+2008 Skoda Octavia | Power | 102 hp
+2008 Skoda Octavia | Power | 160 hp
+2008 Skoda Octavia | Torque | 148 nm @ 3800 rpm
 2008 Skoda Octavia | Speed | 190 kmph
 2008 Skoda Octavia | 0-100 kmph | 12.3 s
+2008 Skoda Octavia | 0-100 kmph | 8.5 s
 2008 Skoda Octavia | Fuel consumption | 7.4 L/100km
 2008 Skoda Octavia | Length | 4569 mm
 2008 Skoda Octavia | Width | 1769 mm
 2008 Skoda Octavia | Height | 1462 mm
 2008 Skoda Octavia | Wheelbase | 2578 mm
 2008 Skoda Octavia | Gears | 7
+2008 Skoda Octavia | Gears | 7 seq
 2008 Zenvo ST1 | Volume | 7011 cc
 2008 Zenvo ST1 | Cylinders | V8
 2008 Zenvo ST1 | Compressor | twincharger
@@ -7773,9 +9414,23 @@
 2009 AMG Mercedes Benz SLS | Gears | 7
 2009 BMW Z4 Roadster (II) | Price | 35900 EUR @ 2009 Europe
 2009 BMW Z4 Roadster (II) | Price | 47450 EUR @ 2009 Europe
+2009 BMW Z4 Roadster (II) | Volume | 3 L
+2009 BMW Z4 Roadster (II) | Volume | 3 L
+2009 BMW Z4 Roadster (II) | Volume | 2.5 L
+2009 BMW Z4 Roadster (II) | Compressor | 2 turbo
+2009 BMW Z4 Roadster (II) | Power | 306 hp
+2009 BMW Z4 Roadster (II) | Power | 258 hp
+2009 BMW Z4 Roadster (II) | Power | 204 hp
+2009 BMW Z4 Roadster (II) | 0-100 kmph | 5.2 s
+2009 BMW Z4 Roadster (II) | 0-100 kmph | 5.8 s
+2009 BMW Z4 Roadster (II) | 0-100 kmph | 6.6 s
 2009 BMW Z4 Roadster (II) | Gears | 6 auto
 2009 BMW Z4 Roadster (II) | Gears | 6 manual
 2009 BMW Z4 Roadster (II) | Gears | 7 auto
+2009 Cadillac SRX 2-gen | Volume | 2799 cc
+2009 Cadillac SRX 2-gen | Compressor | turbo
+2009 Cadillac SRX 2-gen | Power | 300 hp
+2009 Cadillac SRX 2-gen | Torque | 400 nm
 2009 Cadillac SRX 2-gen | Length | 4831 mm
 2009 Cadillac SRX 2-gen | Width | 1907 mm
 2009 Cadillac SRX 2-gen | Height | 1666 mm
@@ -7783,7 +9438,22 @@
 2009 Cadillac SRX 2-gen | Wheelbase | 2806 mm
 2009 Cadillac SRX 2-gen | Wheels | 18
 2009 Cadillac SRX 2-gen | Wheels | 20
+2009 Cadillac SRX 2-gen | Gears | 6 auto
+2009 Cadillac SRX 3.0 DI 2-gen | Volume | 3 L
+2009 Cadillac SRX 3.0 DI 2-gen | Power | 260 hp
+2009 Cadillac SRX 3.0 DI 2-gen | Gears | 6 auto
 2009 Kia Soul | Price | 1715000 RUR @ 2009 Russia
+2009 Kia Soul | Volume | 1599 cc
+2009 Kia Soul | Volume | 2 L
+2009 Kia Soul | Volume | 1.9 L
+2009 Kia Soul | Compressor | turbo
+2009 Kia Soul | Compressor | turbo
+2009 Kia Soul | Power | 126 hp
+2009 Kia Soul | Power | 142 hp
+2009 Kia Soul | Power | 126 hp
+2009 Kia Soul | Fuel | petrol
+2009 Kia Soul | Fuel | petrol
+2009 Kia Soul | Fuel | diesel
 2009 Kia Soul | Fuel consumption | 6 L/100km
 2009 Kia Soul | Length | 4105 mm
 2009 Kia Soul | Width | 1785 mm
@@ -7813,6 +9483,11 @@
 2009 Lamborghini Reventon roadster | Gears | 6
 2009 Lamborghini Reventon roadster | Drive | full
 2009 Mercedes E | Price | 41590 EUR @ 2009 in Europe
+2009 Mercedes E | Volume | 2143 cc
+2009 Mercedes E | Power | 136 hp
+2009 Mercedes E | Power | 170 hp
+2009 Mercedes E | Power | 205 hp
+2009 Mercedes E | Fuel | diesel
 2009 Mercedes E | Speed | 250 kmph
 2009 Mercedes E | 0-100 kmph | 5.3 s
 2009 Mercedes E | Fuel consumption | 11.4 L/100km
@@ -7824,6 +9499,21 @@
 2009 Mercedes E | Gears | 5 auto
 2009 Mercedes E | Gears | 6 manual
 2009 Mercedes E | Gears | 7 auto
+2009 Mercedes E200 GCI | Volume | 1.8 L
+2009 Mercedes E200 GCI | Cylinders | R4
+2009 Mercedes E200 GCI | Power | 184 hp
+2009 Mercedes E200 GCI | Fuel | petrol
+2009 Mercedes E250 CGI | Cylinders | R4
+2009 Mercedes E250 CGI | Power | 204 hp
+2009 Mercedes E350 | Volume | 3.5 L
+2009 Mercedes E350 | Power | 211 hp
+2009 Mercedes E350 | Power | 292 hp
+2009 Mercedes E350 | Drive | rear
+2009 Mercedes E350 | Drive | full
+2009 Mercedes E350 CDI | Power | 231 hp
+2009 Mercedes E500 | Cylinders | V8
+2009 Mercedes E500 | Power | 388 hp
+2009 Mercedes E500 | Torque | 530 nm @ 2800 rpm
 2009 Nissan 370Z | Volume | 3696 cc
 2009 Nissan 370Z | Cylinders | V6
 2009 Nissan 370Z | Power | 333 hp @ 7000 rpm
@@ -7844,6 +9534,20 @@
 2009 Nissan 370Z | Clearance | 113 mm
 2009 Nissan 370Z | Gears | 6 manual
 2009 Nissan 370Z | Gears | 7 auto
+2009 Volkswagen Passat 1.8 TSI CC | Volume | 1.8 L
+2009 Volkswagen Passat 1.8 TSI CC | Power | 160 hp
+2009 Volkswagen Passat 1.8 TSI CC | Fuel | petrol
+2009 Volkswagen Passat 3.6 CC | Volume | 3597 cc
+2009 Volkswagen Passat 3.6 CC | Power | 300 hp
+2009 Volkswagen Passat 3.6 CC | Torque | 350 nm @ 2400 rpm
+2009 Volkswagen Passat 3.6 CC | Gears | 6 manual
+2009 Volkswagen Passat CC | Volume | 2 L
+2009 Volkswagen Passat CC | Volume | 2 L
+2009 Volkswagen Passat CC | Compressor | turbo
+2009 Volkswagen Passat CC | Power | 200 hp
+2009 Volkswagen Passat CC | Power | 140 hp
+2009 Volkswagen Passat CC | Fuel | petrol
+2009 Volkswagen Passat CC | Fuel | diesel
 2009 Volkswagen Passat CC | Speed | 250 kmph
 2009 Volkswagen Passat CC | 0-100 kmph | 5.6 s
 2009 Volkswagen Passat CC | Fuel consumption | 10.1 L/100km
@@ -7913,6 +9617,9 @@
 2011 McLaren MP4-12C | Tyres | 235/35 R19 / 305/30 R20
 2011 McLaren MP4-12C | Drive | rear
 2012 Ferrari California 30 | Power | 490 hp @ 7750 rpm
+2014 Ferrari California T | Volume | 3.9 L
+2014 Ferrari California T | Cylinders | V8
+2014 Ferrari California T | Compressor | 2 turbo
 2016 Porsche 911 Carrera S | Price | 100000 USD @ 2016
 2016 Porsche 911 Carrera S | Volume | 3 L
 2016 Porsche 911 Carrera S | Cylinders | B6
@@ -8119,6 +9826,10 @@ Audi 80 (B2) | Width | 1682 mm
 Audi 80 (B2) | Height | 1365 mm
 Audi 80 (B2) | Doors | 2
 Audi 80 (B2) | Doors | 4
+Audi 80 (B3) | Volume | 1.3 L
+Audi 80 (B3) | Volume | 1.6 L
+Audi 80 (B3) | Compressor | turbo
+Audi 80 (B3) | Fuel | diesel
 Audi 80 (B3) | Body | sedan
 Audi 80 (B3) | Doors | 4
 Audi 80 (B3) | Engine placement | front longitudinal
@@ -8151,6 +9862,9 @@ Audi 90 | Cylinders | 5
 Audi 90 | Length | 4463 mm
 Audi 90 | Width | 1682 mm
 Audi 90 | Height | 1365 mm
+Audi 90 (B3) | Volume | 1.8 L
+Audi 90 (B3) | Cylinders | 4
+Audi 90 (B3) | Gears | 4 auto
 Audi 90 Quattro | Length | 4463 mm
 Audi 90 Quattro | Width | 1682 mm
 Audi 90 Quattro | Height | 1365 mm
@@ -8400,10 +10114,26 @@ Audi A3 1.9 TDI (130) | Tyres | 195/65 R15
 Audi A3 1.9 TDI (130) | Gears | 6 manual
 Audi A3 1.9 TDI (130) | Drive | front
 Audi A4 | Volume | 1595 cc
+Audi A4 | Volume | 1.9 L
+Audi A4 | Volume | 2.5 L
+Audi A4 | Volume | 2 L
+Audi A4 | Volume | 3 L
 Audi A4 | Cylinders | R4
+Audi A4 | Cylinders | R4
+Audi A4 | Cylinders | V6
+Audi A4 | Compressor | turbo
+Audi A4 | Compressor | turbo
 Audi A4 | Power | 102 hp @ 5600 rpm
+Audi A4 | Power | 130 hp
+Audi A4 | Power | 220 hp
 Audi A4 | Torque | 148 nm @ 3800 rpm
 Audi A4 | Fuel | petrol
+Audi A4 | Fuel | diesel
+Audi A4 | Fuel | diesel
+Audi A4 | Fuel | petrol
+Audi A4 | Fuel | petrol
+Audi A4 | Valves per cylinder | 5
+Audi A4 | Valves per cylinder | 5
 Audi A4 | Speed | 190 kmph
 Audi A4 | 0-100 kmph | 12.9 s
 Audi A4 | Fuel consumption | 10.8 L/100km
@@ -8439,12 +10169,19 @@ Audi A4 Quattro | Body | wagon
 Audi A6 | Volume | 1984 cc
 Audi A6 | Volume | 2.7 L
 Audi A6 | Volume | 2.8 L
+Audi A6 | Volume | 1.8 L
+Audi A6 | Volume | 2.4 L
 Audi A6 | Cylinders | R4
+Audi A6 | Cylinders | V6
 Audi A6 | Compressor | no
 Audi A6 | Compressor | 2 turbo
+Audi A6 | Compressor | turbo
 Audi A6 | Power | 130 hp @ 5700 rpm
 Audi A6 | Power | 193 hp
 Audi A6 | Power | 230 hp
+Audi A6 | Power | 125 hp
+Audi A6 | Power | 150 hp
+Audi A6 | Power | 165 hp
 Audi A6 | Torque | 195 nm @ 3300 rpm
 Audi A6 | Fuel | petrol
 Audi A6 | Speed | 205 kmph
@@ -8540,8 +10277,20 @@ Audi A6 Quattro Avant | Length | 4797 mm
 Audi A6 Quattro Avant | Width | 1783 mm
 Audi A6 Quattro Avant | Height | 1440 mm
 Audi A8 | Volume | 6 L
+Audi A8 | Volume | 2.8 L
+Audi A8 | Volume | 2.5 L
+Audi A8 | Volume | 3.5 L
+Audi A8 | Volume | 3.7 L
+Audi A8 | Volume | 4.2 L
 Audi A8 | Cylinders | W12
+Audi A8 | Cylinders | V8
+Audi A8 | Cylinders | V8
 Audi A8 | Power | 420 hp
+Audi A8 | Power | 174 hp
+Audi A8 | Power | 230 hp
+Audi A8 | Power | 310 hp
+Audi A8 | Fuel | diesel
+Audi A8 | Fuel | diesel
 Audi A8 | Body | sedan
 Audi A8 | Length | 5030 mm
 Audi A8 | Width | 1880 mm
@@ -8696,6 +10445,11 @@ Audi RS6 | Wheels | 7Jx16
 Audi RS6 | Wheels | 8.5Jx18
 Audi RS6 | Gears | 5 auto
 Audi RS6 | Drive | full
+Audi RS6 1.8 | Volume | 1.8 L
+Audi RS6 2.4 | Volume | 2.4 L
+Audi RS6 2.7T | Volume | 2.7 L
+Audi RS6 2.7T | Compressor | turbo
+Audi RS6 3.0 | Volume | 3 L
 Audi RS6 Avant | Power | 450 hp
 Audi RS6 Avant | Torque | 560 nm
 Audi RS6 Avant | Fuel | petrol
@@ -8727,9 +10481,16 @@ Audi S4 (C4) | Volume | 4172 cc
 Audi S4 (C4) | Power | 230 hp
 Audi S4 (C4) | Power | 280 hp
 Audi S4 C4 Quattro | Drive | full
+Audi S6 | Volume | 2.2 L
+Audi S6 | Cylinders | R5
+Audi S6 | Compressor | turbo
+Audi S6 | Valves per cylinder | 4
 Audi S6 | Body | sedan
 Audi S6 | Body | wagon
 Audi S6 | Drive | full constant
+Audi S6 Plus Quattro | Volume | 4.2 L
+Audi S6 Plus Quattro | Cylinders | V8
+Audi S6 Plus Quattro | Power | 235 kW
 Audi S8 | Power | 360 hp
 Audi S8 | Gears | 5 auto
 Audi S8 | Gears | 6 manual
@@ -9135,6 +10896,10 @@ Cadillac A | Speed | 50 kmph
 Cadillac A | Seats | 2
 Cadillac A | Engine placement | rear
 Cadillac A | Gears | 2 auto
+Cadillac Deville | Cylinders | V8
+Cadillac Deville | Cylinders | V8
+Cadillac Deville | Power | 275 hp
+Cadillac Deville | Power | 300 hp
 Cadillac Deville | Cx | 0.300
 Cadillac Deville | Wheels | 17
 Cadillac Deville | Gears | 4 auto
@@ -9621,6 +11386,7 @@ Jaguar JX40 Sovereign | Volume | 2.9 L
 Jaguar JX40 Sovereign | Valves per cylinder | 2
 Jaguar Mk VII | Speed | 160 kmph
 Jaguar S-Type | Price | 75000 USD
+Jaguar S-Type | Cylinders | V6
 Jaguar S-Type | Body | sedan
 Jaguar S-Type | Length | 4860 mm
 Jaguar S-Type | Width | 1819 mm
@@ -9648,9 +11414,15 @@ Jaguar S-Type V6 auto | Fuel consumption | 15 L/100km
 Jaguar X-type | Price | 22000 GBP @ 2001
 Jaguar X-type | Volume | 2495 cc
 Jaguar X-type | Volume | 2968 cc
+Jaguar X-type | Volume | 2.5 L
+Jaguar X-type | Volume | 3 L
+Jaguar X-type | Cylinders | V6
+Jaguar X-type | Cylinders | V6
 Jaguar X-type | Cylinders | V6
 Jaguar X-type | Power | 196 hp @ 6800 rpm
 Jaguar X-type | Power | 231 hp @ 6800 rpm
+Jaguar X-type | Power | 196 hp
+Jaguar X-type | Power | 230 hp
 Jaguar X-type | Torque | 241 nm @ 3000 rpm
 Jaguar X-type | Torque | 279 nm @ 3000 rpm
 Jaguar X-type | Fuel feed | distributed injection
@@ -10197,7 +11969,24 @@ Opel Astra Cabrio | Speed | 245 kmph
 Opel Astra Cabrio | 0-100 kmph | 7.5 s
 Opel Astra Cabrio | Front brakes | disc
 Opel Astra Cabrio | Front brakes size | 308 mm
+Opel Astra Coupe | Volume | 1.8 L
+Opel Astra Coupe | Volume | 1.8 L
+Opel Astra Coupe | Volume | 2 L
+Opel Astra Coupe | Volume | 2.2 L
+Opel Astra Coupe | Compressor | turbo
+Opel Astra Coupe | Power | 115 hp
+Opel Astra Coupe | Power | 125 hp
+Opel Astra Coupe | Power | 192 hp
+Opel Astra Coupe | Power | 147 hp
 Opel Astra Coupe | Fuel | petrol
+Opel Astra Coupe | Fuel feed | injection
+Opel Astra Coupe | Fuel feed | injection
+Opel Astra Coupe | Fuel feed | injection
+Opel Astra Coupe | Fuel feed | injection
+Opel Astra Coupe | Valves per cylinder | 4
+Opel Astra Coupe | Valves per cylinder | 4
+Opel Astra Coupe | Valves per cylinder | 4
+Opel Astra Coupe | Valves per cylinder | 4
 Opel Astra Coupe | Valves per cylinder | 4
 Opel Astra Coupe | Speed | 200 kmph
 Opel Astra Coupe | Body | coupe
@@ -10243,6 +12032,24 @@ Opel GT | Body | roadster
 Opel GT | Seats | 2
 Opel Insignia | Price | 670000 RUR @ 2009 Russia
 Opel Insignia | Price | 815000 RUR @ 2009 Russia
+Opel Insignia | Volume | 1.6 L
+Opel Insignia | Volume | 1796 cc
+Opel Insignia | Cylinders | V6
+Opel Insignia | Power | 110 hp
+Opel Insignia | Power | 190 hp
+Opel Insignia | Power | 115 hp
+Opel Insignia | Power | 140 hp
+Opel Insignia | Power | 260 hp
+Opel Insignia | Torque | 260 nm
+Opel Insignia | Torque | 400 nm
+Opel Insignia | Torque | 175 nm @ 3800 rpm
+Opel Insignia | Fuel | diesel
+Opel Insignia | Fuel | diesel
+Opel Insignia | Fuel | petrol
+Opel Insignia | Fuel | petrol
+Opel Insignia | Fuel | petrol
+Opel Insignia | Fuel feed | direct injection
+Opel Insignia | Fuel feed | direct injection
 Opel Insignia | Speed | 210 kmph
 Opel Insignia | 0-100 kmph | 10.0 s
 Opel Insignia | Fuel consumption | 7.8 L/100km
@@ -10251,6 +12058,8 @@ Opel Insignia | Width | 1856 mm
 Opel Insignia | Height | 1498 mm
 Opel Insignia | Wheelbase | 2737 mm
 Opel Kapitan V8 | Count | 113
+Opel Kapitan V8 | Cylinders | V8
+Opel Kapitan V8 | Power | 190 hp
 Opel Kommodore (B) 2500 GS | Volume | 2490 cc
 Opel Kommodore (B) 2500 GS | Cylinders | 6
 Opel Kommodore (B) 2500 GS | Power | 130 hp @ 5300 rpm
@@ -10271,10 +12080,22 @@ Opel Manta | Weight | 1000 kg
 Opel Manta | Tyres | 165 SR13
 Opel Manta | Tyres | 185/70 HR13
 Opel Manta 1.3 | Price | 14620 DM
+Opel Manta 1.3S | Volume | 1.3 L
+Opel Manta 1.3S | Power | 75 hp
+Opel Manta 1.3S | Fuel feed | carb
 Opel Manta 1.8S | Price | 19733 DM
 Opel Manta B GT/E Coupe | Count | 224762
 Opel Manta B GT/E Coupe | Gears | 5 manual
 Opel Manta B GT/E Coupe 1.9 E | Price | 14500 DM
+Opel Manta B GT/E Coupe 1.9E | Volume | 1.9 L
+Opel Manta B GT/E Coupe 1.9E | Power | 105 hp
+Opel Manta B GT/E Coupe 1.9E | Speed | 185 kmph
+Opel Manta B GT/E Coupe 2.0S | Volume | 2 L
+Opel Manta B GT/E Coupe 2.0S | Power | 100 hp
+Opel Manta B GT/E Coupe 2.0S | Speed | 180 kmph
+Opel Manta B GT/E Coupe 2.0Е | Volume | 2 L
+Opel Manta B GT/E Coupe 2.0Е | Power | 110 hp
+Opel Manta B GT/E Coupe 2.0Е | Speed | 187 kmph
 Opel Olympia Rekord Car-A-Van | Price | 6710 DM
 Opel Olympia Rekord Car-A-Van | Count | 15804
 Opel Olympia Rekord Car-A-Van | Volume | 1488 cc
@@ -10310,8 +12131,41 @@ Opel Omega (1988-1991) 3000 | Fuel consumption | 11.8 L/100km
 Opel Omega (C) | Body | hatchback 5
 Opel Omega (C) | Body | wagon
 Opel Omega (C) | Drive | front
+Opel Omega 1.8i | Volume | 1796 cc
+Opel Omega 2,6i | Volume | 2594 cc
+Opel Omega 2.0i | Volume | 1998 cc
+Opel Omega 2.3YD | Volume | 2260 cc
+Opel Omega 2.3YD | Fuel | diesel
+Opel Omega 2.3YDT | Volume | 2.3 L
+Opel Omega 2.3YDT | Compressor | turbo
+Opel Omega 2.3YDT | Fuel | diesel
+Opel Omega 2.4i | Volume | 2393 cc
+Opel Omega 3.0i | Volume | 2969 cc
+Opel Omega GM 2.3D | Volume | 2.3 L
+Opel Omega GM 2.3D | Volume | 2.3 L
+Opel Omega GM 2.3D | Power | 74 hp
+Opel Omega GM 2.3D | Fuel | diesel
+Opel Omega GM 2.3TD | Volume | 2.3 L
+Opel Omega GM 2.3TD | Volume | 2.3 L
+Opel Omega GM 2.3TD | Compressor | turbo
+Opel Omega GM 2.3TD | Power | 90 hp
+Opel Omega GM 2.3TD | Fuel | diesel
+Opel Rekord 1.9 L (C) | Price | 9095 DM
+Opel Rekord 1.9 L (C) | Volume | 1.9 L
+Opel Rekord 2.2 L (C) | Price | 9210 DM
+Opel Rekord 2.2 L (C) | Volume | 2.2 L
+Opel Rekord 2.2 L (C) | Cylinders | 6
 Opel Rekord Cabriolet | Price | 11635 DM
 Opel Rekord Caravan | Body | wagon
+Opel Rekord Caravan 1.7 L (C) | Price | 7990 DM
+Opel Rekord Caravan 1.7 L (C) | Volume | 1.7 L
+Opel Rekord Caravan 1.7 L (C) | Body | wagon
+Opel Rekord Caravan 1.9 L (C) | Price | 9560 DM
+Opel Rekord Caravan 1.9 L (C) | Volume | 1.9 L
+Opel Rekord Caravan 1.9 L (C) | Body | wagon
+Opel Rekord Coupe 1.9 L (C) | Price | 8975 DM
+Opel Rekord Coupe 1.9 L (C) | Volume | 1.9 L
+Opel Rekord Coupe 1.9 L (C) | Body | coupe
 Opel Rekord С L Caravan | Count | 233086
 Opel Speedster 2.2 | Volume | 2198 cc
 Opel Speedster 2.2 | Cylinders | 4
@@ -11061,14 +12915,65 @@ Volkswagen Lupo | Fuel | petrol
 Volkswagen Lupo | Fuel feed | direct injection
 Volkswagen Lupo | Body | hatchback 3
 Volkswagen Lupo 3L TDI | Fuel consumption | 3 L/100km
+Volkswagen Passat (IV) | Volume | 1.6 L
+Volkswagen Passat (IV) | Volume | 1.9 L
+Volkswagen Passat (IV) | Volume | 1.9 L
+Volkswagen Passat (IV) | Compressor | turbo
+Volkswagen Passat (IV) | Compressor | turbo
+Volkswagen Passat (IV) | Compressor | turbo
+Volkswagen Passat (IV) | Power | 80 hp
+Volkswagen Passat (IV) | Power | 64 hp
+Volkswagen Passat (IV) | Power | 75 hp
+Volkswagen Passat (IV) | Power | 110 hp
+Volkswagen Passat (IV) | Fuel | diesel
+Volkswagen Passat (IV) | Fuel | diesel
+Volkswagen Passat (IV) | Fuel | diesel
+Volkswagen Passat (IV) | Fuel | diesel
 Volkswagen Passat (IV) | Weight | 1100 kg
 Volkswagen Passat (IV) | Body | sedan
+Volkswagen Passat (IV) | Body | sedan
 Volkswagen Passat (IV) | Cx | 0.290
+Volkswagen Passat (IV) | Trunk size | 495 L
 Volkswagen Passat (IV) | Rear brakes | disc
 Volkswagen Passat (IV) | Rear brakes | drum
 Volkswagen Passat (IV) | Front brakes | ventilated disc
 Volkswagen Passat (IV) | Gears | 5 manual
 Volkswagen Passat (IV) | Drive | full
+Volkswagen Passat 1.6 (IV) | Volume | 1.6 L
+Volkswagen Passat 1.6 (IV) | Power | 72 hp
+Volkswagen Passat 1.6 (IV) | Power | 75 hp
+Volkswagen Passat 1.6 (IV) | Power | 100 hp
+Volkswagen Passat 1.6 (IV) | Fuel | petrol
+Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
+Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
+Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
+Volkswagen Passat 1.8 (IV) | Power | 75 hp
+Volkswagen Passat 1.8 (IV) | Power | 107 hp
+Volkswagen Passat 1.8 (IV) | Power | 112 hp
+Volkswagen Passat 1.8 (IV) | Power | 133 hp
+Volkswagen Passat 1.8 (IV) | Power | 160 hp
+Volkswagen Passat 1.8 (IV) | Fuel | petrol
+Volkswagen Passat 1.8 (IV) | Fuel | petrol
+Volkswagen Passat 1.8 (IV) | Fuel | petrol
+Volkswagen Passat 1.8 (IV) | Valves per cylinder | 4
+Volkswagen Passat 2.0 (IV) | Volume | 2 L
+Volkswagen Passat 2.0 (IV) | Volume | 2 L
+Volkswagen Passat 2.0 (IV) | Power | 115 hp
+Volkswagen Passat 2.0 (IV) | Power | 136 hp
+Volkswagen Passat 2.0 (IV) | Power | 150 hp
+Volkswagen Passat 2.0 (IV) | Fuel | petrol
+Volkswagen Passat 2.0 (IV) | Fuel | petrol
+Volkswagen Passat 2.0 (IV) | Valves per cylinder | 4
+Volkswagen Passat 2.8 (IV) | Volume | 2.8 L
+Volkswagen Passat 2.8 (IV) | Cylinders | VR6
+Volkswagen Passat 2.8 (IV) | Power | 174 hp
+Volkswagen Passat 2.8 (IV) | Fuel | petrol
+Volkswagen Passat 2.9 (IV) | Volume | 2.9 L
+Volkswagen Passat 2.9 (IV) | Cylinders | VR6
+Volkswagen Passat 2.9 (IV) | Power | 190 hp
+Volkswagen Passat 2.9 (IV) | Fuel | petrol
+Volkswagen Passat Variant (IV) | Body | wagon
+Volkswagen Passat Variant (IV) | Trunk size | 465..1500 L
 ЗИС-16 | Speed | 65 kmph
 ЗИС-16 | Fuel consumption | 37 L/100km
 ЗИС-16 | Weight | 5100 kg

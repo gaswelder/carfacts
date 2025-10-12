@@ -7,7 +7,11 @@ import {
 } from "./parsers.mts";
 
 const oneof = (vals: string[]) => (val: string) => {
-  if (vals.includes(val)) return { val };
+  for (const x of vals) {
+    if (val.toLowerCase() == x.toLowerCase()) {
+      return { val: x };
+    }
+  }
 };
 
 const seconds = (s) => {
@@ -27,27 +31,32 @@ const unitless = (fixed?: number) => (val: string) => {
   return { val: n.toString() };
 };
 
-const units = (units: string[], defaults?: any[]) => (val: string) => {
-  if (val.includes(",") && !val.match(/,\d{3,}/)) {
-    val = val.replace(",", ".");
-  }
-  const x = parseVal(val);
-  if (x.unit == "" && defaults) {
-    for (const def of defaults) {
-      if (def.min !== undefined && x.val < def.min) {
-        continue;
-      }
-      if (def.max !== undefined && x.val > def.max) {
-        continue;
-      }
-      x.unit = def.unit;
-      break;
+const units =
+  (
+    units: string[],
+    defaults?: { unit: string; min?: number; max?: number }[]
+  ) =>
+  (val: string) => {
+    if (val.includes(",") && !val.match(/,\d{3,}/)) {
+      val = val.replace(",", ".");
     }
-  }
-  if (units.includes(x.unit)) {
-    return { val: x.format() };
-  }
-};
+    const x = parseVal(val);
+    if (x.unit == "" && defaults) {
+      for (const def of defaults) {
+        if (def.min !== undefined && x.val < def.min) {
+          continue;
+        }
+        if (def.max !== undefined && x.val > def.max) {
+          continue;
+        }
+        x.unit = def.unit;
+        break;
+      }
+    }
+    if (units.includes(x.unit)) {
+      return { val: x.format() };
+    }
+  };
 
 const range = (units) => (val) => {
   let m;
@@ -119,9 +128,9 @@ export const known = {
   },
 
   // Engine
-  Volume: units(["cc", "L", "cin"]),
+  Volume: units(["cc", "L", "cin"], [{ unit: "L", max: 10 }]),
   Cylinders: oneof(
-    `1 10 12 16 18 2 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5
+    `1 10 12 16 18 2 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5 R3
         V10 V12 V16 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/)
   ),
   Compressor: oneof([
@@ -156,6 +165,7 @@ export const known = {
     "3 carb Weber",
     "3 carb",
     "6 carb Weber",
+    "4 carb Weber",
     "carb Solex 1B2",
     "carb Solex 2B4",
     "carb Solex 32 TDID",
@@ -177,6 +187,8 @@ export const known = {
     "injection Bosch Motronic",
     "injection Bosch Motroniс",
     "injection L-Jetronic",
+    "injection K-Jetronic",
+    "injection Jetronic",
     "injection Bosch LE-Jetronic",
     "injection Bosch MH-Motronic",
     "injection TAG 3.8",
