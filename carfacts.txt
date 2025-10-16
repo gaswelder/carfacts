@@ -1939,6 +1939,22 @@
 1968 Rolls Royce Phantom VI Park Ward | Rear brakes | drum
 1968 Rolls Royce Phantom VI Park Ward | Front brakes | drum
 1968 Rolls Royce Phantom VI Park Ward | Gears | 4 manual
+1968 ГАЗ-24 | Volume | 2445 cc
+1968 ГАЗ-24 | Cylinders | R4
+1968 ГАЗ-24 | Power | 95 kWt @ 4500 rpm
+1968 ГАЗ-24 | Power | 98 hp
+1968 ГАЗ-24 | Speed | 145 kmph
+1968 ГАЗ-24 | Speed | 140 kmph
+1968 ГАЗ-24 | 0-100 kmph | 25.0 s
+1968 ГАЗ-24 | Weight | 1420 kg
+1968 ГАЗ-24 | Body | sedan 4
+1968 ГАЗ-24 | Length | 4760 mm
+1968 ГАЗ-24 | Width | 1800 mm
+1968 ГАЗ-24 | Height | 1490 mm
+1968 ГАЗ-24 | Seats | 5
+1968 ГАЗ-24 | Wheelbase | 2800 mm
+1968 ГАЗ-24 | Tyres | 7.35x14
+1968 ГАЗ-24 | Gears | 4
 1968-02 Opel Rekord (C) | Volume | 1.5 L
 1968-02 Opel Rekord (C) | Power | 60 hp
 1968-09 Opel Rekord (C) | Gears | 3 manual
@@ -2255,6 +2271,20 @@
 1970 Porsche 914/6 | Rear wheels | 5.5x14.0
 1970 Porsche 914/6 | Gears | 5 manual
 1970 Porsche 914/6 | Drive | rear
+1970-07 ГАЗ-24-01 | Volume | 2445 cc
+1970-07 ГАЗ-24-01 | Cylinders | R4
+1970-07 ГАЗ-24-01 | Power | 85 kWt @ 4500 rpm
+1970-07 ГАЗ-24-01 | Speed | 135 kmph
+1970-07 ГАЗ-24-01 | 0-100 kmph | 28.0 s
+1970-07 ГАЗ-24-01 | Weight | 1420 kg
+1970-07 ГАЗ-24-01 | Body | sedan 4
+1970-07 ГАЗ-24-01 | Length | 4760 mm
+1970-07 ГАЗ-24-01 | Width | 1800 mm
+1970-07 ГАЗ-24-01 | Height | 1490 mm
+1970-07 ГАЗ-24-01 | Seats | 5
+1970-07 ГАЗ-24-01 | Wheelbase | 2800 mm
+1970-07 ГАЗ-24-01 | Tyres | 7.35x14
+1970-07 ГАЗ-24-01 | Gears | 4
 1970-09 Opel Manta (A) | Price | 8269 DM
 1970-09 Opel Manta (A) | Volume | 1.9 L
 1970-09 Opel Manta (A) | Power | 90 hp
