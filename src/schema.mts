@@ -277,6 +277,7 @@ export const known = {
     "targa",
     "truck",
     "van",
+    "van 3",
     "wagon 3",
     "wagon 5",
     "wagon",

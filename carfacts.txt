@@ -164,6 +164,23 @@
 1933 Auto Union | Valves per cylinder | 2
 1933 Auto Union | Speed | 182 mph
 1933 Auto Union | Engine placement | center
+1933 Standart-Superior | Volume | 396 cc
+1933 Standart-Superior | Cylinders | 2
+1933 Standart-Superior | Power | 12 hp
+1933 Standart-Superior | Engine placement | rear
+1933 ГАЗ-4 | Volume | 3285 cc
+1933 ГАЗ-4 | Cylinders | 4
+1933 ГАЗ-4 | Power | 40 hp @ 2200 rpm
+1933 ГАЗ-4 | Speed | 90 kmph
+1933 ГАЗ-4 | Weight | 1120 kg
+1933 ГАЗ-4 | Length | 4080 mm
+1933 ГАЗ-4 | Width | 1710 mm
+1933 ГАЗ-4 | Height | 1825 mm
+1933 ГАЗ-4 | Seats | 2
+1933 ГАЗ-4 | Wheelbase | 2620 mm
+1933 ГАЗ-4 | Tyres | 5.50x19
+1933 ГАЗ-4 | Gears | 3
+1933 ГАЗ-4 | Drive | rear
 1933 ЛК-1 | Power | 60 kW @ 1200 rpm
 1933 ЛК-1 | Fuel | electric
 1933 ЛК-1 | Speed | 55 kmph
@@ -278,6 +295,11 @@
 1936 Auto Union Type C | Wheelbase | 291 cm
 1936 Auto Union Type C | Gears | 4
 1936 Volkswagen-30 | Count | 30
+1936 ГАЗ-M1 | Volume | 3.3 L
+1936 ГАЗ-M1 | Cylinders | 4
+1936 ГАЗ-M1 | Power | 50 hp @ 2800 rpm
+1936 ГАЗ-M1 | Fuel feed | carb
+1936 ГАЗ-M1 | Gears | 3
 1937 Bugatti Type 57 | Volume | 3.3 L
 1937 Opel Admiral | Count | 6404
 1937 Opel Admiral | Volume | 3626 cc
@@ -382,6 +404,24 @@
 1939 Mercedes-Benz 770K | Length | 6 m
 1939 Mercedes-Benz 770K | Seats | 7
 1939 Mercedes-Benz 770K | Gears | 5
+1941 ГАЗ-11-73 | Volume | 3.5 L
+1941 ГАЗ-11-73 | Cylinders | 6
+1941 ГАЗ-11-73 | Power | 76 hp @ 3400 rpm
+1941 ГАЗ-61 | Count | 1941 400
+1941 ГАЗ-61 | Volume | 3480 cc
+1941 ГАЗ-61 | Cylinders | 6
+1941 ГАЗ-61 | Power | 85 hp
+1941 ГАЗ-61 | Fuel feed | carb
+1941 ГАЗ-61 | Compression ratio | 6.5
+1941 ГАЗ-61 | Speed | 107 kmph
+1941 ГАЗ-61 | Fuel consumption | 15 L/100km
+1941 ГАЗ-61 | Weight | 1650 kg
+1941 ГАЗ-61 | Seats | 5
+1941 ГАЗ-61 | Wheelbase | 2845 mm
+1941 ГАЗ-61 | Clearance | 210 mm
+1941 ГАЗ-61 | Tyres | 7.00x16
+1941 ГАЗ-61 | Gears | 3
+1941 ГАЗ-61 | Drive | full
 1947 Bugatti Type 73 | Volume | 1488 cc
 1947 Bugatti Type 73 | Cylinders | 4
 1947 Bugatti Type 73 | Body | coupe
@@ -653,6 +693,38 @@
 1955 Porsche 356 Carrera GT | Gears | 4 manual
 1955 Porsche 356 Carrera GT | Drive | rear
 1955 Porsche 550/1500RS | Count | 100
+1955 ГАЗ-19 | Count | 1
+1955 ГАЗ-19 | Volume | 2.1 L
+1955 ГАЗ-19 | Cylinders | 4
+1955 ГАЗ-19 | Power | 55 hp
+1955 ГАЗ-19 | Fuel | petrol
+1955 ГАЗ-19 | Body | van 3
+1955 ГАЗ-19 | Gears | 3
+1955 ГАЗ-19 | Drive | rear
+1955 ГАЗ-19А | Count | 1
+1955 ГАЗ-19А | Volume | 2.1 L
+1955 ГАЗ-19А | Cylinders | 4
+1955 ГАЗ-19А | Power | 55 hp
+1955 ГАЗ-19А | Fuel | petrol
+1955 ГАЗ-19А | Body | van 3
+1955 ГАЗ-19А | Gears | 3
+1955 ГАЗ-19А | Drive | rear
+1955 ГАЗ-72 | Count | 4677
+1955 ГАЗ-72 | Power | 52 hp @ 3600 rpm
+1955 ГАЗ-72 | Fuel feed | carb
+1955 ГАЗ-72 | Speed | 90 kmph
+1955 ГАЗ-72 | Fuel consumption | 14 L/100km
+1955 ГАЗ-72 | Weight | 1560 kg
+1955 ГАЗ-72 | Body | sedan 4
+1955 ГАЗ-72 | Seats | 5
+1955 ГАЗ-72 | Fuel tank | 55 L
+1955 ГАЗ-72 | Front track | 1355 mm
+1955 ГАЗ-72 | Rear track | 1388 mm
+1955 ГАЗ-72 | Clearance | 210 mm
+1955 ГАЗ-72 | Brakes | drum
+1955 ГАЗ-72 | Tyres | 6.50x16
+1955 ГАЗ-72 | Gears | 3 manual
+1955 ГАЗ-72 | Drive | full
 1955-08 Opel Olympia Rekord | Price | 6260 DM
 1955-08 Opel Olympia Rekord | Count | 113416
 1955-08 Opel Olympia Rekord | Count | 128827
@@ -1792,6 +1864,12 @@
 1967 Porsche 911 Targa | Rear track | 1317 mm
 1967 Porsche 911 Targa | Wheelbase | 2211 mm
 1967 Volkswagen Transporter | Seats | 8
+1967 ЗиЛ-114 | Volume | 6.96 L
+1967 ЗиЛ-114 | Cylinders | V8
+1967 ЗиЛ-114 | Power | 300 hp
+1967 ЗиЛ-114 | Weight | 3085 kg
+1967 ЗиЛ-114 | Length | 6.3 m
+1967 ЗиЛ-114 | Brakes | disc
 1967-11 Opel Commodore 2500 GS | Volume | 2490 cc
 1967-11 Opel Commodore 2500 GS | Cylinders | 6
 1967-11 Opel Commodore 2500 GS | Power | 130 hp @ 5300 rpm
@@ -2336,6 +2414,11 @@
 1971 Porsche 917 | Volume | 5000 cc
 1971 Porsche 917 | Power | 630 bhp
 1971 Porsche 917 | Power | 630 bhp
+1971 ВАЗ-2101 | Volume | 1.2 L
+1971 ВАЗ-2101 | Cylinders | 4
+1971 ВАЗ-2101 | Power | 60 hp
+1971 ВАЗ-2101 | Speed | 140 kmph
+1971 ВАЗ-2101 | Seats | 5
 1971-09 Porsche 911 | Volume | 2341 cc
 1971-09 Porsche 911 | Cylinders | 6
 1971-09 Porsche 911 E | Power | 165 hp
@@ -3157,6 +3240,7 @@
 1977 Porsche 935/77 | Valves per cylinder | 2
 1977 Porsche 935/77 | Speed | 201 mph
 1977 Porsche 935/77 | Cx | 0.393
+1977 ВАЗ-2121 | Drive | full
 1977-03 Porsche 928 | Volume | 4.5 L
 1977-03 Porsche 928 | Cylinders | V8
 1977-03 Porsche 928 | Power | 240 hp
@@ -3334,6 +3418,22 @@
 1978 Porsche 935/78 Moby Dick | Rear tyres | 350/700 - 16
 1978 Porsche 935/78 Moby Dick | Gears | 4 manual
 1978 Porsche 935/78 Moby Dick | Drive | rear
+1978 ЗиЛ-4104 (115) | Brakes | disc
+1978 ЗиЛ-4104 (115) | Volume | 7695 cc
+1978 ЗиЛ-4104 (115) | Cylinders | V8
+1978 ЗиЛ-4104 (115) | Power | 315 hp @ 4400 rpm
+1978 ЗиЛ-4104 (115) | Torque | 608 nm @ 2500 rpm
+1978 ЗиЛ-4104 (115) | Fuel | petrol
+1978 ЗиЛ-4104 (115) | Speed | 190 kmph
+1978 ЗиЛ-4104 (115) | 0-100 kmph | 13.0 s
+1978 ЗиЛ-4104 (115) | Fuel consumption | 22 L/100km
+1978 ЗиЛ-4104 (115) | Length | 6330 mm
+1978 ЗиЛ-4104 (115) | Width | 2086 mm
+1978 ЗиЛ-4104 (115) | Height | 1500 mm
+1978 ЗиЛ-4104 (115) | Seats | 7
+1978 ЗиЛ-4104 (115) | Wheelbase | 3880 mm
+1978 ЗиЛ-4104 (115) | Gears | 3 auto
+1978 ЗиЛ-4104 (115) | Drive | rear
 1978-08 Audi 100 | Volume | 2 L
 1978-08 Audi 100 | Power | 51 kW
 1978-08 Audi 100 | Fuel | diesel
