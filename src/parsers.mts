@@ -120,12 +120,12 @@ export const parsePower = (s) => {
   };
 };
 
-export const parseTorque = (s) => {
+export const parseTorque = (s: string) => {
   const r = reader(s);
   const num = r.num();
   if (num === "") return null;
   r.spaces();
-  let u;
+  let u = "";
   if (
     r.popAnyI("lb-ft", "lb ft", "lb/ft", "фунт*фут", "ft lbs", "фунтов*фут")
   ) {
@@ -133,6 +133,9 @@ export const parseTorque = (s) => {
   }
   if (!u && r.popAnyI("nm", "Н*м")) {
     u = "nm";
+  }
+  if (!u && r.popAnyI("kgm")) {
+    u = "kgm"; // kg-force * meter
   }
   r.spaces();
   let rpm;

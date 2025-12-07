@@ -150,7 +150,7 @@ export const known = {
     if (!p.u) p.u = "hp";
     return { val: p.format() };
   },
-  Torque: (s) => {
+  Torque: (s: string) => {
     const p = parseTorque(s);
     if (!p) return null;
     if (!p.u) p.u = "nm";

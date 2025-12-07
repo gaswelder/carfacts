@@ -157,6 +157,27 @@
 1932 Opel Regent | Cylinders | R6
 1932 Opel Regent | Body | sedan
 1932 Opel Regent | Body | cabriolet
+1932 ГАЗ-АА | Volume | 3285 cc
+1932 ГАЗ-АА | Cylinders | 4
+1932 ГАЗ-АА | Power | 40 hp @ 2200 rpm
+1932 ГАЗ-АА | Fuel feed | carb
+1932 ГАЗ-АА | Compression ratio | 4.2
+1932 ГАЗ-АА | Bore | 98.43 mm
+1932 ГАЗ-АА | Stroke | 107.95 mm
+1932 ГАЗ-АА | Speed | 70 kmph
+1932 ГАЗ-АА | Fuel consumption | 20.5 L/100km
+1932 ГАЗ-АА | Weight | 1810 kg
+1932 ГАЗ-АА | Length | 5335 mm
+1932 ГАЗ-АА | Width | 2040 mm
+1932 ГАЗ-АА | Height | 1970 mm
+1932 ГАЗ-АА | Fuel tank | 40 L
+1932 ГАЗ-АА | Front track | 1405 mm
+1932 ГАЗ-АА | Rear track | 1600 mm
+1932 ГАЗ-АА | Wheelbase | 3340 mm
+1932 ГАЗ-АА | Clearance | 200 mm
+1932 ГАЗ-АА | Tyres | 6.50x20
+1932 ГАЗ-АА | Gears | 4 manual
+1932 ГАЗ-АА | Drive | rear
 1933 Auto Union | Volume | 4358 cc
 1933 Auto Union | Cylinders | V16
 1933 Auto Union | Power | 295 hp @ 4500 rpm
@@ -422,6 +443,19 @@
 1941 ГАЗ-61 | Tyres | 7.00x16
 1941 ГАЗ-61 | Gears | 3
 1941 ГАЗ-61 | Drive | full
+1941 ГАЗ-64 | Count | 686
+1943-09 ГАЗ-67 | Count | 92843
+1943-09 ГАЗ-67 | Volume | 3280 cc
+1943-09 ГАЗ-67 | Cylinders | R4
+1943-09 ГАЗ-67 | Power | 54 hp @ 2800 rpm
+1943-09 ГАЗ-67 | Torque | 17.5 kgm
+1943-09 ГАЗ-67 | Speed | 90 kmph
+1943-09 ГАЗ-67 | Fuel consumption | 40 L/100km
+1943-09 ГАЗ-67 | Weight | 1376 kg
+1943-09 ГАЗ-67 | Front track | 1449 mm
+1943-09 ГАЗ-67 | Rear track | 1449 mm
+1943-09 ГАЗ-67 | Wheelbase | 2100 mm
+1943-09 ГАЗ-67 | Clearance | 227 mm
 1947 Bugatti Type 73 | Volume | 1488 cc
 1947 Bugatti Type 73 | Cylinders | 4
 1947 Bugatti Type 73 | Body | coupe
@@ -624,6 +658,29 @@
 1953 Opel Olympia Rekord sedan2 | Body | sedan 2
 1953 Porsche 1300 S | Volume | 1290 cc
 1953 Porsche 1300 S | Power | 60 hp
+1953-09 ГАЗ-69 | Volume | 2111 cc
+1953-09 ГАЗ-69 | Cylinders | R4
+1953-09 ГАЗ-69 | Power | 55 hp @ 3600 rpm
+1953-09 ГАЗ-69 | Torque | 12.5 kgm
+1953-09 ГАЗ-69 | Speed | 90 kmph
+1953-09 ГАЗ-69 | Fuel consumption | 28.8 L/100km
+1953-09 ГАЗ-69 | Weight | 1556 kg
+1953-09 ГАЗ-69 | Seats | 8
+1953-09 ГАЗ-69 | Front track | 1437 mm
+1953-09 ГАЗ-69 | Rear track | 1440 mm
+1953-09 ГАЗ-69 | Wheelbase | 2300 mm
+1953-09 ГАЗ-69 | Clearance | 210 mm
+1953-09 ГАЗ-69Б | Volume | 2111 cc
+1953-09 ГАЗ-69Б | Cylinders | R4
+1953-09 ГАЗ-69Б | Power | 55 hp @ 3600 rpm
+1953-09 ГАЗ-69Б | Torque | 12.5 kgm
+1953-09 ГАЗ-69Б | Speed | 90 kmph
+1953-09 ГАЗ-69Б | Weight | 1556 kg
+1953-09 ГАЗ-69Б | Seats | 5
+1953-09 ГАЗ-69Б | Front track | 1437 mm
+1953-09 ГАЗ-69Б | Rear track | 1440 mm
+1953-09 ГАЗ-69Б | Wheelbase | 2300 mm
+1953-09 ГАЗ-69Б | Clearance | 210 mm
 1953-11 Opel Kapitan | Price | 9660 DM
 1953-11 Opel Kapitan | Count | 61543
 1953-11 Opel Kapitan | Power | 68 hp
@@ -831,6 +888,10 @@
 1956 Porsche 356 A Speedster 1.6 S | Wheels | 4.5x15
 1956 Porsche 356 A Speedster 1.6 S | Gears | 4 manual
 1956 Porsche 356 A Speedster 1.6 S | Drive | rear
+1956 ГАЗ-21 | Count | 638875
+1956 ГАЗ-62 | Cylinders | 6
+1956 ГАЗ-62 | Weight | 2300 kg
+1956 ГАЗ-62 | Wheelbase | 2850 mm
 1957 Cadillac Eldorado Brougham | Volume | 6 L
 1957 Cadillac Eldorado Brougham | Cylinders | V8
 1957 Cadillac Eldorado Brougham | Power | 325 hp
@@ -3418,7 +3479,6 @@
 1978 Porsche 935/78 Moby Dick | Rear tyres | 350/700 - 16
 1978 Porsche 935/78 Moby Dick | Gears | 4 manual
 1978 Porsche 935/78 Moby Dick | Drive | rear
-1978 ЗиЛ-4104 (115) | Brakes | disc
 1978 ЗиЛ-4104 (115) | Volume | 7695 cc
 1978 ЗиЛ-4104 (115) | Cylinders | V8
 1978 ЗиЛ-4104 (115) | Power | 315 hp @ 4400 rpm
@@ -3432,6 +3492,7 @@
 1978 ЗиЛ-4104 (115) | Height | 1500 mm
 1978 ЗиЛ-4104 (115) | Seats | 7
 1978 ЗиЛ-4104 (115) | Wheelbase | 3880 mm
+1978 ЗиЛ-4104 (115) | Brakes | disc
 1978 ЗиЛ-4104 (115) | Gears | 3 auto
 1978 ЗиЛ-4104 (115) | Drive | rear
 1978-08 Audi 100 | Volume | 2 L
