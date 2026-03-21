@@ -14,9 +14,9 @@ const oneof = (vals: string[]) => (val: string) => {
   }
 };
 
-const seconds = (s) => {
+const seconds = (s: string) => {
   const v = parseVal(s.replace(",", "."));
-  const map = { "": "s", с: "s", sec: "s" };
+  const map: Record<string, string> = { "": "s", с: "s", sec: "s" };
   v.unit = map[v.unit] || v.unit;
   if (v.unit == "s") {
     return { val: v.val.toFixed(1) + " s" };
@@ -34,7 +34,7 @@ const unitless = (fixed?: number) => (val: string) => {
 const units =
   (
     units: string[],
-    defaults?: { unit: string; min?: number; max?: number }[]
+    defaults?: { unit: string; min?: number; max?: number }[],
   ) =>
   (val: string) => {
     if (val.includes(",") && !val.match(/,\d{3,}/)) {
@@ -58,7 +58,7 @@ const units =
     }
   };
 
-const range = (units) => (val) => {
+const range = (units: string[]) => (val: string) => {
   let m;
   m = val.match(/^([\d.]+)\s?(.*?)$/);
   if (m) {
@@ -78,9 +78,9 @@ const range = (units) => (val) => {
 
 const size = units(["mm", "in", "m", "cm"], [{ min: 1000, unit: "mm" }]);
 
-const isnum = (s) => s.match(/^\d+(\.\d+)?$/);
+const isnum = (s: string) => s.match(/^\d+(\.\d+)?$/);
 
-const brakes = (val) => {
+const brakes = (val: string) => {
   val = val.replace("discs", "disc");
   if (val == "drums") {
     return { val: "drum" };
@@ -105,7 +105,7 @@ const wheels = (val: string) => {
 
 export const known = {
   Price: units(["USD", "DM", "GBP", "RUR", "EUR"]),
-  Count(val) {
+  Count(val: string) {
     let m = val.match(/(\d+) in (\d+)/);
     if (m) {
       const n = m[1];
@@ -114,7 +114,7 @@ export const known = {
     }
     m = val.match(/^(\d+)\s?K$/i);
     if (m) {
-      return { val: m[1] * 1000 };
+      return { val: parseInt(m[1], 10) * 1000 };
     }
     m = val.match(/^(\d+) @\s?(\d\d\d\d)$/);
     if (m) {
@@ -131,7 +131,7 @@ export const known = {
   Volume: units(["cc", "L", "cin"], [{ unit: "L", max: 10 }]),
   Cylinders: oneof(
     `1 10 12 16 18 2 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5 R3
-        V10 V12 V16 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/)
+        V10 V12 V16 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),
   ),
   Compressor: oneof([
     "turbo",
@@ -144,7 +144,7 @@ export const known = {
     "mechanical",
   ]),
   "Compressor pressure": range(["bar", "atm", "psi"]),
-  Power: (s) => {
+  Power: (s: string) => {
     const p = parsePower(s);
     if (!p) return null;
     if (!p.u) p.u = "hp";
@@ -157,52 +157,59 @@ export const known = {
     return { val: p.format() };
   },
   Fuel: oneof(["petrol", "natural gas", "diesel", "electric"]),
-  "Fuel feed": oneof([
-    "2 carb SU",
-    "2 carb Weber",
-    "2 carb Zenith",
-    "2 carb",
-    "3 carb Weber",
-    "3 carb",
-    "6 carb Weber",
-    "4 carb Weber",
-    "carb Solex 1B2",
-    "carb Solex 2B4",
-    "carb Solex 32 TDID",
-    "carb Solex 35 PDSIT-5",
-    "carb Solex 4A1",
-    "carb Solex DIDTA 32/32",
-    "carb Solex",
-    "carb Weber 46IDA",
-    "carb Weber",
-    "carb Zenith",
-    "carb",
-    "direct injection",
-    "distributed injection",
-    "injection Bosch K-Jetronic",
-    "injection Bosch KE-Jetrоnic",
-    "injection Bosch L-jetronic",
-    "injection Bosch LH-Jetronic",
-    "injection Bosch Motronic M5.4",
-    "injection Bosch Motronic",
-    "injection Bosch Motroniс",
-    "injection L-Jetronic",
-    "injection K-Jetronic",
-    "injection Jetronic",
-    "injection Bosch LE-Jetronic",
-    "injection Bosch MH-Motronic",
-    "injection TAG 3.8",
-    "injection TAGtronic",
-    "injection",
-    "mechanical injection Bosch",
-    "mechanical injection Kugelfischer",
-    "mechanical injection",
-    "sequential distributed injection",
-    "sequential multi-point injection",
-    "carb Keihin",
-    "carb Pierburg 1B3",
-    "carb Pierburg 2E2",
-  ]),
+  "Fuel feed": (s: string) => {
+    const feeds = [
+      "2 carb SU",
+      "2 carb Weber",
+      "2 carb Zenith",
+      "2 carb",
+      "3 carb Weber",
+      "3 carb",
+      "6 carb Weber",
+      "4 carb Weber",
+      "carb Solex 1B2",
+      "carb Solex 2B4",
+      "carb Solex 32 TDID",
+      "carb Solex 35 PDSIT-5",
+      "carb Solex 4A1",
+      "carb Solex DIDTA 32/32",
+      "carb Solex",
+      "carb Weber 46IDA",
+      "carb Weber",
+      "carb Zenith",
+      "carb",
+      "direct injection",
+      "distributed injection",
+      "injection Bosch K-Jetronic",
+      "injection Bosch KE-Jetrоnic",
+      "injection Bosch L-jetronic",
+      "injection Bosch LH-Jetronic",
+      "injection Bosch Motronic M5.4",
+      "injection Bosch Motronic",
+      "injection Bosch Motroniс",
+      "injection L-Jetronic",
+      "injection K-Jetronic",
+      "injection Jetronic",
+      "injection Bosch LE-Jetronic",
+      "injection Bosch MH-Motronic",
+      "injection TAG 3.8",
+      "injection TAGtronic",
+      "injection",
+      "mechanical injection Bosch",
+      "mechanical injection Kugelfischer",
+      "mechanical injection",
+      "sequential distributed injection",
+      "sequential multi-point injection",
+      "carb Keihin",
+      "carb Pierburg 1B3",
+      "carb Pierburg 2E2",
+    ];
+    let t = s.replace("carburetor", "carb");
+    if (t == "Solex carb") {
+      t = "carb Solex";
+    }
+    return oneof(feeds)(t);
+  },
 
   // Engine details
   "Compression ratio": unitless(1),
@@ -257,6 +264,7 @@ export const known = {
   Weight: units(["kg", "lbs", "t"], [{ unit: "kg" }]),
 
   Body: oneof([
+    "ambulance 5",
     "buggy",
     "bus",
     "cabriolet 2",
@@ -286,12 +294,12 @@ export const known = {
   Width: size,
   Height: size,
   Seats: oneof(["2", "4", "2+2", "5", "6", "7", "1", "8", "4+2", "35"]),
-  Doors(val) {
+  Doors(val: string) {
     if (isnum(val)) {
       return { val };
     }
   },
-  "Fuel tank": (val) => {
+  "Fuel tank": (val: string) => {
     const x = parseVal(val);
     if (x.unit == "l") {
       x.unit = "L";

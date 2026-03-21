@@ -6,14 +6,6 @@ import { reader } from "./reader.mjs";
 type Fact = { id: string; k: string; v: string };
 type Car = { k: string; v: string }[];
 
-export const parseFact = (line: string) => {
-  const cols = line.split("|").map((x) => x.trim());
-  if (cols.length != 3) {
-    throw new Error("invalid tuple: " + line);
-  }
-  return { id: cols[0], k: cols[1], v: cols[2] };
-};
-
 export const formatFact = (f: Fact) => [f.id, f.k, f.v].join(" | ");
 
 export const groupFacts = (ff: Fact[], kk: string[]) => {

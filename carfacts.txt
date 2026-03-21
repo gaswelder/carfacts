@@ -321,6 +321,30 @@
 1936 ГАЗ-M1 | Power | 50 hp @ 2800 rpm
 1936 ГАЗ-M1 | Fuel feed | carb
 1936 ГАЗ-M1 | Gears | 3
+1936 ЗиС-101 | Count | 8752
+1936 ЗиС-101 | Count | 1936 11
+1936 ЗиС-101 | Volume | 5766 cc
+1936 ЗиС-101 | Cylinders | R8
+1936 ЗиС-101 | Power | 90 hp @ 2800 rpm
+1936 ЗиС-101 | Compression ratio | 4.8
+1936 ЗиС-101 | Bore | 85 mm
+1936 ЗиС-101 | Stroke | 127 mm
+1936 ЗиС-101 | Speed | 115 kmph
+1936 ЗиС-101 | Fuel consumption | 25.5 L/100km
+1936 ЗиС-101 | Weight | 2550 kg
+1936 ЗиС-101 | Body | sedan 4
+1936 ЗиС-101 | Body | ambulance 5
+1936 ЗиС-101 | Length | 5750 mm
+1936 ЗиС-101 | Width | 1890 mm
+1936 ЗиС-101 | Height | 1870 mm
+1936 ЗиС-101 | Seats | 7
+1936 ЗиС-101 | Fuel tank | 80 L
+1936 ЗиС-101 | Front track | 1500 mm
+1936 ЗиС-101 | Rear track | 1550 mm
+1936 ЗиС-101 | Wheelbase | 3605 mm
+1936 ЗиС-101 | Clearance | 190 mm
+1936 ЗиС-101 | Tyres | 7.50x17 in
+1936 ЗиС-101 | Gears | 3 manual
 1937 Bugatti Type 57 | Volume | 3.3 L
 1937 Opel Admiral | Count | 6404
 1937 Opel Admiral | Volume | 3626 cc
@@ -2410,6 +2434,7 @@
 1970 Porsche 914/6 | Rear wheels | 5.5x14.0
 1970 Porsche 914/6 | Gears | 5 manual
 1970 Porsche 914/6 | Drive | rear
+1970 ВАЗ-2101 | Count | 2700000
 1970-07 ГАЗ-24-01 | Volume | 2445 cc
 1970-07 ГАЗ-24-01 | Cylinders | R4
 1970-07 ГАЗ-24-01 | Power | 85 kWt @ 4500 rpm
@@ -2911,6 +2936,13 @@
 1974 Volkswagen Scirocco | Power | 120 hp
 1974 Volkswagen Scirocco | Power | 60 hp
 1974 Volkswagen Scirocco | Body | hatchback
+1974 ВАЗ-21011 | Volume | 1.3 L
+1974 ВАЗ-21011 | Volume | 1.3 L
+1974 ВАЗ-21011 | Cylinders | R4
+1974 ВАЗ-21011 | Cylinders | R4
+1974 ВАЗ-21011 | Power | 69 hp
+1974 ВАЗ-21011 | Fuel feed | carb
+1974 ВАЗ-21011 | Fuel feed | carb
 1974-08 Audi 50 (A01) | Count | 180000
 1974-08 Audi 50 (A01) | Volume | 1.1 L
 1974-08 Audi 50 (A01) | Cylinders | 4
@@ -3193,6 +3225,8 @@
 1976 Porsche Carrera 3.0 | Power | 200 bhp
 1976 Volkswagen Golf GTi | Power | 112 hp
 1976 Volkswagen Golf GTi | Fuel feed | injection
+1976 ВАЗ-21016 | Volume | 1.3 L
+1976 ВАЗ-21016 | Power | 69 hp
 1976-03 Porsche 936 | Volume | 2.14 L
 1976-03 Porsche 936 | Cylinders | B6
 1976-03 Porsche 936 | Compressor | turbo
@@ -3301,6 +3335,9 @@
 1977 Porsche 935/77 | Valves per cylinder | 2
 1977 Porsche 935/77 | Speed | 201 mph
 1977 Porsche 935/77 | Cx | 0.393
+1977 ВАЗ-21013 | Volume | 1.2 L
+1977 ВАЗ-21013 | Cylinders | R4
+1977 ВАЗ-21013 | Fuel feed | carb
 1977 ВАЗ-2121 | Drive | full
 1977-03 Porsche 928 | Volume | 4.5 L
 1977-03 Porsche 928 | Cylinders | V8
@@ -3556,6 +3593,10 @@
 1979 Porsche 928S | Speed | 250 kmph
 1979 Porsche 928S | Speed | 250 kmph
 1979 Rolls Royce Phantom VI Park Ward | Gears | 3 auto
+1979 ВАЗ-21061 | Volume | 1451 cc
+1979 ВАЗ-21061 | Power | 75 hp
+1979 ВАЗ-21063 | Volume | 1294 cc
+1979 ВАЗ-21063 | Power | 64 hp
 1979-03 Jaguar XJ (III) | Volume | 4.2 L
 1979-03 Jaguar XJ (III) | Fuel feed | injection
 1979-03 Jaguar XJ (III) | Gears | 4 manual
@@ -6187,6 +6228,9 @@
 1993 Volkswagen Passat (IV) | Fuel | diesel
 1993 Volkswagen Passat (IV) | Fuel | diesel
 1993 Volkswagen Passat (IV) | Fuel feed | direct injection
+1993 ВАЗ-21065 | Volume | 1.5 L
+1993 ВАЗ-21065 | Fuel feed | carb Solex
+1993 ВАЗ-21065 | Gears | 5 manual
 1993-03 Lamborghini Diablo VT | Drive | full
 1993-09 Porsche 962 Dauer | Volume | 2994 cc
 1993-09 Porsche 962 Dauer | Cylinders | B6

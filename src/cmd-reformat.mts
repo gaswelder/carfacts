@@ -1,8 +1,8 @@
 import readline from "readline/promises";
-import { formatFact, groupFacts, parseFact } from "./db.mts";
+import { formatFact, groupFacts } from "./db.mts";
 import { known } from "./schema.mts";
 
-type Fact = ReturnType<typeof parseFact>;
+type Fact = { id: string; k: string; v: string };
 
 /**
  * Reads facts from stdin, prints them normalized and reformatted.
@@ -15,10 +15,24 @@ const main = async () => {
   const rl = readline.createInterface(process.stdin);
   for await (const line of rl) {
     if (line.trim() == "") continue;
-    rawTuples.push(parseFact(line));
+    const cols = line.split("|").map((x) => x.trim());
+    if (cols.length != 3) {
+      throw new Error("invalid tuple: " + line);
+    }
+    rawTuples.push({ id: cols[0], k: cols[1], v: cols[2] });
   }
 
-  // Parse and reformat the input tuples.
+  const tuples = reformat(rawTuples);
+
+  const cars = groupFacts(tuples, Object.keys(known));
+  for (const [id, entries] of cars.entries()) {
+    for (const e of entries) {
+      console.log(formatFact({ id, ...e }));
+    }
+  }
+};
+
+const reformat = (rawTuples: Fact[]) => {
   let ok = true;
   const oops = (msg: string, data: Record<string, unknown>) => {
     console.log(JSON.stringify({ msg, ...data }));
@@ -42,7 +56,7 @@ const main = async () => {
     }
     const norm = normalize(v);
     if (!norm || !("val" in norm)) {
-      oops("failed to parse data", { id, k, v });
+      oops("failed to parse value for " + k, { id, k, v });
       return [];
     }
     return [{ id, k, v: norm.val }];
@@ -51,13 +65,7 @@ const main = async () => {
   if (!ok) {
     process.exit(1);
   }
-
-  const cars = groupFacts(tuples, Object.keys(known));
-  for (const [id, entries] of cars.entries()) {
-    for (const e of entries) {
-      console.log(formatFact({ id, ...e }));
-    }
-  }
+  return tuples;
 };
 
 main();
