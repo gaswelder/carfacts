@@ -1,29 +1,24 @@
-import {
-  parsePower,
-  parseTorque,
-  parseTyre,
-  parseVal,
-  readWheel,
-} from "./parsers.mts";
+import { parsePower } from "./parsers/power.mts";
+import { parseTorque } from "./parsers/torque.mts";
+import { parseTyre } from "./parsers/tyres.mts";
+import { readWheel } from "./parsers/wheels.mts";
+import { Val } from "./val.mts";
 
-const oneof = (vals: string[]) => (val: string) => {
-  for (const x of vals) {
-    if (val.toLowerCase() == x.toLowerCase()) {
-      return { val: x };
+/**
+ * Matches one of the given strings, case-insensitive.
+ */
+const matchOneOf = (val: string, options: string[]) => {
+  for (const opt of options) {
+    if (val.toLowerCase() == opt.toLowerCase()) {
+      return { val: opt };
     }
   }
 };
 
-const seconds = (s: string) => {
-  const v = parseVal(s.replace(",", "."));
-  const map: Record<string, string> = { "": "s", с: "s", sec: "s" };
-  v.unit = map[v.unit] || v.unit;
-  if (v.unit == "s") {
-    return { val: v.val.toFixed(1) + " s" };
-  }
-};
-
-const unitless = (fixed?: number) => (val: string) => {
+/**
+ * Matches a number, optionally formatting it to fixed digits.
+ */
+const matchNumber = (val: string, fixed?: number) => {
   const n = parseFloat(val);
   if (fixed !== undefined) {
     return { val: n.toFixed(fixed) };
@@ -31,31 +26,69 @@ const unitless = (fixed?: number) => (val: string) => {
   return { val: n.toString() };
 };
 
+/**
+ * Matches one of possible unit values,
+ * when different units are acceptable in general case.
+ */
+const matchUnit = (
+  val: string,
+  units: string[],
+  params: Partial<{
+    aliases: Record<string, string>;
+    defaults: {
+      unit: string;
+      min?: number;
+      max?: number;
+    }[];
+  }>,
+) => {
+  // if (val.includes(",") && !val.match(/,\d{3,}/)) {
+  //   val = val.replace(",", ".");
+  // }
+  const x = Val.parse(val);
+  if (x.unit == "" && params.defaults) {
+    for (const def of params.defaults) {
+      if (def.min !== undefined && x.val < def.min) {
+        continue;
+      }
+      if (def.max !== undefined && x.val > def.max) {
+        continue;
+      }
+      x.unit = def.unit;
+      break;
+    }
+  }
+  if (x.unit && params.aliases && params.aliases[x.unit]) {
+    x.unit = params.aliases[x.unit];
+  }
+  if (units.includes(x.unit)) {
+    return { val: x.format() };
+  }
+};
+
+const oneof = (options: string[]) => (val: string) => matchOneOf(val, options);
+const unitless = (fixed?: number) => (val: string) => matchNumber(val, fixed);
+
+const parseSeconds = (s: string) => {
+  const v = Val.parse(s.replace(",", "."));
+  const map: Record<string, string> = { "": "s", с: "s", sec: "s" };
+  v.unit = map[v.unit] || v.unit;
+  if (v.unit == "s") {
+    return { val: v.val.toFixed(1) + " s" };
+  }
+};
+
 const units =
   (
     units: string[],
-    defaults?: { unit: string; min?: number; max?: number }[],
+    defaults?: {
+      unit: string;
+      min?: number;
+      max?: number;
+    }[],
   ) =>
   (val: string) => {
-    if (val.includes(",") && !val.match(/,\d{3,}/)) {
-      val = val.replace(",", ".");
-    }
-    const x = parseVal(val);
-    if (x.unit == "" && defaults) {
-      for (const def of defaults) {
-        if (def.min !== undefined && x.val < def.min) {
-          continue;
-        }
-        if (def.max !== undefined && x.val > def.max) {
-          continue;
-        }
-        x.unit = def.unit;
-        break;
-      }
-    }
-    if (units.includes(x.unit)) {
-      return { val: x.format() };
-    }
+    return matchUnit(val, units, { defaults });
   };
 
 const range = (units: string[]) => (val: string) => {
@@ -220,23 +253,23 @@ export const known = {
 
   // Perf
   Speed: units(["kmph", "mph"]),
-  "0-96 kmph": seconds,
-  "0-100 kmph": seconds,
-  "0-120 kmph": seconds,
-  "0-150 kmph": seconds,
-  "0-160 kmph": seconds,
-  "0-161 kmph": seconds,
-  "0-180 kmph": seconds,
-  "0-200 kmph": seconds,
-  "0-300 kmph": seconds,
-  "0-30 mph": seconds,
-  "0-40 mph": seconds,
-  "0-50 mph": seconds,
-  "0-60 mph": seconds,
-  "0-100 mph": seconds,
-  "0-120 mph": seconds,
-  "0-125 mph": seconds,
-  "0-150 mph": seconds,
+  "0-96 kmph": parseSeconds,
+  "0-100 kmph": parseSeconds,
+  "0-120 kmph": parseSeconds,
+  "0-150 kmph": parseSeconds,
+  "0-160 kmph": parseSeconds,
+  "0-161 kmph": parseSeconds,
+  "0-180 kmph": parseSeconds,
+  "0-200 kmph": parseSeconds,
+  "0-300 kmph": parseSeconds,
+  "0-30 mph": parseSeconds,
+  "0-40 mph": parseSeconds,
+  "0-50 mph": parseSeconds,
+  "0-60 mph": parseSeconds,
+  "0-100 mph": parseSeconds,
+  "0-120 mph": parseSeconds,
+  "0-125 mph": parseSeconds,
+  "0-150 mph": parseSeconds,
 
   "Fuel consumption": (val: string) => {
     let m;
@@ -300,7 +333,7 @@ export const known = {
     }
   },
   "Fuel tank": (val: string) => {
-    const x = parseVal(val);
+    const x = Val.parse(val);
     if (x.unit == "l") {
       x.unit = "L";
     }

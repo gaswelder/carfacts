@@ -1,6 +1,6 @@
-import * as test from "node:test";
-import { parseTyre } from "./parsers.mts";
+import { it } from "node:test";
 import * as assert from "assert/strict";
+import { parseTyre } from "./tyres.mts";
 
 const input = [
   "05/55R16W",
@@ -94,33 +94,33 @@ const input = [
   "P205/55 R 16 H",
 ];
 
-test.it("155 HR 13", () => {
+it("155 HR 13", () => {
   const r = parseTyre("155 HR 13");
   assert.equal(r?.format(), "155 HR13");
 });
 
-test.it("225/50 ZRR17", () => {
+it("225/50 ZRR17", () => {
   const r = parseTyre("225/50 ZRR17");
   assert.equal(r?.format(), "225/50 ZRR17");
 });
 
-test.it("185/70 VR15", () => {
+it("185/70 VR15", () => {
   assert.equal(parseTyre("185/70 VR15")?.format(), "185/70 VR15");
 });
 
-test.it("195/70-HR14", () => {
+it("195/70-HR14", () => {
   assert.equal(parseTyre("195/70-HR14")?.format(), "195/70 HR14");
 });
 
-test.it("225/50 ZR", () => {
+it("225/50 ZR", () => {
   assert.equal(parseTyre("225/50 ZR")?.format(), "225/50 ZR");
 });
 
-test.it("255/40 R18 Y", () => {
+it("255/40 R18 Y", () => {
   assert.equal(parseTyre("255/40 R18 Y")?.format(), "255/40 R18 Y");
 });
 
-test.it("165SR-15", () => {
+it("165SR-15", () => {
   assert.equal(parseTyre("165SR-15")?.format(), "165 SR15");
 });
 

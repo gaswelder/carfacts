@@ -1,3 +1,5 @@
+import { reader } from "./reader.mjs";
+
 export class Val {
   public val: number;
   public unit: string;
@@ -8,6 +10,28 @@ export class Val {
     this.unit = unit;
     if (condition) this.condition = condition;
   }
+
+  /**
+   * Parses strings like "125 hp @ 2000 rpm" into Val objects.
+   */
+  static parse(s: string) {
+    const [n, cond, z] = s.split("@").map((x) => x.trim());
+    if (z !== undefined) {
+      throw new Error("unexpected format: " + s);
+    }
+    const r = reader(n);
+
+    // hack: skip non-digits to let "R8" or "V6" work with calculations.
+    while (r.more() && r.peek().match(/[a-z]/i)) {
+      r.get();
+    }
+
+    const val = r.num();
+    r.spaces();
+    const unit = r.rest();
+    return new Val(parseFloat(val), unit, cond);
+  }
+
   format(fixed?: number) {
     let s = "";
     if (fixed) {
@@ -35,7 +59,7 @@ export class Val {
     }
     const sig = this.unit + "->" + toUnit;
 
-    const map = {
+    const map: Record<string, number> = {
       "bhp->hp": 1,
       "cc->l": 1 / 1000,
       "cin->cc": 2.54 ** 3,
@@ -63,7 +87,7 @@ export class Val {
     return new Val(
       this.val / b.val,
       combineUnits(this.unit, b.unit, "/"),
-      this.condition || b.condition
+      this.condition || b.condition,
     );
   }
   mul(b: Val) {
@@ -73,7 +97,7 @@ export class Val {
     return new Val(
       this.val * b.val,
       combineUnits(this.unit, b.unit, "*"),
-      this.condition || b.condition
+      this.condition || b.condition,
     );
   }
 }

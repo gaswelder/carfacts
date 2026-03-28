@@ -1,8 +1,6 @@
-import { parseVal } from "./parsers.mts";
 import { type Expr } from "./query-parser.mts";
 import { Val } from "./val.mts";
 
-type Fact = { id: string; k: string; v: string };
 type Car = { k: string; v: string }[];
 
 export const calc = (car: Car, expr: Expr): Val[] => {
@@ -43,7 +41,7 @@ export const calc = (car: Car, expr: Expr): Val[] => {
       const k = expr.val.toLowerCase();
       return car
         .filter((entry) => entry.k.toLowerCase() == k)
-        .map((entry) => parseVal(entry.v));
+        .map((entry) => Val.parse(entry.v));
     }
   }
   throw new Error("unimplemented expression node");
