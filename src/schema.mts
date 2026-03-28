@@ -91,22 +91,39 @@ const units =
     return matchUnit(val, units, { defaults });
   };
 
+const matchRange = (
+  val: string,
+  units: string[],
+  params: Partial<{ unitAliases: Record<string, string> }>,
+) => {
+  const [a, b, c] = val.split("..").map((x) => x.trim());
+  if (c !== undefined) {
+    throw new Error("invalid range format: " + val);
+  }
+
+  const p = () => {
+    const from = Val.parse(a);
+    if (b === undefined) {
+      return { from: from.val, to: null, unit: from.unit };
+    }
+    const to = Val.parse(b);
+    return { from: from.val, to: to.val, unit: to.unit };
+  };
+
+  const r = p();
+  if (params.unitAliases) {
+    r.unit = params.unitAliases[r.unit] || r.unit;
+  }
+  if (units.includes(r.unit)) {
+    if (r.to !== null) {
+      return { val: `${r.from}..${r.to} ${r.unit}` };
+    }
+    return { val: `${r.from} ${r.unit}` };
+  }
+};
+
 const range = (units: string[]) => (val: string) => {
-  let m;
-  m = val.match(/^([\d.]+)\s?(.*?)$/);
-  if (m) {
-    const [, v, unit] = m;
-    if (units.includes(unit)) {
-      return { val: `${v} ${unit}` };
-    }
-  }
-  m = val.match(/^(1\.2)\.\.(1\.5)\s?(bar)$/);
-  if (m) {
-    const [, a, b, unit] = m;
-    if (units.includes(unit)) {
-      return { val: `${a}..${b} ${unit}` };
-    }
-  }
+  return matchRange(val, units, {});
 };
 
 const size = units(["mm", "in", "m", "cm"], [{ min: 1000, unit: "mm" }]);
@@ -137,7 +154,7 @@ const wheels = (val: string) => {
 };
 
 export const known = {
-  Price: units(["USD", "DM", "GBP", "RUR", "EUR"]),
+  Price: units(["USD", "DM", "GBP", "RUR", "EUR", "BYN"]),
   Count(val: string) {
     let m = val.match(/(\d+) in (\d+)/);
     if (m) {
@@ -189,7 +206,16 @@ export const known = {
     if (!p.u) p.u = "nm";
     return { val: p.format() };
   },
-  Fuel: oneof(["petrol", "natural gas", "diesel", "electric"]),
+  Fuel: oneof([
+    "petrol",
+    "natural gas",
+    "diesel",
+    "electric",
+    "petrol 92",
+    "petrol 95",
+    "petrol 98",
+    "kerosene",
+  ]),
   "Fuel feed": (s: string) => {
     const feeds = [
       "2 carb SU",
@@ -252,7 +278,9 @@ export const known = {
   "Max rpm": units([""]),
 
   // Perf
-  Speed: units(["kmph", "mph"]),
+  Speed(s: string) {
+    return matchUnit(s, ["kmph", "mph"], { aliases: { "км/ч": "kmph" } });
+  },
   "0-96 kmph": parseSeconds,
   "0-100 kmph": parseSeconds,
   "0-120 kmph": parseSeconds,
@@ -294,7 +322,12 @@ export const known = {
       return { val: `${m[1]} ${m[2]}` };
     }
   },
-  Weight: units(["kg", "lbs", "t"], [{ unit: "kg" }]),
+  Weight(s: string) {
+    return matchUnit(s, ["kg", "lbs", "t"], {
+      aliases: { T: "t", кг: "kg" },
+      defaults: [{ unit: "kg" }],
+    });
+  },
 
   Body: oneof([
     "ambulance 5",
@@ -322,6 +355,7 @@ export const known = {
     "wagon 3",
     "wagon 5",
     "wagon",
+    "phaeton",
   ]),
   Length: size,
   Width: size,
@@ -342,7 +376,9 @@ export const known = {
     }
   },
   Cx: unitless(3),
-  "Trunk size": range(["L", "cubic ft"]),
+  "Trunk size"(s: string) {
+    return matchRange(s, ["L", "cubic ft"], { unitAliases: { л: "L" } });
+  },
 
   // Chassis
   "Front track": size,

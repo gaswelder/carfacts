@@ -129,6 +129,8 @@
 1930 Mercedes-Benz SSK Trossi Roadster | Compressor | mechanical
 1930 Mercedes-Benz SSK Trossi Roadster | Power | 300 hp
 1930 Mercedes-Benz SSK Trossi Roadster | Weight | 2 t
+1930 АМО-2 | Count | 1715
+1930 АМО-2 | Clearance | 223 mm
 1931 Bugatti Type 50 | Volume | 5 L
 1931 Bugatti Type 50 | Cylinders | 8
 1931 Bugatti Type 50 | Power | 250 hp
@@ -153,6 +155,8 @@
 1931 Opel 1.2 Liter | Gears | 3
 1931 Opel 1.2 Liter | Gears | 4
 1931 Opel 1.2 Liter | Drive | rear
+1931 АМО-3 | Volume | 4.88 L
+1931 АМО-3 | Power | 66 hp
 1932 Opel Regent | Volume | 1735 cc
 1932 Opel Regent | Cylinders | R6
 1932 Opel Regent | Body | sedan
@@ -202,6 +206,13 @@
 1933 ГАЗ-4 | Tyres | 5.50x19
 1933 ГАЗ-4 | Gears | 3
 1933 ГАЗ-4 | Drive | rear
+1933 ЗиС-5 | Count | 1000000
+1933 ЗиС-5 | Volume | 5.55 L
+1933 ЗиС-5 | Power | 73 hp
+1933 ЗиС-5 | Fuel | petrol
+1933 ЗиС-5 | Fuel | kerosene
+1933 ЗиС-5 | Compression ratio | 4.7
+1933 ЗиС-5 | Fuel consumption | 30..33 L/100km
 1933 ЛК-1 | Power | 60 kW @ 1200 rpm
 1933 ЛК-1 | Fuel | electric
 1933 ЛК-1 | Speed | 55 kmph
@@ -480,6 +491,23 @@
 1943-09 ГАЗ-67 | Rear track | 1449 mm
 1943-09 ГАЗ-67 | Wheelbase | 2100 mm
 1943-09 ГАЗ-67 | Clearance | 227 mm
+1944 ГАЗ-67 Б | Count | 62843
+1944 ГАЗ-67 Б | Volume | 3284 cc
+1944 ГАЗ-67 Б | Cylinders | R4
+1944 ГАЗ-67 Б | Power | 54 hp
+1944 ГАЗ-67 Б | Fuel feed | carb
+1944 ГАЗ-67 Б | Speed | 90 kmph
+1944 ГАЗ-67 Б | Weight | 1320 kg
+1944 ГАЗ-67 Б | Length | 3350 mm
+1944 ГАЗ-67 Б | Width | 1700 mm
+1944 ГАЗ-67 Б | Height | 1690 mm
+1944 ГАЗ-67 Б | Seats | 4
+1944 ГАЗ-67 Б | Front track | 1440 mm
+1944 ГАЗ-67 Б | Wheelbase | 2100 mm
+1944 ГАЗ-67 Б | Clearance | 210 mm
+1944 ГАЗ-67 Б | Tyres | 7,00—16
+1944 ГАЗ-67 Б | Gears | 4 manual
+1944 ГАЗ-67 Б | Drive | full
 1947 Bugatti Type 73 | Volume | 1488 cc
 1947 Bugatti Type 73 | Cylinders | 4
 1947 Bugatti Type 73 | Body | coupe
@@ -598,6 +626,13 @@
 1950 Porsche 356 Gmund Coupe | Front wheels | 5.00x16
 1950 Porsche 356 Gmund Coupe | Rear wheels | 5.00x16
 1950 Porsche 356 Gmund Coupe | Drive | rear
+1950 ГАЗ-12 ЗИМ | Count | 21527
+1950 ГАЗ-12 ЗИМ | Cylinders | 6
+1950 ГАЗ-12 ЗИМ | Power | 90 hp
+1950 ГАЗ-12 ЗИМ | Speed | 125 kmph
+1950 ГАЗ-12 ЗИМ | Weight | 1806 kg
+1950 ГАЗ-12 ЗИМ | Seats | 6
+1950 ГАЗ-12 ЗИМ | Wheelbase | 3200 mm
 1950-01 Opel Olympia Cabriolet | Count | 46636
 1951 Daimler Straight Eight | Volume | 5460 cc
 1951 Daimler Straight Eight | Cylinders | R8
@@ -912,6 +947,10 @@
 1956 Porsche 356 A Speedster 1.6 S | Wheels | 4.5x15
 1956 Porsche 356 A Speedster 1.6 S | Gears | 4 manual
 1956 Porsche 356 A Speedster 1.6 S | Drive | rear
+1956 ГАЗ М73 | Body | coupe
+1956 ГАЗ М73 | Wheelbase | 2000 mm
+1956 ГАЗ М73 | Tyres | 15 in
+1956 ГАЗ М73 | Drive | full
 1956 ГАЗ-21 | Count | 638875
 1956 ГАЗ-62 | Cylinders | 6
 1956 ГАЗ-62 | Weight | 2300 kg
@@ -1062,6 +1101,16 @@
 1959 Porsche 718 (RSK 718/1600) | Power | 148 hp
 1959 Porsche Bergspyder | Volume | 1.6 L
 1959 Porsche Bergspyder | Power | 148 hp
+1959 ГАЗ-13 Чайка | Count | 2000
+1959 ГАЗ-13 Чайка | Volume | 3.5 L
+1959 ГАЗ-13 Чайка | Cylinders | V8
+1959 ГАЗ-13 Чайка | Power | 195 hp @ 4200 rpm
+1959 ГАЗ-13 Чайка | Speed | 160 kmph
+1959 ГАЗ-13 Чайка | 0-100 kmph | 20.0 s
+1959 ГАЗ-13 Чайка | Fuel consumption | 21 L/100km
+1959 ГАЗ-13 Чайка | Weight | 2 t
+1959 ГАЗ-13 Чайка | Body | sedan 4
+1959 ГАЗ-13 Чайка | Seats | 7
 1959-07 Opel Olympia Rekord (P1) | Volume | 1680 cc
 1959-07 Opel Olympia Rekord (P1) | Power | 55 hp @ 4000 rpm
 1959-08 Opel 1200 | Price | 5835 DM
@@ -1293,6 +1342,7 @@
 1961 Opel Rekord | Weight | 975 kg
 1961 Porsche 356 B Abarth Carrera | Power | 140 hp
 1961 Porsche 356B 2000GS Carrera 2GT | Volume | 2 L
+1961 ГАЗ-13Б Чайка | Body | phaeton
 1962 Ferrari 250 GT Berlinetta Lusso | Count | 350
 1962 Ferrari 250 GT Berlinetta Lusso | Volume | 2953 cc
 1962 Ferrari 250 GT Berlinetta Lusso | Cylinders | V12
@@ -1325,6 +1375,9 @@
 1962 Ferrari 250 GTO | Brakes | disc
 1962 Ferrari 250 GTO | Gears | 5 manual
 1962 Ferrari 250 GTO | Drive | rear
+1962 Lamborghini Rivolta 300 GT | Volume | 5.3 L
+1962 Lamborghini Rivolta 300 GT | Cylinders | V8
+1962 Lamborghini Rivolta 300 GT | Seats | 4
 1962 Opel Kadett (A) | Count | 649512
 1962 Opel Kadett (A) | Volume | 993 cc
 1962 Opel Kadett (A) | Volume | 993 cc
@@ -1384,7 +1437,13 @@
 1962-06 Opel Rekord L 1.7 2-door | Price | 7675 DM
 1963 Aston Martin DB-5 | Volume | 4 L
 1963 Aston Martin DB-5 | Power | 282 hp
+1963 Lamborghini 350 GTV | Cylinders | V12
+1963 Lamborghini 350 GTV | Fuel feed | 6 carb Weber
+1963 Lamborghini 350 GTV | Body | coupe
 1963 Lamborghini 350GT | Engine placement | center
+1963 Lamborghini Grifo A3L | Volume | 7 L
+1963 Lamborghini Grifo A3L | Power | 420 hp
+1963 Lamborghini Grifo A3L | Body | coupe
 1963 Opel Rekord (A) | Price | 7230 DM
 1963 Opel Rekord (A) | Count | 720976
 1963 Opel Rekord (A) | Volume | 1.5 L
@@ -1533,6 +1592,10 @@
 1963-11 Porsche 904 | Speed | 250 kmph
 1963-11 Porsche 904 | Brakes | disc
 1964 Jaguar E-Type | Volume | 4.2 L
+1964 Lamborghini 350 GT | Cylinders | V12
+1964 Lamborghini 350 GT | Power | 270 hp
+1964 Lamborghini 350 GT | Brakes | disc
+1964 Lamborghini 350 GT | Gears | 5 manual
 1964 Opel Diplomat (A) | Price | 20000 DM
 1964 Opel Diplomat (A) | Price | 25500 DM
 1964 Opel Diplomat (A) | Volume | 4554 cc
@@ -1771,6 +1834,10 @@
 1966 Cadillac DeVille | Power | 340 hp
 1966 Cadillac DeVille | 0-100 kmph | 11.1 s
 1966 Cadillac DeVille | Body | sedan
+1966 Lamborghini Miura P400 | Count | 800
+1966 Lamborghini Miura P400 | Volume | 4 L
+1966 Lamborghini Miura P400 | Cylinders | V12
+1966 Lamborghini Miura P400 | Engine placement | center transverse
 1966 Lamborghini Miura P400 SV | Price | 21000 USD @ 1972
 1966 Lamborghini Miura P400 SV | Volume | 3939 cc
 1966 Lamborghini Miura P400 SV | Cylinders | V12
@@ -1845,11 +1912,15 @@
 1967 Alfa Romeo Montreal | Brakes | ventilated disc
 1967 Cadillac Eldorado | Power | 235 hp
 1967 Cadillac Eldorado | Drive | front
-1967 NSU Ro80 | Volume | 2 L
-1967 NSU Ro80 | Power | 130 hp
-1967 NSU Ro80 | Brakes | disc
-1967 NSU Ro80 | Gears | 3 semi-auto
-1967 NSU Ro80 | Drive | front
+1967 Lamborghini Marzal | Cylinders | 6
+1967 NSU Ro 80 | Volume | 2 L
+1967 NSU Ro 80 | Power | 130 hp
+1967 NSU Ro 80 | Speed | 180 kmph
+1967 NSU Ro 80 | Body | sedan
+1967 NSU Ro 80 | Seats | 5
+1967 NSU Ro 80 | Brakes | disc
+1967 NSU Ro 80 | Gears | 3 semi-auto
+1967 NSU Ro 80 | Drive | front
 1967 Opel Commodore (A) | Volume | 2.5 L
 1967 Opel Commodore (A) | Cylinders | R6
 1967 Opel Commodore (A) | Power | 95 hp
@@ -1976,7 +2047,10 @@
 1968 Jaguar XJ (1) | Volume | 2.8 L
 1968 Jaguar XJ6 | Price | 1800 GBP
 1968 Jaguar XJ6 | Cylinders | 6
+1968 Lamborghini Espada | Volume | 4 L
+1968 Lamborghini Espada | Cylinders | V12
 1968 Lamborghini Islero 400 GT | Cylinders | V12
+1968 Lamborghini Islero 400 GT | Power | 325 hp
 1968 Lamborghini Islero 400 GT | Power | 320 hp
 1968 Lamborghini Islero 400 GT | Brakes | disc
 1968 Opel GT Coupe | Price | 10000 DM
@@ -2130,6 +2204,8 @@
 1969 Audi 100 (C1) | Engine placement | front longitudinal
 1969 Audi 100 (C1) | Drive | front
 1969 Lamborghini Espada | Body | sedan
+1969 Lamborghini Islero S | Power | 350 hp
+1969 Lamborghini Miura P400 S | Power | 370 hp
 1969 Pontiac GTO The Judge | Count | 6833
 1969 Pontiac GTO The Judge | Volume | 400 cin
 1969 Pontiac GTO The Judge | Cylinders | V8
@@ -2488,6 +2564,9 @@
 1971 Jaguar JX12 | Volume | 5.3 L
 1971 Jaguar JX12 | Cylinders | 12
 1971 Jaguar JX12 | Speed | 240 kmph
+1971 Lamborghini Miura P400 SV | Volume | 4 L
+1971 Lamborghini Miura P400 SV | Cylinders | V12
+1971 Lamborghini Miura P400 SV | Power | 385 hp
 1971 Porsche 914/8 #1 | Volume | 2997 cc
 1971 Porsche 914/8 #1 | Cylinders | 8
 1971 Porsche 914/8 #1 | Power | 260 hp
@@ -2547,9 +2626,13 @@
 1972 Cadillac Eldorado | Drive | front
 1972 Ferrari Dino 246 GTS | Count | 1274
 1972 Ferrari Dino 246 GTS | Body | targa
-1972 Jaguar JX12 | Cylinders | 12
-1972 Jaguar JX12 | Power | 311 hp
 1972 Jaguar XJ12 | Cylinders | 12
+1972 Jaguar XJ12 | Power | 311 hp
+1972 Lamborghini Jarama 400 GTS | Body | coupe
+1972 Lamborghini Urraco P250 | Volume | 2.5 L
+1972 Lamborghini Urraco P250 | Cylinders | V8
+1972 Lamborghini Urraco P250 | Power | 220 hp
+1972 Lamborghini Urraco P250 | Engine placement | center transverse
 1972 Mercedes-Benz 250 E | Body | coupe
 1972 Opel Commodore (B) | Volume | 2.8 L
 1972 Opel Commodore (B) | Volume | 2.8 L
@@ -3129,6 +3212,10 @@
 1976 Ferrari 512 BB | Front tyres | 215/70 VR15
 1976 Ferrari 512 BB | Rear tyres | 225/70 VR15
 1976 Ferrari 512 BB | Gears | 5
+1976 Lamborghini Silhouette P300 | Volume | 3 L
+1976 Lamborghini Silhouette P300 | Cylinders | V8
+1976 Lamborghini Silhouette P300 | Body | targa
+1976 Lamborghini Silhouette P300 | Seats | 2
 1976 Porsche 911 | Volume | 2687 cc
 1976 Porsche 911 | Power | 165 bhp @ 5800 rpm
 1976 Porsche 911 | Power | 165 hp
@@ -3725,8 +3812,10 @@
 1981 Cadillac DeVille | Height | 1405 mm
 1981 Jaguar XJ (III) | Cylinders | V12
 1981 Jaguar XJ (III) | Compression ratio | 12.5
+1981 Lamborghini Jalpa | Count | 410
 1981 Lamborghini Jalpa | Cylinders | V8
 1981 Lamborghini Jalpa | Power | 255 hp
+1981 Lamborghini Jalpa | Engine placement | center transverse
 1981 Porsche 911 SC | Power | 204 hp @ 5900 rpm
 1981 Porsche 911 SC | Torque | 267 nm
 1981 Porsche 911 SC (european) | Volume | 2994 cc
@@ -3802,6 +3891,10 @@
 1982 Audi 100 | Cx | 0.300
 1982 Lamborghini Countach LP500S | Volume | 5 L
 1982 Lamborghini Countach LP500S | Power | 375 hp
+1982 Lamborghini LM002 | Volume | 7 L
+1982 Lamborghini LM002 | Cylinders | V12
+1982 Lamborghini LM002 | Power | 400 hp
+1982 Lamborghini LM002 | Engine placement | front
 1982 Opel Corsa (A) | Power | 45 hp
 1982 Opel Corsa (A) | Power | 55 hp
 1982 Opel Corsa (A) | Power | 70 hp
@@ -4447,6 +4540,10 @@
 1985-08 Audi Coupe Quattro JT | Gears | 5 manual
 1985-09 Opel Corsa (A) | Volume | 1.3 L
 1985-09 Opel Corsa (A) | Power | 60 hp
+1986 Audi 80 (B3) | Cx | 0.290
+1986 Audi 80 (B3) | Gears | 5 manual
+1986 Audi 80 (B3) | Gears | 4 auto
+1986 Audi 80 (B3) | Drive | front
 1986 Jaguar XJ6 | Volume | 2.9 L
 1986 Jaguar XJ6 | Volume | 4 L
 1986 Opel Omega (A) | Count | 900000
@@ -4810,23 +4907,26 @@
 1988 Audi Quattro | Compressor | turbo
 1988 Audi Quattro | Power | 200 hp
 1988 Audi Quattro | Drive | full
-1988 Audi V8 | Volume | 3.6 L
-1988 Audi V8 | Cylinders | V8
-1988 Audi V8 | Power | 250 hp
-1988 Audi V8 | Body | coupe
-1988 Audi V8 | Drive | full constant
-1988 Audi V8 (D11) | Volume | 3.6 L
-1988 Audi V8 (D11) | Cylinders | V8
-1988 Audi V8 (D11) | Torque | 340 nm @ 4000 rpm
-1988 Audi V8 (D11) | Valves per cylinder | 4
-1988 Audi V8 (D11) | Body | sedan
-1988 Audi V8 (D11) | Length | 4874 mm
-1988 Audi V8 (D11) | Width | 1814 mm
-1988 Audi V8 (D11) | Height | 1420 mm
-1988 Audi V8 (D11) | Doors | 4
 1988 Audi V8 (D11) | Gears | 4 auto
 1988 Audi V8 (D11) | Gears | 5 manual
 1988 Audi V8 (D11) | Gears | 6 manual
+1988 Audi V8 3.6 (D11) | Volume | 3.6 L
+1988 Audi V8 3.6 (D11) | Cylinders | V8
+1988 Audi V8 3.6 (D11) | Power | 245 hp
+1988 Audi V8 3.6 (D11) | Power | 250 hp
+1988 Audi V8 3.6 (D11) | Torque | 340 nm @ 4000 rpm
+1988 Audi V8 3.6 (D11) | Valves per cylinder | 4
+1988 Audi V8 3.6 (D11) | Body | sedan
+1988 Audi V8 3.6 (D11) | Length | 4874 mm
+1988 Audi V8 3.6 (D11) | Width | 1814 mm
+1988 Audi V8 3.6 (D11) | Height | 1420 mm
+1988 Audi V8 3.6 (D11) | Doors | 4
+1988 Audi V8 3.6 (D11) | Drive | full constant
+1988 Audi V8 4.2 | Volume | 4.2 L
+1988 Audi V8 4.2 | Cylinders | V8
+1988 Audi V8 4.2 | Power | 280 hp
+1988 Audi V8 4.2 | Valves per cylinder | 4
+1988 Audi V8 4.2 | Drive | full
 1988 Jaguar XJ 220 | Price | 361000 GBP @ 1989
 1988 Jaguar XJ 220 | Price | 403000 GBP @ 1991
 1988 Jaguar XJ 220 | Price | 339000 USD
@@ -5332,6 +5432,10 @@
 1990 Jaguar Sovereign V12 | Trunk size | 390 L
 1990 Jaguar Sovereign V12 | Tyres | 215/70 VR15
 1990 Jaguar Sovereign V12 | Drive | rear
+1990 Lamborghini Diablo | Volume | 5.7 L
+1990 Lamborghini Diablo | Cylinders | V12
+1990 Lamborghini Diablo | Power | 492 hp
+1990 Lamborghini Diablo | Speed | 320 kmph
 1990 Porsche 911 | Power | 320 hp
 1990 Porsche 911 Carrera 2 | Volume | 3600 cc
 1990 Porsche 911 Carrera 2 | Cylinders | B6
@@ -5669,8 +5773,8 @@
 1991-09 Opel Astra | Body | wagon
 1991-09 Opel Astra | Doors | 3
 1991-09 Opel Astra | Doors | 5
-1991-09 Opel Astra | Trunk size | ..1200 L
-1991-09 Opel Astra | Trunk size | ..1630 L
+1991-09 Opel Astra | Trunk size | 1200 L
+1991-09 Opel Astra | Trunk size | 1630 L
 1991-09 Opel Astra 1.4 | Volume | 1.4 L
 1991-09 Opel Astra 1.4 | Power | 82 hp
 1991-09 Opel Astra 1.4SE | Volume | 1.4 L
@@ -6015,6 +6119,7 @@
 1993 Bugatti EB112 | Brakes | ventilated disc
 1993 Bugatti EB112 | Gears | 6 manual
 1993 Daewoo Racer | Volume | 1.5 L
+1993 Lamborghini Diablo VT | Drive | full
 1993 Opel Astra | Volume | 1.4 L
 1993 Opel Astra | Volume | 1.4 L
 1993 Opel Astra | Volume | 1.6 L
@@ -6630,6 +6735,8 @@
 1995 Ford GT90 | Gears | 5 manual
 1995 Ford GT90 | Drive | rear
 1995 Lamborghini Diablo Roadster VT | Body | roadster
+1995 Lamborghini Diablo SV | Power | 525 hp
+1995 Lamborghini Diablo SV | 0-100 kmph | 4.0 s
 1995 Porsche 911 (993) Carrera RS Clubsport | Volume | 3744 cc
 1995 Porsche 911 (993) Carrera RS Clubsport | Cylinders | B6
 1995 Porsche 911 (993) Carrera RS Clubsport | Power | 300 hp @ 6500 rpm
@@ -7553,6 +7660,11 @@
 1997 Volkswagen Passat VR5 | Engine placement | front longitudinal
 1997 Volkswagen Passat VR5 | Gears | 5 manual
 1997 Volkswagen Passat VR5 | Drive | front
+1997 ГАЗ-3103 Волга | Trunk size | 700 L
+1997 ГАЗ-3103 Волга | Rear brakes | disc
+1997 ГАЗ-3103 Волга | Front brakes | ventilated disc
+1997 ГАЗ-3103 Волга | Gears | 5 manual
+1997 ГАЗ-3103 Волга | Drive | front
 1997-03 Audi A6 (B5) | Price | 15000 USD
 1997-03 Audi A6 (B5) | Price | 30000 USD
 1997-03 Opel Tigra 1.4 | Volume | 1.4 L
@@ -7852,6 +7964,7 @@
 1998 Koenigsegg CC | Engine placement | center
 1998 Koenigsegg CC | Brakes | ventilated disc
 1998 Koenigsegg CC | Gears | 6 manual
+1998 Lamborghini Diablo | Power | 530 hp
 1998 Lotus Elise GT1 | Volume | 3506 cc
 1998 Lotus Elise GT1 | Cylinders | V8
 1998 Lotus Elise GT1 | Power | 580 hp @ 7500 rpm
@@ -9175,6 +9288,15 @@
 2003 Rolls-Royce Phantom | Tyres | 265x790 R540 A 111 W
 2003 Rolls-Royce Phantom | Gears | 6 auto
 2003 Rolls-Royce Phantom | Drive | rear
+2003 ГАЗ-3115 | Volume | 2.3 L
+2003 ГАЗ-3115 | Power | 130 hp
+2003 ГАЗ-3115 | Valves per cylinder | 4
+2003 ГАЗ-3115 | Length | 4500 mm
+2003 ГАЗ-3115 | Height | 1450 mm
+2003 ГАЗ-3115 | Wheelbase | 2700 mm
+2003 ГАЗ-3115 | Brakes | disc
+2003 ГАЗ-3115 | Gears | 5 manual
+2003 ГАЗ-3115 | Drive | rear
 2003-03 Opel Meriva | Price | 14000 EUR
 2003-03 Opel Meriva | Volume | 1.6 L
 2003-03 Opel Meriva | Volume | 1.6 L
@@ -9313,6 +9435,46 @@
 2004 Porsche 996 GT3 RSR | Drive | rear
 2004 Volvo YCC | Cylinders | 5
 2004 Volvo YCC | Power | 215 hp
+2004 ГАЗ-31105 Волга | Price | 15890000 BYN @ 2004
+2004 ГАЗ-31105 Волга | Price | 7400 USD @ 2004
+2004 ГАЗ-31105 Волга | Volume | 2.3 L
+2004 ГАЗ-31105 Волга | Volume | 2287 cc
+2004 ГАЗ-31105 Волга | Cylinders | R4
+2004 ГАЗ-31105 Волга | Power | 138 hp
+2004 ГАЗ-31105 Волга | Power | 138 hp @ 5200 rpm
+2004 ГАЗ-31105 Волга | Torque | 197.9 nm @ 4000 rpm
+2004 ГАЗ-31105 Волга | Fuel feed | injection
+2004 ГАЗ-31105 Волга | Fuel feed | injection
+2004 ГАЗ-31105 Волга | Valves per cylinder | 4
+2004 ГАЗ-31105 Волга | Valves per cylinder | 4
+2004 ГАЗ-31105 Волга | Speed | 163 kmph
+2004 ГАЗ-31105 Волга | 0-100 kmph | 13.5 s
+2004 ГАЗ-31105 Волга | Fuel consumption | 8.8..13.5 L/100km
+2004 ГАЗ-31105 Волга | Weight | 2 t
+2004 ГАЗ-31105 Волга | Weight | 1790 kg
+2004 ГАЗ-31105 Волга | Body | sedan 4
+2004 ГАЗ-31105 Волга | Length | 4870 mm
+2004 ГАЗ-31105 Волга | Width | 1800 mm
+2004 ГАЗ-31105 Волга | Height | 1472 mm
+2004 ГАЗ-31105 Волга | Fuel tank | 70 L
+2004 ГАЗ-31105 Волга | Trunk size | 409 L
+2004 ГАЗ-31105 Волга | Wheelbase | 2800 mm
+2004 ГАЗ-31105 Волга | Clearance | 15.2 cm
+2004 ГАЗ-31105 Волга | Rear brakes | drum
+2004 ГАЗ-31105 Волга | Front brakes | disc
+2004 ГАЗ-31105 Волга | Tyres | 195/65 R15
+2004 ГАЗ-31105 Волга | Gears | 5 manual
+2004 ГАЗ-31105 Волга | Drive | rear
+2004 ГАЗ-311050-00210 | Volume | 2.3 L
+2004 ГАЗ-311050-00210 | Power | 145 hp
+2004 ГАЗ-311050-00210 | Fuel | petrol 92
+2004 ГАЗ-311050-00210 | Fuel feed | injection
+2004 ГАЗ-311050-00210 | Fuel consumption | 9.0..13.5 L/100km
+2004 ГАЗ-311050-00210 | Length | 4895 mm
+2004 ГАЗ-311050-00210 | Width | 1800 mm
+2004 ГАЗ-311050-00210 | Height | 1422 mm
+2004 ГАЗ-311050-00210 | Seats | 5
+2004 ГАЗ-311050-00210 | Gears | 5 manual
 2004-02 Opel Astra (C) | Volume | 1.7 L
 2004-02 Opel Astra (C) | Volume | 1.9 L
 2004-02 Opel Astra (C) | Volume | 1.4 L
@@ -9459,6 +9621,8 @@
 2006 Castagna Landoulet | Power | 800 hp
 2006 Castagna Landoulet | Body | coupe
 2006 Castagna Landoulet | Drive | full
+2006 Lamborghini Murcielago LP640 | Volume | 6.5 L
+2006 Lamborghini Murcielago LP640 | Power | 640 hp
 2006 Руссо-Балт Impression | Cylinders | V12
 2006 Руссо-Балт Impression | Power | 555 hp
 2006 Руссо-Балт Impression | Body | coupe
@@ -9694,29 +9858,33 @@
 2009 Kia Soul | Width | 1785 mm
 2009 Kia Soul | Height | 1610 mm
 2009 Kia Soul | Wheelbase | 2550 mm
+2009 Lamborghini Gallardo LP550-2 Valentino Balboni | Count | 250
+2009 Lamborghini Gallardo LP550-2 Valentino Balboni | Drive | rear
 2009 Lamborghini Murcielago LP670-4 SV | Volume | 6.5 L
 2009 Lamborghini Murcielago LP670-4 SV | Cylinders | V12
 2009 Lamborghini Murcielago LP670-4 SV | Power | 670 hp
 2009 Lamborghini Murcielago LP670-4 SV | Speed | 342 kmph
 2009 Lamborghini Murcielago LP670-4 SV | 0-100 kmph | 3.2 s
 2009 Lamborghini Murcielago LP670-4 SV | Drive | full
-2009 Lamborghini Reventon roadster | Count | 20
-2009 Lamborghini Reventon roadster | Volume | 6.5 L
-2009 Lamborghini Reventon roadster | Cylinders | V12
-2009 Lamborghini Reventon roadster | Power | 670 hp @ 8000 rpm
-2009 Lamborghini Reventon roadster | Valves per cylinder | 4
-2009 Lamborghini Reventon roadster | Speed | 330 kmph
-2009 Lamborghini Reventon roadster | 0-100 kmph | 3.4 s
-2009 Lamborghini Reventon roadster | Fuel consumption | 15 L/100km
-2009 Lamborghini Reventon roadster | Fuel consumption | 21.3 L/100km
-2009 Lamborghini Reventon roadster | Fuel consumption | 32.3 L/100km
-2009 Lamborghini Reventon roadster | Weight | 1690 kg
-2009 Lamborghini Reventon roadster | Length | 4700 mm
-2009 Lamborghini Reventon roadster | Width | 2058 mm
-2009 Lamborghini Reventon roadster | Height | 1134 mm
-2009 Lamborghini Reventon roadster | Wheelbase | 2665 mm
-2009 Lamborghini Reventon roadster | Gears | 6
-2009 Lamborghini Reventon roadster | Drive | full
+2009 Lamborghini Reventon Roadster | Price | 1100000 EUR @ 2009
+2009 Lamborghini Reventon Roadster | Count | 20
+2009 Lamborghini Reventon Roadster | Volume | 6.5 L
+2009 Lamborghini Reventon Roadster | Cylinders | V12
+2009 Lamborghini Reventon Roadster | Power | 670 hp @ 8000 rpm
+2009 Lamborghini Reventon Roadster | Valves per cylinder | 4
+2009 Lamborghini Reventon Roadster | Speed | 330 kmph
+2009 Lamborghini Reventon Roadster | 0-100 kmph | 3.4 s
+2009 Lamborghini Reventon Roadster | Fuel consumption | 15 L/100km
+2009 Lamborghini Reventon Roadster | Fuel consumption | 21.3 L/100km
+2009 Lamborghini Reventon Roadster | Fuel consumption | 32.3 L/100km
+2009 Lamborghini Reventon Roadster | Weight | 1690 kg
+2009 Lamborghini Reventon Roadster | Body | roadster
+2009 Lamborghini Reventon Roadster | Length | 4700 mm
+2009 Lamborghini Reventon Roadster | Width | 2058 mm
+2009 Lamborghini Reventon Roadster | Height | 1134 mm
+2009 Lamborghini Reventon Roadster | Wheelbase | 2665 mm
+2009 Lamborghini Reventon Roadster | Gears | 6
+2009 Lamborghini Reventon Roadster | Drive | full
 2009 Mercedes E | Price | 41590 EUR @ 2009 in Europe
 2009 Mercedes E | Volume | 2143 cc
 2009 Mercedes E | Power | 136 hp
@@ -10038,6 +10206,10 @@ Audi 200 | Doors | 4
 Audi 200 (C3) | Length | 4807 mm
 Audi 200 (C3) | Width | 1814 mm
 Audi 200 (C3) | Height | 1422 mm
+Audi 200 Quattro | Volume | 2.2 L
+Audi 200 Quattro | Cylinders | 5
+Audi 200 Quattro | Power | 220 hp
+Audi 200 Quattro | Valves per cylinder | 4
 Audi 200 Quattro | Length | 4807 mm
 Audi 200 Quattro | Width | 1814 mm
 Audi 200 Quattro | Height | 1422 mm
@@ -10641,7 +10813,7 @@ Audi Pikes Peak | Compressor | turbo
 Audi Pikes Peak | Power | 500 hp
 Audi Pikes Peak | Fuel feed | direct injection
 Audi Pikes Peak | Seats | 4+2
-Audi Pikes Peak | Trunk size | ..1950 L
+Audi Pikes Peak | Trunk size | 1950 L
 Audi Pikes Peak | Engine placement | front longitudinal
 Audi Pikes Peak | Drive | full
 Audi Quattro | Power | 360 hp
