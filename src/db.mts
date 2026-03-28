@@ -1,12 +1,20 @@
 import * as fs from "fs";
 import { parseVal } from "./parsers.mts";
 import { Val } from "./val.mts";
-import { reader } from "./reader.mjs";
+import { parseExpr, type Expr } from "./query-parser.mts";
 
 type Fact = { id: string; k: string; v: string };
 type Car = { k: string; v: string }[];
 
 export const formatFact = (f: Fact) => [f.id, f.k, f.v].join(" | ");
+
+export const parseFact = (s: string) => {
+  const cols = s.split("|").map((c) => c.trim());
+  if (cols.length != 3) {
+    throw new Error("malformed fact: " + s);
+  }
+  return { id: cols[0], k: cols[1], v: cols[2] };
+};
 
 export const groupFacts = (ff: Fact[], kk: string[]) => {
   // Collect facts
@@ -40,68 +48,6 @@ export const loadDb = (path: string, params: string[]) => {
     .filter((x) => x != "")
     .map(parseFact);
   const cars = groupFacts(tuples, params);
-
-  type Expr =
-    | { type: "/"; a: Expr; b: Expr }
-    | { type: "*"; a: Expr; b: Expr }
-    | { type: "name"; val: string }
-    | { type: "convert"; unit: string; val: string };
-
-  const readAtom = (r): Expr | null => {
-    const id = r.id();
-    if (!id) return null;
-    r.spaces();
-    if (r.pop(".")) {
-      let unit = r.id();
-      if (r.pop(".")) unit += ".";
-      r.spaces();
-      return { type: "convert", val: id, unit };
-    }
-    return { type: "name", val: id };
-  };
-
-  const readLevel1 = (r): Expr | null => {
-    const a = readAtom(r);
-    if (!a) return null;
-    if (r.pop("/")) {
-      r.spaces();
-      const b = readLevel1(r);
-      r.spaces();
-      if (!b) throw new Error("expected something after /");
-      return { type: "/", a, b };
-    }
-    if (r.pop("*")) {
-      r.spaces();
-      const b = readLevel1(r);
-      r.spaces();
-      if (!b) throw new Error("expected something after *");
-      return { type: "*", a, b };
-    }
-    return a;
-  };
-
-  const parse_ = (s: string): Expr | null => {
-    const r = reader(s);
-    r.spaces();
-    const e = readLevel1(r);
-    r.spaces();
-    if (r.more()) {
-      throw new Error("failed to parse: " + r.rest());
-    }
-    return e;
-  };
-
-  const cache = {} as Record<string, Expr>;
-
-  const parseExpr = (s: string) => {
-    if (s in cache) return cache[s];
-    const e = parse_(s);
-    if (!e) {
-      throw new Error("failed to parse: " + s);
-    }
-    cache[s] = e;
-    return e;
-  };
 
   const calc = (car: Car, expr: Expr): Val[] => {
     switch (expr.type) {
@@ -147,12 +93,27 @@ export const loadDb = (path: string, params: string[]) => {
     throw new Error("unimplemented expression node");
   };
 
+  const cache = new Map<string, Expr>();
+
+  const parseExprCached = (s: string) => {
+    const cached = cache.get(s);
+    if (cached) {
+      return cached;
+    }
+    const parsed = parseExpr(s);
+    if (!parsed) {
+      throw new Error("no query");
+    }
+    cache.set(s, parsed);
+    return parsed;
+  };
+
   return {
     /**
      * Runs query q on the given car.
      */
     query(car: Car, q: string) {
-      return calc(car, parseExpr(q));
+      return calc(car, parseExprCached(q));
     },
     /**
      * Returns an iterator for the entries.
