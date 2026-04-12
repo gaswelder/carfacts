@@ -1592,10 +1592,39 @@
 1963-11 Porsche 904 | Speed | 250 kmph
 1963-11 Porsche 904 | Brakes | disc
 1964 Jaguar E-Type | Volume | 4.2 L
+1964 Lamborghini 350 GT | Volume | 3464 cc
 1964 Lamborghini 350 GT | Cylinders | V12
+1964 Lamborghini 350 GT | Cylinders | V12
+1964 Lamborghini 350 GT | Power | 270 hp @ 6500 rpm
 1964 Lamborghini 350 GT | Power | 270 hp
+1964 Lamborghini 350 GT | Torque | 344 nm @ 5700 rpm
+1964 Lamborghini 350 GT | Compression ratio | 9.5
+1964 Lamborghini 350 GT | Bore | 77 mm
+1964 Lamborghini 350 GT | Stroke | 62 mm
+1964 Lamborghini 350 GT | Valves per cylinder | 2
+1964 Lamborghini 350 GT | Speed | 244.6 kmph
+1964 Lamborghini 350 GT | 0-100 kmph | 6.8 s
+1964 Lamborghini 350 GT | 0-160 kmph | 17.0 s
+1964 Lamborghini 350 GT | Weight | 1200 kg
+1964 Lamborghini 350 GT | Body | coupe
+1964 Lamborghini 350 GT | Length | 4640 mm
+1964 Lamborghini 350 GT | Width | 1730 mm
+1964 Lamborghini 350 GT | Height | 1220 mm
+1964 Lamborghini 350 GT | Seats | 2
+1964 Lamborghini 350 GT | Doors | 2
+1964 Lamborghini 350 GT | Fuel tank | 80 L
+1964 Lamborghini 350 GT | Front track | 1380 mm
+1964 Lamborghini 350 GT | Rear track | 1380 mm
+1964 Lamborghini 350 GT | Wheelbase | 2550 mm
+1964 Lamborghini 350 GT | Engine placement | front longitudinal
 1964 Lamborghini 350 GT | Brakes | disc
+1964 Lamborghini 350 GT | Rear brakes | disc
+1964 Lamborghini 350 GT | Front brakes | disc
+1964 Lamborghini 350 GT | Tyres | 205/15
+1964 Lamborghini 350 GT | Wheels | 6.5x15
 1964 Lamborghini 350 GT | Gears | 5 manual
+1964 Lamborghini 350 GT | Gears | 5 manual
+1964 Lamborghini 350 GT | Drive | rear
 1964 Opel Diplomat (A) | Price | 20000 DM
 1964 Opel Diplomat (A) | Price | 25500 DM
 1964 Opel Diplomat (A) | Volume | 4554 cc
@@ -1731,6 +1760,92 @@
 1965 Aston Martin DB6 | Wheelbase | 3966 mm
 1965 Aston Martin DB6 | Brakes | disc
 1965 Aston Martin DB6 | Gears | 5 manual
+1965 Lamborghini 350 GTS | Volume | 3464 cc
+1965 Lamborghini 350 GTS | Cylinders | V12
+1965 Lamborghini 350 GTS | Power | 270 hp @ 6500 rpm
+1965 Lamborghini 350 GTS | Torque | 344 nm @ 5700 rpm
+1965 Lamborghini 350 GTS | Compression ratio | 9.5
+1965 Lamborghini 350 GTS | Bore | 77 mm
+1965 Lamborghini 350 GTS | Stroke | 62 mm
+1965 Lamborghini 350 GTS | Valves per cylinder | 2
+1965 Lamborghini 350 GTS | Speed | 244.6 kmph
+1965 Lamborghini 350 GTS | 0-100 kmph | 6.8 s
+1965 Lamborghini 350 GTS | Weight | 1200 kg
+1965 Lamborghini 350 GTS | Body | cabriolet
+1965 Lamborghini 350 GTS | Length | 4500 mm
+1965 Lamborghini 350 GTS | Width | 1730 mm
+1965 Lamborghini 350 GTS | Height | 1220 mm
+1965 Lamborghini 350 GTS | Seats | 2
+1965 Lamborghini 350 GTS | Doors | 2
+1965 Lamborghini 350 GTS | Fuel tank | 80 L
+1965 Lamborghini 350 GTS | Front track | 1380 mm
+1965 Lamborghini 350 GTS | Rear track | 1380 mm
+1965 Lamborghini 350 GTS | Wheelbase | 2550 mm
+1965 Lamborghini 350 GTS | Engine placement | front longitudinal
+1965 Lamborghini 350 GTS | Rear brakes | disc
+1965 Lamborghini 350 GTS | Front brakes | disc
+1965 Lamborghini 350 GTS | Front tyres | 205/15
+1965 Lamborghini 350 GTS | Rear tyres | 205/15
+1965 Lamborghini 350 GTS | Wheels | 6.5x15
+1965 Lamborghini 350 GTS | Gears | 5 manual
+1965 Lamborghini 350 GTS | Drive | rear
+1965 Lamborghini 3500 GTZ | Volume | 3464 cc
+1965 Lamborghini 3500 GTZ | Cylinders | V12
+1965 Lamborghini 3500 GTZ | Power | 270 hp @ 6500 rpm
+1965 Lamborghini 3500 GTZ | Torque | 344 nm @ 5700 rpm
+1965 Lamborghini 3500 GTZ | Compression ratio | 9.5
+1965 Lamborghini 3500 GTZ | Bore | 77 mm
+1965 Lamborghini 3500 GTZ | Stroke | 62 mm
+1965 Lamborghini 3500 GTZ | Valves per cylinder | 2
+1965 Lamborghini 3500 GTZ | Speed | 245 kmph
+1965 Lamborghini 3500 GTZ | 0-100 kmph | 6.8 s
+1965 Lamborghini 3500 GTZ | Weight | 1200 kg
+1965 Lamborghini 3500 GTZ | Body | coupe
+1965 Lamborghini 3500 GTZ | Length | 4490 mm
+1965 Lamborghini 3500 GTZ | Width | 1730 mm
+1965 Lamborghini 3500 GTZ | Height | 1220 mm
+1965 Lamborghini 3500 GTZ | Seats | 2
+1965 Lamborghini 3500 GTZ | Doors | 2
+1965 Lamborghini 3500 GTZ | Fuel tank | 80 L
+1965 Lamborghini 3500 GTZ | Front track | 1380 mm
+1965 Lamborghini 3500 GTZ | Rear track | 1380 mm
+1965 Lamborghini 3500 GTZ | Wheelbase | 2450 mm
+1965 Lamborghini 3500 GTZ | Engine placement | front longitudinal
+1965 Lamborghini 3500 GTZ | Rear brakes | disc
+1965 Lamborghini 3500 GTZ | Front brakes | disc
+1965 Lamborghini 3500 GTZ | Front tyres | 205/15
+1965 Lamborghini 3500 GTZ | Rear tyres | 205/15
+1965 Lamborghini 3500 GTZ | Wheels | 6.5x15
+1965 Lamborghini 3500 GTZ | Gears | 5 manual
+1965 Lamborghini 3500 GTZ | Drive | rear
+1965 Lamborghini 400 GT | Volume | 3929 cc
+1965 Lamborghini 400 GT | Cylinders | V12
+1965 Lamborghini 400 GT | Power | 320 hp @ 6500 rpm
+1965 Lamborghini 400 GT | Torque | 355 nm @ 4700 rpm
+1965 Lamborghini 400 GT | Compression ratio | 10.2
+1965 Lamborghini 400 GT | Bore | 82 mm
+1965 Lamborghini 400 GT | Stroke | 62 mm
+1965 Lamborghini 400 GT | Valves per cylinder | 2
+1965 Lamborghini 400 GT | Speed | 249 kmph
+1965 Lamborghini 400 GT | Weight | 1200 kg
+1965 Lamborghini 400 GT | Body | coupe
+1965 Lamborghini 400 GT | Length | 4640 mm
+1965 Lamborghini 400 GT | Width | 1730 mm
+1965 Lamborghini 400 GT | Height | 1220 mm
+1965 Lamborghini 400 GT | Seats | 2
+1965 Lamborghini 400 GT | Doors | 2
+1965 Lamborghini 400 GT | Fuel tank | 80 L
+1965 Lamborghini 400 GT | Front track | 1380 mm
+1965 Lamborghini 400 GT | Rear track | 1380 mm
+1965 Lamborghini 400 GT | Wheelbase | 2550 mm
+1965 Lamborghini 400 GT | Engine placement | front longitudinal
+1965 Lamborghini 400 GT | Rear brakes | disc
+1965 Lamborghini 400 GT | Front brakes | disc
+1965 Lamborghini 400 GT | Front tyres | VR 210/15
+1965 Lamborghini 400 GT | Rear tyres | VR 215/15
+1965 Lamborghini 400 GT | Wheels | 6.5x15
+1965 Lamborghini 400 GT | Gears | 5 manual
+1965 Lamborghini 400 GT | Drive | rear
 1965 Lamborghini Miura | Count | 800
 1965 Lamborghini Miura | Cylinders | V12
 1965 Lamborghini Miura | Engine placement | center transverse
@@ -1834,10 +1949,99 @@
 1966 Cadillac DeVille | Power | 340 hp
 1966 Cadillac DeVille | 0-100 kmph | 11.1 s
 1966 Cadillac DeVille | Body | sedan
+1966 Lamborghini 400 GT 2+2 | Volume | 3929 cc
+1966 Lamborghini 400 GT 2+2 | Cylinders | V12
+1966 Lamborghini 400 GT 2+2 | Power | 320 hp @ 6500 rpm
+1966 Lamborghini 400 GT 2+2 | Torque | 355 nm @ 4700 rpm
+1966 Lamborghini 400 GT 2+2 | Compression ratio | 10.2
+1966 Lamborghini 400 GT 2+2 | Bore | 82 mm
+1966 Lamborghini 400 GT 2+2 | Stroke | 62 mm
+1966 Lamborghini 400 GT 2+2 | Valves per cylinder | 2
+1966 Lamborghini 400 GT 2+2 | Speed | 249 kmph
+1966 Lamborghini 400 GT 2+2 | 0-100 kmph | 6.6 s
+1966 Lamborghini 400 GT 2+2 | 0-160 kmph | 16.0 s
+1966 Lamborghini 400 GT 2+2 | Weight | 1472 kg
+1966 Lamborghini 400 GT 2+2 | Body | coupe
+1966 Lamborghini 400 GT 2+2 | Length | 4470 mm
+1966 Lamborghini 400 GT 2+2 | Width | 1727 mm
+1966 Lamborghini 400 GT 2+2 | Height | 1257 mm
+1966 Lamborghini 400 GT 2+2 | Seats | 2+2
+1966 Lamborghini 400 GT 2+2 | Doors | 2
+1966 Lamborghini 400 GT 2+2 | Fuel tank | 86.8 L
+1966 Lamborghini 400 GT 2+2 | Front track | 1384 mm
+1966 Lamborghini 400 GT 2+2 | Rear track | 1384 mm
+1966 Lamborghini 400 GT 2+2 | Wheelbase | 2550 mm
+1966 Lamborghini 400 GT 2+2 | Engine placement | front longitudinal
+1966 Lamborghini 400 GT 2+2 | Rear brakes | disc
+1966 Lamborghini 400 GT 2+2 | Front brakes | disc
+1966 Lamborghini 400 GT 2+2 | Front tyres | VR 210/15
+1966 Lamborghini 400 GT 2+2 | Rear tyres | VR 215/15
+1966 Lamborghini 400 GT 2+2 | Wheels | 6.5x15
+1966 Lamborghini 400 GT 2+2 | Gears | 5 manual
+1966 Lamborghini 400 GT 2+2 | Drive | rear
+1966 Lamborghini 400 GT Flying Star II | Volume | 3929 cc
+1966 Lamborghini 400 GT Flying Star II | Cylinders | V12
+1966 Lamborghini 400 GT Flying Star II | Power | 320 hp @ 6500 rpm
+1966 Lamborghini 400 GT Flying Star II | Torque | 355 nm @ 4700 rpm
+1966 Lamborghini 400 GT Flying Star II | Compression ratio | 10.2
+1966 Lamborghini 400 GT Flying Star II | Bore | 82 mm
+1966 Lamborghini 400 GT Flying Star II | Stroke | 62 mm
+1966 Lamborghini 400 GT Flying Star II | Valves per cylinder | 2
+1966 Lamborghini 400 GT Flying Star II | Speed | 249 kmph
+1966 Lamborghini 400 GT Flying Star II | Weight | 1300 kg
+1966 Lamborghini 400 GT Flying Star II | Body | wagon
+1966 Lamborghini 400 GT Flying Star II | Length | 4380 mm
+1966 Lamborghini 400 GT Flying Star II | Width | 1720 mm
+1966 Lamborghini 400 GT Flying Star II | Height | 1200 mm
+1966 Lamborghini 400 GT Flying Star II | Seats | 2
+1966 Lamborghini 400 GT Flying Star II | Doors | 3
+1966 Lamborghini 400 GT Flying Star II | Fuel tank | 86.8 L
+1966 Lamborghini 400 GT Flying Star II | Front track | 1384 mm
+1966 Lamborghini 400 GT Flying Star II | Rear track | 1384 mm
+1966 Lamborghini 400 GT Flying Star II | Wheelbase | 2450 mm
+1966 Lamborghini 400 GT Flying Star II | Engine placement | front longitudinal
+1966 Lamborghini 400 GT Flying Star II | Rear brakes | disc
+1966 Lamborghini 400 GT Flying Star II | Front brakes | disc
+1966 Lamborghini 400 GT Flying Star II | Front tyres | VR 210/15
+1966 Lamborghini 400 GT Flying Star II | Rear tyres | VR 215/15
+1966 Lamborghini 400 GT Flying Star II | Wheels | 6.5x15
+1966 Lamborghini 400 GT Flying Star II | Gears | 5 manual
+1966 Lamborghini 400 GT Flying Star II | Drive | rear
 1966 Lamborghini Miura P400 | Count | 800
+1966 Lamborghini Miura P400 | Volume | 3929 cc
 1966 Lamborghini Miura P400 | Volume | 4 L
 1966 Lamborghini Miura P400 | Cylinders | V12
+1966 Lamborghini Miura P400 | Cylinders | V12
+1966 Lamborghini Miura P400 | Power | 355 hp @ 7000 rpm
+1966 Lamborghini Miura P400 | Torque | 367 nm @ 5100 rpm
+1966 Lamborghini Miura P400 | Compression ratio | 9.8
+1966 Lamborghini Miura P400 | Bore | 82 mm
+1966 Lamborghini Miura P400 | Stroke | 62 mm
+1966 Lamborghini Miura P400 | Valves per cylinder | 2
+1966 Lamborghini Miura P400 | Speed | 277 kmph
+1966 Lamborghini Miura P400 | 0-100 kmph | 5.7 s
+1966 Lamborghini Miura P400 | 0-160 kmph | 13.4 s
+1966 Lamborghini Miura P400 | Weight | 1293 kg
+1966 Lamborghini Miura P400 | Body | coupe
+1966 Lamborghini Miura P400 | Length | 4360 mm
+1966 Lamborghini Miura P400 | Width | 1760 mm
+1966 Lamborghini Miura P400 | Height | 1067 mm
+1966 Lamborghini Miura P400 | Seats | 2
+1966 Lamborghini Miura P400 | Doors | 2
+1966 Lamborghini Miura P400 | Fuel tank | 90 L
+1966 Lamborghini Miura P400 | Front track | 1412 mm
+1966 Lamborghini Miura P400 | Rear track | 1412 mm
+1966 Lamborghini Miura P400 | Wheelbase | 2500 mm
+1966 Lamborghini Miura P400 | Clearance | 125 mm
 1966 Lamborghini Miura P400 | Engine placement | center transverse
+1966 Lamborghini Miura P400 | Engine placement | center transverse
+1966 Lamborghini Miura P400 | Rear brakes | ventilated disc
+1966 Lamborghini Miura P400 | Front brakes | ventilated disc
+1966 Lamborghini Miura P400 | Front tyres | 210 HS15
+1966 Lamborghini Miura P400 | Rear tyres | 210 HS15
+1966 Lamborghini Miura P400 | Wheels | 7.0x15
+1966 Lamborghini Miura P400 | Gears | 5 manual
+1966 Lamborghini Miura P400 | Drive | rear
 1966 Lamborghini Miura P400 SV | Price | 21000 USD @ 1972
 1966 Lamborghini Miura P400 SV | Volume | 3939 cc
 1966 Lamborghini Miura P400 SV | Cylinders | V12
@@ -1856,6 +2060,34 @@
 1966 Lamborghini Miura P400 SV | Rear track | 1541 mm
 1966 Lamborghini Miura P400 SV | Wheelbase | 2504 mm
 1966 Lamborghini Miura P400 SV | Clearance | 127 mm
+1966 Lamborghini P400 Stuardi Sonata | Volume | 3929 cc
+1966 Lamborghini P400 Stuardi Sonata | Cylinders | V12
+1966 Lamborghini P400 Stuardi Sonata | Power | 350 hp @ 7000 rpm
+1966 Lamborghini P400 Stuardi Sonata | Torque | 367 nm @ 5100 rpm
+1966 Lamborghini P400 Stuardi Sonata | Fuel feed | 4 carb Weber
+1966 Lamborghini P400 Stuardi Sonata | Compression ratio | 9.8
+1966 Lamborghini P400 Stuardi Sonata | Bore | 82 mm
+1966 Lamborghini P400 Stuardi Sonata | Stroke | 62 mm
+1966 Lamborghini P400 Stuardi Sonata | Valves per cylinder | 2
+1966 Lamborghini P400 Stuardi Sonata | Speed | 280 kmph
+1966 Lamborghini P400 Stuardi Sonata | Weight | 945 kg
+1966 Lamborghini P400 Stuardi Sonata | Body | coupe
+1966 Lamborghini P400 Stuardi Sonata | Length | 4370 mm
+1966 Lamborghini P400 Stuardi Sonata | Width | 1760 mm
+1966 Lamborghini P400 Stuardi Sonata | Height | 1050 mm
+1966 Lamborghini P400 Stuardi Sonata | Seats | 2
+1966 Lamborghini P400 Stuardi Sonata | Doors | 2
+1966 Lamborghini P400 Stuardi Sonata | Fuel tank | 80 L
+1966 Lamborghini P400 Stuardi Sonata | Front track | 1400 mm
+1966 Lamborghini P400 Stuardi Sonata | Rear track | 1400 mm
+1966 Lamborghini P400 Stuardi Sonata | Wheelbase | 2500 mm
+1966 Lamborghini P400 Stuardi Sonata | Engine placement | center transverse
+1966 Lamborghini P400 Stuardi Sonata | Rear brakes | ventilated disc
+1966 Lamborghini P400 Stuardi Sonata | Front brakes | ventilated disc
+1966 Lamborghini P400 Stuardi Sonata | Front tyres | 205-15HS
+1966 Lamborghini P400 Stuardi Sonata | Rear tyres | 205-15HS
+1966 Lamborghini P400 Stuardi Sonata | Gears | 5 manual
+1966 Lamborghini P400 Stuardi Sonata | Drive | rear
 1966 Opel Rekord (C) | Volume | 1.5 L
 1966 Opel Rekord (C) | Volume | 1.7 L
 1966 Opel Rekord (C) | Volume | 1.9 L
@@ -1913,6 +2145,34 @@
 1967 Cadillac Eldorado | Power | 235 hp
 1967 Cadillac Eldorado | Drive | front
 1967 Lamborghini Marzal | Cylinders | 6
+1967 Lamborghini TP200 Bertone Marzal | Volume | 1965 cc
+1967 Lamborghini TP200 Bertone Marzal | Cylinders | V6
+1967 Lamborghini TP200 Bertone Marzal | Power | 175 hp @ 6800 rpm
+1967 Lamborghini TP200 Bertone Marzal | Torque | 180 nm @ 4800 rpm
+1967 Lamborghini TP200 Bertone Marzal | Fuel feed | 3 carb Weber
+1967 Lamborghini TP200 Bertone Marzal | Compression ratio | 9.2
+1967 Lamborghini TP200 Bertone Marzal | Bore | 82 mm
+1967 Lamborghini TP200 Bertone Marzal | Stroke | 62 mm
+1967 Lamborghini TP200 Bertone Marzal | Valves per cylinder | 2
+1967 Lamborghini TP200 Bertone Marzal | Speed | 197 kmph
+1967 Lamborghini TP200 Bertone Marzal | Weight | 1200 kg
+1967 Lamborghini TP200 Bertone Marzal | Body | coupe
+1967 Lamborghini TP200 Bertone Marzal | Length | 4450 mm
+1967 Lamborghini TP200 Bertone Marzal | Width | 1709 mm
+1967 Lamborghini TP200 Bertone Marzal | Height | 1080 mm
+1967 Lamborghini TP200 Bertone Marzal | Seats | 4
+1967 Lamborghini TP200 Bertone Marzal | Doors | 2
+1967 Lamborghini TP200 Bertone Marzal | Fuel tank | 80 L
+1967 Lamborghini TP200 Bertone Marzal | Front track | 1480 mm
+1967 Lamborghini TP200 Bertone Marzal | Rear track | 1480 mm
+1967 Lamborghini TP200 Bertone Marzal | Wheelbase | 2620 mm
+1967 Lamborghini TP200 Bertone Marzal | Engine placement | center transverse
+1967 Lamborghini TP200 Bertone Marzal | Rear brakes | ventilated disc
+1967 Lamborghini TP200 Bertone Marzal | Front brakes | ventilated disc
+1967 Lamborghini TP200 Bertone Marzal | Front tyres | HS205-14
+1967 Lamborghini TP200 Bertone Marzal | Rear tyres | HS205-14
+1967 Lamborghini TP200 Bertone Marzal | Gears | 5 manual
+1967 Lamborghini TP200 Bertone Marzal | Drive | rear
 1967 NSU Ro 80 | Volume | 2 L
 1967 NSU Ro 80 | Power | 130 hp
 1967 NSU Ro 80 | Speed | 180 kmph
@@ -2204,8 +2464,69 @@
 1969 Audi 100 (C1) | Engine placement | front longitudinal
 1969 Audi 100 (C1) | Drive | front
 1969 Lamborghini Espada | Body | sedan
+1969 Lamborghini Islero 400 GTS | Volume | 3929 cc
+1969 Lamborghini Islero 400 GTS | Cylinders | V12
+1969 Lamborghini Islero 400 GTS | Power | 350 hp @ 7500 rpm
+1969 Lamborghini Islero 400 GTS | Torque | 393 nm @ 5500 rpm
+1969 Lamborghini Islero 400 GTS | Fuel feed | 6 carb Weber
+1969 Lamborghini Islero 400 GTS | Compression ratio | 10.8
+1969 Lamborghini Islero 400 GTS | Bore | 82 mm
+1969 Lamborghini Islero 400 GTS | Stroke | 62 mm
+1969 Lamborghini Islero 400 GTS | Valves per cylinder | 2
+1969 Lamborghini Islero 400 GTS | Speed | 260 kmph
+1969 Lamborghini Islero 400 GTS | 0-100 kmph | 6.2 s
+1969 Lamborghini Islero 400 GTS | Weight | 1375 kg
+1969 Lamborghini Islero 400 GTS | Body | coupe
+1969 Lamborghini Islero 400 GTS | Length | 4524 mm
+1969 Lamborghini Islero 400 GTS | Width | 1730 mm
+1969 Lamborghini Islero 400 GTS | Height | 1270 mm
+1969 Lamborghini Islero 400 GTS | Seats | 2+2
+1969 Lamborghini Islero 400 GTS | Doors | 2
+1969 Lamborghini Islero 400 GTS | Fuel tank | 80 L
+1969 Lamborghini Islero 400 GTS | Front track | 1379 mm
+1969 Lamborghini Islero 400 GTS | Rear track | 1379 mm
+1969 Lamborghini Islero 400 GTS | Wheelbase | 2548 mm
+1969 Lamborghini Islero 400 GTS | Engine placement | front longitudinal
+1969 Lamborghini Islero 400 GTS | Rear brakes | disc
+1969 Lamborghini Islero 400 GTS | Front brakes | disc
+1969 Lamborghini Islero 400 GTS | Front brakes size | 300 mm
+1969 Lamborghini Islero 400 GTS | Rear brakes size | 280 mm
+1969 Lamborghini Islero 400 GTS | Wheels | 7.0x15
+1969 Lamborghini Islero 400 GTS | Gears | 5 manual
+1969 Lamborghini Islero 400 GTS | Drive | rear
 1969 Lamborghini Islero S | Power | 350 hp
+1969 Lamborghini Miura P400 S | Volume | 3929 cc
+1969 Lamborghini Miura P400 S | Cylinders | V12
+1969 Lamborghini Miura P400 S | Power | 375 hp @ 7700 rpm
 1969 Lamborghini Miura P400 S | Power | 370 hp
+1969 Lamborghini Miura P400 S | Torque | 388 nm @ 5500 rpm
+1969 Lamborghini Miura P400 S | Fuel feed | 4 carb
+1969 Lamborghini Miura P400 S | Compression ratio | 10.4
+1969 Lamborghini Miura P400 S | Bore | 82 mm
+1969 Lamborghini Miura P400 S | Stroke | 62 mm
+1969 Lamborghini Miura P400 S | Valves per cylinder | 2
+1969 Lamborghini Miura P400 S | Speed | 282 kmph
+1969 Lamborghini Miura P400 S | 0-100 kmph | 5.6 s
+1969 Lamborghini Miura P400 S | Weight | 1298 kg
+1969 Lamborghini Miura P400 S | Body | coupe
+1969 Lamborghini Miura P400 S | Length | 4359 mm
+1969 Lamborghini Miura P400 S | Width | 1760 mm
+1969 Lamborghini Miura P400 S | Height | 1067 mm
+1969 Lamborghini Miura P400 S | Seats | 2
+1969 Lamborghini Miura P400 S | Doors | 2
+1969 Lamborghini Miura P400 S | Fuel tank | 90 L
+1969 Lamborghini Miura P400 S | Front track | 1412 mm
+1969 Lamborghini Miura P400 S | Rear track | 1412 mm
+1969 Lamborghini Miura P400 S | Wheelbase | 2500 mm
+1969 Lamborghini Miura P400 S | Clearance | 125 mm
+1969 Lamborghini Miura P400 S | Engine placement | center transverse
+1969 Lamborghini Miura P400 S | Rear brakes | ventilated disc
+1969 Lamborghini Miura P400 S | Front brakes | ventilated disc
+1969 Lamborghini Miura P400 S | Front tyres | 210 HS15
+1969 Lamborghini Miura P400 S | Rear tyres | 210 HS15
+1969 Lamborghini Miura P400 S | Wheels | 7.0x15
+1969 Lamborghini Miura P400 S | Gears | 5 manual
+1969 Lamborghini Miura P400 S | Drive | rear
 1969 Pontiac GTO The Judge | Count | 6833
 1969 Pontiac GTO The Judge | Volume | 400 cin
 1969 Pontiac GTO The Judge | Cylinders | V8
@@ -2392,8 +2713,59 @@
 1969-1970 Porsche 911 E | Compression ratio | 9.1
 1969-1970 Porsche 911 E | Weight | 1020 kg
 1970 Audi 100 S coupe | Body | coupe
+1970 Lamborghini Espada 400 GTE (Series II) | Volume | 3939 cc
+1970 Lamborghini Espada 400 GTE (Series II) | Cylinders | V12
+1970 Lamborghini Espada 400 GTE (Series II) | Power | 355 hp @ 7500 rpm
+1970 Lamborghini Espada 400 GTE (Series II) | Fuel feed | 6 carb Weber
+1970 Lamborghini Espada 400 GTE (Series II) | Compression ratio | 10.7
+1970 Lamborghini Espada 400 GTE (Series II) | Bore | 82 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Stroke | 62 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Valves per cylinder | 2
+1970 Lamborghini Espada 400 GTE (Series II) | Speed | 260 kmph
+1970 Lamborghini Espada 400 GTE (Series II) | Weight | 1635 kg
+1970 Lamborghini Espada 400 GTE (Series II) | Body | coupe
+1970 Lamborghini Espada 400 GTE (Series II) | Length | 4730 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Width | 1860 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Height | 1185 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Seats | 4
+1970 Lamborghini Espada 400 GTE (Series II) | Doors | 2
+1970 Lamborghini Espada 400 GTE (Series II) | Front track | 1490 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Rear track | 1490 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Wheelbase | 2650 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Clearance | 127 mm
+1970 Lamborghini Espada 400 GTE (Series II) | Engine placement | front longitudinal
+1970 Lamborghini Espada 400 GTE (Series II) | Rear brakes | ventilated disc
+1970 Lamborghini Espada 400 GTE (Series II) | Front brakes | ventilated disc
+1970 Lamborghini Espada 400 GTE (Series II) | Gears | 5 manual
+1970 Lamborghini Espada 400 GTE (Series II) | Drive | rear
 1970 Lamborghini Jarama 400 GT | Volume | 4 L
 1970 Lamborghini Jarama 400 GT | Cylinders | V12
+1970 Lamborghini Miura P400 Jota | Volume | 3929 cc
+1970 Lamborghini Miura P400 Jota | Cylinders | V12
+1970 Lamborghini Miura P400 Jota | Power | 446 hp @ 8500 rpm
+1970 Lamborghini Miura P400 Jota | Torque | 403 nm @ 6500 rpm
+1970 Lamborghini Miura P400 Jota | Fuel feed | 4 carb Weber
+1970 Lamborghini Miura P400 Jota | Compression ratio | 11.5
+1970 Lamborghini Miura P400 Jota | Bore | 82 mm
+1970 Lamborghini Miura P400 Jota | Stroke | 62 mm
+1970 Lamborghini Miura P400 Jota | Valves per cylinder | 2
+1970 Lamborghini Miura P400 Jota | Speed | 320 kmph
+1970 Lamborghini Miura P400 Jota | 0-100 kmph | 3.6 s
+1970 Lamborghini Miura P400 Jota | Weight | 900 kg
+1970 Lamborghini Miura P400 Jota | Body | coupe
+1970 Lamborghini Miura P400 Jota | Seats | 2
+1970 Lamborghini Miura P400 Jota | Doors | 2
+1970 Lamborghini Miura P400 Jota | Fuel tank | 120 L
+1970 Lamborghini Miura P400 Jota | Front track | 1460 mm
+1970 Lamborghini Miura P400 Jota | Rear track | 1540 mm
+1970 Lamborghini Miura P400 Jota | Wheelbase | 2505 mm
+1970 Lamborghini Miura P400 Jota | Engine placement | center transverse
+1970 Lamborghini Miura P400 Jota | Rear brakes | ventilated disc
+1970 Lamborghini Miura P400 Jota | Front brakes | ventilated disc
+1970 Lamborghini Miura P400 Jota | Front wheels | 9.0x15
+1970 Lamborghini Miura P400 Jota | Rear wheels | 12.0x15
+1970 Lamborghini Miura P400 Jota | Gears | 5 manual
+1970 Lamborghini Miura P400 Jota | Drive | rear
 1970 Lamborghini Urraco P250 | Volume | 2.5 L
 1970 Lamborghini Urraco P250 | Cylinders | 8
 1970 Lamborghini Urraco P250 | Engine placement | center
@@ -2564,6 +2936,37 @@
 1971 Jaguar JX12 | Volume | 5.3 L
 1971 Jaguar JX12 | Cylinders | 12
 1971 Jaguar JX12 | Speed | 240 kmph
+1971 Lamborghini Countach LP500 | Volume | 4971 cc
+1971 Lamborghini Countach LP500 | Cylinders | V12
+1971 Lamborghini Countach LP500 | Power | 440 hp @ 7400 rpm
+1971 Lamborghini Countach LP500 | Torque | 448 nm @ 5750 rpm
+1971 Lamborghini Countach LP500 | Fuel feed | 6 carb Weber
+1971 Lamborghini Countach LP500 | Compression ratio | 10.5
+1971 Lamborghini Countach LP500 | Bore | 85 mm
+1971 Lamborghini Countach LP500 | Stroke | 73 mm
+1971 Lamborghini Countach LP500 | Valves per cylinder | 2
+1971 Lamborghini Countach LP500 | Speed | 325 kmph
+1971 Lamborghini Countach LP500 | 0-100 kmph | 4.8 s
+1971 Lamborghini Countach LP500 | Weight | 1130 kg
+1971 Lamborghini Countach LP500 | Body | coupe
+1971 Lamborghini Countach LP500 | Length | 4100 mm
+1971 Lamborghini Countach LP500 | Width | 1850 mm
+1971 Lamborghini Countach LP500 | Height | 1040 mm
+1971 Lamborghini Countach LP500 | Seats | 2
+1971 Lamborghini Countach LP500 | Doors | 2
+1971 Lamborghini Countach LP500 | Fuel tank | 140 L
+1971 Lamborghini Countach LP500 | Front track | 1500 mm
+1971 Lamborghini Countach LP500 | Rear track | 1520 mm
+1971 Lamborghini Countach LP500 | Wheelbase | 2464 mm
+1971 Lamborghini Countach LP500 | Engine placement | center longitudinal
+1971 Lamborghini Countach LP500 | Rear brakes | ventilated disc
+1971 Lamborghini Countach LP500 | Front brakes | ventilated disc
+1971 Lamborghini Countach LP500 | Front tyres | 205/70 VR14
+1971 Lamborghini Countach LP500 | Rear tyres | 215/70 VR14
+1971 Lamborghini Countach LP500 | Front wheels | 7x14
+1971 Lamborghini Countach LP500 | Rear wheels | 9x14
+1971 Lamborghini Countach LP500 | Gears | 5 manual
+1971 Lamborghini Countach LP500 | Drive | rear
 1971 Lamborghini Miura P400 SV | Volume | 4 L
 1971 Lamborghini Miura P400 SV | Cylinders | V12
 1971 Lamborghini Miura P400 SV | Power | 385 hp
@@ -2629,6 +3032,37 @@
 1972 Jaguar XJ12 | Cylinders | 12
 1972 Jaguar XJ12 | Power | 311 hp
 1972 Lamborghini Jarama 400 GTS | Body | coupe
+1972 Lamborghini Jarama Rallye S | Volume | 3929 cc
+1972 Lamborghini Jarama Rallye S | Cylinders | V12
+1972 Lamborghini Jarama Rallye S | Power | 400 hp @ 8000 rpm
+1972 Lamborghini Jarama Rallye S | Fuel feed | 6 carb Weber
+1972 Lamborghini Jarama Rallye S | Compression ratio | 10.4
+1972 Lamborghini Jarama Rallye S | Bore | 82 mm
+1972 Lamborghini Jarama Rallye S | Stroke | 62 mm
+1972 Lamborghini Jarama Rallye S | Valves per cylinder | 2
+1972 Lamborghini Jarama Rallye S | Speed | 290 kmph
+1972 Lamborghini Jarama Rallye S | 0-100 kmph | 5.3 s
+1972 Lamborghini Jarama Rallye S | Weight | 1170 kg
+1972 Lamborghini Jarama Rallye S | Body | coupe
+1972 Lamborghini Jarama Rallye S | Length | 4483 mm
+1972 Lamborghini Jarama Rallye S | Width | 1820 mm
+1972 Lamborghini Jarama Rallye S | Height | 1190 mm
+1972 Lamborghini Jarama Rallye S | Seats | 1
+1972 Lamborghini Jarama Rallye S | Doors | 2
+1972 Lamborghini Jarama Rallye S | Fuel tank | 100 L
+1972 Lamborghini Jarama Rallye S | Front track | 1490 mm
+1972 Lamborghini Jarama Rallye S | Rear track | 1490 mm
+1972 Lamborghini Jarama Rallye S | Wheelbase | 2377 mm
+1972 Lamborghini Jarama Rallye S | Clearance | 125 mm
+1972 Lamborghini Jarama Rallye S | Engine placement | front longitudinal
+1972 Lamborghini Jarama Rallye S | Brakes | disc
+1972 Lamborghini Jarama Rallye S | Brakes size | 350 mm
+1972 Lamborghini Jarama Rallye S | Front tyres | 215/70 VR15
+1972 Lamborghini Jarama Rallye S | Rear tyres | 225/70 VR15
+1972 Lamborghini Jarama Rallye S | Front wheels | 8.0x15
+1972 Lamborghini Jarama Rallye S | Rear wheels | 10.0x15
+1972 Lamborghini Jarama Rallye S | Gears | 5 manual
+1972 Lamborghini Jarama Rallye S | Drive | rear
 1972 Lamborghini Urraco P250 | Volume | 2.5 L
 1972 Lamborghini Urraco P250 | Cylinders | V8
 1972 Lamborghini Urraco P250 | Power | 220 hp
@@ -2880,9 +3314,79 @@
 1974 Lamborghini Countach | Front brakes | ventilated disc
 1974 Lamborghini Countach | Gears | 5 manual
 1974 Lamborghini Countach | Drive | rear
+1974 Lamborghini Countach LP400 | Volume | 3929 cc
+1974 Lamborghini Countach LP400 | Volume | 3929 cc
 1974 Lamborghini Countach LP400 | Volume | 4 L
 1974 Lamborghini Countach LP400 | Cylinders | V12
+1974 Lamborghini Countach LP400 | Cylinders | V12
+1974 Lamborghini Countach LP400 | Cylinders | V12
+1974 Lamborghini Countach LP400 | Power | 375 hp @ 8000 rpm
+1974 Lamborghini Countach LP400 | Power | 375 hp @ 8000 rpm
 1974 Lamborghini Countach LP400 | Power | 375 hp
+1974 Lamborghini Countach LP400 | Torque | 365 nm @ 5000 rpm
+1974 Lamborghini Countach LP400 | Torque | 365 nm @ 5000 rpm
+1974 Lamborghini Countach LP400 | Fuel feed | 6 carb Weber
+1974 Lamborghini Countach LP400 | Fuel feed | 6 carb Weber
+1974 Lamborghini Countach LP400 | Compression ratio | 10.5
+1974 Lamborghini Countach LP400 | Compression ratio | 10.5
+1974 Lamborghini Countach LP400 | Bore | 82 mm
+1974 Lamborghini Countach LP400 | Bore | 82 mm
+1974 Lamborghini Countach LP400 | Stroke | 62 mm
+1974 Lamborghini Countach LP400 | Stroke | 62 mm
+1974 Lamborghini Countach LP400 | Valves per cylinder | 2
+1974 Lamborghini Countach LP400 | Valves per cylinder | 2
+1974 Lamborghini Countach LP400 | Speed | 316 kmph
+1974 Lamborghini Countach LP400 | Speed | 316 kmph
+1974 Lamborghini Countach LP400 | 0-100 kmph | 5.6 s
+1974 Lamborghini Countach LP400 | 0-100 kmph | 5.6 s
+1974 Lamborghini Countach LP400 | 0-160 kmph | 13.3 s
+1974 Lamborghini Countach LP400 | 0-160 kmph | 13.3 s
+1974 Lamborghini Countach LP400 | Weight | 1065 kg
+1974 Lamborghini Countach LP400 | Weight | 1065 kg
+1974 Lamborghini Countach LP400 | Body | coupe
+1974 Lamborghini Countach LP400 | Body | coupe
+1974 Lamborghini Countach LP400 | Length | 4140 mm
+1974 Lamborghini Countach LP400 | Length | 4140 mm
+1974 Lamborghini Countach LP400 | Width | 1890 mm
+1974 Lamborghini Countach LP400 | Width | 1890 mm
+1974 Lamborghini Countach LP400 | Height | 1070 mm
+1974 Lamborghini Countach LP400 | Height | 1070 mm
+1974 Lamborghini Countach LP400 | Seats | 2
+1974 Lamborghini Countach LP400 | Seats | 2
+1974 Lamborghini Countach LP400 | Doors | 2
+1974 Lamborghini Countach LP400 | Doors | 2
+1974 Lamborghini Countach LP400 | Fuel tank | 120 L
+1974 Lamborghini Countach LP400 | Fuel tank | 120 L
+1974 Lamborghini Countach LP400 | Front track | 1500 mm
+1974 Lamborghini Countach LP400 | Front track | 1500 mm
+1974 Lamborghini Countach LP400 | Rear track | 1520 mm
+1974 Lamborghini Countach LP400 | Rear track | 1520 mm
+1974 Lamborghini Countach LP400 | Wheelbase | 2450 mm
+1974 Lamborghini Countach LP400 | Wheelbase | 2450 mm
+1974 Lamborghini Countach LP400 | Clearance | 125 mm
+1974 Lamborghini Countach LP400 | Clearance | 125 mm
+1974 Lamborghini Countach LP400 | Engine placement | center longitudinal
+1974 Lamborghini Countach LP400 | Engine placement | center longitudinal
+1974 Lamborghini Countach LP400 | Rear brakes | ventilated disc
+1974 Lamborghini Countach LP400 | Rear brakes | ventilated disc
+1974 Lamborghini Countach LP400 | Front brakes | ventilated disc
+1974 Lamborghini Countach LP400 | Front brakes | ventilated disc
+1974 Lamborghini Countach LP400 | Front brakes size | 267 mm
+1974 Lamborghini Countach LP400 | Front brakes size | 267 mm
+1974 Lamborghini Countach LP400 | Rear brakes size | 267 mm
+1974 Lamborghini Countach LP400 | Rear brakes size | 267 mm
+1974 Lamborghini Countach LP400 | Front tyres | 205/70 VR14
+1974 Lamborghini Countach LP400 | Front tyres | 205/70 VR14
+1974 Lamborghini Countach LP400 | Rear tyres | 215/70 VR14
+1974 Lamborghini Countach LP400 | Rear tyres | 215/70 VR14
+1974 Lamborghini Countach LP400 | Front wheels | 7.5x14
+1974 Lamborghini Countach LP400 | Front wheels | 7.5x14
+1974 Lamborghini Countach LP400 | Rear wheels | 9.5x14
+1974 Lamborghini Countach LP400 | Rear wheels | 9.5x14
+1974 Lamborghini Countach LP400 | Gears | 5 manual
+1974 Lamborghini Countach LP400 | Gears | 5 manual
+1974 Lamborghini Countach LP400 | Drive | rear
+1974 Lamborghini Countach LP400 | Drive | rear
 1974 Lancia Stratos HF | Count | 492
 1974 Lancia Stratos HF | Volume | 2418 cc
 1974 Lancia Stratos HF | Cylinders | V6
@@ -3212,6 +3716,21 @@
 1976 Ferrari 512 BB | Front tyres | 215/70 VR15
 1976 Ferrari 512 BB | Rear tyres | 225/70 VR15
 1976 Ferrari 512 BB | Gears | 5
+1976 Lamborghini Miura P400 SV/R | Volume | 3929 cc
+1976 Lamborghini Miura P400 SV/R | Cylinders | V12
+1976 Lamborghini Miura P400 SV/R | Power | 400 hp @ 8500 rpm
+1976 Lamborghini Miura P400 SV/R | Bore | 82 mm
+1976 Lamborghini Miura P400 SV/R | Stroke | 62 mm
+1976 Lamborghini Miura P400 SV/R | Valves per cylinder | 2
+1976 Lamborghini Miura P400 SV/R | Body | coupe
+1976 Lamborghini Miura P400 SV/R | Seats | 2
+1976 Lamborghini Miura P400 SV/R | Doors | 2
+1976 Lamborghini Miura P400 SV/R | Wheelbase | 2500 mm
+1976 Lamborghini Miura P400 SV/R | Engine placement | center transverse
+1976 Lamborghini Miura P400 SV/R | Rear brakes | ventilated disc
+1976 Lamborghini Miura P400 SV/R | Front brakes | ventilated disc
+1976 Lamborghini Miura P400 SV/R | Gears | 5 manual
+1976 Lamborghini Miura P400 SV/R | Drive | rear
 1976 Lamborghini Silhouette P300 | Volume | 3 L
 1976 Lamborghini Silhouette P300 | Cylinders | V8
 1976 Lamborghini Silhouette P300 | Body | targa
@@ -3498,6 +4017,41 @@
 1978 BMW M1 | Brakes | ventilated disc
 1978 BMW M1 | Gears | 5 manual
 1978 BMW M1 | Drive | rear
+1978 Lamborghini Countach LP400 S | Volume | 3929 cc
+1978 Lamborghini Countach LP400 S | Cylinders | V12
+1978 Lamborghini Countach LP400 S | Power | 353 hp @ 7500 rpm
+1978 Lamborghini Countach LP400 S | Torque | 363 nm @ 5500 rpm
+1978 Lamborghini Countach LP400 S | Fuel feed | 6 carb Weber
+1978 Lamborghini Countach LP400 S | Compression ratio | 10.5
+1978 Lamborghini Countach LP400 S | Bore | 82 mm
+1978 Lamborghini Countach LP400 S | Stroke | 62 mm
+1978 Lamborghini Countach LP400 S | Valves per cylinder | 2
+1978 Lamborghini Countach LP400 S | Speed | 292 kmph
+1978 Lamborghini Countach LP400 S | 0-100 kmph | 5.7 s
+1978 Lamborghini Countach LP400 S | 0-160 kmph | 14.4 s
+1978 Lamborghini Countach LP400 S | Weight | 1200 kg
+1978 Lamborghini Countach LP400 S | Body | coupe
+1978 Lamborghini Countach LP400 S | Length | 4140 mm
+1978 Lamborghini Countach LP400 S | Width | 2000 mm
+1978 Lamborghini Countach LP400 S | Height | 1040 mm
+1978 Lamborghini Countach LP400 S | Seats | 2
+1978 Lamborghini Countach LP400 S | Doors | 2
+1978 Lamborghini Countach LP400 S | Fuel tank | 120 L
+1978 Lamborghini Countach LP400 S | Front track | 1492 mm
+1978 Lamborghini Countach LP400 S | Rear track | 1606 mm
+1978 Lamborghini Countach LP400 S | Wheelbase | 2450 mm
+1978 Lamborghini Countach LP400 S | Clearance | 110 mm
+1978 Lamborghini Countach LP400 S | Engine placement | center longitudinal
+1978 Lamborghini Countach LP400 S | Rear brakes | ventilated disc
+1978 Lamborghini Countach LP400 S | Front brakes | ventilated disc
+1978 Lamborghini Countach LP400 S | Front brakes size | 300 mm
+1978 Lamborghini Countach LP400 S | Rear brakes size | 284 mm
+1978 Lamborghini Countach LP400 S | Front tyres | 205/50 VR15
+1978 Lamborghini Countach LP400 S | Rear tyres | 345/35 VR15
+1978 Lamborghini Countach LP400 S | Front wheels | 8.5x15
+1978 Lamborghini Countach LP400 S | Rear wheels | 12.0x15
+1978 Lamborghini Countach LP400 S | Gears | 5 manual
+1978 Lamborghini Countach LP400 S | Drive | rear
 1978 Opel Manta B Coupe CC | Speed | 163 kmph
 1978 Opel Manta B Coupe CC | Body | hatchback
 1978 Opel Manta B Coupe CC 1.6 | Volume | 1.6 L
@@ -3735,6 +4289,39 @@
 1980 Audi Quattro (B2) | Doors | 2
 1980 Audi Quattro (B2) | Gears | 5 manual
 1980 Audi Quattro (B2) | Drive | full
+1980 Lamborghini Countach Koenig-Specials | Volume | 5167 cc
+1980 Lamborghini Countach Koenig-Specials | Cylinders | V12
+1980 Lamborghini Countach Koenig-Specials | Power | 700 hp
+1980 Lamborghini Countach Koenig-Specials | Fuel feed | 6 carb Weber
+1980 Lamborghini Countach Koenig-Specials | Compression ratio | 9.9
+1980 Lamborghini Countach Koenig-Specials | Bore | 85.5 mm
+1980 Lamborghini Countach Koenig-Specials | Stroke | 75 mm
+1980 Lamborghini Countach Koenig-Specials | Valves per cylinder | 2
+1980 Lamborghini Countach Koenig-Specials | Speed | 330 kmph
+1980 Lamborghini Countach Koenig-Specials | 0-100 kmph | 3.9 s
+1980 Lamborghini Countach Koenig-Specials | Weight | 1490 kg
+1980 Lamborghini Countach Koenig-Specials | Body | coupe
+1980 Lamborghini Countach Koenig-Specials | Length | 4140 mm
+1980 Lamborghini Countach Koenig-Specials | Width | 2000 mm
+1980 Lamborghini Countach Koenig-Specials | Height | 1070 mm
+1980 Lamborghini Countach Koenig-Specials | Seats | 2
+1980 Lamborghini Countach Koenig-Specials | Doors | 2
+1980 Lamborghini Countach Koenig-Specials | Fuel tank | 120 L
+1980 Lamborghini Countach Koenig-Specials | Front track | 1536 mm
+1980 Lamborghini Countach Koenig-Specials | Rear track | 1606 mm
+1980 Lamborghini Countach Koenig-Specials | Wheelbase | 2500 mm
+1980 Lamborghini Countach Koenig-Specials | Clearance | 125 mm
+1980 Lamborghini Countach Koenig-Specials | Engine placement | center longitudinal
+1980 Lamborghini Countach Koenig-Specials | Rear brakes | ventilated disc
+1980 Lamborghini Countach Koenig-Specials | Front brakes | ventilated disc
+1980 Lamborghini Countach Koenig-Specials | Front brakes size | 300 mm
+1980 Lamborghini Countach Koenig-Specials | Rear brakes size | 284 mm
+1980 Lamborghini Countach Koenig-Specials | Front tyres | 205/50 VR15
+1980 Lamborghini Countach Koenig-Specials | Rear tyres | 345/35 VR15
+1980 Lamborghini Countach Koenig-Specials | Front wheels | 8.5x15
+1980 Lamborghini Countach Koenig-Specials | Rear wheels | 12.0x15
+1980 Lamborghini Countach Koenig-Specials | Gears | 5 manual
+1980 Lamborghini Countach Koenig-Specials | Drive | rear
 1980 Porsche 911 SC | Power | 204 hp
 1980 Porsche 911 SC | Power | 204 hp
 1980 Porsche 911 SC | Power | 188 hp
@@ -3816,6 +4403,55 @@
 1981 Lamborghini Jalpa | Cylinders | V8
 1981 Lamborghini Jalpa | Power | 255 hp
 1981 Lamborghini Jalpa | Engine placement | center transverse
+1981 Lamborghini LM001 | Volume | 5896 cc
+1981 Lamborghini LM001 | Cylinders | V8
+1981 Lamborghini LM001 | Power | 180 hp @ 4000 rpm
+1981 Lamborghini LM001 | Torque | 370 nm @ 2500 rpm
+1981 Lamborghini LM001 | Fuel feed | carb
+1981 Lamborghini LM001 | Compression ratio | 8.3
+1981 Lamborghini LM001 | Bore | 103.6 mm
+1981 Lamborghini LM001 | Stroke | 87.4 mm
+1981 Lamborghini LM001 | Valves per cylinder | 2
+1981 Lamborghini LM001 | Speed | 160 kmph
+1981 Lamborghini LM001 | Weight | 2100 kg
+1981 Lamborghini LM001 | Body | pickup
+1981 Lamborghini LM001 | Length | 4790 mm
+1981 Lamborghini LM001 | Width | 2000 mm
+1981 Lamborghini LM001 | Height | 1790 mm
+1981 Lamborghini LM001 | Seats | 4
+1981 Lamborghini LM001 | Doors | 4
+1981 Lamborghini LM001 | Fuel tank | 190 L
+1981 Lamborghini LM001 | Front track | 1615 mm
+1981 Lamborghini LM001 | Rear track | 1615 mm
+1981 Lamborghini LM001 | Wheelbase | 2950 mm
+1981 Lamborghini LM001 | Engine placement | rear
+1981 Lamborghini LM001 | Rear brakes | ventilated disc
+1981 Lamborghini LM001 | Front brakes | ventilated disc
+1981 Lamborghini LM001 | Front wheels | 14
+1981 Lamborghini LM001 | Rear wheels | 16
+1981 Lamborghini LM001 | Gears | 3 auto
+1981 Lamborghini LM001 | Drive | full
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Volume | 3929 cc
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Cylinders | V12
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Power | 370 hp @ 7700 rpm
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Torque | 388 nm @ 5500 rpm
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Fuel feed | 4 carb
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Compression ratio | 10.4
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Bore | 82 mm
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Stroke | 62 mm
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Valves per cylinder | 2
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Body | targa
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Seats | 2
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Doors | 2
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Fuel tank | 90 L
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Front track | 1412 mm
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Rear track | 1412 mm
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Wheelbase | 2500 mm
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Engine placement | center transverse
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Rear brakes | ventilated disc
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Front brakes | ventilated disc
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Gears | 5 manual
+1981 Lamborghini Miura P400 S "Lambo-Motor AG" Spyder | Drive | rear
 1981 Porsche 911 SC | Power | 204 hp @ 5900 rpm
 1981 Porsche 911 SC | Torque | 267 nm
 1981 Porsche 911 SC (european) | Volume | 2994 cc
@@ -3889,12 +4525,107 @@
 1981-09 Audi Coupe GT KE | Fuel | petrol
 1981-09 Audi Coupe GT KE | Gears | 5 manual
 1982 Audi 100 | Cx | 0.300
+1982 Lamborghini Countach LP500 S | Volume | 4754 cc
+1982 Lamborghini Countach LP500 S | Cylinders | V12
+1982 Lamborghini Countach LP500 S | Power | 375 hp @ 7000 rpm
+1982 Lamborghini Countach LP500 S | Torque | 410 nm @ 4500 rpm
+1982 Lamborghini Countach LP500 S | Fuel feed | 6 carb Weber
+1982 Lamborghini Countach LP500 S | Compression ratio | 9.2
+1982 Lamborghini Countach LP500 S | Bore | 85.5 mm
+1982 Lamborghini Countach LP500 S | Stroke | 69 mm
+1982 Lamborghini Countach LP500 S | Valves per cylinder | 2
+1982 Lamborghini Countach LP500 S | Speed | 300 kmph
+1982 Lamborghini Countach LP500 S | 0-100 kmph | 5.5 s
+1982 Lamborghini Countach LP500 S | Weight | 1490 kg
+1982 Lamborghini Countach LP500 S | Body | coupe
+1982 Lamborghini Countach LP500 S | Length | 4140 mm
+1982 Lamborghini Countach LP500 S | Width | 2000 mm
+1982 Lamborghini Countach LP500 S | Height | 1070 mm
+1982 Lamborghini Countach LP500 S | Seats | 2
+1982 Lamborghini Countach LP500 S | Doors | 2
+1982 Lamborghini Countach LP500 S | Fuel tank | 120 L
+1982 Lamborghini Countach LP500 S | Front track | 1532 mm
+1982 Lamborghini Countach LP500 S | Rear track | 1606 mm
+1982 Lamborghini Countach LP500 S | Wheelbase | 2450 mm
+1982 Lamborghini Countach LP500 S | Clearance | 125 mm
+1982 Lamborghini Countach LP500 S | Engine placement | center longitudinal
+1982 Lamborghini Countach LP500 S | Rear brakes | ventilated disc
+1982 Lamborghini Countach LP500 S | Front brakes | ventilated disc
+1982 Lamborghini Countach LP500 S | Front brakes size | 300 mm
+1982 Lamborghini Countach LP500 S | Rear brakes size | 282 mm
+1982 Lamborghini Countach LP500 S | Front tyres | 205/50 VR15
+1982 Lamborghini Countach LP500 S | Rear tyres | 345/35 VR15
+1982 Lamborghini Countach LP500 S | Front wheels | 8.5x15
+1982 Lamborghini Countach LP500 S | Rear wheels | 12.0x15
+1982 Lamborghini Countach LP500 S | Gears | 5 manual
+1982 Lamborghini Countach LP500 S | Drive | rear
+1982 Lamborghini Countach LP500 S Twin Turbo | Volume | 4754 cc
+1982 Lamborghini Countach LP500 S Twin Turbo | Cylinders | V12
+1982 Lamborghini Countach LP500 S Twin Turbo | Power | 520 hp @ 6500 rpm
+1982 Lamborghini Countach LP500 S Twin Turbo | Fuel feed | 6 carb Weber
+1982 Lamborghini Countach LP500 S Twin Turbo | Bore | 85.5 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Stroke | 69 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Valves per cylinder | 2
+1982 Lamborghini Countach LP500 S Twin Turbo | Speed | 300 kmph
+1982 Lamborghini Countach LP500 S Twin Turbo | 0-100 kmph | 4.8 s
+1982 Lamborghini Countach LP500 S Twin Turbo | Weight | 1505 kg
+1982 Lamborghini Countach LP500 S Twin Turbo | Body | coupe
+1982 Lamborghini Countach LP500 S Twin Turbo | Length | 4140 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Width | 2000 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Height | 1070 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Seats | 2
+1982 Lamborghini Countach LP500 S Twin Turbo | Doors | 2
+1982 Lamborghini Countach LP500 S Twin Turbo | Fuel tank | 120 L
+1982 Lamborghini Countach LP500 S Twin Turbo | Front track | 1532 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Rear track | 1606 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Wheelbase | 2450 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Clearance | 125 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Engine placement | center longitudinal
+1982 Lamborghini Countach LP500 S Twin Turbo | Rear brakes | ventilated disc
+1982 Lamborghini Countach LP500 S Twin Turbo | Front brakes | ventilated disc
+1982 Lamborghini Countach LP500 S Twin Turbo | Front brakes size | 300 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Rear brakes size | 282 mm
+1982 Lamborghini Countach LP500 S Twin Turbo | Front tyres | 205/50 VR15
+1982 Lamborghini Countach LP500 S Twin Turbo | Rear tyres | 345/35 VR15
+1982 Lamborghini Countach LP500 S Twin Turbo | Front wheels | 8.5x15
+1982 Lamborghini Countach LP500 S Twin Turbo | Rear wheels | 12.0x15
+1982 Lamborghini Countach LP500 S Twin Turbo | Gears | 5 manual
+1982 Lamborghini Countach LP500 S Twin Turbo | Drive | rear
 1982 Lamborghini Countach LP500S | Volume | 5 L
 1982 Lamborghini Countach LP500S | Power | 375 hp
 1982 Lamborghini LM002 | Volume | 7 L
 1982 Lamborghini LM002 | Cylinders | V12
 1982 Lamborghini LM002 | Power | 400 hp
 1982 Lamborghini LM002 | Engine placement | front
+1982 Lamborghini LMA002 | Volume | 4754 cc
+1982 Lamborghini LMA002 | Cylinders | V12
+1982 Lamborghini LMA002 | Power | 332 hp @ 6000 rpm
+1982 Lamborghini LMA002 | Torque | 433 nm @ 4500 rpm
+1982 Lamborghini LMA002 | Fuel feed | 6 carb Weber
+1982 Lamborghini LMA002 | Bore | 85.5 mm
+1982 Lamborghini LMA002 | Stroke | 69 mm
+1982 Lamborghini LMA002 | Valves per cylinder | 2
+1982 Lamborghini LMA002 | Speed | 188 kmph
+1982 Lamborghini LMA002 | Weight | 2600 kg
+1982 Lamborghini LMA002 | Body | pickup
+1982 Lamborghini LMA002 | Length | 4790 mm
+1982 Lamborghini LMA002 | Width | 2000 mm
+1982 Lamborghini LMA002 | Height | 1850 mm
+1982 Lamborghini LMA002 | Seats | 4
+1982 Lamborghini LMA002 | Doors | 4
+1982 Lamborghini LMA002 | Fuel tank | 280 L
+1982 Lamborghini LMA002 | Front track | 1615 mm
+1982 Lamborghini LMA002 | Rear track | 1615 mm
+1982 Lamborghini LMA002 | Wheelbase | 2950 mm
+1982 Lamborghini LMA002 | Clearance | 300 mm
+1982 Lamborghini LMA002 | Engine placement | rear
+1982 Lamborghini LMA002 | Rear brakes | ventilated disc
+1982 Lamborghini LMA002 | Front brakes | ventilated disc
+1982 Lamborghini LMA002 | Front tyres | 14
+1982 Lamborghini LMA002 | Rear tyres | 16 LT
+1982 Lamborghini LMA002 | Wheels | 9.0x16
+1982 Lamborghini LMA002 | Gears | 5 manual
+1982 Lamborghini LMA002 | Drive | full
 1982 Opel Corsa (A) | Power | 45 hp
 1982 Opel Corsa (A) | Power | 55 hp
 1982 Opel Corsa (A) | Power | 70 hp
@@ -4340,6 +5071,35 @@
 1984 Isdera Imperator 108i | Front wheels | 9Jx17
 1984 Isdera Imperator 108i | Rear wheels | 13Jx17
 1984 Isdera Imperator 108i | Gears | 5 manual
+1984 Lamborghini LM004 | Volume | 7257 cc
+1984 Lamborghini LM004 | Cylinders | V12
+1984 Lamborghini LM004 | Power | 420 hp @ 5400 rpm
+1984 Lamborghini LM004 | Torque | 600 nm @ 3500 rpm
+1984 Lamborghini LM004 | Fuel feed | 6 carb Weber
+1984 Lamborghini LM004 | Compression ratio | 9.2
+1984 Lamborghini LM004 | Valves per cylinder | 2
+1984 Lamborghini LM004 | Speed | 206 kmph
+1984 Lamborghini LM004 | 0-100 kmph | 8.5 s
+1984 Lamborghini LM004 | Weight | 2700 kg
+1984 Lamborghini LM004 | Body | pickup
+1984 Lamborghini LM004 | Length | 4900 mm
+1984 Lamborghini LM004 | Width | 2000 mm
+1984 Lamborghini LM004 | Height | 1850 mm
+1984 Lamborghini LM004 | Seats | 4
+1984 Lamborghini LM004 | Doors | 4
+1984 Lamborghini LM004 | Fuel tank | 318 L
+1984 Lamborghini LM004 | Front track | 1615 mm
+1984 Lamborghini LM004 | Rear track | 1615 mm
+1984 Lamborghini LM004 | Wheelbase | 3000 mm
+1984 Lamborghini LM004 | Clearance | 300 mm
+1984 Lamborghini LM004 | Engine placement | front
+1984 Lamborghini LM004 | Rear brakes | drum
+1984 Lamborghini LM004 | Front brakes | ventilated disc
+1984 Lamborghini LM004 | Front tyres | 325/65 VR17
+1984 Lamborghini LM004 | Rear tyres | 325/65 VR17
+1984 Lamborghini LM004 | Wheels | 11.0x17
+1984 Lamborghini LM004 | Gears | 5 manual
+1984 Lamborghini LM004 | Drive | full
 1984 Opel Kadett (E) | Volume | 1.8 L
 1984 Opel Kadett (E) | Volume | 2 L
 1984 Opel Kadett (E) | Volume | 2 L
@@ -4546,6 +5306,37 @@
 1986 Audi 80 (B3) | Drive | front
 1986 Jaguar XJ6 | Volume | 2.9 L
 1986 Jaguar XJ6 | Volume | 4 L
+1986 Lamborghini LM002 | Volume | 5167 cc
+1986 Lamborghini LM002 | Cylinders | V12
+1986 Lamborghini LM002 | Power | 450 hp @ 6800 rpm
+1986 Lamborghini LM002 | Torque | 510 nm @ 4500 rpm
+1986 Lamborghini LM002 | Fuel feed | 6 carb Weber
+1986 Lamborghini LM002 | Compression ratio | 9.5
+1986 Lamborghini LM002 | Bore | 85.5 mm
+1986 Lamborghini LM002 | Stroke | 75 mm
+1986 Lamborghini LM002 | Valves per cylinder | 2
+1986 Lamborghini LM002 | Speed | 210 kmph
+1986 Lamborghini LM002 | 0-100 kmph | 7.8 s
+1986 Lamborghini LM002 | Weight | 2700 kg
+1986 Lamborghini LM002 | Body | pickup
+1986 Lamborghini LM002 | Length | 4900 mm
+1986 Lamborghini LM002 | Width | 2000 mm
+1986 Lamborghini LM002 | Height | 1850 mm
+1986 Lamborghini LM002 | Seats | 4
+1986 Lamborghini LM002 | Doors | 4
+1986 Lamborghini LM002 | Fuel tank | 290 L
+1986 Lamborghini LM002 | Front track | 1615 mm
+1986 Lamborghini LM002 | Rear track | 1615 mm
+1986 Lamborghini LM002 | Wheelbase | 3000 mm
+1986 Lamborghini LM002 | Clearance | 300 mm
+1986 Lamborghini LM002 | Engine placement | front longitudinal
+1986 Lamborghini LM002 | Rear brakes | drum
+1986 Lamborghini LM002 | Front brakes | ventilated disc
+1986 Lamborghini LM002 | Front tyres | Scorpion 325/65 VR 17
+1986 Lamborghini LM002 | Rear tyres | Scorpion 325/65 VR 17
+1986 Lamborghini LM002 | Wheels | 11x17
+1986 Lamborghini LM002 | Gears | 5 manual
+1986 Lamborghini LM002 | Drive | full
 1986 Opel Omega (A) | Count | 900000
 1986 Opel Omega (A) | Body | sedan
 1986 Opel Omega (A) | Cx | 0.280
@@ -6119,6 +6910,73 @@
 1993 Bugatti EB112 | Brakes | ventilated disc
 1993 Bugatti EB112 | Gears | 6 manual
 1993 Daewoo Racer | Volume | 1.5 L
+1993 Lamborghini Diablo SE30 | Volume | 5709 cc
+1993 Lamborghini Diablo SE30 | Cylinders | V12
+1993 Lamborghini Diablo SE30 | Power | 525 hp @ 7000 rpm
+1993 Lamborghini Diablo SE30 | Torque | 580 nm @ 5200 rpm
+1993 Lamborghini Diablo SE30 | Fuel feed | distributed injection
+1993 Lamborghini Diablo SE30 | Compression ratio | 10.0
+1993 Lamborghini Diablo SE30 | Bore | 87 mm
+1993 Lamborghini Diablo SE30 | Stroke | 80 mm
+1993 Lamborghini Diablo SE30 | Valves per cylinder | 4
+1993 Lamborghini Diablo SE30 | Speed | 333 kmph
+1993 Lamborghini Diablo SE30 | 0-100 kmph | 4.0 s
+1993 Lamborghini Diablo SE30 | Weight | 1451 kg
+1993 Lamborghini Diablo SE30 | Body | coupe
+1993 Lamborghini Diablo SE30 | Length | 4460 mm
+1993 Lamborghini Diablo SE30 | Width | 2040 mm
+1993 Lamborghini Diablo SE30 | Height | 1105 mm
+1993 Lamborghini Diablo SE30 | Seats | 2
+1993 Lamborghini Diablo SE30 | Doors | 2
+1993 Lamborghini Diablo SE30 | Fuel tank | 100 L
+1993 Lamborghini Diablo SE30 | Front track | 1540 mm
+1993 Lamborghini Diablo SE30 | Rear track | 1640 mm
+1993 Lamborghini Diablo SE30 | Wheelbase | 2650 mm
+1993 Lamborghini Diablo SE30 | Clearance | 140 mm
+1993 Lamborghini Diablo SE30 | Engine placement | center longitudinal
+1993 Lamborghini Diablo SE30 | Rear brakes | ventilated disc
+1993 Lamborghini Diablo SE30 | Front brakes | ventilated disc
+1993 Lamborghini Diablo SE30 | Front brakes size | 330 mm
+1993 Lamborghini Diablo SE30 | Rear brakes size | 284 mm
+1993 Lamborghini Diablo SE30 | Front tyres | 245/40 ZR17
+1993 Lamborghini Diablo SE30 | Rear tyres | 335/35 ZR18
+1993 Lamborghini Diablo SE30 | Front wheels | 8.5x17
+1993 Lamborghini Diablo SE30 | Rear wheels | 13.0x18
+1993 Lamborghini Diablo SE30 | Gears | 5 manual
+1993 Lamborghini Diablo SE30 | Drive | rear
+1993 Lamborghini Diablo VT | Volume | 5709 cc
+1993 Lamborghini Diablo VT | Cylinders | V12
+1993 Lamborghini Diablo VT | Power | 492 hp @ 7000 rpm
+1993 Lamborghini Diablo VT | Torque | 580 nm @ 5200 rpm
+1993 Lamborghini Diablo VT | Fuel feed | distributed injection
+1993 Lamborghini Diablo VT | Compression ratio | 10.0
+1993 Lamborghini Diablo VT | Bore | 87 mm
+1993 Lamborghini Diablo VT | Stroke | 80 mm
+1993 Lamborghini Diablo VT | Valves per cylinder | 4
+1993 Lamborghini Diablo VT | Speed | 325 kmph
+1993 Lamborghini Diablo VT | Weight | 1625 kg
+1993 Lamborghini Diablo VT | Body | coupe
+1993 Lamborghini Diablo VT | Length | 4460 mm
+1993 Lamborghini Diablo VT | Width | 2040 mm
+1993 Lamborghini Diablo VT | Height | 1105 mm
+1993 Lamborghini Diablo VT | Seats | 2
+1993 Lamborghini Diablo VT | Doors | 2
+1993 Lamborghini Diablo VT | Fuel tank | 100 L
+1993 Lamborghini Diablo VT | Front track | 1540 mm
+1993 Lamborghini Diablo VT | Rear track | 1640 mm
+1993 Lamborghini Diablo VT | Wheelbase | 2650 mm
+1993 Lamborghini Diablo VT | Clearance | 127 mm
+1993 Lamborghini Diablo VT | Engine placement | center longitudinal
+1993 Lamborghini Diablo VT | Rear brakes | ventilated disc
+1993 Lamborghini Diablo VT | Front brakes | ventilated disc
+1993 Lamborghini Diablo VT | Front brakes size | 330 mm
+1993 Lamborghini Diablo VT | Rear brakes size | 310 mm
+1993 Lamborghini Diablo VT | Front tyres | 235/40 ZR17
+1993 Lamborghini Diablo VT | Rear tyres | 335/35 ZR17
+1993 Lamborghini Diablo VT | Front wheels | 8.5x17
+1993 Lamborghini Diablo VT | Rear wheels | 13.0x17
+1993 Lamborghini Diablo VT | Gears | 5 manual
+1993 Lamborghini Diablo VT | Drive | full
 1993 Lamborghini Diablo VT | Drive | full
 1993 Opel Astra | Volume | 1.4 L
 1993 Opel Astra | Volume | 1.4 L
@@ -6734,9 +7592,136 @@
 1995 Ford GT90 | Brakes | ventilated disc
 1995 Ford GT90 | Gears | 5 manual
 1995 Ford GT90 | Drive | rear
+1995 Lamborghini Cala | Volume | 3900 cc
+1995 Lamborghini Cala | Cylinders | V12
+1995 Lamborghini Cala | Power | 400 hp @ 7200 rpm
+1995 Lamborghini Cala | Valves per cylinder | 4
+1995 Lamborghini Cala | Speed | 289 kmph
+1995 Lamborghini Cala | 0-100 kmph | 5.0 s
+1995 Lamborghini Cala | Weight | 1293 kg
+1995 Lamborghini Cala | Body | targa
+1995 Lamborghini Cala | Length | 4389 mm
+1995 Lamborghini Cala | Width | 1900 mm
+1995 Lamborghini Cala | Height | 1222 mm
+1995 Lamborghini Cala | Seats | 2+2
+1995 Lamborghini Cala | Doors | 2
+1995 Lamborghini Cala | Front track | 1592 mm
+1995 Lamborghini Cala | Rear track | 1520 mm
+1995 Lamborghini Cala | Wheelbase | 2520 mm
+1995 Lamborghini Cala | Engine placement | center
+1995 Lamborghini Cala | Rear brakes | ventilated disc
+1995 Lamborghini Cala | Front brakes | ventilated disc
+1995 Lamborghini Cala | Front brakes size | 310 mm
+1995 Lamborghini Cala | Rear brakes size | 310 mm
+1995 Lamborghini Cala | Front tyres | 225/40 ZR18
+1995 Lamborghini Cala | Rear tyres | 295/40 ZR18
+1995 Lamborghini Cala | Wheels | 18
+1995 Lamborghini Cala | Gears | 6 manual
+1995 Lamborghini Cala | Drive | rear
 1995 Lamborghini Diablo Roadster VT | Body | roadster
+1995 Lamborghini Diablo SE30 Jota | Volume | 5709 cc
+1995 Lamborghini Diablo SE30 Jota | Cylinders | V12
+1995 Lamborghini Diablo SE30 Jota | Power | 595 hp @ 7300 rpm
+1995 Lamborghini Diablo SE30 Jota | Torque | 639 nm @ 4800 rpm
+1995 Lamborghini Diablo SE30 Jota | Fuel feed | distributed injection
+1995 Lamborghini Diablo SE30 Jota | Compression ratio | 10.0
+1995 Lamborghini Diablo SE30 Jota | Bore | 87 mm
+1995 Lamborghini Diablo SE30 Jota | Stroke | 80 mm
+1995 Lamborghini Diablo SE30 Jota | Valves per cylinder | 4
+1995 Lamborghini Diablo SE30 Jota | Speed | 340 kmph
+1995 Lamborghini Diablo SE30 Jota | 0-100 kmph | 3.9 s
+1995 Lamborghini Diablo SE30 Jota | Weight | 1450 kg
+1995 Lamborghini Diablo SE30 Jota | Body | coupe
+1995 Lamborghini Diablo SE30 Jota | Length | 4505 mm
+1995 Lamborghini Diablo SE30 Jota | Width | 2040 mm
+1995 Lamborghini Diablo SE30 Jota | Height | 1105 mm
+1995 Lamborghini Diablo SE30 Jota | Seats | 2
+1995 Lamborghini Diablo SE30 Jota | Doors | 2
+1995 Lamborghini Diablo SE30 Jota | Fuel tank | 100 L
+1995 Lamborghini Diablo SE30 Jota | Front track | 1540 mm
+1995 Lamborghini Diablo SE30 Jota | Rear track | 1640 mm
+1995 Lamborghini Diablo SE30 Jota | Wheelbase | 2650 mm
+1995 Lamborghini Diablo SE30 Jota | Clearance | 140 mm
+1995 Lamborghini Diablo SE30 Jota | Engine placement | center longitudinal
+1995 Lamborghini Diablo SE30 Jota | Rear brakes | ventilated disc
+1995 Lamborghini Diablo SE30 Jota | Front brakes | ventilated disc
+1995 Lamborghini Diablo SE30 Jota | Front brakes size | 330 mm
+1995 Lamborghini Diablo SE30 Jota | Rear brakes size | 284 mm
+1995 Lamborghini Diablo SE30 Jota | Front tyres | 245/40 ZR17
+1995 Lamborghini Diablo SE30 Jota | Rear tyres | 335/35 ZR18
+1995 Lamborghini Diablo SE30 Jota | Front wheels | 8.5x17
+1995 Lamborghini Diablo SE30 Jota | Rear wheels | 13.0x18
+1995 Lamborghini Diablo SE30 Jota | Gears | 6 manual
+1995 Lamborghini Diablo SE30 Jota | Drive | rear
+1995 Lamborghini Diablo SV | Volume | 5709 cc
+1995 Lamborghini Diablo SV | Cylinders | V12
+1995 Lamborghini Diablo SV | Power | 510 hp @ 7100 rpm
 1995 Lamborghini Diablo SV | Power | 525 hp
+1995 Lamborghini Diablo SV | Torque | 580 nm @ 5200 rpm
+1995 Lamborghini Diablo SV | Fuel feed | distributed injection
+1995 Lamborghini Diablo SV | Compression ratio | 10.0
+1995 Lamborghini Diablo SV | Bore | 87 mm
+1995 Lamborghini Diablo SV | Stroke | 80 mm
+1995 Lamborghini Diablo SV | Valves per cylinder | 4
+1995 Lamborghini Diablo SV | Speed | 328 kmph
+1995 Lamborghini Diablo SV | 0-100 kmph | 3.9 s
 1995 Lamborghini Diablo SV | 0-100 kmph | 4.0 s
+1995 Lamborghini Diablo SV | Weight | 1576 kg
+1995 Lamborghini Diablo SV | Body | coupe
+1995 Lamborghini Diablo SV | Length | 4470 mm
+1995 Lamborghini Diablo SV | Width | 2040 mm
+1995 Lamborghini Diablo SV | Height | 1115 mm
+1995 Lamborghini Diablo SV | Seats | 2
+1995 Lamborghini Diablo SV | Doors | 2
+1995 Lamborghini Diablo SV | Fuel tank | 100 L
+1995 Lamborghini Diablo SV | Front track | 1540 mm
+1995 Lamborghini Diablo SV | Rear track | 1640 mm
+1995 Lamborghini Diablo SV | Wheelbase | 2650 mm
+1995 Lamborghini Diablo SV | Clearance | 140 mm
+1995 Lamborghini Diablo SV | Engine placement | center longitudinal
+1995 Lamborghini Diablo SV | Rear brakes | ventilated disc
+1995 Lamborghini Diablo SV | Front brakes | ventilated disc
+1995 Lamborghini Diablo SV | Front brakes size | 340 mm
+1995 Lamborghini Diablo SV | Rear brakes size | 310 mm
+1995 Lamborghini Diablo SV | Front tyres | 245/40 ZR17
+1995 Lamborghini Diablo SV | Rear tyres | 335/30 ZR18
+1995 Lamborghini Diablo SV | Front wheels | 8.5x17
+1995 Lamborghini Diablo SV | Rear wheels | 13.0x17
+1995 Lamborghini Diablo SV | Gears | 5 manual
+1995 Lamborghini Diablo SV | Drive | rear
+1995 Lamborghini Diablo VT Roadster | Volume | 5709 cc
+1995 Lamborghini Diablo VT Roadster | Cylinders | V12
+1995 Lamborghini Diablo VT Roadster | Power | 492 hp @ 7000 rpm
+1995 Lamborghini Diablo VT Roadster | Torque | 580 nm @ 5200 rpm
+1995 Lamborghini Diablo VT Roadster | Fuel feed | distributed injection
+1995 Lamborghini Diablo VT Roadster | Compression ratio | 10.0
+1995 Lamborghini Diablo VT Roadster | Bore | 87 mm
+1995 Lamborghini Diablo VT Roadster | Stroke | 80 mm
+1995 Lamborghini Diablo VT Roadster | Valves per cylinder | 4
+1995 Lamborghini Diablo VT Roadster | Speed | 325 kmph
+1995 Lamborghini Diablo VT Roadster | Weight | 1625 kg
+1995 Lamborghini Diablo VT Roadster | Body | roadster
+1995 Lamborghini Diablo VT Roadster | Length | 4470 mm
+1995 Lamborghini Diablo VT Roadster | Width | 2040 mm
+1995 Lamborghini Diablo VT Roadster | Height | 1115 mm
+1995 Lamborghini Diablo VT Roadster | Seats | 2
+1995 Lamborghini Diablo VT Roadster | Doors | 2
+1995 Lamborghini Diablo VT Roadster | Fuel tank | 100 L
+1995 Lamborghini Diablo VT Roadster | Front track | 1540 mm
+1995 Lamborghini Diablo VT Roadster | Rear track | 1640 mm
+1995 Lamborghini Diablo VT Roadster | Wheelbase | 2650 mm
+1995 Lamborghini Diablo VT Roadster | Clearance | 140 mm
+1995 Lamborghini Diablo VT Roadster | Engine placement | center longitudinal
+1995 Lamborghini Diablo VT Roadster | Rear brakes | ventilated disc
+1995 Lamborghini Diablo VT Roadster | Front brakes | ventilated disc
+1995 Lamborghini Diablo VT Roadster | Front brakes size | 330 mm
+1995 Lamborghini Diablo VT Roadster | Rear brakes size | 310 mm
+1995 Lamborghini Diablo VT Roadster | Front tyres | 235/40 ZR17
+1995 Lamborghini Diablo VT Roadster | Rear tyres | 335/35 ZR17
+1995 Lamborghini Diablo VT Roadster | Front wheels | 8.5x17
+1995 Lamborghini Diablo VT Roadster | Rear wheels | 13.0x17
+1995 Lamborghini Diablo VT Roadster | Gears | 5 manual
+1995 Lamborghini Diablo VT Roadster | Drive | full
 1995 Porsche 911 (993) Carrera RS Clubsport | Volume | 3744 cc
 1995 Porsche 911 (993) Carrera RS Clubsport | Cylinders | B6
 1995 Porsche 911 (993) Carrera RS Clubsport | Power | 300 hp @ 6500 rpm
@@ -7026,6 +8011,104 @@
 1996 Jaguar XKR | Valves per cylinder | 4
 1996 Jaguar XKR | Body | cabriolet
 1996 Jaguar XKR | Body | coupe
+1996 Lamborghini Diablo SVR | Volume | 5707 cc
+1996 Lamborghini Diablo SVR | Cylinders | V12
+1996 Lamborghini Diablo SVR | Power | 540 hp @ 7100 rpm
+1996 Lamborghini Diablo SVR | Torque | 610 nm @ 5800 rpm
+1996 Lamborghini Diablo SVR | Fuel feed | distributed injection
+1996 Lamborghini Diablo SVR | Compression ratio | 10.0
+1996 Lamborghini Diablo SVR | Bore | 87 mm
+1996 Lamborghini Diablo SVR | Stroke | 80 mm
+1996 Lamborghini Diablo SVR | Valves per cylinder | 4
+1996 Lamborghini Diablo SVR | Speed | 330 kmph
+1996 Lamborghini Diablo SVR | 0-100 kmph | 3.7 s
+1996 Lamborghini Diablo SVR | Weight | 1385 kg
+1996 Lamborghini Diablo SVR | Body | coupe
+1996 Lamborghini Diablo SVR | Length | 4550 mm
+1996 Lamborghini Diablo SVR | Width | 2040 mm
+1996 Lamborghini Diablo SVR | Height | 1115 mm
+1996 Lamborghini Diablo SVR | Seats | 1
+1996 Lamborghini Diablo SVR | Doors | 2
+1996 Lamborghini Diablo SVR | Front track | 1540 mm
+1996 Lamborghini Diablo SVR | Rear track | 1640 mm
+1996 Lamborghini Diablo SVR | Wheelbase | 2650 mm
+1996 Lamborghini Diablo SVR | Engine placement | center longitudinal
+1996 Lamborghini Diablo SVR | Rear brakes | ventilated disc
+1996 Lamborghini Diablo SVR | Front brakes | ventilated disc
+1996 Lamborghini Diablo SVR | Front brakes size | 355 mm
+1996 Lamborghini Diablo SVR | Rear brakes size | 335 mm
+1996 Lamborghini Diablo SVR | Front tyres | 240/645 ZR17 (Dunlop 235/615-17)
+1996 Lamborghini Diablo SVR | Rear tyres | 326/640 ZR18 (Dunlop 330/675-18)
+1996 Lamborghini Diablo SVR | Front wheels | 8.5x17
+1996 Lamborghini Diablo SVR | Rear wheels | 13.0x18
+1996 Lamborghini Diablo SVR | Gears | 5 manual
+1996 Lamborghini Diablo SVR | Drive | rear
+1996 Lamborghini Diablo VTR | Volume | 5709 cc
+1996 Lamborghini Diablo VTR | Cylinders | V12
+1996 Lamborghini Diablo VTR | Power | 555 hp
+1996 Lamborghini Diablo VTR | Fuel feed | distributed injection
+1996 Lamborghini Diablo VTR | Bore | 87 mm
+1996 Lamborghini Diablo VTR | Stroke | 80 mm
+1996 Lamborghini Diablo VTR | Valves per cylinder | 4
+1996 Lamborghini Diablo VTR | Speed | 328 kmph
+1996 Lamborghini Diablo VTR | 0-100 kmph | 4.1 s
+1996 Lamborghini Diablo VTR | Weight | 1625 kg
+1996 Lamborghini Diablo VTR | Body | coupe
+1996 Lamborghini Diablo VTR | Length | 4460 mm
+1996 Lamborghini Diablo VTR | Width | 2040 mm
+1996 Lamborghini Diablo VTR | Height | 1105 mm
+1996 Lamborghini Diablo VTR | Seats | 2
+1996 Lamborghini Diablo VTR | Doors | 2
+1996 Lamborghini Diablo VTR | Fuel tank | 100 L
+1996 Lamborghini Diablo VTR | Front track | 1540 mm
+1996 Lamborghini Diablo VTR | Rear track | 1640 mm
+1996 Lamborghini Diablo VTR | Wheelbase | 2650 mm
+1996 Lamborghini Diablo VTR | Clearance | 127 mm
+1996 Lamborghini Diablo VTR | Engine placement | center longitudinal
+1996 Lamborghini Diablo VTR | Rear brakes | ventilated disc
+1996 Lamborghini Diablo VTR | Front brakes | ventilated disc
+1996 Lamborghini Diablo VTR | Front brakes size | 330 mm
+1996 Lamborghini Diablo VTR | Rear brakes size | 310 mm
+1996 Lamborghini Diablo VTR | Front tyres | 235/40 ZR17
+1996 Lamborghini Diablo VTR | Rear tyres | 335/35 ZR17
+1996 Lamborghini Diablo VTR | Front wheels | 8.5x17
+1996 Lamborghini Diablo VTR | Rear wheels | 13.0x17
+1996 Lamborghini Diablo VTR | Gears | 6 manual
+1996 Lamborghini Diablo VTR | Drive | full
+1996 Lamborghini Diablo VTTT Platinum Motors | Volume | 5709 cc
+1996 Lamborghini Diablo VTTT Platinum Motors | Cylinders | V12
+1996 Lamborghini Diablo VTTT Platinum Motors | Compressor | 2 turbo
+1996 Lamborghini Diablo VTTT Platinum Motors | Power | 752 hp @ 6800 rpm
+1996 Lamborghini Diablo VTTT Platinum Motors | Fuel feed | distributed injection
+1996 Lamborghini Diablo VTTT Platinum Motors | Compression ratio | 10.0
+1996 Lamborghini Diablo VTTT Platinum Motors | Bore | 87 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Stroke | 80 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Valves per cylinder | 4
+1996 Lamborghini Diablo VTTT Platinum Motors | Speed | 357 kmph
+1996 Lamborghini Diablo VTTT Platinum Motors | 0-100 kmph | 3.2 s
+1996 Lamborghini Diablo VTTT Platinum Motors | Weight | 1701 kg
+1996 Lamborghini Diablo VTTT Platinum Motors | Body | coupe
+1996 Lamborghini Diablo VTTT Platinum Motors | Length | 4460 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Width | 2040 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Height | 1105 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Seats | 2
+1996 Lamborghini Diablo VTTT Platinum Motors | Doors | 2
+1996 Lamborghini Diablo VTTT Platinum Motors | Fuel tank | 100 L
+1996 Lamborghini Diablo VTTT Platinum Motors | Front track | 1540 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Rear track | 1640 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Wheelbase | 2650 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Clearance | 127 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Engine placement | center longitudinal
+1996 Lamborghini Diablo VTTT Platinum Motors | Rear brakes | ventilated disc
+1996 Lamborghini Diablo VTTT Platinum Motors | Front brakes | ventilated disc
+1996 Lamborghini Diablo VTTT Platinum Motors | Front brakes size | 330 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Rear brakes size | 310 mm
+1996 Lamborghini Diablo VTTT Platinum Motors | Front tyres | 235/40 ZR17
+1996 Lamborghini Diablo VTTT Platinum Motors | Rear tyres | 335/35 ZR17
+1996 Lamborghini Diablo VTTT Platinum Motors | Front wheels | 8.5x17
+1996 Lamborghini Diablo VTTT Platinum Motors | Rear wheels | 13.0x17
+1996 Lamborghini Diablo VTTT Platinum Motors | Gears | 5 manual
+1996 Lamborghini Diablo VTTT Platinum Motors | Drive | full
 1996 Nissan Skyline GT-R | Volume | 2568 cc
 1996 Nissan Skyline GT-R | Cylinders | R6
 1996 Nissan Skyline GT-R | Power | 276 hp @ 6800 rpm
@@ -7217,6 +8300,34 @@
 1996 Subaru Forester | Tyres | 205/70 R15
 1996 Subaru Forester | Gears | 4 auto
 1996 Subaru Forester | Drive | full
+1996 Vector M12 | Volume | 5707 cc
+1996 Vector M12 | Cylinders | V12
+1996 Vector M12 | Power | 492 hp @ 6800 rpm
+1996 Vector M12 | Torque | 425 nm @ 5200 rpm
+1996 Vector M12 | Fuel feed | distributed injection
+1996 Vector M12 | Compression ratio | 10.0
+1996 Vector M12 | Bore | 87 mm
+1996 Vector M12 | Stroke | 80 mm
+1996 Vector M12 | Valves per cylinder | 4
+1996 Vector M12 | Speed | 306 kmph
+1996 Vector M12 | 0-100 kmph | 4.5 s
+1996 Vector M12 | 0-160 kmph | 10.1 s
+1996 Vector M12 | Weight | 1633 kg
+1996 Vector M12 | Body | coupe
+1996 Vector M12 | Length | 4780 mm
+1996 Vector M12 | Width | 2020 mm
+1996 Vector M12 | Height | 1130 mm
+1996 Vector M12 | Seats | 2
+1996 Vector M12 | Doors | 2
+1996 Vector M12 | Fuel tank | 87 L
+1996 Vector M12 | Wheelbase | 2690 mm
+1996 Vector M12 | Engine placement | center longitudinal
+1996 Vector M12 | Rear brakes | ventilated disc
+1996 Vector M12 | Front brakes | ventilated disc
+1996 Vector M12 | Front wheels | 8.0x18
+1996 Vector M12 | Rear wheels | 12.0x18
+1996 Vector M12 | Gears | 5 manual
+1996 Vector M12 | Drive | rear
 1996 Volkswagen Passat (B5) | Volume | 1.6 L
 1996 Volkswagen Passat (B5) | Volume | 1.8 L
 1996 Volkswagen Passat (B5) | Volume | 1.8 L
@@ -7482,7 +8593,89 @@
 1997 BMW M3 auto | Brakes | ventilated disc
 1997 BMW M3 auto | Gears | 5 auto
 1997 BMW M3 auto | Drive | rear
+1997 Gigliato Design Aerosa | Volume | 4601 cc
+1997 Gigliato Design Aerosa | Cylinders | V8
+1997 Gigliato Design Aerosa | Power | 309 hp @ 5800 rpm
+1997 Gigliato Design Aerosa | Torque | 409 nm @ 4800 rpm
+1997 Gigliato Design Aerosa | Fuel feed | distributed injection
+1997 Gigliato Design Aerosa | Compression ratio | 9.5
+1997 Gigliato Design Aerosa | Bore | 90 mm
+1997 Gigliato Design Aerosa | Stroke | 90 mm
+1997 Gigliato Design Aerosa | Valves per cylinder | 4
+1997 Gigliato Design Aerosa | Speed | 260 kmph
+1997 Gigliato Design Aerosa | 0-100 kmph | 4.9 s
+1997 Gigliato Design Aerosa | Weight | 1300 kg
+1997 Gigliato Design Aerosa | Body | coupe
+1997 Gigliato Design Aerosa | Length | 4320 mm
+1997 Gigliato Design Aerosa | Width | 1900 mm
+1997 Gigliato Design Aerosa | Height | 1150 mm
+1997 Gigliato Design Aerosa | Seats | 2
+1997 Gigliato Design Aerosa | Doors | 2
+1997 Gigliato Design Aerosa | Engine placement | center
+1997 Gigliato Design Aerosa | Rear brakes | ventilated disc
+1997 Gigliato Design Aerosa | Front brakes | ventilated disc
+1997 Gigliato Design Aerosa | Gears | 5 manual
+1997 Gigliato Design Aerosa | Drive | rear
 1997 Lamborghini Diablo | Power | 530 hp
+1997 Lamborghini Diablo GT1 | Volume | 5994 cc
+1997 Lamborghini Diablo GT1 | Cylinders | V12
+1997 Lamborghini Diablo GT1 | Power | 655 hp @ 7500 rpm
+1997 Lamborghini Diablo GT1 | Torque | 700 nm @ 5500 rpm
+1997 Lamborghini Diablo GT1 | Fuel feed | distributed injection
+1997 Lamborghini Diablo GT1 | Compression ratio | 11.0
+1997 Lamborghini Diablo GT1 | Bore | 87 mm
+1997 Lamborghini Diablo GT1 | Stroke | 84 mm
+1997 Lamborghini Diablo GT1 | Valves per cylinder | 4
+1997 Lamborghini Diablo GT1 | Weight | 1050 kg
+1997 Lamborghini Diablo GT1 | Body | coupe
+1997 Lamborghini Diablo GT1 | Length | 4705 mm
+1997 Lamborghini Diablo GT1 | Width | 2040 mm
+1997 Lamborghini Diablo GT1 | Height | 1004 mm
+1997 Lamborghini Diablo GT1 | Seats | 1
+1997 Lamborghini Diablo GT1 | Doors | 2
+1997 Lamborghini Diablo GT1 | Front track | 1694 mm
+1997 Lamborghini Diablo GT1 | Rear track | 1670 mm
+1997 Lamborghini Diablo GT1 | Wheelbase | 2695 mm
+1997 Lamborghini Diablo GT1 | Engine placement | center longitudinal
+1997 Lamborghini Diablo GT1 | Rear brakes | ventilated disc
+1997 Lamborghini Diablo GT1 | Front brakes | ventilated disc
+1997 Lamborghini Diablo GT1 | Front tyres | 275/40-18
+1997 Lamborghini Diablo GT1 | Rear tyres | 345/35-18
+1997 Lamborghini Diablo GT1 | Wheels | 18
+1997 Lamborghini Diablo GT1 | Gears | 6 seq
+1997 Lamborghini Diablo GT1 | Drive | rear
+1997 Lamborghini Diablo VTR Roadster | Volume | 5707 cc
+1997 Lamborghini Diablo VTR Roadster | Cylinders | V12
+1997 Lamborghini Diablo VTR Roadster | Power | 540 hp @ 7100 rpm
+1997 Lamborghini Diablo VTR Roadster | Torque | 610 nm @ 5800 rpm
+1997 Lamborghini Diablo VTR Roadster | Fuel feed | distributed injection
+1997 Lamborghini Diablo VTR Roadster | Compression ratio | 10.0
+1997 Lamborghini Diablo VTR Roadster | Bore | 87 mm
+1997 Lamborghini Diablo VTR Roadster | Stroke | 80 mm
+1997 Lamborghini Diablo VTR Roadster | Valves per cylinder | 4
+1997 Lamborghini Diablo VTR Roadster | Speed | 335 kmph
+1997 Lamborghini Diablo VTR Roadster | Weight | 1430 kg
+1997 Lamborghini Diablo VTR Roadster | Body | coupe
+1997 Lamborghini Diablo VTR Roadster | Length | 4510 mm
+1997 Lamborghini Diablo VTR Roadster | Width | 2040 mm
+1997 Lamborghini Diablo VTR Roadster | Height | 1115 mm
+1997 Lamborghini Diablo VTR Roadster | Seats | 1
+1997 Lamborghini Diablo VTR Roadster | Doors | 2
+1997 Lamborghini Diablo VTR Roadster | Fuel tank | 100 L
+1997 Lamborghini Diablo VTR Roadster | Front track | 1540 mm
+1997 Lamborghini Diablo VTR Roadster | Rear track | 1640 mm
+1997 Lamborghini Diablo VTR Roadster | Wheelbase | 2650 mm
+1997 Lamborghini Diablo VTR Roadster | Engine placement | center longitudinal
+1997 Lamborghini Diablo VTR Roadster | Rear brakes | ventilated disc
+1997 Lamborghini Diablo VTR Roadster | Front brakes | ventilated disc
+1997 Lamborghini Diablo VTR Roadster | Front brakes size | 355 mm
+1997 Lamborghini Diablo VTR Roadster | Rear brakes size | 335 mm
+1997 Lamborghini Diablo VTR Roadster | Front tyres | 235/615-18
+1997 Lamborghini Diablo VTR Roadster | Rear tyres | 330/675-18
+1997 Lamborghini Diablo VTR Roadster | Front wheels | 8.5x18
+1997 Lamborghini Diablo VTR Roadster | Rear wheels | 13.0x18
+1997 Lamborghini Diablo VTR Roadster | Gears | 5 manual
+1997 Lamborghini Diablo VTR Roadster | Drive | rear
 1997 Mercedes-Benz SLK | Volume | 2295 cc
 1997 Mercedes-Benz SLK | Power | 185 hp @ 5300 rpm
 1997 Mercedes-Benz SLK | Torque | 271 nm @ 2500 rpm
@@ -7965,6 +9158,108 @@
 1998 Koenigsegg CC | Brakes | ventilated disc
 1998 Koenigsegg CC | Gears | 6 manual
 1998 Lamborghini Diablo | Power | 530 hp
+1998 Lamborghini Diablo SV | Volume | 5707 cc
+1998 Lamborghini Diablo SV | Cylinders | V12
+1998 Lamborghini Diablo SV | Power | 530 hp @ 7100 rpm
+1998 Lamborghini Diablo SV | Torque | 605 nm @ 5500 rpm
+1998 Lamborghini Diablo SV | Fuel feed | distributed injection
+1998 Lamborghini Diablo SV | Compression ratio | 10.0
+1998 Lamborghini Diablo SV | Bore | 87 mm
+1998 Lamborghini Diablo SV | Stroke | 80 mm
+1998 Lamborghini Diablo SV | Valves per cylinder | 4
+1998 Lamborghini Diablo SV | Speed | 323 kmph
+1998 Lamborghini Diablo SV | 0-100 kmph | 3.9 s
+1998 Lamborghini Diablo SV | Weight | 1530 kg
+1998 Lamborghini Diablo SV | Body | coupe
+1998 Lamborghini Diablo SV | Length | 4470 mm
+1998 Lamborghini Diablo SV | Width | 2040 mm
+1998 Lamborghini Diablo SV | Height | 1115 mm
+1998 Lamborghini Diablo SV | Seats | 2
+1998 Lamborghini Diablo SV | Doors | 2
+1998 Lamborghini Diablo SV | Fuel tank | 100 L
+1998 Lamborghini Diablo SV | Front track | 1540 mm
+1998 Lamborghini Diablo SV | Rear track | 1640 mm
+1998 Lamborghini Diablo SV | Wheelbase | 2650 mm
+1998 Lamborghini Diablo SV | Clearance | 140 mm
+1998 Lamborghini Diablo SV | Engine placement | center longitudinal
+1998 Lamborghini Diablo SV | Rear brakes | ventilated disc
+1998 Lamborghini Diablo SV | Front brakes | ventilated disc
+1998 Lamborghini Diablo SV | Front brakes size | 355 mm
+1998 Lamborghini Diablo SV | Rear brakes size | 335 mm
+1998 Lamborghini Diablo SV | Front tyres | 235/35 ZR18
+1998 Lamborghini Diablo SV | Rear tyres | 335/35 ZR18
+1998 Lamborghini Diablo SV | Front wheels | 8.5x18
+1998 Lamborghini Diablo SV | Rear wheels | 13.0x18
+1998 Lamborghini Diablo SV | Gears | 5 manual
+1998 Lamborghini Diablo SV | Drive | rear
+1998 Lamborghini Diablo SV Roadster | Volume | 5707 cc
+1998 Lamborghini Diablo SV Roadster | Cylinders | V12
+1998 Lamborghini Diablo SV Roadster | Power | 530 hp @ 7100 rpm
+1998 Lamborghini Diablo SV Roadster | Torque | 605 nm @ 5500 rpm
+1998 Lamborghini Diablo SV Roadster | Fuel feed | distributed injection
+1998 Lamborghini Diablo SV Roadster | Compression ratio | 10.0
+1998 Lamborghini Diablo SV Roadster | Bore | 87 mm
+1998 Lamborghini Diablo SV Roadster | Stroke | 80 mm
+1998 Lamborghini Diablo SV Roadster | Valves per cylinder | 4
+1998 Lamborghini Diablo SV Roadster | Speed | 323 kmph
+1998 Lamborghini Diablo SV Roadster | 0-100 kmph | 3.9 s
+1998 Lamborghini Diablo SV Roadster | Weight | 1530 kg
+1998 Lamborghini Diablo SV Roadster | Body | roadster
+1998 Lamborghini Diablo SV Roadster | Length | 4470 mm
+1998 Lamborghini Diablo SV Roadster | Width | 2040 mm
+1998 Lamborghini Diablo SV Roadster | Height | 1115 mm
+1998 Lamborghini Diablo SV Roadster | Seats | 2
+1998 Lamborghini Diablo SV Roadster | Doors | 2
+1998 Lamborghini Diablo SV Roadster | Fuel tank | 100 L
+1998 Lamborghini Diablo SV Roadster | Front track | 1540 mm
+1998 Lamborghini Diablo SV Roadster | Rear track | 1640 mm
+1998 Lamborghini Diablo SV Roadster | Wheelbase | 2650 mm
+1998 Lamborghini Diablo SV Roadster | Clearance | 140 mm
+1998 Lamborghini Diablo SV Roadster | Engine placement | center longitudinal
+1998 Lamborghini Diablo SV Roadster | Rear brakes | ventilated disc
+1998 Lamborghini Diablo SV Roadster | Front brakes | ventilated disc
+1998 Lamborghini Diablo SV Roadster | Front brakes size | 355 mm
+1998 Lamborghini Diablo SV Roadster | Rear brakes size | 335 mm
+1998 Lamborghini Diablo SV Roadster | Front tyres | 235/35 ZR18
+1998 Lamborghini Diablo SV Roadster | Rear tyres | 335/35 ZR18
+1998 Lamborghini Diablo SV Roadster | Front wheels | 8.5x18
+1998 Lamborghini Diablo SV Roadster | Rear wheels | 13.0x18
+1998 Lamborghini Diablo SV Roadster | Gears | 5 manual
+1998 Lamborghini Diablo SV Roadster | Drive | rear
+1998 Lamborghini Diablo VT Roadster | Volume | 5707 cc
+1998 Lamborghini Diablo VT Roadster | Cylinders | V12
+1998 Lamborghini Diablo VT Roadster | Power | 530 hp @ 7100 rpm
+1998 Lamborghini Diablo VT Roadster | Torque | 605 nm @ 5500 rpm
+1998 Lamborghini Diablo VT Roadster | Fuel feed | distributed injection
+1998 Lamborghini Diablo VT Roadster | Compression ratio | 10.0
+1998 Lamborghini Diablo VT Roadster | Bore | 87 mm
+1998 Lamborghini Diablo VT Roadster | Stroke | 80 mm
+1998 Lamborghini Diablo VT Roadster | Valves per cylinder | 4
+1998 Lamborghini Diablo VT Roadster | Speed | 335 kmph
+1998 Lamborghini Diablo VT Roadster | 0-100 kmph | 4.0 s
+1998 Lamborghini Diablo VT Roadster | Weight | 1625 kg
+1998 Lamborghini Diablo VT Roadster | Body | roadster
+1998 Lamborghini Diablo VT Roadster | Length | 4470 mm
+1998 Lamborghini Diablo VT Roadster | Width | 2040 mm
+1998 Lamborghini Diablo VT Roadster | Height | 1115 mm
+1998 Lamborghini Diablo VT Roadster | Seats | 2
+1998 Lamborghini Diablo VT Roadster | Doors | 2
+1998 Lamborghini Diablo VT Roadster | Fuel tank | 100 L
+1998 Lamborghini Diablo VT Roadster | Front track | 1540 mm
+1998 Lamborghini Diablo VT Roadster | Rear track | 1640 mm
+1998 Lamborghini Diablo VT Roadster | Wheelbase | 2650 mm
+1998 Lamborghini Diablo VT Roadster | Clearance | 140 mm
+1998 Lamborghini Diablo VT Roadster | Engine placement | center longitudinal
+1998 Lamborghini Diablo VT Roadster | Rear brakes | ventilated disc
+1998 Lamborghini Diablo VT Roadster | Front brakes | ventilated disc
+1998 Lamborghini Diablo VT Roadster | Front brakes size | 355 mm
+1998 Lamborghini Diablo VT Roadster | Rear brakes size | 335 mm
+1998 Lamborghini Diablo VT Roadster | Front tyres | 235/35 ZR18
+1998 Lamborghini Diablo VT Roadster | Rear tyres | 335/35 ZR18
+1998 Lamborghini Diablo VT Roadster | Front wheels | 8.5x18
+1998 Lamborghini Diablo VT Roadster | Rear wheels | 13.0x18
+1998 Lamborghini Diablo VT Roadster | Gears | 5 manual
+1998 Lamborghini Diablo VT Roadster | Drive | full
 1998 Lotus Elise GT1 | Volume | 3506 cc
 1998 Lotus Elise GT1 | Cylinders | V8
 1998 Lotus Elise GT1 | Power | 580 hp @ 7500 rpm
@@ -8334,6 +9629,103 @@
 1999 Bugatti EB 18/3 Chiron | Rear tyres | 335/30
 1999 Bugatti EB 18/3 Chiron | Wheels | 20
 1999 Bugatti EB 18/3 Chiron | Drive | full
+1999 Lamborghini Diablo GT | Volume | 5992 cc
+1999 Lamborghini Diablo GT | Cylinders | V12
+1999 Lamborghini Diablo GT | Power | 575 hp @ 7300 rpm
+1999 Lamborghini Diablo GT | Torque | 630 nm @ 5500 rpm
+1999 Lamborghini Diablo GT | Fuel feed | distributed injection
+1999 Lamborghini Diablo GT | Compression ratio | 10.7
+1999 Lamborghini Diablo GT | Bore | 87 mm
+1999 Lamborghini Diablo GT | Stroke | 84 mm
+1999 Lamborghini Diablo GT | Valves per cylinder | 4
+1999 Lamborghini Diablo GT | Speed | 338 kmph
+1999 Lamborghini Diablo GT | 0-100 kmph | 3.9 s
+1999 Lamborghini Diablo GT | Weight | 1460 kg
+1999 Lamborghini Diablo GT | Body | coupe
+1999 Lamborghini Diablo GT | Length | 4430 mm
+1999 Lamborghini Diablo GT | Width | 2040 mm
+1999 Lamborghini Diablo GT | Height | 1115 mm
+1999 Lamborghini Diablo GT | Seats | 2
+1999 Lamborghini Diablo GT | Doors | 2
+1999 Lamborghini Diablo GT | Fuel tank | 100 L
+1999 Lamborghini Diablo GT | Front track | 1610 mm
+1999 Lamborghini Diablo GT | Rear track | 1670 mm
+1999 Lamborghini Diablo GT | Wheelbase | 2650 mm
+1999 Lamborghini Diablo GT | Clearance | 110 mm
+1999 Lamborghini Diablo GT | Engine placement | center longitudinal
+1999 Lamborghini Diablo GT | Rear brakes | ventilated disc
+1999 Lamborghini Diablo GT | Front brakes | ventilated disc
+1999 Lamborghini Diablo GT | Front brakes size | 355 mm
+1999 Lamborghini Diablo GT | Rear brakes size | 335 mm
+1999 Lamborghini Diablo GT | Front tyres | 245/35 ZR18
+1999 Lamborghini Diablo GT | Rear tyres | 335/30 ZR18
+1999 Lamborghini Diablo GT | Front wheels | 8.5x18
+1999 Lamborghini Diablo GT | Rear wheels | 13.0x18
+1999 Lamborghini Diablo GT | Gears | 5 manual
+1999 Lamborghini Diablo GT | Drive | rear
+1999 Lamborghini Diablo GTR | Volume | 5992 cc
+1999 Lamborghini Diablo GTR | Cylinders | V12
+1999 Lamborghini Diablo GTR | Power | 590 hp @ 7300 rpm
+1999 Lamborghini Diablo GTR | Torque | 640 nm @ 5500 rpm
+1999 Lamborghini Diablo GTR | Fuel feed | distributed injection
+1999 Lamborghini Diablo GTR | Compression ratio | 10.7
+1999 Lamborghini Diablo GTR | Bore | 87 mm
+1999 Lamborghini Diablo GTR | Stroke | 84 mm
+1999 Lamborghini Diablo GTR | Valves per cylinder | 4
+1999 Lamborghini Diablo GTR | Speed | 338 kmph
+1999 Lamborghini Diablo GTR | 0-100 kmph | 3.5 s
+1999 Lamborghini Diablo GTR | Weight | 1395 kg
+1999 Lamborghini Diablo GTR | Body | coupe
+1999 Lamborghini Diablo GTR | Length | 4430 mm
+1999 Lamborghini Diablo GTR | Width | 2040 mm
+1999 Lamborghini Diablo GTR | Height | 1115 mm
+1999 Lamborghini Diablo GTR | Seats | 1
+1999 Lamborghini Diablo GTR | Doors | 2
+1999 Lamborghini Diablo GTR | Fuel tank | 98 L
+1999 Lamborghini Diablo GTR | Front track | 1650 mm
+1999 Lamborghini Diablo GTR | Rear track | 1670 mm
+1999 Lamborghini Diablo GTR | Wheelbase | 2650 mm
+1999 Lamborghini Diablo GTR | Clearance | 100 mm
+1999 Lamborghini Diablo GTR | Engine placement | center longitudinal
+1999 Lamborghini Diablo GTR | Rear brakes | ventilated disc
+1999 Lamborghini Diablo GTR | Front brakes | ventilated disc
+1999 Lamborghini Diablo GTR | Front brakes size | 355 mm
+1999 Lamborghini Diablo GTR | Rear brakes size | 335 mm
+1999 Lamborghini Diablo GTR | Front tyres | 245/645-18
+1999 Lamborghini Diablo GTR | Rear tyres | 325/705-18
+1999 Lamborghini Diablo GTR | Front wheels | 8.5x18
+1999 Lamborghini Diablo GTR | Rear wheels | 13.0x18
+1999 Lamborghini Diablo GTR | Gears | 5 manual
+1999 Lamborghini Diablo GTR | Drive | rear
+1999 Lamborghini Diablo VT Rinspeed | Volume | 5992 cc
+1999 Lamborghini Diablo VT Rinspeed | Cylinders | V12
+1999 Lamborghini Diablo VT Rinspeed | Power | 560 hp @ 7300 rpm
+1999 Lamborghini Diablo VT Rinspeed | Torque | 641 nm @ 5500 rpm
+1999 Lamborghini Diablo VT Rinspeed | Fuel feed | distributed injection
+1999 Lamborghini Diablo VT Rinspeed | Valves per cylinder | 4
+1999 Lamborghini Diablo VT Rinspeed | Weight | 1531 kg
+1999 Lamborghini Diablo VT Rinspeed | Body | coupe
+1999 Lamborghini Diablo VT Rinspeed | Length | 4430 mm
+1999 Lamborghini Diablo VT Rinspeed | Width | 2040 mm
+1999 Lamborghini Diablo VT Rinspeed | Height | 1115 mm
+1999 Lamborghini Diablo VT Rinspeed | Seats | 2
+1999 Lamborghini Diablo VT Rinspeed | Doors | 2
+1999 Lamborghini Diablo VT Rinspeed | Fuel tank | 100 L
+1999 Lamborghini Diablo VT Rinspeed | Front track | 1540 mm
+1999 Lamborghini Diablo VT Rinspeed | Rear track | 1640 mm
+1999 Lamborghini Diablo VT Rinspeed | Wheelbase | 2650 mm
+1999 Lamborghini Diablo VT Rinspeed | Clearance | 127 mm
+1999 Lamborghini Diablo VT Rinspeed | Engine placement | center longitudinal
+1999 Lamborghini Diablo VT Rinspeed | Rear brakes | ventilated disc
+1999 Lamborghini Diablo VT Rinspeed | Front brakes | ventilated disc
+1999 Lamborghini Diablo VT Rinspeed | Front brakes size | 330 mm
+1999 Lamborghini Diablo VT Rinspeed | Rear brakes size | 310 mm
+1999 Lamborghini Diablo VT Rinspeed | Front tyres | 235/35 ZR18
+1999 Lamborghini Diablo VT Rinspeed | Rear tyres | 335/30 ZR18
+1999 Lamborghini Diablo VT Rinspeed | Front wheels | 8.5x18
+1999 Lamborghini Diablo VT Rinspeed | Rear wheels | 13.0x18
+1999 Lamborghini Diablo VT Rinspeed | Gears | 5 manual
+1999 Lamborghini Diablo VT Rinspeed | Drive | full
 1999 Opel Arena | Volume | 2.5 L
 1999 Opel Arena | Volume | 1.9 L
 1999 Opel Arena | Power | 76 hp
@@ -8464,6 +9856,100 @@
 2000 GTA Spano | 0-100 kmph | 2.9 s
 2000 GTA Spano | Front wheels | 19
 2000 GTA Spano | Rear wheels | 20
+2000 Lamborghini Coatl | Volume | 6300 cc
+2000 Lamborghini Coatl | Cylinders | V12
+2000 Lamborghini Coatl | Power | 645 hp
+2000 Lamborghini Coatl | Fuel feed | distributed injection
+2000 Lamborghini Coatl | Valves per cylinder | 4
+2000 Lamborghini Coatl | Speed | 385 kmph
+2000 Lamborghini Coatl | 0-100 kmph | 3.5 s
+2000 Lamborghini Coatl | Body | coupe
+2000 Lamborghini Coatl | Seats | 2
+2000 Lamborghini Coatl | Doors | 2
+2000 Lamborghini Coatl | Fuel tank | 100 L
+2000 Lamborghini Coatl | Front track | 1540 mm
+2000 Lamborghini Coatl | Rear track | 1640 mm
+2000 Lamborghini Coatl | Wheelbase | 2650 mm
+2000 Lamborghini Coatl | Clearance | 140 mm
+2000 Lamborghini Coatl | Engine placement | center longitudinal
+2000 Lamborghini Coatl | Rear brakes | ventilated disc
+2000 Lamborghini Coatl | Front brakes | ventilated disc
+2000 Lamborghini Coatl | Front brakes size | 355 mm
+2000 Lamborghini Coatl | Rear brakes size | 335 mm
+2000 Lamborghini Coatl | Front tyres | 235/35 ZR19
+2000 Lamborghini Coatl | Rear tyres | 335/30 ZR19
+2000 Lamborghini Coatl | Front wheels | 8.5x19
+2000 Lamborghini Coatl | Rear wheels | 13.0x19
+2000 Lamborghini Coatl | Gears | 5 manual
+2000 Lamborghini Coatl | Drive | rear
+2000 Lamborghini Diablo 6.0 VT | Volume | 5992 cc
+2000 Lamborghini Diablo 6.0 VT | Cylinders | V12
+2000 Lamborghini Diablo 6.0 VT | Power | 550 hp @ 7100 rpm
+2000 Lamborghini Diablo 6.0 VT | Torque | 620 nm @ 5500 rpm
+2000 Lamborghini Diablo 6.0 VT | Fuel feed | distributed injection
+2000 Lamborghini Diablo 6.0 VT | Compression ratio | 10.7
+2000 Lamborghini Diablo 6.0 VT | Bore | 87 mm
+2000 Lamborghini Diablo 6.0 VT | Stroke | 84 mm
+2000 Lamborghini Diablo 6.0 VT | Valves per cylinder | 4
+2000 Lamborghini Diablo 6.0 VT | Speed | 335 kmph
+2000 Lamborghini Diablo 6.0 VT | 0-100 kmph | 4.0 s
+2000 Lamborghini Diablo 6.0 VT | Weight | 1625 kg
+2000 Lamborghini Diablo 6.0 VT | Body | coupe
+2000 Lamborghini Diablo 6.0 VT | Length | 4470 mm
+2000 Lamborghini Diablo 6.0 VT | Width | 2040 mm
+2000 Lamborghini Diablo 6.0 VT | Height | 1105 mm
+2000 Lamborghini Diablo 6.0 VT | Seats | 2
+2000 Lamborghini Diablo 6.0 VT | Doors | 2
+2000 Lamborghini Diablo 6.0 VT | Fuel tank | 100 L
+2000 Lamborghini Diablo 6.0 VT | Front track | 1610 mm
+2000 Lamborghini Diablo 6.0 VT | Rear track | 1670 mm
+2000 Lamborghini Diablo 6.0 VT | Wheelbase | 2650 mm
+2000 Lamborghini Diablo 6.0 VT | Clearance | 140 mm
+2000 Lamborghini Diablo 6.0 VT | Engine placement | center longitudinal
+2000 Lamborghini Diablo 6.0 VT | Rear brakes | ventilated disc
+2000 Lamborghini Diablo 6.0 VT | Front brakes | ventilated disc
+2000 Lamborghini Diablo 6.0 VT | Front brakes size | 365 mm
+2000 Lamborghini Diablo 6.0 VT | Rear brakes size | 335 mm
+2000 Lamborghini Diablo 6.0 VT | Front tyres | 235/35 ZR18
+2000 Lamborghini Diablo 6.0 VT | Rear tyres | 335/30 ZR18
+2000 Lamborghini Diablo 6.0 VT | Front wheels | 8.5x18
+2000 Lamborghini Diablo 6.0 VT | Rear wheels | 13.0x18
+2000 Lamborghini Diablo 6.0 VT | Gears | 5 manual
+2000 Lamborghini Diablo 6.0 VT | Drive | full
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Volume | 5707 cc
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Cylinders | V12
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Power | 530 hp @ 7100 rpm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Torque | 605 nm @ 5500 rpm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Fuel feed | distributed injection
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Compression ratio | 10.0
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Bore | 87 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Stroke | 80 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Valves per cylinder | 4
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Speed | 330 kmph
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | 0-100 kmph | 3.9 s
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Weight | 1625 kg
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Body | roadster
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Length | 4470 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Width | 2040 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Height | 1115 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Seats | 2
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Doors | 2
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Fuel tank | 100 L
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Front track | 1540 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Rear track | 1640 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Wheelbase | 2650 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Clearance | 140 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Engine placement | center longitudinal
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Rear brakes | ventilated disc
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Front brakes | ventilated disc
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Front brakes size | 355 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Rear brakes size | 335 mm
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Front tyres | 235/35 ZR18
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Rear tyres | 335/35 ZR18
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Front wheels | 8.5x18
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Rear wheels | 13.0x18
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Gears | 5 manual
+2000 Lamborghini Diablo VT Millenium Metallico Roadster | Drive | full
 2000 Opel Agila | Price | 10110 EUR @ 2000
 2000 Opel Agila | Price | 11600 EUR @ 2000
 2000 Opel Agila | Price | 9500 EUR @ 2000
@@ -8800,6 +10286,65 @@
 2001 Ford EX | Tyres | 33 in
 2001 Ford EX | Gears | 5 manual
 2001 Ford EX | Drive | full
+2001 Lamborghini Diablo 6.0 SE | Volume | 5992 cc
+2001 Lamborghini Diablo 6.0 SE | Cylinders | V12
+2001 Lamborghini Diablo 6.0 SE | Power | 550 hp @ 7100 rpm
+2001 Lamborghini Diablo 6.0 SE | Torque | 620 nm @ 5500 rpm
+2001 Lamborghini Diablo 6.0 SE | Fuel feed | distributed injection
+2001 Lamborghini Diablo 6.0 SE | Compression ratio | 10.7
+2001 Lamborghini Diablo 6.0 SE | Bore | 87 mm
+2001 Lamborghini Diablo 6.0 SE | Stroke | 84 mm
+2001 Lamborghini Diablo 6.0 SE | Valves per cylinder | 4
+2001 Lamborghini Diablo 6.0 SE | Speed | 330 kmph
+2001 Lamborghini Diablo 6.0 SE | 0-100 kmph | 3.8 s
+2001 Lamborghini Diablo 6.0 SE | Weight | 1625 kg
+2001 Lamborghini Diablo 6.0 SE | Body | coupe
+2001 Lamborghini Diablo 6.0 SE | Length | 4470 mm
+2001 Lamborghini Diablo 6.0 SE | Width | 2040 mm
+2001 Lamborghini Diablo 6.0 SE | Height | 1105 mm
+2001 Lamborghini Diablo 6.0 SE | Seats | 2
+2001 Lamborghini Diablo 6.0 SE | Doors | 2
+2001 Lamborghini Diablo 6.0 SE | Fuel tank | 100 L
+2001 Lamborghini Diablo 6.0 SE | Front track | 1610 mm
+2001 Lamborghini Diablo 6.0 SE | Rear track | 1670 mm
+2001 Lamborghini Diablo 6.0 SE | Wheelbase | 2650 mm
+2001 Lamborghini Diablo 6.0 SE | Clearance | 140 mm
+2001 Lamborghini Diablo 6.0 SE | Engine placement | center longitudinal
+2001 Lamborghini Diablo 6.0 SE | Rear brakes | ventilated disc
+2001 Lamborghini Diablo 6.0 SE | Front brakes | ventilated disc
+2001 Lamborghini Diablo 6.0 SE | Front brakes size | 365 mm
+2001 Lamborghini Diablo 6.0 SE | Rear brakes size | 335 mm
+2001 Lamborghini Diablo 6.0 SE | Front tyres | 235/35 ZR18
+2001 Lamborghini Diablo 6.0 SE | Rear tyres | 335/30 ZR18
+2001 Lamborghini Diablo 6.0 SE | Front wheels | 8.5x18
+2001 Lamborghini Diablo 6.0 SE | Rear wheels | 13.0x18
+2001 Lamborghini Diablo 6.0 SE | Gears | 6 manual
+2001 Lamborghini Diablo 6.0 SE | Drive | full
+2001 Lamborghini Eros GT1 | Volume | 6800 cc
+2001 Lamborghini Eros GT1 | Cylinders | V12
+2001 Lamborghini Eros GT1 | Power | 675 hp
+2001 Lamborghini Eros GT1 | Fuel feed | distributed injection
+2001 Lamborghini Eros GT1 | Valves per cylinder | 4
+2001 Lamborghini Eros GT1 | Speed | 390 kmph
+2001 Lamborghini Eros GT1 | Body | coupe
+2001 Lamborghini Eros GT1 | Seats | 2
+2001 Lamborghini Eros GT1 | Doors | 2
+2001 Lamborghini Eros GT1 | Fuel tank | 100 L
+2001 Lamborghini Eros GT1 | Front track | 1540 mm
+2001 Lamborghini Eros GT1 | Rear track | 1640 mm
+2001 Lamborghini Eros GT1 | Wheelbase | 2650 mm
+2001 Lamborghini Eros GT1 | Clearance | 140 mm
+2001 Lamborghini Eros GT1 | Engine placement | center longitudinal
+2001 Lamborghini Eros GT1 | Rear brakes | ventilated disc
+2001 Lamborghini Eros GT1 | Front brakes | ventilated disc
+2001 Lamborghini Eros GT1 | Front brakes size | 355 mm
+2001 Lamborghini Eros GT1 | Rear brakes size | 335 mm
+2001 Lamborghini Eros GT1 | Front tyres | 235/35 ZR19
+2001 Lamborghini Eros GT1 | Rear tyres | 335/30 ZR19
+2001 Lamborghini Eros GT1 | Front wheels | 8.5x19
+2001 Lamborghini Eros GT1 | Rear wheels | 13.0x19
+2001 Lamborghini Eros GT1 | Gears | 5 manual
+2001 Lamborghini Eros GT1 | Drive | rear
 2001 Maserati Spyder | Volume | 4.2 L
 2001 Maserati Spyder | Cylinders | V8
 2001 Maserati Spyder | Power | 390 hp @ 7000 rpm
@@ -9175,6 +10720,102 @@
 2003 Jaguar XJ | Power | 300 hp
 2003 Jaguar XJ | Power | 400 hp
 2003 Jaguar XJ | Gears | 6 auto
+2003 Lamborghini Gallardo | Volume | 4961 cc
+2003 Lamborghini Gallardo | Cylinders | V10
+2003 Lamborghini Gallardo | Power | 500 hp @ 7800 rpm
+2003 Lamborghini Gallardo | Torque | 510 nm @ 4500 rpm
+2003 Lamborghini Gallardo | Fuel feed | distributed injection
+2003 Lamborghini Gallardo | Compression ratio | 11.0
+2003 Lamborghini Gallardo | Bore | 82.5 mm
+2003 Lamborghini Gallardo | Stroke | 92.8 mm
+2003 Lamborghini Gallardo | Valves per cylinder | 4
+2003 Lamborghini Gallardo | Speed | 309 kmph
+2003 Lamborghini Gallardo | 0-100 kmph | 4.4 s
+2003 Lamborghini Gallardo | Weight | 1430 kg
+2003 Lamborghini Gallardo | Body | coupe
+2003 Lamborghini Gallardo | Length | 4300 mm
+2003 Lamborghini Gallardo | Width | 1900 mm
+2003 Lamborghini Gallardo | Height | 1165 mm
+2003 Lamborghini Gallardo | Seats | 2
+2003 Lamborghini Gallardo | Doors | 2
+2003 Lamborghini Gallardo | Fuel tank | 90 L
+2003 Lamborghini Gallardo | Front track | 1622 mm
+2003 Lamborghini Gallardo | Rear track | 1592 mm
+2003 Lamborghini Gallardo | Wheelbase | 2560 mm
+2003 Lamborghini Gallardo | Engine placement | center longitudinal
+2003 Lamborghini Gallardo | Rear brakes | ventilated disc
+2003 Lamborghini Gallardo | Front brakes | ventilated disc
+2003 Lamborghini Gallardo | Front brakes size | 365 mm
+2003 Lamborghini Gallardo | Rear brakes size | 335 mm
+2003 Lamborghini Gallardo | Front tyres | Rosso 235/35 ZR19
+2003 Lamborghini Gallardo | Rear tyres | 295/30 ZR19
+2003 Lamborghini Gallardo | Front wheels | 8.5x19
+2003 Lamborghini Gallardo | Rear wheels | 11.0x19
+2003 Lamborghini Gallardo | Gears | 6 manual
+2003 Lamborghini Gallardo | Drive | full
+2003 Lamborghini Murcielago 40th Anniversary | Volume | 6192 cc
+2003 Lamborghini Murcielago 40th Anniversary | Cylinders | V12
+2003 Lamborghini Murcielago 40th Anniversary | Power | 580 hp @ 7500 rpm
+2003 Lamborghini Murcielago 40th Anniversary | Torque | 650 nm @ 5400 rpm
+2003 Lamborghini Murcielago 40th Anniversary | Fuel feed | distributed injection
+2003 Lamborghini Murcielago 40th Anniversary | Compression ratio | 10.7
+2003 Lamborghini Murcielago 40th Anniversary | Bore | 87 mm
+2003 Lamborghini Murcielago 40th Anniversary | Stroke | 86.8 mm
+2003 Lamborghini Murcielago 40th Anniversary | Valves per cylinder | 4
+2003 Lamborghini Murcielago 40th Anniversary | Speed | 330 kmph
+2003 Lamborghini Murcielago 40th Anniversary | 0-100 kmph | 3.8 s
+2003 Lamborghini Murcielago 40th Anniversary | 0-200 kmph | 11.4 s
+2003 Lamborghini Murcielago 40th Anniversary | 0-300 kmph | 34.2 s
+2003 Lamborghini Murcielago 40th Anniversary | Weight | 1650 kg
+2003 Lamborghini Murcielago 40th Anniversary | Body | coupe
+2003 Lamborghini Murcielago 40th Anniversary | Length | 4580 mm
+2003 Lamborghini Murcielago 40th Anniversary | Width | 2058 mm
+2003 Lamborghini Murcielago 40th Anniversary | Height | 1135 mm
+2003 Lamborghini Murcielago 40th Anniversary | Seats | 2
+2003 Lamborghini Murcielago 40th Anniversary | Doors | 2
+2003 Lamborghini Murcielago 40th Anniversary | Fuel tank | 100 L
+2003 Lamborghini Murcielago 40th Anniversary | Front track | 1635 mm
+2003 Lamborghini Murcielago 40th Anniversary | Rear track | 1695 mm
+2003 Lamborghini Murcielago 40th Anniversary | Wheelbase | 2665 mm
+2003 Lamborghini Murcielago 40th Anniversary | Clearance | 135 mm
+2003 Lamborghini Murcielago 40th Anniversary | Engine placement | center longitudinal
+2003 Lamborghini Murcielago 40th Anniversary | Rear brakes | ventilated disc
+2003 Lamborghini Murcielago 40th Anniversary | Front brakes | ventilated disc
+2003 Lamborghini Murcielago 40th Anniversary | Front brakes size | 355 mm
+2003 Lamborghini Murcielago 40th Anniversary | Rear brakes size | 335 mm
+2003 Lamborghini Murcielago 40th Anniversary | Front tyres | Rosso 245/35 ZR 18
+2003 Lamborghini Murcielago 40th Anniversary | Rear tyres | 335/30 ZR18
+2003 Lamborghini Murcielago 40th Anniversary | Front wheels | 8.5x18
+2003 Lamborghini Murcielago 40th Anniversary | Rear wheels | 13.0x18
+2003 Lamborghini Murcielago 40th Anniversary | Gears | 6 manual
+2003 Lamborghini Murcielago 40th Anniversary | Drive | full
+2003 Lamborghini Murcielago R-GT | Volume | 5998 cc
+2003 Lamborghini Murcielago R-GT | Cylinders | V12
+2003 Lamborghini Murcielago R-GT | Power | 590 hp @ 6300 rpm
+2003 Lamborghini Murcielago R-GT | Torque | 710 nm @ 5000 rpm
+2003 Lamborghini Murcielago R-GT | Fuel feed | distributed injection
+2003 Lamborghini Murcielago R-GT | Bore | 87 mm
+2003 Lamborghini Murcielago R-GT | Stroke | 84 mm
+2003 Lamborghini Murcielago R-GT | Valves per cylinder | 4
+2003 Lamborghini Murcielago R-GT | Weight | 1100 kg
+2003 Lamborghini Murcielago R-GT | Body | coupe
+2003 Lamborghini Murcielago R-GT | Length | 4700 mm
+2003 Lamborghini Murcielago R-GT | Width | 2058 mm
+2003 Lamborghini Murcielago R-GT | Seats | 1
+2003 Lamborghini Murcielago R-GT | Doors | 2
+2003 Lamborghini Murcielago R-GT | Wheelbase | 2670 mm
+2003 Lamborghini Murcielago R-GT | Clearance | 38 mm
+2003 Lamborghini Murcielago R-GT | Engine placement | center longitudinal
+2003 Lamborghini Murcielago R-GT | Rear brakes | ventilated disc
+2003 Lamborghini Murcielago R-GT | Front brakes | ventilated disc
+2003 Lamborghini Murcielago R-GT | Front brakes size | 380 mm
+2003 Lamborghini Murcielago R-GT | Rear brakes size | 355 mm
+2003 Lamborghini Murcielago R-GT | Front tyres | 305-650/18
+2003 Lamborghini Murcielago R-GT | Rear tyres | 330-710/18
+2003 Lamborghini Murcielago R-GT | Front wheels | 12.5x18
+2003 Lamborghini Murcielago R-GT | Rear wheels | 13.0x18
+2003 Lamborghini Murcielago R-GT | Gears | 6 seq
+2003 Lamborghini Murcielago R-GT | Drive | rear
 2003 Opel Agila | Price | 9950 EUR
 2003 Opel Agila | Volume | 1.3 L
 2003 Opel Agila | Volume | 1 L
@@ -9355,6 +10996,40 @@
 2003-04 Opel Speedster Turbo | 0-100 kmph | 4.9 s
 2003-04 Opel Speedster Turbo | Weight | 930 kg
 2003-04 Opel Speedster Turbo | Wheels | 17
+2004 Lamborghini Murcielago Roadster | Volume | 6192 cc
+2004 Lamborghini Murcielago Roadster | Cylinders | V12
+2004 Lamborghini Murcielago Roadster | Power | 580 hp @ 7500 rpm
+2004 Lamborghini Murcielago Roadster | Torque | 650 nm @ 5400 rpm
+2004 Lamborghini Murcielago Roadster | Fuel feed | distributed injection
+2004 Lamborghini Murcielago Roadster | Compression ratio | 10.7
+2004 Lamborghini Murcielago Roadster | Bore | 87 mm
+2004 Lamborghini Murcielago Roadster | Stroke | 86.8 mm
+2004 Lamborghini Murcielago Roadster | Valves per cylinder | 4
+2004 Lamborghini Murcielago Roadster | Speed | 320 kmph
+2004 Lamborghini Murcielago Roadster | 0-100 kmph | 3.8 s
+2004 Lamborghini Murcielago Roadster | Weight | 1650 kg
+2004 Lamborghini Murcielago Roadster | Body | roadster
+2004 Lamborghini Murcielago Roadster | Length | 4580 mm
+2004 Lamborghini Murcielago Roadster | Width | 2058 mm
+2004 Lamborghini Murcielago Roadster | Height | 1068 mm
+2004 Lamborghini Murcielago Roadster | Seats | 2
+2004 Lamborghini Murcielago Roadster | Doors | 2
+2004 Lamborghini Murcielago Roadster | Fuel tank | 100 L
+2004 Lamborghini Murcielago Roadster | Front track | 1635 mm
+2004 Lamborghini Murcielago Roadster | Rear track | 1695 mm
+2004 Lamborghini Murcielago Roadster | Wheelbase | 2665 mm
+2004 Lamborghini Murcielago Roadster | Clearance | 135 mm
+2004 Lamborghini Murcielago Roadster | Engine placement | center longitudinal
+2004 Lamborghini Murcielago Roadster | Rear brakes | ventilated disc
+2004 Lamborghini Murcielago Roadster | Front brakes | ventilated disc
+2004 Lamborghini Murcielago Roadster | Front brakes size | 380 mm
+2004 Lamborghini Murcielago Roadster | Rear brakes size | 355 mm
+2004 Lamborghini Murcielago Roadster | Front tyres | Rosso 245/35 ZR 18
+2004 Lamborghini Murcielago Roadster | Rear tyres | 335/30 ZR18
+2004 Lamborghini Murcielago Roadster | Front wheels | 8.5x18
+2004 Lamborghini Murcielago Roadster | Rear wheels | 13.0x18
+2004 Lamborghini Murcielago Roadster | Gears | 6 manual
+2004 Lamborghini Murcielago Roadster | Drive | full
 2004 Maserati MC12 | Count | 50
 2004 Maserati MC12 | Volume | 5998 cc
 2004 Maserati MC12 | Cylinders | V12
@@ -9596,6 +11271,73 @@
 2005 I2B Raven (concept) | Width | 2010 mm
 2005 I2B Raven (concept) | Height | 1100 mm
 2005 I2B Raven (concept) | Clearance | 70 mm
+2005 Lamborghini Gallardo Edo Competition | Volume | 4961 cc
+2005 Lamborghini Gallardo Edo Competition | Cylinders | V10
+2005 Lamborghini Gallardo Edo Competition | Power | 550 hp @ 7800 rpm
+2005 Lamborghini Gallardo Edo Competition | Torque | 540 nm @ 4500 rpm
+2005 Lamborghini Gallardo Edo Competition | Fuel feed | distributed injection
+2005 Lamborghini Gallardo Edo Competition | Compression ratio | 11.0
+2005 Lamborghini Gallardo Edo Competition | Bore | 82.5 mm
+2005 Lamborghini Gallardo Edo Competition | Stroke | 92.8 mm
+2005 Lamborghini Gallardo Edo Competition | Valves per cylinder | 4
+2005 Lamborghini Gallardo Edo Competition | Speed | 328 kmph
+2005 Lamborghini Gallardo Edo Competition | 0-100 kmph | 4.2 s
+2005 Lamborghini Gallardo Edo Competition | 0-200 kmph | 12.5 s
+2005 Lamborghini Gallardo Edo Competition | Weight | 1420 kg
+2005 Lamborghini Gallardo Edo Competition | Body | coupe
+2005 Lamborghini Gallardo Edo Competition | Length | 4300 mm
+2005 Lamborghini Gallardo Edo Competition | Width | 1900 mm
+2005 Lamborghini Gallardo Edo Competition | Height | 1150 mm
+2005 Lamborghini Gallardo Edo Competition | Seats | 2
+2005 Lamborghini Gallardo Edo Competition | Doors | 2
+2005 Lamborghini Gallardo Edo Competition | Fuel tank | 90 L
+2005 Lamborghini Gallardo Edo Competition | Front track | 1622 mm
+2005 Lamborghini Gallardo Edo Competition | Rear track | 1592 mm
+2005 Lamborghini Gallardo Edo Competition | Wheelbase | 2560 mm
+2005 Lamborghini Gallardo Edo Competition | Engine placement | center longitudinal
+2005 Lamborghini Gallardo Edo Competition | Rear brakes | ventilated disc
+2005 Lamborghini Gallardo Edo Competition | Front brakes | ventilated disc
+2005 Lamborghini Gallardo Edo Competition | Front brakes size | 365 mm
+2005 Lamborghini Gallardo Edo Competition | Rear brakes size | 335 mm
+2005 Lamborghini Gallardo Edo Competition | Front tyres | Rosso 235/35 ZR19
+2005 Lamborghini Gallardo Edo Competition | Rear tyres | 295/30 ZR19
+2005 Lamborghini Gallardo Edo Competition | Front wheels | 8.5x19
+2005 Lamborghini Gallardo Edo Competition | Rear wheels | 11.0x19
+2005 Lamborghini Gallardo Edo Competition | Gears | 6 manual
+2005 Lamborghini Gallardo Edo Competition | Drive | full
+2005 Lamborghini Gallardo SE | Volume | 4961 cc
+2005 Lamborghini Gallardo SE | Cylinders | V10
+2005 Lamborghini Gallardo SE | Power | 520 hp @ 8000 rpm
+2005 Lamborghini Gallardo SE | Torque | 510 nm @ 4800 rpm
+2005 Lamborghini Gallardo SE | Fuel feed | distributed injection
+2005 Lamborghini Gallardo SE | Compression ratio | 11.0
+2005 Lamborghini Gallardo SE | Bore | 82.5 mm
+2005 Lamborghini Gallardo SE | Stroke | 92.8 mm
+2005 Lamborghini Gallardo SE | Valves per cylinder | 4
+2005 Lamborghini Gallardo SE | Speed | 315 kmph
+2005 Lamborghini Gallardo SE | 0-100 kmph | 4.2 s
+2005 Lamborghini Gallardo SE | Weight | 1430 kg
+2005 Lamborghini Gallardo SE | Body | coupe
+2005 Lamborghini Gallardo SE | Length | 4300 mm
+2005 Lamborghini Gallardo SE | Width | 1900 mm
+2005 Lamborghini Gallardo SE | Height | 1165 mm
+2005 Lamborghini Gallardo SE | Seats | 2
+2005 Lamborghini Gallardo SE | Doors | 2
+2005 Lamborghini Gallardo SE | Fuel tank | 90 L
+2005 Lamborghini Gallardo SE | Front track | 1622 mm
+2005 Lamborghini Gallardo SE | Rear track | 1592 mm
+2005 Lamborghini Gallardo SE | Wheelbase | 2560 mm
+2005 Lamborghini Gallardo SE | Engine placement | center longitudinal
+2005 Lamborghini Gallardo SE | Rear brakes | ventilated disc
+2005 Lamborghini Gallardo SE | Front brakes | ventilated disc
+2005 Lamborghini Gallardo SE | Front brakes size | 365 mm
+2005 Lamborghini Gallardo SE | Rear brakes size | 335 mm
+2005 Lamborghini Gallardo SE | Front tyres | Rosso 235/35 ZR19
+2005 Lamborghini Gallardo SE | Rear tyres | 295/30 ZR19
+2005 Lamborghini Gallardo SE | Front wheels | 8.5x19
+2005 Lamborghini Gallardo SE | Rear wheels | 11.0x19
+2005 Lamborghini Gallardo SE | Gears | 6 manual
+2005 Lamborghini Gallardo SE | Drive | full
 2005 VW Touareg V8 | Price | 86900 USD @ 2005 Russia
 2005 VW Touareg V8 | Volume | 4172 cc
 2005 VW Touareg V8 | Cylinders | V8
@@ -9621,8 +11363,177 @@
 2006 Castagna Landoulet | Power | 800 hp
 2006 Castagna Landoulet | Body | coupe
 2006 Castagna Landoulet | Drive | full
+2006 Lamborghini Gallardo GT3 | Volume | 4961 cc
+2006 Lamborghini Gallardo GT3 | Cylinders | V10
+2006 Lamborghini Gallardo GT3 | Power | 530 hp @ 7800 rpm
+2006 Lamborghini Gallardo GT3 | Torque | 510 nm @ 4500 rpm
+2006 Lamborghini Gallardo GT3 | Fuel feed | distributed injection
+2006 Lamborghini Gallardo GT3 | Compression ratio | 11.0
+2006 Lamborghini Gallardo GT3 | Bore | 82.5 mm
+2006 Lamborghini Gallardo GT3 | Stroke | 92.8 mm
+2006 Lamborghini Gallardo GT3 | Valves per cylinder | 4
+2006 Lamborghini Gallardo GT3 | Weight | 1190 kg
+2006 Lamborghini Gallardo GT3 | Body | coupe
+2006 Lamborghini Gallardo GT3 | Length | 4300 mm
+2006 Lamborghini Gallardo GT3 | Width | 1920 mm
+2006 Lamborghini Gallardo GT3 | Height | 1100 mm
+2006 Lamborghini Gallardo GT3 | Seats | 1
+2006 Lamborghini Gallardo GT3 | Doors | 2
+2006 Lamborghini Gallardo GT3 | Front track | 1643 mm
+2006 Lamborghini Gallardo GT3 | Rear track | 1592 mm
+2006 Lamborghini Gallardo GT3 | Wheelbase | 2560 mm
+2006 Lamborghini Gallardo GT3 | Clearance | 40 mm
+2006 Lamborghini Gallardo GT3 | Engine placement | center longitudinal
+2006 Lamborghini Gallardo GT3 | Rear brakes | ventilated disc
+2006 Lamborghini Gallardo GT3 | Front brakes | ventilated disc
+2006 Lamborghini Gallardo GT3 | Front brakes size | 380 mm
+2006 Lamborghini Gallardo GT3 | Rear brakes size | 355 mm
+2006 Lamborghini Gallardo GT3 | Front tyres | 265/645-18
+2006 Lamborghini Gallardo GT3 | Rear tyres | 305/660-18
+2006 Lamborghini Gallardo GT3 | Front wheels | 10.0x18
+2006 Lamborghini Gallardo GT3 | Rear wheels | 11.0x18
+2006 Lamborghini Gallardo GT3 | Gears | 6 seq
+2006 Lamborghini Gallardo GT3 | Drive | rear
+2006 Lamborghini Gallardo GTV IMSA | Volume | 4961 cc
+2006 Lamborghini Gallardo GTV IMSA | Cylinders | V10
+2006 Lamborghini Gallardo GTV IMSA | Power | 610 hp
+2006 Lamborghini Gallardo GTV IMSA | Torque | 655 nm
+2006 Lamborghini Gallardo GTV IMSA | Fuel feed | distributed injection
+2006 Lamborghini Gallardo GTV IMSA | Compression ratio | 11.0
+2006 Lamborghini Gallardo GTV IMSA | Bore | 82.5 mm
+2006 Lamborghini Gallardo GTV IMSA | Stroke | 92.8 mm
+2006 Lamborghini Gallardo GTV IMSA | Valves per cylinder | 4
+2006 Lamborghini Gallardo GTV IMSA | Weight | 1570 kg
+2006 Lamborghini Gallardo GTV IMSA | Body | coupe
+2006 Lamborghini Gallardo GTV IMSA | Length | 4300 mm
+2006 Lamborghini Gallardo GTV IMSA | Height | 1184 mm
+2006 Lamborghini Gallardo GTV IMSA | Seats | 2
+2006 Lamborghini Gallardo GTV IMSA | Doors | 2
+2006 Lamborghini Gallardo GTV IMSA | Fuel tank | 80 L
+2006 Lamborghini Gallardo GTV IMSA | Front track | 1622 mm
+2006 Lamborghini Gallardo GTV IMSA | Rear track | 1592 mm
+2006 Lamborghini Gallardo GTV IMSA | Wheelbase | 2560 mm
+2006 Lamborghini Gallardo GTV IMSA | Engine placement | center longitudinal
+2006 Lamborghini Gallardo GTV IMSA | Rear brakes | ventilated disc
+2006 Lamborghini Gallardo GTV IMSA | Front brakes | ventilated disc
+2006 Lamborghini Gallardo GTV IMSA | Front brakes size | 365 mm
+2006 Lamborghini Gallardo GTV IMSA | Rear brakes size | 335 mm
+2006 Lamborghini Gallardo GTV IMSA | Front tyres | 245/30 ZR20
+2006 Lamborghini Gallardo GTV IMSA | Rear tyres | 325/25 ZR20
+2006 Lamborghini Gallardo GTV IMSA | Wheels | 20
+2006 Lamborghini Gallardo GTV IMSA | Gears | 6 manual
+2006 Lamborghini Gallardo GTV IMSA | Drive | full
+2006 Lamborghini Gallardo MY06 | Volume | 4961 cc
+2006 Lamborghini Gallardo MY06 | Cylinders | V10
+2006 Lamborghini Gallardo MY06 | Power | 520 hp @ 8000 rpm
+2006 Lamborghini Gallardo MY06 | Torque | 510 nm @ 4250 rpm
+2006 Lamborghini Gallardo MY06 | Fuel feed | distributed injection
+2006 Lamborghini Gallardo MY06 | Compression ratio | 11.0
+2006 Lamborghini Gallardo MY06 | Bore | 82.5 mm
+2006 Lamborghini Gallardo MY06 | Stroke | 92.8 mm
+2006 Lamborghini Gallardo MY06 | Valves per cylinder | 4
+2006 Lamborghini Gallardo MY06 | Speed | 315 kmph
+2006 Lamborghini Gallardo MY06 | 0-100 kmph | 4.0 s
+2006 Lamborghini Gallardo MY06 | Weight | 1430 kg
+2006 Lamborghini Gallardo MY06 | Body | coupe
+2006 Lamborghini Gallardo MY06 | Length | 4300 mm
+2006 Lamborghini Gallardo MY06 | Width | 1900 mm
+2006 Lamborghini Gallardo MY06 | Height | 1165 mm
+2006 Lamborghini Gallardo MY06 | Seats | 2
+2006 Lamborghini Gallardo MY06 | Doors | 2
+2006 Lamborghini Gallardo MY06 | Fuel tank | 90 L
+2006 Lamborghini Gallardo MY06 | Front track | 1622 mm
+2006 Lamborghini Gallardo MY06 | Rear track | 1592 mm
+2006 Lamborghini Gallardo MY06 | Wheelbase | 2560 mm
+2006 Lamborghini Gallardo MY06 | Engine placement | center longitudinal
+2006 Lamborghini Gallardo MY06 | Rear brakes | ventilated disc
+2006 Lamborghini Gallardo MY06 | Front brakes | ventilated disc
+2006 Lamborghini Gallardo MY06 | Front brakes size | 365 mm
+2006 Lamborghini Gallardo MY06 | Rear brakes size | 335 mm
+2006 Lamborghini Gallardo MY06 | Front tyres | Rosso 235/35 ZR19
+2006 Lamborghini Gallardo MY06 | Rear tyres | 295/30 ZR19
+2006 Lamborghini Gallardo MY06 | Front wheels | 8.5x19
+2006 Lamborghini Gallardo MY06 | Rear wheels | 11.0x19
+2006 Lamborghini Gallardo MY06 | Gears | 6 manual
+2006 Lamborghini Gallardo MY06 | Drive | full
+2006 Lamborghini Gallardo Spider | Volume | 4961 cc
+2006 Lamborghini Gallardo Spider | Cylinders | V10
+2006 Lamborghini Gallardo Spider | Power | 520 hp @ 8000 rpm
+2006 Lamborghini Gallardo Spider | Torque | 510 nm @ 4500 rpm
+2006 Lamborghini Gallardo Spider | Fuel feed | distributed injection
+2006 Lamborghini Gallardo Spider | Compression ratio | 11.0
+2006 Lamborghini Gallardo Spider | Bore | 82.5 mm
+2006 Lamborghini Gallardo Spider | Stroke | 92.8 mm
+2006 Lamborghini Gallardo Spider | Valves per cylinder | 4
+2006 Lamborghini Gallardo Spider | Speed | 314 kmph
+2006 Lamborghini Gallardo Spider | 0-100 kmph | 4.2 s
+2006 Lamborghini Gallardo Spider | 0-200 kmph | 14.5 s
+2006 Lamborghini Gallardo Spider | Weight | 1570 kg
+2006 Lamborghini Gallardo Spider | Body | roadster
+2006 Lamborghini Gallardo Spider | Length | 4300 mm
+2006 Lamborghini Gallardo Spider | Width | 1900 mm
+2006 Lamborghini Gallardo Spider | Height | 1184 mm
+2006 Lamborghini Gallardo Spider | Seats | 2
+2006 Lamborghini Gallardo Spider | Doors | 2
+2006 Lamborghini Gallardo Spider | Fuel tank | 80 L
+2006 Lamborghini Gallardo Spider | Front track | 1622 mm
+2006 Lamborghini Gallardo Spider | Rear track | 1592 mm
+2006 Lamborghini Gallardo Spider | Wheelbase | 2560 mm
+2006 Lamborghini Gallardo Spider | Engine placement | center longitudinal
+2006 Lamborghini Gallardo Spider | Rear brakes | ventilated disc
+2006 Lamborghini Gallardo Spider | Front brakes | ventilated disc
+2006 Lamborghini Gallardo Spider | Front brakes size | 365 mm
+2006 Lamborghini Gallardo Spider | Rear brakes size | 335 mm
+2006 Lamborghini Gallardo Spider | Front tyres | 235/35 ZR19
+2006 Lamborghini Gallardo Spider | Rear tyres | 295/30 ZR19
+2006 Lamborghini Gallardo Spider | Front wheels | 8.5x19
+2006 Lamborghini Gallardo Spider | Rear wheels | 11.0x19
+2006 Lamborghini Gallardo Spider | Gears | 6 manual
+2006 Lamborghini Gallardo Spider | Drive | full
+2006 Lamborghini Miura Concept | Volume | 6500 cc
+2006 Lamborghini Miura Concept | Cylinders | V12
+2006 Lamborghini Miura Concept | Power | 700 hp
+2006 Lamborghini Miura Concept | Valves per cylinder | 4
+2006 Lamborghini Miura Concept | Body | coupe
+2006 Lamborghini Miura Concept | Seats | 2
+2006 Lamborghini Miura Concept | Doors | 2
+2006 Lamborghini Miura Concept | Engine placement | center
+2006 Lamborghini Miura Concept | Gears | 7 seq
 2006 Lamborghini Murcielago LP640 | Volume | 6.5 L
 2006 Lamborghini Murcielago LP640 | Power | 640 hp
+2006 Lamborghini Murcielago LP640 Roadster | Volume | 6496 cc
+2006 Lamborghini Murcielago LP640 Roadster | Cylinders | V12
+2006 Lamborghini Murcielago LP640 Roadster | Power | 640 hp @ 8000 rpm
+2006 Lamborghini Murcielago LP640 Roadster | Torque | 660 nm @ 6000 rpm
+2006 Lamborghini Murcielago LP640 Roadster | Fuel feed | distributed injection
+2006 Lamborghini Murcielago LP640 Roadster | Compression ratio | 11.0
+2006 Lamborghini Murcielago LP640 Roadster | Bore | 88 mm
+2006 Lamborghini Murcielago LP640 Roadster | Stroke | 89 mm
+2006 Lamborghini Murcielago LP640 Roadster | Valves per cylinder | 4
+2006 Lamborghini Murcielago LP640 Roadster | Speed | 330 kmph
+2006 Lamborghini Murcielago LP640 Roadster | 0-100 kmph | 3.4 s
+2006 Lamborghini Murcielago LP640 Roadster | Weight | 1665 kg
+2006 Lamborghini Murcielago LP640 Roadster | Body | roadster
+2006 Lamborghini Murcielago LP640 Roadster | Length | 4580 mm
+2006 Lamborghini Murcielago LP640 Roadster | Width | 2045 mm
+2006 Lamborghini Murcielago LP640 Roadster | Height | 1068 mm
+2006 Lamborghini Murcielago LP640 Roadster | Seats | 2
+2006 Lamborghini Murcielago LP640 Roadster | Doors | 2
+2006 Lamborghini Murcielago LP640 Roadster | Fuel tank | 100 L
+2006 Lamborghini Murcielago LP640 Roadster | Front track | 1635 mm
+2006 Lamborghini Murcielago LP640 Roadster | Rear track | 1695 mm
+2006 Lamborghini Murcielago LP640 Roadster | Wheelbase | 2665 mm
+2006 Lamborghini Murcielago LP640 Roadster | Engine placement | center longitudinal
+2006 Lamborghini Murcielago LP640 Roadster | Rear brakes | ventilated disc
+2006 Lamborghini Murcielago LP640 Roadster | Front brakes | ventilated disc
+2006 Lamborghini Murcielago LP640 Roadster | Front brakes size | 380 mm
+2006 Lamborghini Murcielago LP640 Roadster | Rear brakes size | 355 mm
+2006 Lamborghini Murcielago LP640 Roadster | Front tyres | 245/35 ZR18
+2006 Lamborghini Murcielago LP640 Roadster | Rear tyres | 335/30 ZR18
+2006 Lamborghini Murcielago LP640 Roadster | Front wheels | 8.5x18
+2006 Lamborghini Murcielago LP640 Roadster | Rear wheels | 13.0x18
+2006 Lamborghini Murcielago LP640 Roadster | Gears | 6 seq
+2006 Lamborghini Murcielago LP640 Roadster | Drive | full
 2006 Руссо-Балт Impression | Cylinders | V12
 2006 Руссо-Балт Impression | Power | 555 hp
 2006 Руссо-Балт Impression | Body | coupe
@@ -9640,22 +11551,216 @@
 2007 Fiat Linea | Width | 1730 mm
 2007 Fiat Linea | Height | 1500 mm
 2007 Fiat Linea | Wheelbase | 2600 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Volume | 4961 cc
+2007 Lamborghini Gallardo SLE Edo Competition | Cylinders | V10
+2007 Lamborghini Gallardo SLE Edo Competition | Power | 560 hp @ 8250 rpm
+2007 Lamborghini Gallardo SLE Edo Competition | Torque | 540 nm @ 6800 rpm
+2007 Lamborghini Gallardo SLE Edo Competition | Fuel feed | distributed injection
+2007 Lamborghini Gallardo SLE Edo Competition | Compression ratio | 11.0
+2007 Lamborghini Gallardo SLE Edo Competition | Bore | 82.5 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Stroke | 92.8 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Valves per cylinder | 4
+2007 Lamborghini Gallardo SLE Edo Competition | Speed | 320 kmph
+2007 Lamborghini Gallardo SLE Edo Competition | 0-100 kmph | 3.7 s
+2007 Lamborghini Gallardo SLE Edo Competition | 0-200 kmph | 11.7 s
+2007 Lamborghini Gallardo SLE Edo Competition | Weight | 1320 kg
+2007 Lamborghini Gallardo SLE Edo Competition | Body | coupe
+2007 Lamborghini Gallardo SLE Edo Competition | Length | 4300 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Width | 1900 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Height | 1150 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Seats | 2
+2007 Lamborghini Gallardo SLE Edo Competition | Doors | 2
+2007 Lamborghini Gallardo SLE Edo Competition | Fuel tank | 90 L
+2007 Lamborghini Gallardo SLE Edo Competition | Front track | 1622 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Rear track | 1592 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Wheelbase | 2560 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Engine placement | center longitudinal
+2007 Lamborghini Gallardo SLE Edo Competition | Rear brakes | ventilated disc
+2007 Lamborghini Gallardo SLE Edo Competition | Front brakes | ventilated disc
+2007 Lamborghini Gallardo SLE Edo Competition | Front brakes size | 365 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Rear brakes size | 335 mm
+2007 Lamborghini Gallardo SLE Edo Competition | Front tyres | 245/35 ZR19
+2007 Lamborghini Gallardo SLE Edo Competition | Rear tyres | 305/30 ZR19
+2007 Lamborghini Gallardo SLE Edo Competition | Front wheels | 9.0x19
+2007 Lamborghini Gallardo SLE Edo Competition | Rear wheels | 11.5x19
+2007 Lamborghini Gallardo SLE Edo Competition | Gears | 6 seq
+2007 Lamborghini Gallardo SLE Edo Competition | Drive | full
+2007 Lamborghini Gallardo Spider Edo Competition | Volume | 4961 cc
+2007 Lamborghini Gallardo Spider Edo Competition | Cylinders | V10
+2007 Lamborghini Gallardo Spider Edo Competition | Power | 550 hp @ 7800 rpm
+2007 Lamborghini Gallardo Spider Edo Competition | Torque | 540 nm @ 4500 rpm
+2007 Lamborghini Gallardo Spider Edo Competition | Fuel feed | distributed injection
+2007 Lamborghini Gallardo Spider Edo Competition | Compression ratio | 11.0
+2007 Lamborghini Gallardo Spider Edo Competition | Bore | 82.5 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Stroke | 92.8 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Valves per cylinder | 4
+2007 Lamborghini Gallardo Spider Edo Competition | Speed | 325 kmph
+2007 Lamborghini Gallardo Spider Edo Competition | 0-100 kmph | 4.2 s
+2007 Lamborghini Gallardo Spider Edo Competition | 0-200 kmph | 12.5 s
+2007 Lamborghini Gallardo Spider Edo Competition | Weight | 1560 kg
+2007 Lamborghini Gallardo Spider Edo Competition | Body | roadster
+2007 Lamborghini Gallardo Spider Edo Competition | Length | 4300 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Width | 1900 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Height | 1169 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Seats | 2
+2007 Lamborghini Gallardo Spider Edo Competition | Doors | 2
+2007 Lamborghini Gallardo Spider Edo Competition | Fuel tank | 80 L
+2007 Lamborghini Gallardo Spider Edo Competition | Front track | 1622 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Rear track | 1592 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Wheelbase | 2560 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Engine placement | center longitudinal
+2007 Lamborghini Gallardo Spider Edo Competition | Rear brakes | ventilated disc
+2007 Lamborghini Gallardo Spider Edo Competition | Front brakes | ventilated disc
+2007 Lamborghini Gallardo Spider Edo Competition | Front brakes size | 365 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Rear brakes size | 335 mm
+2007 Lamborghini Gallardo Spider Edo Competition | Front tyres | 245/35 ZR19
+2007 Lamborghini Gallardo Spider Edo Competition | Rear tyres | 305/30 ZR19
+2007 Lamborghini Gallardo Spider Edo Competition | Front wheels | 9.0x19
+2007 Lamborghini Gallardo Spider Edo Competition | Rear wheels | 11.5x19
+2007 Lamborghini Gallardo Spider Edo Competition | Gears | 6 manual
+2007 Lamborghini Gallardo Spider Edo Competition | Drive | full
+2007 Lamborghini Gallardo Spider IMSA | Volume | 4961 cc
+2007 Lamborghini Gallardo Spider IMSA | Cylinders | V10
+2007 Lamborghini Gallardo Spider IMSA | Power | 610 hp
+2007 Lamborghini Gallardo Spider IMSA | Torque | 655 nm
+2007 Lamborghini Gallardo Spider IMSA | Fuel feed | distributed injection
+2007 Lamborghini Gallardo Spider IMSA | Compression ratio | 11.0
+2007 Lamborghini Gallardo Spider IMSA | Bore | 82.5 mm
+2007 Lamborghini Gallardo Spider IMSA | Stroke | 92.8 mm
+2007 Lamborghini Gallardo Spider IMSA | Valves per cylinder | 4
+2007 Lamborghini Gallardo Spider IMSA | Weight | 1570 kg
+2007 Lamborghini Gallardo Spider IMSA | Body | roadster
+2007 Lamborghini Gallardo Spider IMSA | Length | 4300 mm
+2007 Lamborghini Gallardo Spider IMSA | Height | 1184 mm
+2007 Lamborghini Gallardo Spider IMSA | Seats | 2
+2007 Lamborghini Gallardo Spider IMSA | Doors | 2
+2007 Lamborghini Gallardo Spider IMSA | Fuel tank | 80 L
+2007 Lamborghini Gallardo Spider IMSA | Front track | 1622 mm
+2007 Lamborghini Gallardo Spider IMSA | Rear track | 1592 mm
+2007 Lamborghini Gallardo Spider IMSA | Wheelbase | 2560 mm
+2007 Lamborghini Gallardo Spider IMSA | Engine placement | center longitudinal
+2007 Lamborghini Gallardo Spider IMSA | Rear brakes | ventilated disc
+2007 Lamborghini Gallardo Spider IMSA | Front brakes | ventilated disc
+2007 Lamborghini Gallardo Spider IMSA | Front brakes size | 365 mm
+2007 Lamborghini Gallardo Spider IMSA | Rear brakes size | 335 mm
+2007 Lamborghini Gallardo Spider IMSA | Front tyres | 245/30 ZR20
+2007 Lamborghini Gallardo Spider IMSA | Rear tyres | 325/25 ZR20
+2007 Lamborghini Gallardo Spider IMSA | Wheels | 20
+2007 Lamborghini Gallardo Spider IMSA | Gears | 6 manual
+2007 Lamborghini Gallardo Spider IMSA | Drive | full
+2007 Lamborghini Gallardo Superleggera | Volume | 4961 cc
+2007 Lamborghini Gallardo Superleggera | Cylinders | V10
 2007 Lamborghini Gallardo Superleggera | Cylinders | V10
 2007 Lamborghini Gallardo Superleggera | Power | 530 hp @ 8000 rpm
+2007 Lamborghini Gallardo Superleggera | Power | 530 hp @ 8000 rpm
+2007 Lamborghini Gallardo Superleggera | Torque | 510 nm @ 4250 rpm
+2007 Lamborghini Gallardo Superleggera | Fuel feed | distributed injection
+2007 Lamborghini Gallardo Superleggera | Compression ratio | 11.0
+2007 Lamborghini Gallardo Superleggera | Bore | 82.5 mm
+2007 Lamborghini Gallardo Superleggera | Stroke | 92.8 mm
 2007 Lamborghini Gallardo Superleggera | Valves per cylinder | 4
+2007 Lamborghini Gallardo Superleggera | Valves per cylinder | 4
+2007 Lamborghini Gallardo Superleggera | Speed | 315 kmph
 2007 Lamborghini Gallardo Superleggera | 0-100 kmph | 3.8 s
+2007 Lamborghini Gallardo Superleggera | 0-100 kmph | 3.8 s
+2007 Lamborghini Gallardo Superleggera | Weight | 1330 kg
 2007 Lamborghini Gallardo Superleggera | Weight | 1430 kg
 2007 Lamborghini Gallardo Superleggera | Body | coupe
+2007 Lamborghini Gallardo Superleggera | Body | coupe
+2007 Lamborghini Gallardo Superleggera | Length | 4300 mm
 2007 Lamborghini Gallardo Superleggera | Length | 4300 mm
 2007 Lamborghini Gallardo Superleggera | Width | 1900 mm
+2007 Lamborghini Gallardo Superleggera | Width | 1900 mm
+2007 Lamborghini Gallardo Superleggera | Height | 1165 mm
 2007 Lamborghini Gallardo Superleggera | Height | 1166 mm
 2007 Lamborghini Gallardo Superleggera | Seats | 2
+2007 Lamborghini Gallardo Superleggera | Seats | 2
+2007 Lamborghini Gallardo Superleggera | Doors | 2
+2007 Lamborghini Gallardo Superleggera | Fuel tank | 90 L
+2007 Lamborghini Gallardo Superleggera | Front track | 1622 mm
 2007 Lamborghini Gallardo Superleggera | Front track | 1623 mm
+2007 Lamborghini Gallardo Superleggera | Rear track | 1592 mm
 2007 Lamborghini Gallardo Superleggera | Rear track | 1593 mm
 2007 Lamborghini Gallardo Superleggera | Wheelbase | 2560 mm
+2007 Lamborghini Gallardo Superleggera | Wheelbase | 2560 mm
+2007 Lamborghini Gallardo Superleggera | Engine placement | center longitudinal
 2007 Lamborghini Gallardo Superleggera | Engine placement | center
+2007 Lamborghini Gallardo Superleggera | Rear brakes | ventilated disc
+2007 Lamborghini Gallardo Superleggera | Front brakes | ventilated disc
+2007 Lamborghini Gallardo Superleggera | Front brakes size | 365 mm
+2007 Lamborghini Gallardo Superleggera | Rear brakes size | 335 mm
+2007 Lamborghini Gallardo Superleggera | Front tyres | 235/35 ZR19
+2007 Lamborghini Gallardo Superleggera | Rear tyres | 295/30 ZR19
+2007 Lamborghini Gallardo Superleggera | Front wheels | 8.5x19
+2007 Lamborghini Gallardo Superleggera | Rear wheels | 11.0x19
+2007 Lamborghini Gallardo Superleggera | Gears | 6 seq
 2007 Lamborghini Gallardo Superleggera | Gears | 6 manual
 2007 Lamborghini Gallardo Superleggera | Drive | full
+2007 Lamborghini Gallardo Superleggera | Drive | full
+2007 Lamborghini Murcielago LP640 Edo Competition | Volume | 6496 cc
+2007 Lamborghini Murcielago LP640 Edo Competition | Cylinders | V12
+2007 Lamborghini Murcielago LP640 Edo Competition | Power | 663 hp @ 7800 rpm
+2007 Lamborghini Murcielago LP640 Edo Competition | Torque | 675 nm @ 5600 rpm
+2007 Lamborghini Murcielago LP640 Edo Competition | Fuel feed | distributed injection
+2007 Lamborghini Murcielago LP640 Edo Competition | Compression ratio | 11.0
+2007 Lamborghini Murcielago LP640 Edo Competition | Bore | 88 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Stroke | 89 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Valves per cylinder | 4
+2007 Lamborghini Murcielago LP640 Edo Competition | Speed | 348 kmph
+2007 Lamborghini Murcielago LP640 Edo Competition | 0-100 kmph | 3.4 s
+2007 Lamborghini Murcielago LP640 Edo Competition | Weight | 1665 kg
+2007 Lamborghini Murcielago LP640 Edo Competition | Body | coupe
+2007 Lamborghini Murcielago LP640 Edo Competition | Length | 4610 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Width | 2058 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Height | 1135 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Seats | 2
+2007 Lamborghini Murcielago LP640 Edo Competition | Doors | 2
+2007 Lamborghini Murcielago LP640 Edo Competition | Fuel tank | 100 L
+2007 Lamborghini Murcielago LP640 Edo Competition | Front track | 1635 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Rear track | 1695 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Wheelbase | 2665 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Engine placement | center longitudinal
+2007 Lamborghini Murcielago LP640 Edo Competition | Rear brakes | ventilated disc
+2007 Lamborghini Murcielago LP640 Edo Competition | Front brakes | ventilated disc
+2007 Lamborghini Murcielago LP640 Edo Competition | Front brakes size | 380 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Rear brakes size | 355 mm
+2007 Lamborghini Murcielago LP640 Edo Competition | Front tyres | 245/35 ZR18
+2007 Lamborghini Murcielago LP640 Edo Competition | Rear tyres | 335/30 ZR18
+2007 Lamborghini Murcielago LP640 Edo Competition | Front wheels | 8.5x18
+2007 Lamborghini Murcielago LP640 Edo Competition | Rear wheels | 13.0x18
+2007 Lamborghini Murcielago LP640 Edo Competition | Gears | 6 seq
+2007 Lamborghini Murcielago LP640 Edo Competition | Drive | full
+2007 Lamborghini Murcielago LP640 Versione Nardo | Volume | 6496 cc
+2007 Lamborghini Murcielago LP640 Versione Nardo | Cylinders | V12
+2007 Lamborghini Murcielago LP640 Versione Nardo | Power | 663 hp @ 7800 rpm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Torque | 675 nm @ 5600 rpm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Fuel feed | distributed injection
+2007 Lamborghini Murcielago LP640 Versione Nardo | Compression ratio | 11.0
+2007 Lamborghini Murcielago LP640 Versione Nardo | Bore | 88 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Stroke | 89 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Valves per cylinder | 4
+2007 Lamborghini Murcielago LP640 Versione Nardo | Speed | 345.7 kmph
+2007 Lamborghini Murcielago LP640 Versione Nardo | 0-100 kmph | 3.4 s
+2007 Lamborghini Murcielago LP640 Versione Nardo | Weight | 1660 kg
+2007 Lamborghini Murcielago LP640 Versione Nardo | Body | coupe
+2007 Lamborghini Murcielago LP640 Versione Nardo | Length | 4610 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Width | 2058 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Height | 1135 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Seats | 2
+2007 Lamborghini Murcielago LP640 Versione Nardo | Doors | 2
+2007 Lamborghini Murcielago LP640 Versione Nardo | Fuel tank | 100 L
+2007 Lamborghini Murcielago LP640 Versione Nardo | Front track | 1635 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Rear track | 1695 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Wheelbase | 2665 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Engine placement | center longitudinal
+2007 Lamborghini Murcielago LP640 Versione Nardo | Brakes | ventilated disc
+2007 Lamborghini Murcielago LP640 Versione Nardo | Brakes size | 380 mm
+2007 Lamborghini Murcielago LP640 Versione Nardo | Front tyres | 245/35 ZR18
+2007 Lamborghini Murcielago LP640 Versione Nardo | Rear tyres | 335/30 ZR18
+2007 Lamborghini Murcielago LP640 Versione Nardo | Front wheels | 8.5x18
+2007 Lamborghini Murcielago LP640 Versione Nardo | Rear wheels | 13.0x18
+2007 Lamborghini Murcielago LP640 Versione Nardo | Gears | 6 manual
+2007 Lamborghini Murcielago LP640 Versione Nardo | Drive | full
 2007 Lamborghini Reventon | Count | 20
 2007 Lamborghini Reventon | Volume | 6496 cc
 2007 Lamborghini Reventon | Cylinders | V12
@@ -9751,6 +11856,290 @@
 2008 Kia c'eed | Wheelbase | 2650 mm
 2008 Kia c'eed | Gears | 4 auto
 2008 Kia c'eed | Gears | 5 manual
+2008 Lamborghini Alar | Volume | 7700 cc
+2008 Lamborghini Alar | Cylinders | V12
+2008 Lamborghini Alar | Power | 775 hp @ 7500 rpm
+2008 Lamborghini Alar | Fuel feed | distributed injection
+2008 Lamborghini Alar | Valves per cylinder | 4
+2008 Lamborghini Alar | Speed | 409.1 kmph
+2008 Lamborghini Alar | 0-100 kmph | 3.6 s
+2008 Lamborghini Alar | Weight | 1200 kg
+2008 Lamborghini Alar | Body | coupe
+2008 Lamborghini Alar | Seats | 2
+2008 Lamborghini Alar | Doors | 2
+2008 Lamborghini Alar | Fuel tank | 100 L
+2008 Lamborghini Alar | Wheelbase | 2650 mm
+2008 Lamborghini Alar | Clearance | 140 mm
+2008 Lamborghini Alar | Engine placement | center longitudinal
+2008 Lamborghini Alar | Rear brakes | ventilated disc
+2008 Lamborghini Alar | Front brakes | ventilated disc
+2008 Lamborghini Alar | Gears | 5 manual
+2008 Lamborghini Alar | Drive | rear
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Volume | 5204 cc
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Cylinders | V10
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Power | 570 hp @ 8000 rpm
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Torque | 540 nm @ 6500 rpm
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Fuel feed | direct injection
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Compression ratio | 12.5
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Valves per cylinder | 4
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Weight | 1300 kg
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Body | coupe
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Length | 4345 mm
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Width | 1900 mm
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Seats | 2
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Doors | 2
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Front track | 1622 mm
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Rear track | 1592 mm
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Wheelbase | 2560 mm
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Engine placement | center longitudinal
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Brakes | ventilated disc
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Gears | 6 seq
+2008 Lamborghini Gallardo Blancpain Super Trofeo | Drive | full
+2008 Lamborghini Gallardo GT3 Strada | Volume | 4961 cc
+2008 Lamborghini Gallardo GT3 Strada | Cylinders | V10
+2008 Lamborghini Gallardo GT3 Strada | Power | 535 hp @ 8000 rpm
+2008 Lamborghini Gallardo GT3 Strada | Torque | 510 nm @ 4500 rpm
+2008 Lamborghini Gallardo GT3 Strada | Fuel feed | distributed injection
+2008 Lamborghini Gallardo GT3 Strada | Compression ratio | 11.0
+2008 Lamborghini Gallardo GT3 Strada | Bore | 82.5 mm
+2008 Lamborghini Gallardo GT3 Strada | Stroke | 92.8 mm
+2008 Lamborghini Gallardo GT3 Strada | Valves per cylinder | 4
+2008 Lamborghini Gallardo GT3 Strada | Weight | 1420 kg
+2008 Lamborghini Gallardo GT3 Strada | Body | coupe
+2008 Lamborghini Gallardo GT3 Strada | Length | 4300 mm
+2008 Lamborghini Gallardo GT3 Strada | Width | 1930 mm
+2008 Lamborghini Gallardo GT3 Strada | Height | 1165 mm
+2008 Lamborghini Gallardo GT3 Strada | Seats | 2
+2008 Lamborghini Gallardo GT3 Strada | Doors | 2
+2008 Lamborghini Gallardo GT3 Strada | Fuel tank | 90 L
+2008 Lamborghini Gallardo GT3 Strada | Front track | 1643 mm
+2008 Lamborghini Gallardo GT3 Strada | Rear track | 1592 mm
+2008 Lamborghini Gallardo GT3 Strada | Wheelbase | 2560 mm
+2008 Lamborghini Gallardo GT3 Strada | Engine placement | center longitudinal
+2008 Lamborghini Gallardo GT3 Strada | Rear brakes | ventilated disc
+2008 Lamborghini Gallardo GT3 Strada | Front brakes | ventilated disc
+2008 Lamborghini Gallardo GT3 Strada | Front brakes size | 385 mm
+2008 Lamborghini Gallardo GT3 Strada | Rear brakes size | 355 mm
+2008 Lamborghini Gallardo GT3 Strada | Front tyres | 265/30 ZR19
+2008 Lamborghini Gallardo GT3 Strada | Rear tyres | 285/30 ZR19
+2008 Lamborghini Gallardo GT3 Strada | Front wheels | 10.0x19
+2008 Lamborghini Gallardo GT3 Strada | Rear wheels | 11.0x19
+2008 Lamborghini Gallardo GT3 Strada | Gears | 6 seq
+2008 Lamborghini Gallardo GT3 Strada | Drive | full
+2008 Lamborghini Gallardo LP560-4 | Volume | 5204 cc
+2008 Lamborghini Gallardo LP560-4 | Cylinders | V10
+2008 Lamborghini Gallardo LP560-4 | Power | 560 hp @ 8000 rpm
+2008 Lamborghini Gallardo LP560-4 | Torque | 540 nm @ 6500 rpm
+2008 Lamborghini Gallardo LP560-4 | Fuel feed | direct injection
+2008 Lamborghini Gallardo LP560-4 | Compression ratio | 12.5
+2008 Lamborghini Gallardo LP560-4 | Valves per cylinder | 4
+2008 Lamborghini Gallardo LP560-4 | Speed | 325 kmph
+2008 Lamborghini Gallardo LP560-4 | 0-100 kmph | 3.7 s
+2008 Lamborghini Gallardo LP560-4 | 0-200 kmph | 11.8 s
+2008 Lamborghini Gallardo LP560-4 | Weight | 1410 kg
+2008 Lamborghini Gallardo LP560-4 | Body | coupe
+2008 Lamborghini Gallardo LP560-4 | Length | 4345 mm
+2008 Lamborghini Gallardo LP560-4 | Width | 1900 mm
+2008 Lamborghini Gallardo LP560-4 | Height | 1165 mm
+2008 Lamborghini Gallardo LP560-4 | Seats | 2
+2008 Lamborghini Gallardo LP560-4 | Doors | 2
+2008 Lamborghini Gallardo LP560-4 | Fuel tank | 90 L
+2008 Lamborghini Gallardo LP560-4 | Front track | 1622 mm
+2008 Lamborghini Gallardo LP560-4 | Rear track | 1592 mm
+2008 Lamborghini Gallardo LP560-4 | Wheelbase | 2560 mm
+2008 Lamborghini Gallardo LP560-4 | Engine placement | center longitudinal
+2008 Lamborghini Gallardo LP560-4 | Rear brakes | ventilated disc
+2008 Lamborghini Gallardo LP560-4 | Front brakes | ventilated disc
+2008 Lamborghini Gallardo LP560-4 | Front brakes size | 365 mm
+2008 Lamborghini Gallardo LP560-4 | Rear brakes size | 356 mm
+2008 Lamborghini Gallardo LP560-4 | Front tyres | 235/35 ZR19
+2008 Lamborghini Gallardo LP560-4 | Rear tyres | 295/30 ZR19
+2008 Lamborghini Gallardo LP560-4 | Front wheels | 8.5x19
+2008 Lamborghini Gallardo LP560-4 | Rear wheels | 11.0x19
+2008 Lamborghini Gallardo LP560-4 | Gears | 6 manual
+2008 Lamborghini Gallardo LP560-4 | Drive | full
+2008 Lamborghini Gallardo LP560-4 IMSA | Volume | 5204 cc
+2008 Lamborghini Gallardo LP560-4 IMSA | Cylinders | V10
+2008 Lamborghini Gallardo LP560-4 IMSA | Power | 584 hp
+2008 Lamborghini Gallardo LP560-4 IMSA | Fuel feed | direct injection
+2008 Lamborghini Gallardo LP560-4 IMSA | Compression ratio | 12.5
+2008 Lamborghini Gallardo LP560-4 IMSA | Valves per cylinder | 4
+2008 Lamborghini Gallardo LP560-4 IMSA | Weight | 1410 kg
+2008 Lamborghini Gallardo LP560-4 IMSA | Body | coupe
+2008 Lamborghini Gallardo LP560-4 IMSA | Length | 4345 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Width | 1900 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Height | 1165 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Seats | 2
+2008 Lamborghini Gallardo LP560-4 IMSA | Doors | 2
+2008 Lamborghini Gallardo LP560-4 IMSA | Fuel tank | 90 L
+2008 Lamborghini Gallardo LP560-4 IMSA | Front track | 1622 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Rear track | 1592 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Wheelbase | 2560 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Engine placement | center longitudinal
+2008 Lamborghini Gallardo LP560-4 IMSA | Rear brakes | ventilated disc
+2008 Lamborghini Gallardo LP560-4 IMSA | Front brakes | ventilated disc
+2008 Lamborghini Gallardo LP560-4 IMSA | Front brakes size | 365 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Rear brakes size | 356 mm
+2008 Lamborghini Gallardo LP560-4 IMSA | Gears | 6 manual
+2008 Lamborghini Gallardo LP560-4 IMSA | Drive | full
+2008 Lamborghini Gallardo LP560-4 Spider | Volume | 5204 cc
+2008 Lamborghini Gallardo LP560-4 Spider | Cylinders | V10
+2008 Lamborghini Gallardo LP560-4 Spider | Power | 560 hp @ 8000 rpm
+2008 Lamborghini Gallardo LP560-4 Spider | Torque | 540 nm @ 6500 rpm
+2008 Lamborghini Gallardo LP560-4 Spider | Fuel feed | direct injection
+2008 Lamborghini Gallardo LP560-4 Spider | Compression ratio | 12.5
+2008 Lamborghini Gallardo LP560-4 Spider | Valves per cylinder | 4
+2008 Lamborghini Gallardo LP560-4 Spider | Speed | 324 kmph
+2008 Lamborghini Gallardo LP560-4 Spider | 0-100 kmph | 4.0 s
+2008 Lamborghini Gallardo LP560-4 Spider | 0-200 kmph | 13.1 s
+2008 Lamborghini Gallardo LP560-4 Spider | Weight | 1550 kg
+2008 Lamborghini Gallardo LP560-4 Spider | Body | roadster
+2008 Lamborghini Gallardo LP560-4 Spider | Length | 4345 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Width | 1900 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Height | 1165 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Seats | 2
+2008 Lamborghini Gallardo LP560-4 Spider | Doors | 2
+2008 Lamborghini Gallardo LP560-4 Spider | Fuel tank | 90 L
+2008 Lamborghini Gallardo LP560-4 Spider | Front track | 1622 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Rear track | 1592 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Wheelbase | 2560 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Engine placement | center longitudinal
+2008 Lamborghini Gallardo LP560-4 Spider | Rear brakes | ventilated disc
+2008 Lamborghini Gallardo LP560-4 Spider | Front brakes | ventilated disc
+2008 Lamborghini Gallardo LP560-4 Spider | Front brakes size | 365 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Rear brakes size | 356 mm
+2008 Lamborghini Gallardo LP560-4 Spider | Front tyres | 235/35 ZR19
+2008 Lamborghini Gallardo LP560-4 Spider | Rear tyres | 295/30 ZR19
+2008 Lamborghini Gallardo LP560-4 Spider | Front wheels | 8.5x19
+2008 Lamborghini Gallardo LP560-4 Spider | Rear wheels | 11.0x19
+2008 Lamborghini Gallardo LP560-4 Spider | Gears | 6 manual
+2008 Lamborghini Gallardo LP560-4 Spider | Drive | full
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Volume | 6496 cc
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Cylinders | V12
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Power | 708 hp
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Fuel feed | distributed injection
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Compression ratio | 11.0
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Bore | 88 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Stroke | 89 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Valves per cylinder | 4
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Speed | 350 kmph
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | 0-100 kmph | 3.3 s
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Body | roadster
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Length | 4580 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Width | 2115 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Height | 1033 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Seats | 2
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Doors | 2
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Fuel tank | 100 L
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Front track | 1635 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Rear track | 1695 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Wheelbase | 2665 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Engine placement | center longitudinal
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Rear brakes | ventilated disc
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Front brakes | ventilated disc
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Front brakes size | 380 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Rear brakes size | 355 mm
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Front tyres | 265/30 ZR19
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Rear tyres | 345/25 ZR20
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Front wheels | 19
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Rear wheels | 20
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Gears | 6 seq
+2008 Lamborghini Murcielago LP640 Spider GTR IMSA | Drive | full
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Volume | 6496 cc
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Cylinders | V12
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Power | 710 hp @ 7625 rpm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Torque | 700 nm @ 6400 rpm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Fuel feed | distributed injection
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Bore | 88 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Stroke | 89 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Valves per cylinder | 4
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Speed | 360 kmph
+2008 Lamborghini Murcielago LP710-2 Edo Competition | 0-100 kmph | 3.2 s
+2008 Lamborghini Murcielago LP710-2 Edo Competition | 0-200 kmph | 10.0 s
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Weight | 1625 kg
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Body | coupe
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Length | 4610 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Width | 2058 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Height | 1135 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Seats | 2
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Doors | 2
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Fuel tank | 100 L
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Front track | 1635 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Rear track | 1695 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Wheelbase | 2665 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Engine placement | center longitudinal
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Rear brakes | ventilated disc
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Front brakes | ventilated disc
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Front brakes size | 380 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Rear brakes size | 355 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Front tyres | Continental V-Max 225/35 ZR 19
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Rear tyres | 325/30 ZR19
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Front wheels | 8.5x19
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Rear wheels | 13.0x19
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Gears | 6 manual
+2008 Lamborghini Murcielago LP710-2 Edo Competition | Drive | rear
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Volume | 6496 cc
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Cylinders | V12
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Power | 710 hp @ 7625 rpm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Torque | 700 nm @ 6400 rpm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Fuel feed | distributed injection
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Bore | 88 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Stroke | 89 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Valves per cylinder | 4
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Speed | 360 kmph
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | 0-100 kmph | 3.2 s
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | 0-200 kmph | 10.0 s
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Weight | 1625 kg
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Body | coupe
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Length | 4610 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Width | 2058 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Height | 1135 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Seats | 2
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Doors | 2
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Fuel tank | 100 L
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Front track | 1635 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Rear track | 1695 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Wheelbase | 2665 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Engine placement | center longitudinal
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Rear brakes | ventilated disc
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Front brakes | ventilated disc
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Front brakes size | 380 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Rear brakes size | 355 mm
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Front tyres | Continental V-Max 225/35 ZR 19
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Rear tyres | 325/30 ZR19
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Front wheels | 8.5x19
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Rear wheels | 13.0x19
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Gears | 6 manual
+2008 Lamborghini Murcielago LP710-2 Edo Competition Christian Audigier Edition | Drive | rear
+2008 Lamborghini Murcielago R-GT Strada | Volume | 6496 cc
+2008 Lamborghini Murcielago R-GT Strada | Cylinders | V12
+2008 Lamborghini Murcielago R-GT Strada | Power | 640 hp @ 8000 rpm
+2008 Lamborghini Murcielago R-GT Strada | Torque | 660 nm @ 6000 rpm
+2008 Lamborghini Murcielago R-GT Strada | Fuel feed | distributed injection
+2008 Lamborghini Murcielago R-GT Strada | Compression ratio | 11.0
+2008 Lamborghini Murcielago R-GT Strada | Bore | 88 mm
+2008 Lamborghini Murcielago R-GT Strada | Stroke | 89 mm
+2008 Lamborghini Murcielago R-GT Strada | Valves per cylinder | 4
+2008 Lamborghini Murcielago R-GT Strada | Body | coupe
+2008 Lamborghini Murcielago R-GT Strada | Length | 4610 mm
+2008 Lamborghini Murcielago R-GT Strada | Width | 2058 mm
+2008 Lamborghini Murcielago R-GT Strada | Height | 1135 mm
+2008 Lamborghini Murcielago R-GT Strada | Seats | 2
+2008 Lamborghini Murcielago R-GT Strada | Doors | 2
+2008 Lamborghini Murcielago R-GT Strada | Fuel tank | 100 L
+2008 Lamborghini Murcielago R-GT Strada | Front track | 1635 mm
+2008 Lamborghini Murcielago R-GT Strada | Rear track | 1695 mm
+2008 Lamborghini Murcielago R-GT Strada | Wheelbase | 2665 mm
+2008 Lamborghini Murcielago R-GT Strada | Engine placement | center longitudinal
+2008 Lamborghini Murcielago R-GT Strada | Rear brakes | ventilated disc
+2008 Lamborghini Murcielago R-GT Strada | Front brakes | ventilated disc
+2008 Lamborghini Murcielago R-GT Strada | Front brakes size | 380 mm
+2008 Lamborghini Murcielago R-GT Strada | Rear brakes size | 355 mm
+2008 Lamborghini Murcielago R-GT Strada | Front tyres | 245/35 ZR18
+2008 Lamborghini Murcielago R-GT Strada | Rear tyres | 335/30 ZR18
+2008 Lamborghini Murcielago R-GT Strada | Front wheels | 8.5x18
+2008 Lamborghini Murcielago R-GT Strada | Rear wheels | 13.0x18
+2008 Lamborghini Murcielago R-GT Strada | Drive | rear
 2008 Mitsuoka Galue S50 Limousine | Price | 68600 EUR
 2008 Mitsuoka Galue S50 Limousine | Price | 80000 EUR
 2008 Mitsuoka Galue S50 Limousine | Power | 223 hp
@@ -9860,11 +12249,63 @@
 2009 Kia Soul | Wheelbase | 2550 mm
 2009 Lamborghini Gallardo LP550-2 Valentino Balboni | Count | 250
 2009 Lamborghini Gallardo LP550-2 Valentino Balboni | Drive | rear
+2009 Lamborghini Gallardo LP560 GT3 | Volume | 5204 cc
+2009 Lamborghini Gallardo LP560 GT3 | Cylinders | V10
+2009 Lamborghini Gallardo LP560 GT3 | Power | 570 hp @ 8000 rpm
+2009 Lamborghini Gallardo LP560 GT3 | Torque | 540 nm @ 6500 rpm
+2009 Lamborghini Gallardo LP560 GT3 | Fuel feed | distributed injection
+2009 Lamborghini Gallardo LP560 GT3 | Bore | 82.5 mm
+2009 Lamborghini Gallardo LP560 GT3 | Stroke | 92.8 mm
+2009 Lamborghini Gallardo LP560 GT3 | Valves per cylinder | 4
+2009 Lamborghini Gallardo LP560 GT3 | Weight | 1190 kg
+2009 Lamborghini Gallardo LP560 GT3 | Body | coupe
+2009 Lamborghini Gallardo LP560 GT3 | Seats | 1
+2009 Lamborghini Gallardo LP560 GT3 | Doors | 2
+2009 Lamborghini Gallardo LP560 GT3 | Wheelbase | 2560 mm
+2009 Lamborghini Gallardo LP560 GT3 | Engine placement | center longitudinal
+2009 Lamborghini Gallardo LP560 GT3 | Brakes | ventilated disc
+2009 Lamborghini Gallardo LP560 GT3 | Front tyres | 270/650-18
+2009 Lamborghini Gallardo LP560 GT3 | Rear tyres | 310/710-18
+2009 Lamborghini Gallardo LP560 GT3 | Gears | 6 seq
+2009 Lamborghini Gallardo LP560 GT3 | Drive | rear
+2009 Lamborghini Murcielago LP670-4 SV | Volume | 6496 cc
 2009 Lamborghini Murcielago LP670-4 SV | Volume | 6.5 L
 2009 Lamborghini Murcielago LP670-4 SV | Cylinders | V12
+2009 Lamborghini Murcielago LP670-4 SV | Cylinders | V12
+2009 Lamborghini Murcielago LP670-4 SV | Power | 670 hp @ 8000 rpm
 2009 Lamborghini Murcielago LP670-4 SV | Power | 670 hp
+2009 Lamborghini Murcielago LP670-4 SV | Torque | 660 nm @ 6500 rpm
+2009 Lamborghini Murcielago LP670-4 SV | Fuel feed | distributed injection
+2009 Lamborghini Murcielago LP670-4 SV | Compression ratio | 11.0
+2009 Lamborghini Murcielago LP670-4 SV | Bore | 88 mm
+2009 Lamborghini Murcielago LP670-4 SV | Stroke | 89 mm
+2009 Lamborghini Murcielago LP670-4 SV | Valves per cylinder | 4
+2009 Lamborghini Murcielago LP670-4 SV | Speed | 342 kmph
 2009 Lamborghini Murcielago LP670-4 SV | Speed | 342 kmph
 2009 Lamborghini Murcielago LP670-4 SV | 0-100 kmph | 3.2 s
+2009 Lamborghini Murcielago LP670-4 SV | 0-100 kmph | 3.2 s
+2009 Lamborghini Murcielago LP670-4 SV | Weight | 1565 kg
+2009 Lamborghini Murcielago LP670-4 SV | Body | coupe
+2009 Lamborghini Murcielago LP670-4 SV | Length | 4610 mm
+2009 Lamborghini Murcielago LP670-4 SV | Width | 2058 mm
+2009 Lamborghini Murcielago LP670-4 SV | Height | 1135 mm
+2009 Lamborghini Murcielago LP670-4 SV | Seats | 2
+2009 Lamborghini Murcielago LP670-4 SV | Doors | 2
+2009 Lamborghini Murcielago LP670-4 SV | Fuel tank | 100 L
+2009 Lamborghini Murcielago LP670-4 SV | Front track | 1635 mm
+2009 Lamborghini Murcielago LP670-4 SV | Rear track | 1695 mm
+2009 Lamborghini Murcielago LP670-4 SV | Wheelbase | 2665 mm
+2009 Lamborghini Murcielago LP670-4 SV | Engine placement | center longitudinal
+2009 Lamborghini Murcielago LP670-4 SV | Rear brakes | ventilated disc
+2009 Lamborghini Murcielago LP670-4 SV | Front brakes | ventilated disc
+2009 Lamborghini Murcielago LP670-4 SV | Front brakes size | 380 mm
+2009 Lamborghini Murcielago LP670-4 SV | Rear brakes size | 380 mm
+2009 Lamborghini Murcielago LP670-4 SV | Front tyres | 245/35 ZR18
+2009 Lamborghini Murcielago LP670-4 SV | Rear tyres | 335/30 ZR18
+2009 Lamborghini Murcielago LP670-4 SV | Front wheels | 8.5x18
+2009 Lamborghini Murcielago LP670-4 SV | Rear wheels | 13.0x18
+2009 Lamborghini Murcielago LP670-4 SV | Gears | 6 manual
+2009 Lamborghini Murcielago LP670-4 SV | Drive | full
 2009 Lamborghini Murcielago LP670-4 SV | Drive | full
 2009 Lamborghini Reventon Roadster | Price | 1100000 EUR @ 2009
 2009 Lamborghini Reventon Roadster | Count | 20
