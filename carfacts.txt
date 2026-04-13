@@ -94,6 +94,7 @@
 1926 Horch 303 Berlin | Cylinders | 8
 1926 Horch 303 Berlin | Power | 60 hp
 1927 Bugatti Type 41 Royale | Volume | 12.8 L
+1927 Checker Model G | Cylinders | 6
 1928 Bentley Speed Six | Count | 183
 1928 Bentley Speed Six | Volume | 6597 cc
 1928 Bentley Speed Six | Cylinders | R6
@@ -157,6 +158,7 @@
 1931 Opel 1.2 Liter | Drive | rear
 1931 АМО-3 | Volume | 4.88 L
 1931 АМО-3 | Power | 66 hp
+1932 Checker Model T | Cylinders | 8
 1932 Opel Regent | Volume | 1735 cc
 1932 Opel Regent | Cylinders | R6
 1932 Opel Regent | Body | sedan
@@ -634,6 +636,9 @@
 1950 ГАЗ-12 ЗИМ | Seats | 6
 1950 ГАЗ-12 ЗИМ | Wheelbase | 3200 mm
 1950-01 Opel Olympia Cabriolet | Count | 46636
+1951 Checker A4 | Volume | 3.7 L
+1951 Checker A4 | Power | 81 hp
+1951 Checker A4 | Speed | 120 kmph
 1951 Daimler Straight Eight | Volume | 5460 cc
 1951 Daimler Straight Eight | Cylinders | R8
 1951 Daimler Straight Eight | Power | 150 hp @ 3600 rpm
@@ -4524,7 +4529,30 @@
 1981-09 Audi Coupe GT KE | Power | 96 kW
 1981-09 Audi Coupe GT KE | Fuel | petrol
 1981-09 Audi Coupe GT KE | Gears | 5 manual
-1982 Audi 100 | Cx | 0.300
+1982 Audi 100 (C3) | Cx | 0.300
+1982 Audi 100 (C3) | Volume | 1.8 L
+1982 Audi 100 (C3) | Volume | 2.3 L
+1982 Audi 100 (C3) | Cylinders | 4
+1982 Audi 100 (C3) | Cylinders | 5
+1982 Audi 100 (C3) | Power | 75 hp
+1982 Audi 100 (C3) | Power | 220 hp
+1982 Audi 100 (C3) | Fuel | petrol
+1982 Audi 100 (C3) | Cx | 0.300
+1982 Audi 100 (C3) | Rear brakes | drum
+1982 Audi 100 (C3) | Rear brakes | disc
+1982 Audi 100 (C3) | Front brakes | disc
+1982 Audi 100 (C3) | Front brakes | ventilated disc
+1982 Audi 100 (C3) | Gears | 5 manual
+1982 Audi 100 (C3) | Gears | 3 auto
+1982 Audi 100 2.0 diesel (C3) | Volume | 2 L
+1982 Audi 100 2.0 diesel (C3) | Cylinders | 5
+1982 Audi 100 2.0 diesel (C3) | Power | 69 hp
+1982 Audi 100 2.0 diesel (C3) | Fuel | diesel
+1982 Audi 100 2.5 turbo diesel (C3) | Volume | 2.5 L
+1982 Audi 100 2.5 turbo diesel (C3) | Cylinders | 5
+1982 Audi 100 2.5 turbo diesel (C3) | Compressor | turbo
+1982 Audi 100 2.5 turbo diesel (C3) | Power | 120 hp
+1982 Audi 100 2.5 turbo diesel (C3) | Fuel | diesel
 1982 Lamborghini Countach LP500 S | Volume | 4754 cc
 1982 Lamborghini Countach LP500 S | Cylinders | V12
 1982 Lamborghini Countach LP500 S | Power | 375 hp @ 7000 rpm
@@ -4944,6 +4972,7 @@
 1984 Audi 200 C3 | Length | 4807 mm
 1984 Audi 200 C3 | Width | 1814 mm
 1984 Audi 200 C3 | Height | 1422 mm
+1984 Audi 200 С3 | Seats | 5
 1984 Audi 4000 S | Volume | 1.8 L
 1984 Audi 4000 S | Cylinders | 4
 1984 Audi Sport Quattro (B2) | Compressor | 2 turbo
@@ -5300,6 +5329,24 @@
 1985-08 Audi Coupe Quattro JT | Gears | 5 manual
 1985-09 Opel Corsa (A) | Volume | 1.3 L
 1985-09 Opel Corsa (A) | Power | 60 hp
+1986 Audi 80 (B3) | Volume | 1.6 L
+1986 Audi 80 (B3) | Volume | 1.8 L
+1986 Audi 80 (B3) | Volume | 1.8 L
+1986 Audi 80 (B3) | Volume | 1.9 L
+1986 Audi 80 (B3) | Volume | 1.6 L
+1986 Audi 80 (B3) | Cylinders | R4
+1986 Audi 80 (B3) | Cylinders | R4
+1986 Audi 80 (B3) | Cylinders | R4
+1986 Audi 80 (B3) | Power | 75 hp
+1986 Audi 80 (B3) | Power | 90 hp
+1986 Audi 80 (B3) | Power | 54 hp
+1986 Audi 80 (B3) | Fuel | petrol
+1986 Audi 80 (B3) | Fuel | petrol
+1986 Audi 80 (B3) | Fuel | petrol
+1986 Audi 80 (B3) | Fuel | petrol
+1986 Audi 80 (B3) | Fuel | diesel
+1986 Audi 80 (B3) | Fuel feed | injection
+1986 Audi 80 (B3) | Fuel feed | injection
 1986 Audi 80 (B3) | Cx | 0.290
 1986 Audi 80 (B3) | Gears | 5 manual
 1986 Audi 80 (B3) | Gears | 4 auto
@@ -5623,6 +5670,19 @@
 1987-08 Opel Corsa (A) | Volume | 1.5 L
 1987-08 Opel Corsa (A) | Power | 50 hp
 1987-08 Opel Corsa (A) | Fuel | diesel
+1987-09 Audi 90 (B3) | Volume | 2 L
+1987-09 Audi 90 (B3) | Volume | 2.3 L
+1987-09 Audi 90 (B3) | Volume | 2.3 L
+1987-09 Audi 90 (B3) | Cylinders | 5
+1987-09 Audi 90 (B3) | Cylinders | 5
+1987-09 Audi 90 (B3) | Cylinders | 5
+1987-09 Audi 90 (B3) | Power | 115 hp
+1987-09 Audi 90 (B3) | Power | 136 hp
+1987-09 Audi 90 (B3) | Power | 160 hp
+1987-09 Audi 90 (B3) | Fuel | petrol
+1987-09 Audi 90 (B3) | Fuel | petrol
+1987-09 Audi 90 (B3) | Valves per cylinder | 4
+1987-09 Audi 90 (B3) | Brakes | ventilated disc
 1987-09 Opel Senator 2.5i (B) | Volume | 2.5 L
 1987-09 Opel Senator 2.5i (B) | Fuel feed | injection
 1987-09 Opel Senator 3.0i (B) | Volume | 3 L
@@ -5694,6 +5754,12 @@
 1988 Audi 100 Quattro | Width | 1814 mm
 1988 Audi 100 Quattro | Height | 1422 mm
 1988 Audi 100 Quattro | Drive | full
+1988 Audi Coupe | Cylinders | 4
+1988 Audi Coupe | Compressor | turbo
+1988 Audi Coupe | Power | 115 hp
+1988 Audi Coupe Quattro | Cylinders | 5
+1988 Audi Coupe Quattro | Compressor | turbo
+1988 Audi Coupe Quattro | Power | 230 hp
 1988 Audi Quattro | Volume | 2226 cc
 1988 Audi Quattro | Compressor | turbo
 1988 Audi Quattro | Power | 200 hp
@@ -5901,6 +5967,13 @@
 1988-05 Audi 100 | Power | 125 kW
 1988-05 Audi 100 | Fuel | petrol
 1988-05 Opel Corsa GSi (A) | Power | 100 hp
+1988-07 Audi 80 | Volume | 1.6 L
+1988-07 Audi 80 | Volume | 1964 cc
+1988-07 Audi 80 | Cylinders | 4
+1988-07 Audi 80 | Compressor | turbo
+1988-07 Audi 80 | Power | 80 hp
+1988-07 Audi 80 | Power | 113 hp
+1988-07 Audi 80 | Fuel | diesel
 1988-09 Opel Vectra (A) | Body | hatchback 5
 1988-09 Opel Vectra (A) | Body | sedan 4
 1988-09 Opel Vectra (A) | Engine placement | front transverse
@@ -5946,8 +6019,14 @@
 1988-11 Audi quattro 2.3 | Power | 100 kW
 1988-11 Audi quattro 2.3 | Fuel | petrol
 1988-11 Audi quattro 2.3 | Fuel | petrol
+1989 Audi 80 (8A) | Volume | 1.9 L
+1989 Audi 80 (8A) | Power | 68 hp
+1989 Audi 80 (8A) | Fuel | diesel
 1989 Audi 80 (B3) | Volume | 1.9 L
 1989 Audi 80 (B3) | Fuel | diesel
+1989 Audi 90 (B3) | Volume | 1.8 L
+1989 Audi 90 (B3) | Cylinders | 5
+1989 Audi 90 (B3) | Cylinders | 4
 1989 Audi 90 (B3) | Cylinders | 5
 1989 Audi Coupe (B3) | Body | coupe
 1989 Audi Coupe (B3) | Length | 4366 mm
@@ -6331,6 +6410,14 @@
 1991 Audi 100 (C4) | Body | wagon
 1991 Audi 100 (C4) | Doors | 4
 1991 Audi 80 (B4) | Wheels | 15
+1991 Audi 80 (B4) | Wheels | 15
+1991 Audi 80 (B4) | Drive | front
+1991 Audi 80 (B4) "AAH" | Volume | 2.8 L
+1991 Audi 80 (B4) "AAH" | Cylinders | V6
+1991 Audi 80 (B4) "AAH" | Power | 174 hp
+1991 Audi 80 (B4) "ABC" | Volume | 2.6 L
+1991 Audi 80 (B4) "ABC" | Cylinders | V6
+1991 Audi 80 (B4) "ABC" | Power | 150 hp
 1991 Audi 80 2.6 (B4) | Volume | 2.6 L
 1991 Audi 80 2.6 (B4) | Cylinders | V6
 1991 Audi 80 2.8 (B4) | Volume | 2.8 L
@@ -6607,6 +6694,13 @@
 1992 Audi 80 (B4) | Height | 1397 mm
 1992 Audi 80 (B4) | Doors | 4
 1992 Audi Coupe | Body | coupe
+1992 Audi S2 | Volume | 2.2 L
+1992 Audi S2 | Compressor | turbo
+1992 Audi S2 | Power | 220 hp
+1992 Audi S2 | Gears | 6 manual
+1992 Audi S2 | Drive | full
+1992 Audi S2 3B | Count | 5469
+1992 Audi S2 ABY | Count | 1901
 1992 Audi S2 Turbo | Compressor | turbo
 1992 BMW 850csi | Volume | 5578 cc
 1992 BMW 850csi | Power | 380 hp
@@ -6805,6 +6899,10 @@
 1992-01 Audi Coupe | Valves per cylinder | 4
 1992-01 Audi Coupe | Gears | 5 manual
 1992-01 Audi Coupe | Gears | 6 auto
+1992-06 Audi 80 Avant | Volume | 2.6 L
+1992-06 Audi 80 Avant | Cylinders | V6
+1992-06 Audi 80 Avant | Power | 150 hp
+1992-06 Audi 80 Avant | Fuel feed | injection
 1992-08 Audi Coupe | Volume | 2 L
 1992-08 Audi Coupe | Volume | 2.5 L
 1992-08 Audi Coupe | Cylinders | V6
@@ -6821,10 +6919,12 @@
 1992-08 Audi Quattro | Power | 110 kW
 1992-08 Audi Quattro | Fuel | petrol
 1992-08 Audi S2 | Gears | 5 manual
-1992-08 Audi S2 3B | Volume | 2.2 L
-1992-08 Audi S2 3B | Compressor | turbo
-1992-08 Audi S2 3B | Power | 162 kW
-1992-08 Audi S2 3B | Fuel | petrol
+1992-08 Audi S2 | Volume | 2.2 L
+1992-08 Audi S2 | Compressor | turbo
+1992-08 Audi S2 | Power | 162 kW
+1992-08 Audi S2 | Fuel | petrol
+1992-09 Audi S2 | Volume | 2.2 L
+1992-09 Audi S2 | Power | 320 hp
 1992-10 Audi quattro S2 | Gears | 6 manual
 1992-10 Audi Quattro S2 | Volume | 2.2 L
 1992-10 Audi Quattro S2 | Compressor | turbo
@@ -6885,6 +6985,10 @@
 1993 Aston Martin Lagonda Limited | Brakes | ventilated disc
 1993 Aston Martin Lagonda Limited | Gears | 5 manual
 1993 Aston Martin Lagonda Limited | Gears | 6 manual
+1993 Audi 80 Avant | Volume | 2.8 L
+1993 Audi 80 Avant | Power | 174 hp
+1993 Audi 80 Avant | Speed | 220 kmph
+1993 Audi 80 Avant | Fuel consumption | 13 L/100km
 1993 BMW 840 Ci | Cylinders | 8
 1993 BMW 840 Ci | Power | 286 hp
 1993 BMW 840 Ci | Speed | 250 kmph
@@ -7194,6 +7298,11 @@
 1993 ВАЗ-21065 | Volume | 1.5 L
 1993 ВАЗ-21065 | Fuel feed | carb Solex
 1993 ВАЗ-21065 | Gears | 5 manual
+1993-01 Audi S2 Avant | Count | 1818
+1993-01 Audi S2 Avant | Volume | 2.2 L
+1993-01 Audi S2 Avant | Cylinders | 5
+1993-01 Audi S2 Avant | Power | 230 hp
+1993-01 Audi S2 Avant | Drive | full
 1993-03 Lamborghini Diablo VT | Drive | full
 1993-09 Porsche 962 Dauer | Volume | 2994 cc
 1993-09 Porsche 962 Dauer | Cylinders | B6
@@ -7434,6 +7543,14 @@
 1994-02 Opel Omega 2.5TD (B) | Volume | 2497 cc
 1994-02 Opel Omega 2.5TD (B) | Compressor | turbo
 1994-02 Opel Omega 2.5TD (B) | Fuel | diesel
+1994-05 Audi RS2 Avant | Count | 2891
+1994-05 Audi RS2 Avant | Volume | 2.2 L
+1994-05 Audi RS2 Avant | Power | 315 hp
+1994-05 Audi RS2 Avant | Torque | 400 nm
+1994-05 Audi RS2 Avant | Fuel | petrol 98
+1994-05 Audi RS2 Avant | Speed | 262 kmph
+1994-05 Audi RS2 Avant | 0-100 kmph | 5.4 s
+1994-05 Audi RS2 Avant | Fuel consumption | 15 L/100km
 1994-06 Audi A8 2.8 (D2 4D) | Volume | 2.8 L
 1994-06 Audi A8 2.8 (D2 4D) | Cylinders | V6
 1994-06 Audi A8 2.8 (D2 4D) | Power | 128 kW
@@ -7809,6 +7926,23 @@
 1995-07 Audi A8 3.7 (D2 4D) | Fuel | petrol
 1995-07 Audi A8 3.7 (D2 4D) | Gears | 5 auto
 1995-10 Porsche 911 Targa | Body | targa
+1995-12 Alpina B12 5.7 E-Kat | Price | 199800 DM @ 1997
+1995-12 Alpina B12 5.7 E-Kat | Count | 202
+1995-12 Alpina B12 5.7 E-Kat | Volume | 5.7 L
+1995-12 Alpina B12 5.7 E-Kat | Cylinders | V12
+1995-12 Alpina B12 5.7 E-Kat | Power | 387 hp @ 5200 rpm
+1995-12 Alpina B12 5.7 E-Kat | Torque | 560 nm @ 4100 rpm
+1995-12 Alpina B12 5.7 E-Kat | Compression ratio | 10.5
+1995-12 Alpina B12 5.7 E-Kat | Speed | 280 kmph
+1995-12 Alpina B12 5.7 E-Kat | 0-100 kmph | 6.4 s
+1995-12 Alpina B12 5.7 E-Kat | Weight | 2 t
+1995-12 Alpina B12 5.7 E-Kat | Length | 4984 mm
+1995-12 Alpina B12 5.7 E-Kat | Brakes | ventilated disc
+1995-12 Alpina B12 5.7 E-Kat | Front tyres | 245/40 ZR20
+1995-12 Alpina B12 5.7 E-Kat | Rear tyres | 275/35 ZR20
+1995-12 Alpina B12 5.7 E-Kat | Gears | 5 auto
+1995-12 Alpina B12 5.7 E-Kat L | Price | 220000 DM @ 1997
+1995-12 Alpina B12 5.7 E-Kat L | Length | 5124 mm
 1996 Aston Martin V8 Coupe | Volume | 5341 cc
 1996 Aston Martin V8 Coupe | Cylinders | V8
 1996 Aston Martin V8 Coupe | Power | 355 hp @ 6000 rpm
@@ -9786,6 +9920,17 @@
 1999-01 Volkswagen Passat V6 TDI (B5) | Compressor | turbo
 1999-01 Volkswagen Passat V6 TDI (B5) | Power | 150 hp
 1999-01 Volkswagen Passat V6 TDI (B5) | Fuel | diesel
+1999-07 Alpina B12 6.0 E-Kat | Price | 218600 DM @ 1999
+1999-07 Alpina B12 6.0 E-Kat | Count | 71
+1999-07 Alpina B12 6.0 E-Kat | Volume | 5980 cc
+1999-07 Alpina B12 6.0 E-Kat | Power | 430 hp @ 5600 rpm
+1999-07 Alpina B12 6.0 E-Kat | Torque | 600 nm @ 4200 rpm
+1999-07 Alpina B12 6.0 E-Kat | Fuel | petrol 95
+1999-07 Alpina B12 6.0 E-Kat | Speed | 291 kmph
+1999-07 Alpina B12 6.0 E-Kat | 0-100 kmph | 5.9 s
+1999-07 Alpina B12 6.0 E-Kat | Fuel consumption | 15.5 L/100km
+1999-07 Alpina B12 6.0 E-Kat L | Price | 238000 DM @ 1999
+1999-07 Alpina B12 6.0 E-Kat L | Count | 23
 1999-10 Opel Astra Van | Volume | 1.6 L
 1999-10 Opel Astra Van | Volume | 1.7 L
 1999-10 Opel Astra Van | Volume | 2 L
