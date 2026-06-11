@@ -4,13 +4,18 @@ import { parseTyre } from "./parsers/tyres.mts";
 import { readWheel } from "./parsers/wheels.mts";
 import { Val } from "./val.mts";
 
+type enumvars = { canonical: string; aliases: string[] };
+
 /**
  * Matches one of the given strings, case-insensitive.
  */
-const matchOneOf = (val: string, options: string[]) => {
+const matchOneOf = (val: string, options: (string | enumvars)[]) => {
   for (const opt of options) {
-    if (val.toLowerCase() == opt.toLowerCase()) {
-      return { val: opt };
+    const vars = typeof opt == "string" ? { canonical: opt, aliases: [] } : opt;
+    for (const s of [vars.canonical, ...vars.aliases]) {
+      if (s.toLowerCase() == val.toLowerCase()) {
+        return { val: vars.canonical };
+      }
     }
   }
 };
@@ -66,7 +71,8 @@ const matchUnit = (
   }
 };
 
-const oneof = (options: string[]) => (val: string) => matchOneOf(val, options);
+const oneof = (options: (string | enumvars)[]) => (val: string) =>
+  matchOneOf(val, options);
 const unitless = (fixed?: number) => (val: string) => matchNumber(val, fixed);
 
 const parseSeconds = (s: string) => {
@@ -165,10 +171,10 @@ export const getParam = (name: string) => {
 export const known = {
   Price: units(["USD", "DM", "GBP", "RUR", "EUR", "BYN"]),
   Count(val: string) {
-    let m = val.match(/(\d+) in (\d+)/);
+    let m = val.match(/(\d+) (in|@) (\d+)/);
     if (m) {
       const n = m[1];
-      const y = m[2];
+      const y = m[3];
       return { val: `${y} ${n}` };
     }
     m = val.match(/^(\d+)\s?K$/i);
@@ -220,6 +226,7 @@ export const known = {
     "natural gas",
     "diesel",
     "electric",
+    "petrol 72",
     "petrol 92",
     "petrol 95",
     "petrol 98",
@@ -346,12 +353,15 @@ export const known = {
     "cabriolet 2",
     "cabriolet 4",
     "cabriolet",
+    "convertible",
     "coupe 2",
     "coupe 4",
     "coupe",
     "hatchback 3",
+    "hatchback 4",
     "hatchback 5",
     "hatchback",
+    "limousine 4",
     "monocock",
     "roadster",
     "sedan 2",
@@ -406,7 +416,13 @@ export const known = {
     "rear longitudinal",
     "rear",
   ]),
-  Brakes: brakes,
+  Brakes: oneof([
+    { canonical: "drum", aliases: ["drums"] },
+    { canonical: "all drum", aliases: ["all drums"] },
+    "disc",
+    "all disc",
+    "ventilated disc",
+  ]),
   "Rear brakes": brakes,
   "Front brakes": brakes,
   "Brakes size": units(["mm", "in"]),
