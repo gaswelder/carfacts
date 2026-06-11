@@ -1,6 +1,6 @@
 import readline from "readline/promises";
 import { formatFact, groupFacts } from "./db.mts";
-import { known } from "./schema.mts";
+import { getParam, known } from "./schema.mts";
 
 type Fact = { id: string; k: string; v: string };
 
@@ -35,21 +35,21 @@ const parse = async () => {
       oops("invalid tuple: " + line, {});
       continue;
     }
-    const [id, k, vs] = cols;
-    const normalize = known[k];
-    if (!normalize) {
-      oops("unknown param", { id, k });
+    const [id, ks, vs] = cols;
+    const param = getParam(ks);
+    if (!param) {
+      oops("unknown param", { id, ks });
       continue;
     }
 
     // " :: " splits a tuple into multiple tuples.
     for (const v of vs.split(" :: ")) {
-      const norm = normalize(v);
+      const norm = param.v(v);
       if (!norm || !("val" in norm)) {
-        oops("failed to parse value for " + k, { id, k, v });
+        oops("failed to parse value for " + param.k, { id, ks, v });
         continue;
       }
-      facts.push({ id, k, v });
+      facts.push({ id, k: param.k, v });
     }
   }
   if (!ok) {

@@ -153,6 +153,15 @@ const wheels = (val: string) => {
   if (w) return { val: w.format() };
 };
 
+export const getParam = (name: string) => {
+  for (const [k, v] of Object.entries(known)) {
+    if (k.toLowerCase() == name.toLowerCase()) {
+      return { k, v };
+    }
+  }
+  return null;
+};
+
 export const known = {
   Price: units(["USD", "DM", "GBP", "RUR", "EUR", "BYN"]),
   Count(val: string) {
