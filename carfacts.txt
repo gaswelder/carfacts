@@ -193,27 +193,27 @@
 1932 Opel Regent | Cylinders | R6
 1932 Opel Regent | Body | sedan
 1932 Opel Regent | Body | cabriolet
-1932 ГАЗ-АА | Volume | 3285 cc
-1932 ГАЗ-АА | Cylinders | 4
-1932 ГАЗ-АА | Power | 40 hp @ 2200 rpm
-1932 ГАЗ-АА | Fuel feed | carb
-1932 ГАЗ-АА | Compression ratio | 4.2
-1932 ГАЗ-АА | Bore | 98.43 mm
-1932 ГАЗ-АА | Stroke | 107.95 mm
-1932 ГАЗ-АА | Speed | 70 kmph
-1932 ГАЗ-АА | Fuel consumption | 20.5 L/100km
-1932 ГАЗ-АА | Weight | 1810 kg
-1932 ГАЗ-АА | Length | 5335 mm
-1932 ГАЗ-АА | Width | 2040 mm
-1932 ГАЗ-АА | Height | 1970 mm
-1932 ГАЗ-АА | Fuel tank | 40 L
-1932 ГАЗ-АА | Front track | 1405 mm
-1932 ГАЗ-АА | Rear track | 1600 mm
-1932 ГАЗ-АА | Wheelbase | 3340 mm
-1932 ГАЗ-АА | Clearance | 200 mm
-1932 ГАЗ-АА | Tyres | 6.50x20
-1932 ГАЗ-АА | Gears | 4 manual
-1932 ГАЗ-АА | Drive | rear
+1932 ГАЗ АА | Volume | 3285 cc
+1932 ГАЗ АА | Cylinders | 4
+1932 ГАЗ АА | Power | 40 hp @ 2200 rpm
+1932 ГАЗ АА | Fuel feed | carb
+1932 ГАЗ АА | Compression ratio | 4.2
+1932 ГАЗ АА | Bore | 98.43 mm
+1932 ГАЗ АА | Stroke | 107.95 mm
+1932 ГАЗ АА | Speed | 70 kmph
+1932 ГАЗ АА | Fuel consumption | 20.5 L/100km
+1932 ГАЗ АА | Weight | 1810 kg
+1932 ГАЗ АА | Length | 5335 mm
+1932 ГАЗ АА | Width | 2040 mm
+1932 ГАЗ АА | Height | 1970 mm
+1932 ГАЗ АА | Fuel tank | 40 L
+1932 ГАЗ АА | Front track | 1405 mm
+1932 ГАЗ АА | Rear track | 1600 mm
+1932 ГАЗ АА | Wheelbase | 3340 mm
+1932 ГАЗ АА | Clearance | 200 mm
+1932 ГАЗ АА | Tyres | 6.50x20
+1932 ГАЗ АА | Gears | 4 manual
+1932 ГАЗ АА | Drive | rear
 1933 Adler Trumpf | Volume | 1.7 L
 1933 Adler Trumpf | Volume | 1504 cc
 1933 Adler Trumpf | Cylinders | R4
@@ -236,26 +236,26 @@
 1933 Standart-Superior | Cylinders | 2
 1933 Standart-Superior | Power | 12 hp
 1933 Standart-Superior | Engine placement | rear
-1933 ГАЗ-4 | Volume | 3285 cc
-1933 ГАЗ-4 | Cylinders | 4
-1933 ГАЗ-4 | Power | 40 hp @ 2200 rpm
-1933 ГАЗ-4 | Speed | 90 kmph
-1933 ГАЗ-4 | Weight | 1120 kg
-1933 ГАЗ-4 | Length | 4080 mm
-1933 ГАЗ-4 | Width | 1710 mm
-1933 ГАЗ-4 | Height | 1825 mm
-1933 ГАЗ-4 | Seats | 2
-1933 ГАЗ-4 | Wheelbase | 2620 mm
-1933 ГАЗ-4 | Tyres | 5.50x19
-1933 ГАЗ-4 | Gears | 3
-1933 ГАЗ-4 | Drive | rear
-1933 ЗиС-5 | Count | 1000000
-1933 ЗиС-5 | Volume | 5.55 L
-1933 ЗиС-5 | Power | 73 hp
-1933 ЗиС-5 | Fuel | petrol
-1933 ЗиС-5 | Fuel | kerosene
-1933 ЗиС-5 | Compression ratio | 4.7
-1933 ЗиС-5 | Fuel consumption | 30..33 L/100km
+1933 ГАЗ 4 | Volume | 3285 cc
+1933 ГАЗ 4 | Cylinders | 4
+1933 ГАЗ 4 | Power | 40 hp @ 2200 rpm
+1933 ГАЗ 4 | Speed | 90 kmph
+1933 ГАЗ 4 | Weight | 1120 kg
+1933 ГАЗ 4 | Length | 4080 mm
+1933 ГАЗ 4 | Width | 1710 mm
+1933 ГАЗ 4 | Height | 1825 mm
+1933 ГАЗ 4 | Seats | 2
+1933 ГАЗ 4 | Wheelbase | 2620 mm
+1933 ГАЗ 4 | Tyres | 5.50x19
+1933 ГАЗ 4 | Gears | 3
+1933 ГАЗ 4 | Drive | rear
+1933 ЗИС 5 | Count | 1000000
+1933 ЗИС 5 | Volume | 5.55 L
+1933 ЗИС 5 | Power | 73 hp
+1933 ЗИС 5 | Fuel | petrol
+1933 ЗИС 5 | Fuel | kerosene
+1933 ЗИС 5 | Compression ratio | 4.7
+1933 ЗИС 5 | Fuel consumption | 30..33 L/100km
 1933 ЛК-1 | Power | 60 kW @ 1200 rpm
 1933 ЛК-1 | Fuel | electric
 1933 ЛК-1 | Speed | 55 kmph
@@ -372,48 +372,39 @@
 1936 Auto Union Type C | Wheelbase | 291 cm
 1936 Auto Union Type C | Gears | 4
 1936 Volkswagen-30 | Count | 30
-1936 ГАЗ-M1 | Volume | 3.3 L
-1936 ГАЗ-M1 | Cylinders | 4
-1936 ГАЗ-M1 | Power | 50 hp @ 2800 rpm
-1936 ГАЗ-M1 | Fuel feed | carb
-1936 ГАЗ-M1 | Gears | 3
-1936 ЗиС-101 | Count | 8752
-1936 ЗиС-101 | Count | 1936 11
-1936 ЗиС-101 | Volume | 5766 cc
-1936 ЗиС-101 | Cylinders | R8
-1936 ЗиС-101 | Power | 90 hp @ 2800 rpm
-1936 ЗиС-101 | Compression ratio | 4.8
-1936 ЗиС-101 | Bore | 85 mm
-1936 ЗиС-101 | Stroke | 127 mm
-1936 ЗиС-101 | Speed | 115 kmph
-1936 ЗиС-101 | Fuel consumption | 25.5 L/100km
-1936 ЗиС-101 | Weight | 2550 kg
-1936 ЗиС-101 | Body | sedan 4
-1936 ЗиС-101 | Body | ambulance 5
-1936 ЗиС-101 | Length | 5750 mm
-1936 ЗиС-101 | Width | 1890 mm
-1936 ЗиС-101 | Height | 1870 mm
-1936 ЗиС-101 | Seats | 7
-1936 ЗиС-101 | Fuel tank | 80 L
-1936 ЗиС-101 | Front track | 1500 mm
-1936 ЗиС-101 | Rear track | 1550 mm
-1936 ЗиС-101 | Wheelbase | 3605 mm
-1936 ЗиС-101 | Clearance | 190 mm
-1936 ЗиС-101 | Tyres | 7.50x17 in
-1936 ЗиС-101 | Gears | 3 manual
-1936 ЗИС-101 | Count | 8752
-1936 ЗИС-101 | Volume | 5766 cc
-1936 ЗИС-101 | Cylinders | R8
-1936 ЗИС-101 | Power | 90 hp @ 2800 rpm
-1936 ЗИС-101 | Bore | 127 mm
-1936 ЗИС-101 | Stroke | 85 mm
-1936 ЗИС-101 | Speed | 115 kmph
-1936 ЗИС-101 | Weight | 3 t
-1936 ЗИС-101 | Body | limousine 4
-1936 ЗИС-101 | Seats | 7
-1936 ЗИС-101 | Rear brakes | drum
-1936 ЗИС-101 | Front brakes | drum
-1936 ЗИС-101 | Gears | 3 manual
+1936 ГАЗ M1 | Volume | 3.3 L
+1936 ГАЗ M1 | Cylinders | 4
+1936 ГАЗ M1 | Power | 50 hp @ 2800 rpm
+1936 ГАЗ M1 | Fuel feed | carb
+1936 ГАЗ M1 | Gears | 3
+1936 ЗИС 101 | Count | 8752
+1936 ЗИС 101 | Count | 1936 11
+1936 ЗИС 101 | Volume | 5766 cc
+1936 ЗИС 101 | Cylinders | R8
+1936 ЗИС 101 | Power | 90 hp @ 2800 rpm
+1936 ЗИС 101 | Compression ratio | 4.8
+1936 ЗИС 101 | Bore | 85 mm
+1936 ЗИС 101 | Stroke | 127 mm
+1936 ЗИС 101 | Speed | 115 kmph
+1936 ЗИС 101 | Fuel consumption | 25.5 L/100km
+1936 ЗИС 101 | Weight | 2550 kg
+1936 ЗИС 101 | Weight | 3 t
+1936 ЗИС 101 | Body | sedan 4
+1936 ЗИС 101 | Body | ambulance 5
+1936 ЗИС 101 | Body | limousine 4
+1936 ЗИС 101 | Length | 5750 mm
+1936 ЗИС 101 | Width | 1890 mm
+1936 ЗИС 101 | Height | 1870 mm
+1936 ЗИС 101 | Seats | 7
+1936 ЗИС 101 | Fuel tank | 80 L
+1936 ЗИС 101 | Front track | 1500 mm
+1936 ЗИС 101 | Rear track | 1550 mm
+1936 ЗИС 101 | Wheelbase | 3605 mm
+1936 ЗИС 101 | Clearance | 190 mm
+1936 ЗИС 101 | Rear brakes | drum
+1936 ЗИС 101 | Front brakes | drum
+1936 ЗИС 101 | Tyres | 7.50x17 in
+1936 ЗИС 101 | Gears | 3 manual
 1937 Auto Union | Power | 545 hp
 1937 Bugatti Type 57 | Volume | 3.3 L
 1937 Opel Admiral | Count | 6404
@@ -531,58 +522,58 @@
 1939 Mercedes-Benz 770K | Length | 6 m
 1939 Mercedes-Benz 770K | Seats | 7
 1939 Mercedes-Benz 770K | Gears | 5
-1940 ЗИС-101А | Power | 116 hp
-1940 ЗИС-101А | Speed | 125 kmph
-1941 ГАЗ-11-73 | Volume | 3.5 L
-1941 ГАЗ-11-73 | Cylinders | 6
-1941 ГАЗ-11-73 | Power | 76 hp @ 3400 rpm
-1941 ГАЗ-61 | Count | 1941 400
-1941 ГАЗ-61 | Volume | 3480 cc
-1941 ГАЗ-61 | Cylinders | 6
-1941 ГАЗ-61 | Power | 85 hp
-1941 ГАЗ-61 | Fuel feed | carb
-1941 ГАЗ-61 | Compression ratio | 6.5
-1941 ГАЗ-61 | Speed | 107 kmph
-1941 ГАЗ-61 | Fuel consumption | 15 L/100km
-1941 ГАЗ-61 | Weight | 1650 kg
-1941 ГАЗ-61 | Seats | 5
-1941 ГАЗ-61 | Wheelbase | 2845 mm
-1941 ГАЗ-61 | Clearance | 210 mm
-1941 ГАЗ-61 | Tyres | 7.00x16
-1941 ГАЗ-61 | Gears | 3
-1941 ГАЗ-61 | Drive | full
-1941 ГАЗ-64 | Count | 686
-1943-09 ГАЗ-67 | Count | 92843
-1943-09 ГАЗ-67 | Volume | 3280 cc
-1943-09 ГАЗ-67 | Cylinders | R4
-1943-09 ГАЗ-67 | Power | 54 hp @ 2800 rpm
-1943-09 ГАЗ-67 | Torque | 17.5 kgm
-1943-09 ГАЗ-67 | Speed | 90 kmph
-1943-09 ГАЗ-67 | Fuel consumption | 40 L/100km
-1943-09 ГАЗ-67 | Weight | 1376 kg
-1943-09 ГАЗ-67 | Front track | 1449 mm
-1943-09 ГАЗ-67 | Rear track | 1449 mm
-1943-09 ГАЗ-67 | Wheelbase | 2100 mm
-1943-09 ГАЗ-67 | Clearance | 227 mm
-1944 ГАЗ-67 Б | Count | 62843
-1944 ГАЗ-67 Б | Volume | 3284 cc
-1944 ГАЗ-67 Б | Cylinders | R4
-1944 ГАЗ-67 Б | Power | 54 hp
-1944 ГАЗ-67 Б | Fuel feed | carb
-1944 ГАЗ-67 Б | Speed | 90 kmph
-1944 ГАЗ-67 Б | Weight | 1320 kg
-1944 ГАЗ-67 Б | Length | 3350 mm
-1944 ГАЗ-67 Б | Width | 1700 mm
-1944 ГАЗ-67 Б | Height | 1690 mm
-1944 ГАЗ-67 Б | Seats | 4
-1944 ГАЗ-67 Б | Front track | 1440 mm
-1944 ГАЗ-67 Б | Wheelbase | 2100 mm
-1944 ГАЗ-67 Б | Clearance | 210 mm
-1944 ГАЗ-67 Б | Tyres | 7,00—16
-1944 ГАЗ-67 Б | Gears | 4 manual
-1944 ГАЗ-67 Б | Drive | full
-1945 ЗИС-110 | Count | 2089 @ 1945..1958
-1945 ЗИС-110 | Cylinders | 8
+1940 ЗИС 101А | Power | 116 hp
+1940 ЗИС 101А | Speed | 125 kmph
+1941 ГАЗ 11-73 | Volume | 3.5 L
+1941 ГАЗ 11-73 | Cylinders | 6
+1941 ГАЗ 11-73 | Power | 76 hp @ 3400 rpm
+1941 ГАЗ 61 | Count | 1941 400
+1941 ГАЗ 61 | Volume | 3480 cc
+1941 ГАЗ 61 | Cylinders | 6
+1941 ГАЗ 61 | Power | 85 hp
+1941 ГАЗ 61 | Fuel feed | carb
+1941 ГАЗ 61 | Compression ratio | 6.5
+1941 ГАЗ 61 | Speed | 107 kmph
+1941 ГАЗ 61 | Fuel consumption | 15 L/100km
+1941 ГАЗ 61 | Weight | 1650 kg
+1941 ГАЗ 61 | Seats | 5
+1941 ГАЗ 61 | Wheelbase | 2845 mm
+1941 ГАЗ 61 | Clearance | 210 mm
+1941 ГАЗ 61 | Tyres | 7.00x16
+1941 ГАЗ 61 | Gears | 3
+1941 ГАЗ 61 | Drive | full
+1941 ГАЗ 64 | Count | 686
+1943-09 ГАЗ 67 | Count | 92843
+1943-09 ГАЗ 67 | Volume | 3280 cc
+1943-09 ГАЗ 67 | Cylinders | R4
+1943-09 ГАЗ 67 | Power | 54 hp @ 2800 rpm
+1943-09 ГАЗ 67 | Torque | 17.5 kgm
+1943-09 ГАЗ 67 | Speed | 90 kmph
+1943-09 ГАЗ 67 | Fuel consumption | 40 L/100km
+1943-09 ГАЗ 67 | Weight | 1376 kg
+1943-09 ГАЗ 67 | Front track | 1449 mm
+1943-09 ГАЗ 67 | Rear track | 1449 mm
+1943-09 ГАЗ 67 | Wheelbase | 2100 mm
+1943-09 ГАЗ 67 | Clearance | 227 mm
+1944 ГАЗ 67 Б | Count | 62843
+1944 ГАЗ 67 Б | Volume | 3284 cc
+1944 ГАЗ 67 Б | Cylinders | R4
+1944 ГАЗ 67 Б | Power | 54 hp
+1944 ГАЗ 67 Б | Fuel feed | carb
+1944 ГАЗ 67 Б | Speed | 90 kmph
+1944 ГАЗ 67 Б | Weight | 1320 kg
+1944 ГАЗ 67 Б | Length | 3350 mm
+1944 ГАЗ 67 Б | Width | 1700 mm
+1944 ГАЗ 67 Б | Height | 1690 mm
+1944 ГАЗ 67 Б | Seats | 4
+1944 ГАЗ 67 Б | Front track | 1440 mm
+1944 ГАЗ 67 Б | Wheelbase | 2100 mm
+1944 ГАЗ 67 Б | Clearance | 210 mm
+1944 ГАЗ 67 Б | Tyres | 7,00—16
+1944 ГАЗ 67 Б | Gears | 4 manual
+1944 ГАЗ 67 Б | Drive | full
+1945 ЗИС 110 | Count | 2089 @ 1945..1958
+1945 ЗИС 110 | Cylinders | 8
 1947 Bugatti Type 73 | Volume | 1488 cc
 1947 Bugatti Type 73 | Cylinders | 4
 1947 Bugatti Type 73 | Body | coupe
@@ -745,13 +736,13 @@
 1950 Porsche Ferdinand coupe | Brakes | drum
 1950 Porsche Ferdinand coupe | Gears | 4 manual
 1950 Porsche Ferdinand coupe | Drive | rear
-1950 ГАЗ-12 ЗИМ | Count | 21527
-1950 ГАЗ-12 ЗИМ | Cylinders | 6
-1950 ГАЗ-12 ЗИМ | Power | 90 hp
-1950 ГАЗ-12 ЗИМ | Speed | 125 kmph
-1950 ГАЗ-12 ЗИМ | Weight | 1806 kg
-1950 ГАЗ-12 ЗИМ | Seats | 6
-1950 ГАЗ-12 ЗИМ | Wheelbase | 3200 mm
+1950 ГАЗ 12 ЗИМ | Count | 21527
+1950 ГАЗ 12 ЗИМ | Cylinders | 6
+1950 ГАЗ 12 ЗИМ | Power | 90 hp
+1950 ГАЗ 12 ЗИМ | Speed | 125 kmph
+1950 ГАЗ 12 ЗИМ | Weight | 1806 kg
+1950 ГАЗ 12 ЗИМ | Seats | 6
+1950 ГАЗ 12 ЗИМ | Wheelbase | 3200 mm
 1950-01 Opel Olympia Cabriolet | Count | 46636
 1951 Checker A4 | Volume | 3.7 L
 1951 Checker A4 | Power | 81 hp
@@ -854,29 +845,29 @@
 1953 Opel Olympia Rekord sedan2 | Body | sedan 2
 1953 Porsche 1300 S | Volume | 1290 cc
 1953 Porsche 1300 S | Power | 60 hp
-1953-09 ГАЗ-69 | Volume | 2111 cc
-1953-09 ГАЗ-69 | Cylinders | R4
-1953-09 ГАЗ-69 | Power | 55 hp @ 3600 rpm
-1953-09 ГАЗ-69 | Torque | 12.5 kgm
-1953-09 ГАЗ-69 | Speed | 90 kmph
-1953-09 ГАЗ-69 | Fuel consumption | 28.8 L/100km
-1953-09 ГАЗ-69 | Weight | 1556 kg
-1953-09 ГАЗ-69 | Seats | 8
-1953-09 ГАЗ-69 | Front track | 1437 mm
-1953-09 ГАЗ-69 | Rear track | 1440 mm
-1953-09 ГАЗ-69 | Wheelbase | 2300 mm
-1953-09 ГАЗ-69 | Clearance | 210 mm
-1953-09 ГАЗ-69Б | Volume | 2111 cc
-1953-09 ГАЗ-69Б | Cylinders | R4
-1953-09 ГАЗ-69Б | Power | 55 hp @ 3600 rpm
-1953-09 ГАЗ-69Б | Torque | 12.5 kgm
-1953-09 ГАЗ-69Б | Speed | 90 kmph
-1953-09 ГАЗ-69Б | Weight | 1556 kg
-1953-09 ГАЗ-69Б | Seats | 5
-1953-09 ГАЗ-69Б | Front track | 1437 mm
-1953-09 ГАЗ-69Б | Rear track | 1440 mm
-1953-09 ГАЗ-69Б | Wheelbase | 2300 mm
-1953-09 ГАЗ-69Б | Clearance | 210 mm
+1953-09 ГАЗ 69 | Volume | 2111 cc
+1953-09 ГАЗ 69 | Cylinders | R4
+1953-09 ГАЗ 69 | Power | 55 hp @ 3600 rpm
+1953-09 ГАЗ 69 | Torque | 12.5 kgm
+1953-09 ГАЗ 69 | Speed | 90 kmph
+1953-09 ГАЗ 69 | Fuel consumption | 28.8 L/100km
+1953-09 ГАЗ 69 | Weight | 1556 kg
+1953-09 ГАЗ 69 | Seats | 8
+1953-09 ГАЗ 69 | Front track | 1437 mm
+1953-09 ГАЗ 69 | Rear track | 1440 mm
+1953-09 ГАЗ 69 | Wheelbase | 2300 mm
+1953-09 ГАЗ 69 | Clearance | 210 mm
+1953-09 ГАЗ 69Б | Volume | 2111 cc
+1953-09 ГАЗ 69Б | Cylinders | R4
+1953-09 ГАЗ 69Б | Power | 55 hp @ 3600 rpm
+1953-09 ГАЗ 69Б | Torque | 12.5 kgm
+1953-09 ГАЗ 69Б | Speed | 90 kmph
+1953-09 ГАЗ 69Б | Weight | 1556 kg
+1953-09 ГАЗ 69Б | Seats | 5
+1953-09 ГАЗ 69Б | Front track | 1437 mm
+1953-09 ГАЗ 69Б | Rear track | 1440 mm
+1953-09 ГАЗ 69Б | Wheelbase | 2300 mm
+1953-09 ГАЗ 69Б | Clearance | 210 mm
 1953-11 Opel Kapitan | Price | 9660 DM
 1953-11 Opel Kapitan | Count | 61543
 1953-11 Opel Kapitan | Power | 68 hp
@@ -967,38 +958,38 @@
 1955 Porsche Carrera GS-GT | Brakes | drum
 1955 Porsche Carrera GS-GT | Gears | 4 manual
 1955 Porsche Carrera GS-GT | Drive | rear
-1955 ГАЗ-19 | Count | 1
-1955 ГАЗ-19 | Volume | 2.1 L
-1955 ГАЗ-19 | Cylinders | 4
-1955 ГАЗ-19 | Power | 55 hp
-1955 ГАЗ-19 | Fuel | petrol
-1955 ГАЗ-19 | Body | van 3
-1955 ГАЗ-19 | Gears | 3
-1955 ГАЗ-19 | Drive | rear
-1955 ГАЗ-19А | Count | 1
-1955 ГАЗ-19А | Volume | 2.1 L
-1955 ГАЗ-19А | Cylinders | 4
-1955 ГАЗ-19А | Power | 55 hp
-1955 ГАЗ-19А | Fuel | petrol
-1955 ГАЗ-19А | Body | van 3
-1955 ГАЗ-19А | Gears | 3
-1955 ГАЗ-19А | Drive | rear
-1955 ГАЗ-72 | Count | 4677
-1955 ГАЗ-72 | Power | 52 hp @ 3600 rpm
-1955 ГАЗ-72 | Fuel feed | carb
-1955 ГАЗ-72 | Speed | 90 kmph
-1955 ГАЗ-72 | Fuel consumption | 14 L/100km
-1955 ГАЗ-72 | Weight | 1560 kg
-1955 ГАЗ-72 | Body | sedan 4
-1955 ГАЗ-72 | Seats | 5
-1955 ГАЗ-72 | Fuel tank | 55 L
-1955 ГАЗ-72 | Front track | 1355 mm
-1955 ГАЗ-72 | Rear track | 1388 mm
-1955 ГАЗ-72 | Clearance | 210 mm
-1955 ГАЗ-72 | Brakes | drum
-1955 ГАЗ-72 | Tyres | 6.50x16
-1955 ГАЗ-72 | Gears | 3 manual
-1955 ГАЗ-72 | Drive | full
+1955 ГАЗ 19 | Count | 1
+1955 ГАЗ 19 | Volume | 2.1 L
+1955 ГАЗ 19 | Cylinders | 4
+1955 ГАЗ 19 | Power | 55 hp
+1955 ГАЗ 19 | Fuel | petrol
+1955 ГАЗ 19 | Body | van 3
+1955 ГАЗ 19 | Gears | 3
+1955 ГАЗ 19 | Drive | rear
+1955 ГАЗ 19А | Count | 1
+1955 ГАЗ 19А | Volume | 2.1 L
+1955 ГАЗ 19А | Cylinders | 4
+1955 ГАЗ 19А | Power | 55 hp
+1955 ГАЗ 19А | Fuel | petrol
+1955 ГАЗ 19А | Body | van 3
+1955 ГАЗ 19А | Gears | 3
+1955 ГАЗ 19А | Drive | rear
+1955 ГАЗ 72 | Count | 4677
+1955 ГАЗ 72 | Power | 52 hp @ 3600 rpm
+1955 ГАЗ 72 | Fuel feed | carb
+1955 ГАЗ 72 | Speed | 90 kmph
+1955 ГАЗ 72 | Fuel consumption | 14 L/100km
+1955 ГАЗ 72 | Weight | 1560 kg
+1955 ГАЗ 72 | Body | sedan 4
+1955 ГАЗ 72 | Seats | 5
+1955 ГАЗ 72 | Fuel tank | 55 L
+1955 ГАЗ 72 | Front track | 1355 mm
+1955 ГАЗ 72 | Rear track | 1388 mm
+1955 ГАЗ 72 | Clearance | 210 mm
+1955 ГАЗ 72 | Brakes | drum
+1955 ГАЗ 72 | Tyres | 6.50x16
+1955 ГАЗ 72 | Gears | 3 manual
+1955 ГАЗ 72 | Drive | full
 1955-08 Opel Olympia Rekord | Price | 6260 DM
 1955-08 Opel Olympia Rekord | Count | 113416
 1955-08 Opel Olympia Rekord | Count | 128827
@@ -1135,14 +1126,14 @@
 1956 Porsche 356 A Speedster 1.6 S | Wheels | 4.5x15
 1956 Porsche 356 A Speedster 1.6 S | Gears | 4 manual
 1956 Porsche 356 A Speedster 1.6 S | Drive | rear
+1956 ГАЗ 21 | Count | 638875
+1956 ГАЗ 62 | Cylinders | 6
+1956 ГАЗ 62 | Weight | 2300 kg
+1956 ГАЗ 62 | Wheelbase | 2850 mm
 1956 ГАЗ М73 | Body | coupe
 1956 ГАЗ М73 | Wheelbase | 2000 mm
 1956 ГАЗ М73 | Tyres | 15 in
 1956 ГАЗ М73 | Drive | full
-1956 ГАЗ-21 | Count | 638875
-1956 ГАЗ-62 | Cylinders | 6
-1956 ГАЗ-62 | Weight | 2300 kg
-1956 ГАЗ-62 | Wheelbase | 2850 mm
 1957 Cadillac Eldorado Brougham | Volume | 6 L
 1957 Cadillac Eldorado Brougham | Cylinders | V8
 1957 Cadillac Eldorado Brougham | Power | 325 hp
@@ -1349,16 +1340,16 @@
 1959 Porsche 718 (RSK 718/1600) | Power | 148 hp
 1959 Porsche Bergspyder | Volume | 1.6 L
 1959 Porsche Bergspyder | Power | 148 hp
-1959 ГАЗ-13 Чайка | Count | 2000
-1959 ГАЗ-13 Чайка | Volume | 3.5 L
-1959 ГАЗ-13 Чайка | Cylinders | V8
-1959 ГАЗ-13 Чайка | Power | 195 hp @ 4200 rpm
-1959 ГАЗ-13 Чайка | Speed | 160 kmph
-1959 ГАЗ-13 Чайка | 0-100 kmph | 20.0 s
-1959 ГАЗ-13 Чайка | Fuel consumption | 21 L/100km
-1959 ГАЗ-13 Чайка | Weight | 2 t
-1959 ГАЗ-13 Чайка | Body | sedan 4
-1959 ГАЗ-13 Чайка | Seats | 7
+1959 ГАЗ 13 Чайка | Count | 2000
+1959 ГАЗ 13 Чайка | Volume | 3.5 L
+1959 ГАЗ 13 Чайка | Cylinders | V8
+1959 ГАЗ 13 Чайка | Power | 195 hp @ 4200 rpm
+1959 ГАЗ 13 Чайка | Speed | 160 kmph
+1959 ГАЗ 13 Чайка | 0-100 kmph | 20.0 s
+1959 ГАЗ 13 Чайка | Fuel consumption | 21 L/100km
+1959 ГАЗ 13 Чайка | Weight | 2 t
+1959 ГАЗ 13 Чайка | Body | sedan 4
+1959 ГАЗ 13 Чайка | Seats | 7
 1959-07 Opel Olympia Rekord (P1) | Volume | 1680 cc
 1959-07 Opel Olympia Rekord (P1) | Power | 55 hp @ 4000 rpm
 1959-08 Opel 1200 | Price | 5835 DM
@@ -1595,24 +1586,24 @@
 1961 Opel Rekord | Power | 55 hp
 1961 Opel Rekord | Speed | 135 kmph
 1961 Opel Rekord | Weight | 975 kg
+1961 Porsche 356 B 2000GS Carrera 2GT | Volume | 2 L
 1961 Porsche 356 B Abarth Carrera | Power | 140 hp
-1961 Porsche 356B 2000GS Carrera 2GT | Volume | 2 L
-1961 Porsche 356B Hardtop | Volume | 1600 cc
-1961 Porsche 356B Hardtop | Cylinders | B4
-1961 Porsche 356B Hardtop | Power | 60 hp @ 4500 rpm
-1961 Porsche 356B Hardtop | Compression ratio | 7.5
-1961 Porsche 356B Hardtop | Speed | 96 mph
-1961 Porsche 356B Hardtop | 0-100 kmph | 16.5 s
-1961 Porsche 356B Hardtop | Weight | 900 kg
-1961 Porsche 356B Hardtop | Length | 4010 mm
-1961 Porsche 356B Hardtop | Width | 1670 mm
-1961 Porsche 356B Hardtop | Height | 1310 mm
-1961 Porsche 356B Hardtop | Wheelbase | 2100 mm
-1961 Porsche 356B Hardtop | Engine placement | rear
-1961 Porsche 356B Hardtop | Brakes | drum
-1961 Porsche 356B Hardtop | Gears | 4 manual
-1961 Porsche 356B Hardtop | Drive | rear
-1961 ГАЗ-13Б Чайка | Body | phaeton
+1961 Porsche 356 B Hardtop | Volume | 1600 cc
+1961 Porsche 356 B Hardtop | Cylinders | B4
+1961 Porsche 356 B Hardtop | Power | 60 hp @ 4500 rpm
+1961 Porsche 356 B Hardtop | Compression ratio | 7.5
+1961 Porsche 356 B Hardtop | Speed | 96 mph
+1961 Porsche 356 B Hardtop | 0-100 kmph | 16.5 s
+1961 Porsche 356 B Hardtop | Weight | 900 kg
+1961 Porsche 356 B Hardtop | Length | 4010 mm
+1961 Porsche 356 B Hardtop | Width | 1670 mm
+1961 Porsche 356 B Hardtop | Height | 1310 mm
+1961 Porsche 356 B Hardtop | Wheelbase | 2100 mm
+1961 Porsche 356 B Hardtop | Engine placement | rear
+1961 Porsche 356 B Hardtop | Brakes | drum
+1961 Porsche 356 B Hardtop | Gears | 4 manual
+1961 Porsche 356 B Hardtop | Drive | rear
+1961 ГАЗ 13Б Чайка | Body | phaeton
 1962 Alfa Romeo Giulia TI | Volume | 1570 cc
 1962 Ferrari 250 GT Berlinetta Lusso | Count | 350
 1962 Ferrari 250 GT Berlinetta Lusso | Volume | 2953 cc
@@ -1664,26 +1655,25 @@
 1962 Opel Kadett (A) | Body | wagon
 1962 Opel Kadett (A) | Gears | 4 manual
 1962 Porsche 1600 C | Power | 75 hp
-1962 Porsche 1600 C | Power | 75 hp
 1962 Porsche 1600 SC | Power | 95 hp
 1962 Porsche 356 B | Brakes | disc
+1962 Porsche 356 C | Volume | 1600 cc
+1962 Porsche 356 C | Cylinders | B4
+1962 Porsche 356 C | Power | 75 hp @ 5000 rpm
+1962 Porsche 356 C | Compression ratio | 8.5
+1962 Porsche 356 C | Speed | 112 mph
+1962 Porsche 356 C | 0-100 kmph | 12.0 s
+1962 Porsche 356 C | Weight | 900 kg
+1962 Porsche 356 C | Length | 4010 mm
+1962 Porsche 356 C | Width | 1670 mm
+1962 Porsche 356 C | Height | 1310 mm
+1962 Porsche 356 C | Wheelbase | 2100 mm
+1962 Porsche 356 C | Engine placement | rear
+1962 Porsche 356 C | Brakes | disc
+1962 Porsche 356 C | Gears | 4 manual
+1962 Porsche 356 C | Drive | rear
 1962 Porsche 356 Carrera GT | Volume | 2 L
 1962 Porsche 356 Carrera GT | Brakes | disc
-1962 Porsche 356C | Volume | 1600 cc
-1962 Porsche 356C | Cylinders | B4
-1962 Porsche 356C | Power | 75 hp @ 5000 rpm
-1962 Porsche 356C | Compression ratio | 8.5
-1962 Porsche 356C | Speed | 112 mph
-1962 Porsche 356C | 0-100 kmph | 12.0 s
-1962 Porsche 356C | Weight | 900 kg
-1962 Porsche 356C | Length | 4010 mm
-1962 Porsche 356C | Width | 1670 mm
-1962 Porsche 356C | Height | 1310 mm
-1962 Porsche 356C | Wheelbase | 2100 mm
-1962 Porsche 356C | Engine placement | rear
-1962 Porsche 356C | Brakes | disc
-1962 Porsche 356C | Gears | 4 manual
-1962 Porsche 356C | Drive | rear
 1962 Porsche Carrera 2 | Volume | 1966 cc
 1962 Porsche Carrera 2 | Power | 130 hp
 1962 Porsche Carrera 2000 | Volume | 2000 cc
@@ -2796,22 +2786,22 @@
 1968 Rolls Royce Phantom VI Park Ward | Rear brakes | drum
 1968 Rolls Royce Phantom VI Park Ward | Front brakes | drum
 1968 Rolls Royce Phantom VI Park Ward | Gears | 4 manual
-1968 ГАЗ-24 | Volume | 2445 cc
-1968 ГАЗ-24 | Cylinders | R4
-1968 ГАЗ-24 | Power | 95 kWt @ 4500 rpm
-1968 ГАЗ-24 | Power | 98 hp
-1968 ГАЗ-24 | Speed | 145 kmph
-1968 ГАЗ-24 | Speed | 140 kmph
-1968 ГАЗ-24 | 0-100 kmph | 25.0 s
-1968 ГАЗ-24 | Weight | 1420 kg
-1968 ГАЗ-24 | Body | sedan 4
-1968 ГАЗ-24 | Length | 4760 mm
-1968 ГАЗ-24 | Width | 1800 mm
-1968 ГАЗ-24 | Height | 1490 mm
-1968 ГАЗ-24 | Seats | 5
-1968 ГАЗ-24 | Wheelbase | 2800 mm
-1968 ГАЗ-24 | Tyres | 7.35x14
-1968 ГАЗ-24 | Gears | 4
+1968 ГАЗ 24 | Volume | 2445 cc
+1968 ГАЗ 24 | Cylinders | R4
+1968 ГАЗ 24 | Power | 95 kWt @ 4500 rpm
+1968 ГАЗ 24 | Power | 98 hp
+1968 ГАЗ 24 | Speed | 145 kmph
+1968 ГАЗ 24 | Speed | 140 kmph
+1968 ГАЗ 24 | 0-100 kmph | 25.0 s
+1968 ГАЗ 24 | Weight | 1420 kg
+1968 ГАЗ 24 | Body | sedan 4
+1968 ГАЗ 24 | Length | 4760 mm
+1968 ГАЗ 24 | Width | 1800 mm
+1968 ГАЗ 24 | Height | 1490 mm
+1968 ГАЗ 24 | Seats | 5
+1968 ГАЗ 24 | Wheelbase | 2800 mm
+1968 ГАЗ 24 | Tyres | 7.35x14
+1968 ГАЗ 24 | Gears | 4
 1968-02 Opel Rekord (C) | Volume | 1.5 L
 1968-02 Opel Rekord (C) | Power | 60 hp
 1968-09 Opel Rekord (C) | Gears | 3 manual
@@ -3263,20 +3253,20 @@
 1970 Porsche 914/6 | Gears | 5 manual
 1970 Porsche 914/6 | Drive | rear
 1970 ВАЗ-2101 | Count | 2700000
-1970-07 ГАЗ-24-01 | Volume | 2445 cc
-1970-07 ГАЗ-24-01 | Cylinders | R4
-1970-07 ГАЗ-24-01 | Power | 85 kWt @ 4500 rpm
-1970-07 ГАЗ-24-01 | Speed | 135 kmph
-1970-07 ГАЗ-24-01 | 0-100 kmph | 28.0 s
-1970-07 ГАЗ-24-01 | Weight | 1420 kg
-1970-07 ГАЗ-24-01 | Body | sedan 4
-1970-07 ГАЗ-24-01 | Length | 4760 mm
-1970-07 ГАЗ-24-01 | Width | 1800 mm
-1970-07 ГАЗ-24-01 | Height | 1490 mm
-1970-07 ГАЗ-24-01 | Seats | 5
-1970-07 ГАЗ-24-01 | Wheelbase | 2800 mm
-1970-07 ГАЗ-24-01 | Tyres | 7.35x14
-1970-07 ГАЗ-24-01 | Gears | 4
+1970-07 ГАЗ 24-01 | Volume | 2445 cc
+1970-07 ГАЗ 24-01 | Cylinders | R4
+1970-07 ГАЗ 24-01 | Power | 85 kWt @ 4500 rpm
+1970-07 ГАЗ 24-01 | Speed | 135 kmph
+1970-07 ГАЗ 24-01 | 0-100 kmph | 28.0 s
+1970-07 ГАЗ 24-01 | Weight | 1420 kg
+1970-07 ГАЗ 24-01 | Body | sedan 4
+1970-07 ГАЗ 24-01 | Length | 4760 mm
+1970-07 ГАЗ 24-01 | Width | 1800 mm
+1970-07 ГАЗ 24-01 | Height | 1490 mm
+1970-07 ГАЗ 24-01 | Seats | 5
+1970-07 ГАЗ 24-01 | Wheelbase | 2800 mm
+1970-07 ГАЗ 24-01 | Tyres | 7.35x14
+1970-07 ГАЗ 24-01 | Gears | 4
 1970-09 Opel Manta (A) | Price | 8269 DM
 1970-09 Opel Manta (A) | Volume | 1.9 L
 1970-09 Opel Manta (A) | Power | 90 hp
@@ -9639,11 +9629,11 @@
 1997 Volkswagen Passat VR5 | Engine placement | front longitudinal
 1997 Volkswagen Passat VR5 | Gears | 5 manual
 1997 Volkswagen Passat VR5 | Drive | front
-1997 ГАЗ-3103 Волга | Trunk size | 700 L
-1997 ГАЗ-3103 Волга | Rear brakes | disc
-1997 ГАЗ-3103 Волга | Front brakes | ventilated disc
-1997 ГАЗ-3103 Волга | Gears | 5 manual
-1997 ГАЗ-3103 Волга | Drive | front
+1997 ГАЗ 3103 Волга | Trunk size | 700 L
+1997 ГАЗ 3103 Волга | Rear brakes | disc
+1997 ГАЗ 3103 Волга | Front brakes | ventilated disc
+1997 ГАЗ 3103 Волга | Gears | 5 manual
+1997 ГАЗ 3103 Волга | Drive | front
 1997-03 Audi A6 (B5) | Price | 15000 USD
 1997-03 Audi A6 (B5) | Price | 30000 USD
 1997-03 Opel Tigra 1.4 | Volume | 1.4 L
@@ -11786,15 +11776,15 @@
 2003 Rolls-Royce Phantom | Tyres | 265x790 R540 A 111 W
 2003 Rolls-Royce Phantom | Gears | 6 auto
 2003 Rolls-Royce Phantom | Drive | rear
-2003 ГАЗ-3115 | Volume | 2.3 L
-2003 ГАЗ-3115 | Power | 130 hp
-2003 ГАЗ-3115 | Valves per cylinder | 4
-2003 ГАЗ-3115 | Length | 4500 mm
-2003 ГАЗ-3115 | Height | 1450 mm
-2003 ГАЗ-3115 | Wheelbase | 2700 mm
-2003 ГАЗ-3115 | Brakes | disc
-2003 ГАЗ-3115 | Gears | 5 manual
-2003 ГАЗ-3115 | Drive | rear
+2003 ГАЗ 3115 | Volume | 2.3 L
+2003 ГАЗ 3115 | Power | 130 hp
+2003 ГАЗ 3115 | Valves per cylinder | 4
+2003 ГАЗ 3115 | Length | 4500 mm
+2003 ГАЗ 3115 | Height | 1450 mm
+2003 ГАЗ 3115 | Wheelbase | 2700 mm
+2003 ГАЗ 3115 | Brakes | disc
+2003 ГАЗ 3115 | Gears | 5 manual
+2003 ГАЗ 3115 | Drive | rear
 2003-03 Opel Meriva | Price | 14000 EUR
 2003-03 Opel Meriva | Volume | 1.6 L
 2003-03 Opel Meriva | Volume | 1.6 L
@@ -11973,46 +11963,46 @@
 2004 Porsche 996 GT3 RSR | Drive | rear
 2004 Volvo YCC | Cylinders | 5
 2004 Volvo YCC | Power | 215 hp
-2004 ГАЗ-31105 Волга | Price | 15890000 BYN @ 2004
-2004 ГАЗ-31105 Волга | Price | 7400 USD @ 2004
-2004 ГАЗ-31105 Волга | Volume | 2.3 L
-2004 ГАЗ-31105 Волга | Volume | 2287 cc
-2004 ГАЗ-31105 Волга | Cylinders | R4
-2004 ГАЗ-31105 Волга | Power | 138 hp
-2004 ГАЗ-31105 Волга | Power | 138 hp @ 5200 rpm
-2004 ГАЗ-31105 Волга | Torque | 197.9 nm @ 4000 rpm
-2004 ГАЗ-31105 Волга | Fuel feed | injection
-2004 ГАЗ-31105 Волга | Fuel feed | injection
-2004 ГАЗ-31105 Волга | Valves per cylinder | 4
-2004 ГАЗ-31105 Волга | Valves per cylinder | 4
-2004 ГАЗ-31105 Волга | Speed | 163 kmph
-2004 ГАЗ-31105 Волга | 0-100 kmph | 13.5 s
-2004 ГАЗ-31105 Волга | Fuel consumption | 8.8..13.5 L/100km
-2004 ГАЗ-31105 Волга | Weight | 2 t
-2004 ГАЗ-31105 Волга | Weight | 1790 kg
-2004 ГАЗ-31105 Волга | Body | sedan 4
-2004 ГАЗ-31105 Волга | Length | 4870 mm
-2004 ГАЗ-31105 Волга | Width | 1800 mm
-2004 ГАЗ-31105 Волга | Height | 1472 mm
-2004 ГАЗ-31105 Волга | Fuel tank | 70 L
-2004 ГАЗ-31105 Волга | Trunk size | 409 L
-2004 ГАЗ-31105 Волга | Wheelbase | 2800 mm
-2004 ГАЗ-31105 Волга | Clearance | 15.2 cm
-2004 ГАЗ-31105 Волга | Rear brakes | drum
-2004 ГАЗ-31105 Волга | Front brakes | disc
-2004 ГАЗ-31105 Волга | Tyres | 195/65 R15
-2004 ГАЗ-31105 Волга | Gears | 5 manual
-2004 ГАЗ-31105 Волга | Drive | rear
-2004 ГАЗ-311050-00210 | Volume | 2.3 L
-2004 ГАЗ-311050-00210 | Power | 145 hp
-2004 ГАЗ-311050-00210 | Fuel | petrol 92
-2004 ГАЗ-311050-00210 | Fuel feed | injection
-2004 ГАЗ-311050-00210 | Fuel consumption | 9.0..13.5 L/100km
-2004 ГАЗ-311050-00210 | Length | 4895 mm
-2004 ГАЗ-311050-00210 | Width | 1800 mm
-2004 ГАЗ-311050-00210 | Height | 1422 mm
-2004 ГАЗ-311050-00210 | Seats | 5
-2004 ГАЗ-311050-00210 | Gears | 5 manual
+2004 ГАЗ 31105 Волга | Price | 15890000 BYN @ 2004
+2004 ГАЗ 31105 Волга | Price | 7400 USD @ 2004
+2004 ГАЗ 31105 Волга | Volume | 2.3 L
+2004 ГАЗ 31105 Волга | Volume | 2287 cc
+2004 ГАЗ 31105 Волга | Cylinders | R4
+2004 ГАЗ 31105 Волга | Power | 138 hp
+2004 ГАЗ 31105 Волга | Power | 138 hp @ 5200 rpm
+2004 ГАЗ 31105 Волга | Torque | 197.9 nm @ 4000 rpm
+2004 ГАЗ 31105 Волга | Fuel feed | injection
+2004 ГАЗ 31105 Волга | Fuel feed | injection
+2004 ГАЗ 31105 Волга | Valves per cylinder | 4
+2004 ГАЗ 31105 Волга | Valves per cylinder | 4
+2004 ГАЗ 31105 Волга | Speed | 163 kmph
+2004 ГАЗ 31105 Волга | 0-100 kmph | 13.5 s
+2004 ГАЗ 31105 Волга | Fuel consumption | 8.8..13.5 L/100km
+2004 ГАЗ 31105 Волга | Weight | 2 t
+2004 ГАЗ 31105 Волга | Weight | 1790 kg
+2004 ГАЗ 31105 Волга | Body | sedan 4
+2004 ГАЗ 31105 Волга | Length | 4870 mm
+2004 ГАЗ 31105 Волга | Width | 1800 mm
+2004 ГАЗ 31105 Волга | Height | 1472 mm
+2004 ГАЗ 31105 Волга | Fuel tank | 70 L
+2004 ГАЗ 31105 Волга | Trunk size | 409 L
+2004 ГАЗ 31105 Волга | Wheelbase | 2800 mm
+2004 ГАЗ 31105 Волга | Clearance | 15.2 cm
+2004 ГАЗ 31105 Волга | Rear brakes | drum
+2004 ГАЗ 31105 Волга | Front brakes | disc
+2004 ГАЗ 31105 Волга | Tyres | 195/65 R15
+2004 ГАЗ 31105 Волга | Gears | 5 manual
+2004 ГАЗ 31105 Волга | Drive | rear
+2004 ГАЗ 311050-00210 | Volume | 2.3 L
+2004 ГАЗ 311050-00210 | Power | 145 hp
+2004 ГАЗ 311050-00210 | Fuel | petrol 92
+2004 ГАЗ 311050-00210 | Fuel feed | injection
+2004 ГАЗ 311050-00210 | Fuel consumption | 9.0..13.5 L/100km
+2004 ГАЗ 311050-00210 | Length | 4895 mm
+2004 ГАЗ 311050-00210 | Width | 1800 mm
+2004 ГАЗ 311050-00210 | Height | 1422 mm
+2004 ГАЗ 311050-00210 | Seats | 5
+2004 ГАЗ 311050-00210 | Gears | 5 manual
 2004-02 Opel Astra (C) | Volume | 1.7 L
 2004-02 Opel Astra (C) | Volume | 1.9 L
 2004-02 Opel Astra (C) | Volume | 1.4 L
@@ -16690,16 +16680,16 @@ Volkswagen Passat 2.9 (IV) | Power | 190 hp
 Volkswagen Passat 2.9 (IV) | Fuel | petrol
 Volkswagen Passat Variant (IV) | Body | wagon
 Volkswagen Passat Variant (IV) | Trunk size | 465..1500 L
-ЗИС-102 | Body | phaeton
-ЗИС-115 | Count | 30
-ЗИС-115 | Weight | 5 t
-ЗИС-16 | Speed | 65 kmph
-ЗИС-16 | Fuel consumption | 37 L/100km
-ЗИС-16 | Weight | 5100 kg
-ЗИС-16 | Length | 8490 mm
-ЗИС-16 | Width | 2430 mm
-ЗИС-16 | Height | 2820 mm
-ЗИС-16 | Wheelbase | 4970 mm
+ЗИС 102 | Body | phaeton
+ЗИС 115 | Count | 30
+ЗИС 115 | Weight | 5 t
+ЗИС 16 | Speed | 65 kmph
+ЗИС 16 | Fuel consumption | 37 L/100km
+ЗИС 16 | Weight | 5100 kg
+ЗИС 16 | Length | 8490 mm
+ЗИС 16 | Width | 2430 mm
+ЗИС 16 | Height | 2820 mm
+ЗИС 16 | Wheelbase | 4970 mm
 Москвич-402 | Power | 35 hp
 Москвич-407 | Volume | 1358 cc
 Москвич-407 | Power | 45 hp
