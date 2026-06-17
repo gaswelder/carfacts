@@ -341,7 +341,7 @@ export const known = {
   },
   Weight(s: string) {
     return matchUnit(s, ["kg", "lbs", "t"], {
-      aliases: { T: "t", кг: "kg" },
+      aliases: { T: "t", кг: "kg", lb: "lbs" },
       defaults: [{ unit: "kg" }],
     });
   },
@@ -410,7 +410,7 @@ export const known = {
     "center longitudinal",
     "center transverse",
     "transverse",
-    "center",
+    { canonical: "center", aliases: ["mid"] },
     "front longitudinal",
     "front transverse",
     "front",
@@ -447,7 +447,7 @@ export const known = {
     ]),
   ]),
   Drive: oneof([
-    "full",
+    { canonical: "full", aliases: ["full-wheel"] },
     "front",
     "rear",
     "full constant",
