@@ -409,6 +409,7 @@ export const known = {
   "Engine placement": oneof([
     "center longitudinal",
     "center transverse",
+    "transverse",
     "center",
     "front longitudinal",
     "front transverse",

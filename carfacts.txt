@@ -222,7 +222,7 @@
 1933 Adler Trumpf | Stroke | 95 mm
 1933 Adler Trumpf | Speed | 95 kmph
 1933 Adler Trumpf | Body | cabriolet
-1933 Adler Trumpf | Brakes | all drums
+1933 Adler Trumpf | Brakes | all drum
 1933 Adler Trumpf | Gears | 4 manual
 1933 Adler Trumpf | Drive | front
 1933 Auto Union | Volume | 4358 cc
@@ -453,7 +453,7 @@
 1938 Adler Sport | Speed | 153 kmph
 1938 Adler Sport | Body | coupe
 1938 Adler Sport | Seats | 4
-1938 Adler Sport | Brakes | all drums
+1938 Adler Sport | Brakes | all drum
 1938 Adler Sport | Gears | 4 manual
 1938 Adler Sport | Drive | rear
 1938 Auto Union Type D | Volume | 2990 cc
@@ -572,7 +572,7 @@
 1944 ГАЗ 67 Б | Tyres | 7,00—16
 1944 ГАЗ 67 Б | Gears | 4 manual
 1944 ГАЗ 67 Б | Drive | full
-1945 ЗИС 110 | Count | 2089 @ 1945..1958
+1945 ЗИС 110 | Count | 2089
 1945 ЗИС 110 | Cylinders | 8
 1947 Bugatti Type 73 | Volume | 1488 cc
 1947 Bugatti Type 73 | Cylinders | 4
@@ -780,8 +780,6 @@
 1951 Opel Olympia | Power | 39 hp @ 3700 rpm
 1951 Opel Olympia | Gears | 3
 1951 Porsche 1300 | Volume | 1286 cc
-1951 Porsche 1300 | Volume | 1286 cc
-1951 Porsche 1300 | Power | 44 hp
 1951 Porsche 1300 | Power | 44 hp
 1951 Porsche 1500 | Volume | 1488 cc
 1951 Porsche 1500 | Power | 60 hp
@@ -917,25 +915,16 @@
 1955 Porsche 356 A Speedster | Speed | 160 kmph
 1955 Porsche 356 A Speedster | Speed | 100 mph
 1955 Porsche 356 A Speedster | 0-100 kmph | 16.5 s
-1955 Porsche 356 A Speedster | 0-100 kmph | 16.5 s
-1955 Porsche 356 A Speedster | Weight | 760 kg
 1955 Porsche 356 A Speedster | Weight | 760 kg
 1955 Porsche 356 A Speedster | Length | 3950 mm
-1955 Porsche 356 A Speedster | Length | 3950 mm
 1955 Porsche 356 A Speedster | Width | 1670 mm
-1955 Porsche 356 A Speedster | Width | 1670 mm
-1955 Porsche 356 A Speedster | Height | 1220 mm
 1955 Porsche 356 A Speedster | Height | 1220 mm
 1955 Porsche 356 A Speedster | Seats | 2+2
 1955 Porsche 356 A Speedster | Wheelbase | 2100 mm
-1955 Porsche 356 A Speedster | Wheelbase | 2100 mm
 1955 Porsche 356 A Speedster | Engine placement | rear
-1955 Porsche 356 A Speedster | Engine placement | rear
-1955 Porsche 356 A Speedster | Brakes | drum
 1955 Porsche 356 A Speedster | Brakes | drum
 1955 Porsche 356 A Speedster | Wheels | 5.60x15
 1955 Porsche 356 A Speedster | Wheels | 4.5x15
-1955 Porsche 356 A Speedster | Gears | 4 manual
 1955 Porsche 356 A Speedster | Gears | 4 manual
 1955 Porsche 356 A Speedster | Drive | rear
 1955 Porsche 356 A Speedster | Drive | rear
@@ -948,7 +937,7 @@
 1955 Porsche 356 Carrera GT | Body | coupe
 1955 Porsche 356 Carrera GT | Gears | 4 manual
 1955 Porsche 356 Carrera GT | Drive | rear
-1955 Porsche 550/1500RS | Count | 100
+1955 Porsche 550/1500 RS | Count | 100
 1955 Porsche Carrera GS-GT | Volume | 1500 cc
 1955 Porsche Carrera GS-GT | Cylinders | B4
 1955 Porsche Carrera GS-GT | Power | 100 hp @ 4500 rpm
@@ -1244,6 +1233,8 @@
 1959 Jaguar Mark IX | Count | 10002
 1959 Jaguar Mark IX | Body | sedan
 1959 Jaguar Mark IX | Brakes | disc
+1959 Maserati 5000 GT | Count | 32
+1959 Maserati 5000 GT | Cylinders | V8
 1959 Porsche 356 1600 Carrera GS-GT | Volume | 1588 cc
 1959 Porsche 356 1600 Carrera GS-GT | Power | 115 hp
 1959 Porsche 356 1600 Carrera GS-GT de Luxe | Power | 105 hp
@@ -1376,6 +1367,11 @@
 1959-08 Opel Kapitan | Height | 1512 mm
 1959-08 Opel Kapitan auto | Price | 11300 DM
 1960 Aston Martin DB-4GT | Count | 19
+1960 Aston-Martin DB4-GT Zagato | Volume | 5.3 L
+1960 Aston-Martin DB4-GT Zagato | Cylinders | V8
+1960 Aston-Martin DB4-GT Zagato | Power | 338 hp
+1960 Aston-Martin DB4-GT Zagato | Speed | 257 kmph
+1960 Ferrari 250 GTE | Seats | 2+2
 1960 Porsche 356 B 2000 GS/GT Carrera 2 Coupe & Cabriolet | Volume | 1966 cc
 1960 Porsche 356 B 2000 GS/GT Carrera 2 Coupe & Cabriolet | Cylinders | B4
 1960 Porsche 356 B 2000 GS/GT Carrera 2 Coupe & Cabriolet | Power | 130 hp @ 6200 rpm
@@ -1581,7 +1577,7 @@
 1961 Jaguar E-Type | Speed | 241 kmph
 1961 Jaguar E-Type | Body | coupe
 1961 Jaguar E-Type | Body | roadster
-1961 Jaguar E-Type | Brakes | disc
+1961 Jaguar Е-type | Brakes | all disc
 1961 Opel Rekord | Volume | 1680 cc
 1961 Opel Rekord | Power | 55 hp
 1961 Opel Rekord | Speed | 135 kmph
@@ -1604,12 +1600,17 @@
 1961 Porsche 356 B Hardtop | Gears | 4 manual
 1961 Porsche 356 B Hardtop | Drive | rear
 1961 ГАЗ 13Б Чайка | Body | phaeton
+1962 AC Cobra | Volume | 4.2 L
+1962 AC Cobra | Cylinders | V8
+1962 AC Cobra | Brakes | all disc
 1962 Alfa Romeo Giulia TI | Volume | 1570 cc
+1962 Facel Vega Facel II | Power | 390 hp
 1962 Ferrari 250 GT Berlinetta Lusso | Count | 350
 1962 Ferrari 250 GT Berlinetta Lusso | Volume | 2953 cc
 1962 Ferrari 250 GT Berlinetta Lusso | Cylinders | V12
 1962 Ferrari 250 GT Berlinetta Lusso | Power | 240 hp @ 7500 rpm
 1962 Ferrari 250 GT Berlinetta Lusso | Compression ratio | 9.2
+1962 Ferrari 250 GT Berlinetta Lusso | Speed | 225 kmph
 1962 Ferrari 250 GT Berlinetta Lusso | Speed | 240 kmph
 1962 Ferrari 250 GT Berlinetta Lusso | Weight | 1020 kg
 1962 Ferrari 250 GT Berlinetta Lusso | Body | coupe
@@ -1637,6 +1638,11 @@
 1962 Ferrari 250 GTO | Brakes | disc
 1962 Ferrari 250 GTO | Gears | 5 manual
 1962 Ferrari 250 GTO | Drive | rear
+1962 ISO Rivolta | Volume | 5.4 L
+1962 ISO Rivolta | Cylinders | V8
+1962 ISO Rivolta | Body | coupe
+1962 Jensen C-V8 | Volume | 5.9 L
+1962 Jensen C-V8 | Cylinders | 4
 1962 Lamborghini Rivolta 300 GT | Volume | 5.3 L
 1962 Lamborghini Rivolta 300 GT | Cylinders | V8
 1962 Lamborghini Rivolta 300 GT | Seats | 4
@@ -1737,6 +1743,8 @@
 1963 Lamborghini Grifo A3L | Volume | 7 L
 1963 Lamborghini Grifo A3L | Power | 420 hp
 1963 Lamborghini Grifo A3L | Body | coupe
+1963 Maserati Quattroporte | Volume | 4135 cc
+1963 Maserati Quattroporte | Cylinders | V8
 1963 Opel Rekord (A) | Price | 7230 DM
 1963 Opel Rekord (A) | Count | 720976
 1963 Opel Rekord (A) | Volume | 1.5 L
@@ -1844,48 +1852,48 @@
 1963 Porsche 356 SC 1600 Coupe & Cabriolet | Front wheels | 4.5Jx15
 1963 Porsche 356 SC 1600 Coupe & Cabriolet | Rear wheels | 4.5Jx15
 1963 Porsche 356 SC 1600 Coupe & Cabriolet | Drive | rear
-1963 Porsche 901 | Volume | 2 L
-1963 Porsche 901 | Cylinders | 6
-1963 Porsche 901 | Power | 130 hp @ 6100 rpm
-1963 Porsche 901 | Body | coupe
 1963 Porsche 904 GTS | Body | coupe
-1963 Porsche 911 | Volume | 2 L
-1963 Porsche 911 | Volume | 1991 cc
-1963 Porsche 911 | Volume | 2000 cc
-1963 Porsche 911 | Cylinders | B6
-1963 Porsche 911 | Cylinders | B6
-1963 Porsche 911 | Cylinders | B6
-1963 Porsche 911 | Power | 130 hp
-1963 Porsche 911 | Power | 130 hp
-1963 Porsche 911 | Power | 130 hp @ 6100 rpm
-1963 Porsche 911 | Compression ratio | 9.0
-1963 Porsche 911 | Speed | 130 mph
-1963 Porsche 911 | Speed | 130 mph
-1963 Porsche 911 | 0-100 kmph | 9.1 s
-1963 Porsche 911 | 0-30 mph | 2.8 s
-1963 Porsche 911 | 0-40 mph | 4.4 s
-1963 Porsche 911 | 0-50 mph | 6.3 s
-1963 Porsche 911 | 0-60 mph | 8.3 s
-1963 Porsche 911 | 0-100 mph | 24.3 s
-1963 Porsche 911 | Fuel consumption | 23.2 mpg
-1963 Porsche 911 | Fuel consumption | 19.2 mpg
-1963 Porsche 911 | Weight | 1080 kg
-1963 Porsche 911 | Body | coupe
-1963 Porsche 911 | Length | 4163 mm
-1963 Porsche 911 | Width | 1610 mm
-1963 Porsche 911 | Height | 1320 mm
-1963 Porsche 911 | Seats | 2+2
-1963 Porsche 911 | Cx | 0.381
-1963 Porsche 911 | Wheelbase | 2211 mm
-1963 Porsche 911 | Engine placement | rear
-1963 Porsche 911 | Engine placement | rear
-1963 Porsche 911 | Brakes | disc
-1963 Porsche 911 | Brakes | disc
-1963 Porsche 911 | Tyres | 165
-1963 Porsche 911 | Wheels | 4.5
-1963 Porsche 911 | Gears | 5
-1963 Porsche 911 | Gears | 5 manual
-1963 Porsche 911 | Drive | rear
+1963 Porsche 911 (901) | Volume | 2 L
+1963 Porsche 911 (901) | Volume | 2 L
+1963 Porsche 911 (901) | Volume | 1991 cc
+1963 Porsche 911 (901) | Volume | 2000 cc
+1963 Porsche 911 (901) | Cylinders | 6
+1963 Porsche 911 (901) | Cylinders | B6
+1963 Porsche 911 (901) | Cylinders | B6
+1963 Porsche 911 (901) | Cylinders | B6
+1963 Porsche 911 (901) | Power | 130 hp @ 6100 rpm
+1963 Porsche 911 (901) | Power | 130 hp
+1963 Porsche 911 (901) | Power | 130 hp
+1963 Porsche 911 (901) | Power | 130 hp @ 6100 rpm
+1963 Porsche 911 (901) | Compression ratio | 9.0
+1963 Porsche 911 (901) | Speed | 130 mph
+1963 Porsche 911 (901) | Speed | 130 mph
+1963 Porsche 911 (901) | 0-100 kmph | 9.1 s
+1963 Porsche 911 (901) | 0-30 mph | 2.8 s
+1963 Porsche 911 (901) | 0-40 mph | 4.4 s
+1963 Porsche 911 (901) | 0-50 mph | 6.3 s
+1963 Porsche 911 (901) | 0-60 mph | 8.3 s
+1963 Porsche 911 (901) | 0-100 mph | 24.3 s
+1963 Porsche 911 (901) | Fuel consumption | 23.2 mpg
+1963 Porsche 911 (901) | Fuel consumption | 19.2 mpg
+1963 Porsche 911 (901) | Weight | 1080 kg
+1963 Porsche 911 (901) | Body | coupe
+1963 Porsche 911 (901) | Body | coupe
+1963 Porsche 911 (901) | Length | 4163 mm
+1963 Porsche 911 (901) | Width | 1610 mm
+1963 Porsche 911 (901) | Height | 1320 mm
+1963 Porsche 911 (901) | Seats | 2+2
+1963 Porsche 911 (901) | Cx | 0.381
+1963 Porsche 911 (901) | Wheelbase | 2211 mm
+1963 Porsche 911 (901) | Engine placement | rear
+1963 Porsche 911 (901) | Engine placement | rear
+1963 Porsche 911 (901) | Brakes | disc
+1963 Porsche 911 (901) | Brakes | disc
+1963 Porsche 911 (901) | Tyres | 165
+1963 Porsche 911 (901) | Wheels | 4.5
+1963 Porsche 911 (901) | Gears | 5
+1963 Porsche 911 (901) | Gears | 5 manual
+1963 Porsche 911 (901) | Drive | rear
 1963-05 Opel Rekord Caravan | Price | 7125 DM
 1963-05 Opel Rekord Caravan | Count | 128277
 1963-05 Opel Rekord Caravan | Front brakes | disc
@@ -1899,6 +1907,17 @@
 1963-11 Porsche 904 | Power | 180 hp
 1963-11 Porsche 904 | Speed | 250 kmph
 1963-11 Porsche 904 | Brakes | disc
+1964 Ferrari 275 GTB | Volume | 3286 cc
+1964 Ferrari 275 GTB | Cylinders | V12
+1964 Ferrari 275 GTB | Power | 280 hp
+1964 Ferrari 275 GTB | Fuel feed | 6 carb Weber
+1964 Ferrari 330 GT 2+2 | Volume | 4 L
+1964 Ferrari 500 Superfast | Volume | 5 L
+1964 Ferrari 500 Superfast | Power | 400 hp
+1964 Gordon-Keeble | Count | 99
+1964 Gordon-Keeble | Cylinders | V8
+1964 Gordon-Keeble | Seats | 4
+1964 Jaguar E-type | Volume | 4.2 L
 1964 Jaguar E-Type | Volume | 4.2 L
 1964 Lamborghini 350 GT | Volume | 3464 cc
 1964 Lamborghini 350 GT | Cylinders | V12
@@ -1961,88 +1980,91 @@
 1964 Opel Rekord 1.7 | Volume | 1.7 L
 1964 Opel Rekord 2.6 | Price | 9310 DM
 1964 Opel Rekord 2.6 | Volume | 2.6 L
-1964 Porsche 901 | Volume | 2000 cc
-1964 Porsche 901 | Cylinders | B6
-1964 Porsche 901 | Power | 130 hp @ 4600 rpm
-1964 Porsche 901 | Compression ratio | 9.1
-1964 Porsche 901 | Speed | 209 kmph
-1964 Porsche 901 | 0-100 kmph | 8.7 s
-1964 Porsche 901 | Wheelbase | 2200 mm
-1964 Porsche 901 | Engine placement | rear
-1964 Porsche 901 | Brakes | disc
-1964 Porsche 901 | Gears | 5 manual
-1964 Porsche 901 | Drive | rear
 1964 Porsche 904 Carrera GTS | Power | 155 hp
 1964 Porsche 904 Carrera GTS | Speed | 252 kmph
 1964 Porsche 904 Carrera GTS | 0-100 kmph | 5.5 s
 1964 Porsche 904 Carrera GTS | Weight | 650 kg
 1964 Porsche 904 Carrera GTS | Engine placement | center
-1964 Porsche 911 | Volume | 1600 cc
-1964 Porsche 911 | Volume | 1991 cc
-1964 Porsche 911 | Volume | 2 L
-1964 Porsche 911 | Cylinders | B4
-1964 Porsche 911 | Cylinders | 6
-1964 Porsche 911 | Power | 130 hp @ 6200 rpm
-1964 Porsche 911 | Power | 90 hp
-1964 Porsche 911 | Torque | 128 lb-ft
-1964 Porsche 911 | Torque | 129 lb-ft
-1964 Porsche 911 | Torque | 162 nm @ 4600 rpm
-1964 Porsche 911 | Torque | 174 nm @ 4200 rpm
-1964 Porsche 911 | Fuel feed | carb Weber
-1964 Porsche 911 | Compression ratio | 9.0
-1964 Porsche 911 | Bore | 80 mm
-1964 Porsche 911 | Stroke | 66 mm
-1964 Porsche 911 | Valves per cylinder | 2
-1964 Porsche 911 | Valves per cylinder | 2
-1964 Porsche 911 | Max rpm | 6500
-1964 Porsche 911 | Speed | 130 mph
-1964 Porsche 911 | Speed | 210 kmph
-1964 Porsche 911 | 0-100 kmph | 9.1 s
-1964 Porsche 911 | 0-60 mph | 8.3 s
-1964 Porsche 911 | 0-100 mph | 24.3 s
-1964 Porsche 911 | Weight | 1000 kg
-1964 Porsche 911 | Weight | 1080 kg
-1964 Porsche 911 | Weight | 1130 kg
-1964 Porsche 911 | Weight | 1030 kg
-1964 Porsche 911 | Weight | 1075 kg
-1964 Porsche 911 | Weight | 1040 kg
-1964 Porsche 911 | Weight | 900 kg
-1964 Porsche 911 | Body | coupe
-1964 Porsche 911 | Length | 4163 mm
-1964 Porsche 911 | Width | 1610 mm
-1964 Porsche 911 | Height | 1320 mm
-1964 Porsche 911 | Seats | 2+2
-1964 Porsche 911 | Doors | 2
-1964 Porsche 911 | Front track | 1337 mm
-1964 Porsche 911 | Front track | 1353 mm
-1964 Porsche 911 | Rear track | 1317 mm
-1964 Porsche 911 | Rear track | 1321 mm
-1964 Porsche 911 | Wheelbase | 2211 mm
-1964 Porsche 911 | Engine placement | rear
-1964 Porsche 911 | Brakes | ventilated disc
-1964 Porsche 911 | Front tyres | 165-15
-1964 Porsche 911 | Rear tyres | 165-15
-1964 Porsche 911 | Gears | 5 manual
-1964 Porsche 911 | Gears | 4 auto
-1964 Porsche 911 | Drive | rear
-1964 Porsche 911 Targa | Volume | 1991 cc
-1964 Porsche 911 Targa | Power | 130 hp @ 6200 rpm
-1964 Porsche 911 Targa | Torque | 162 nm @ 4600 rpm
-1964 Porsche 911 Targa | Compression ratio | 9.0
-1964 Porsche 911 Targa | Bore | 80 mm
-1964 Porsche 911 Targa | Stroke | 66 mm
-1964 Porsche 911 Targa | Weight | 1080 kg
-1964 Porsche 911 Targa | Length | 4163 mm
-1964 Porsche 911 Targa | Width | 1610 mm
-1964 Porsche 911 Targa | Height | 1320 mm
-1964 Porsche 911 Targa | Front track | 1337 mm
-1964 Porsche 911 Targa | Rear track | 1317 mm
-1964 Porsche 911 Targa | Wheelbase | 2211 mm
-1964 Posche 911 (901) | Volume | 1991 cc
-1964 Posche 911 (901) | Power | 130 hp @ 6200 rpm
-1964 Posche 911 (901) | Torque | 162 nm @ 4600 rpm
-1964 Posche 911 (901) | Compression ratio | 9.0
-1964 Posche 911 (901) | Weight | 1000 kg
+1964 Porsche 911 (901) | Volume | 2000 cc
+1964 Porsche 911 (901) | Volume | 1600 cc
+1964 Porsche 911 (901) | Volume | 1991 cc
+1964 Porsche 911 (901) | Volume | 2 L
+1964 Porsche 911 (901) | Volume | 1991 cc
+1964 Porsche 911 (901) | Cylinders | B6
+1964 Porsche 911 (901) | Cylinders | B4
+1964 Porsche 911 (901) | Cylinders | 6
+1964 Porsche 911 (901) | Power | 130 hp @ 4600 rpm
+1964 Porsche 911 (901) | Power | 130 hp @ 6200 rpm
+1964 Porsche 911 (901) | Power | 90 hp
+1964 Porsche 911 (901) | Power | 130 hp @ 6200 rpm
+1964 Porsche 911 (901) | Torque | 128 lb-ft
+1964 Porsche 911 (901) | Torque | 129 lb-ft
+1964 Porsche 911 (901) | Torque | 162 nm @ 4600 rpm
+1964 Porsche 911 (901) | Torque | 174 nm @ 4200 rpm
+1964 Porsche 911 (901) | Torque | 162 nm @ 4600 rpm
+1964 Porsche 911 (901) | Fuel feed | carb Weber
+1964 Porsche 911 (901) | Compression ratio | 9.1
+1964 Porsche 911 (901) | Compression ratio | 9.0
+1964 Porsche 911 (901) | Compression ratio | 9.0
+1964 Porsche 911 (901) | Bore | 80 mm
+1964 Porsche 911 (901) | Stroke | 66 mm
+1964 Porsche 911 (901) | Valves per cylinder | 2
+1964 Porsche 911 (901) | Valves per cylinder | 2
+1964 Porsche 911 (901) | Max rpm | 6500
+1964 Porsche 911 (901) | Speed | 209 kmph
+1964 Porsche 911 (901) | Speed | 130 mph
+1964 Porsche 911 (901) | Speed | 210 kmph
+1964 Porsche 911 (901) | 0-100 kmph | 8.7 s
+1964 Porsche 911 (901) | 0-100 kmph | 9.1 s
+1964 Porsche 911 (901) | 0-60 mph | 8.3 s
+1964 Porsche 911 (901) | 0-100 mph | 24.3 s
+1964 Porsche 911 (901) | Weight | 1000 kg
+1964 Porsche 911 (901) | Weight | 1080 kg
+1964 Porsche 911 (901) | Weight | 1130 kg
+1964 Porsche 911 (901) | Weight | 1030 kg
+1964 Porsche 911 (901) | Weight | 1075 kg
+1964 Porsche 911 (901) | Weight | 1040 kg
+1964 Porsche 911 (901) | Weight | 900 kg
+1964 Porsche 911 (901) | Weight | 1000 kg
+1964 Porsche 911 (901) | Body | coupe
+1964 Porsche 911 (901) | Length | 4163 mm
+1964 Porsche 911 (901) | Width | 1610 mm
+1964 Porsche 911 (901) | Height | 1320 mm
+1964 Porsche 911 (901) | Seats | 2+2
+1964 Porsche 911 (901) | Doors | 2
+1964 Porsche 911 (901) | Front track | 1337 mm
+1964 Porsche 911 (901) | Front track | 1353 mm
+1964 Porsche 911 (901) | Rear track | 1317 mm
+1964 Porsche 911 (901) | Rear track | 1321 mm
+1964 Porsche 911 (901) | Wheelbase | 2200 mm
+1964 Porsche 911 (901) | Wheelbase | 2211 mm
+1964 Porsche 911 (901) | Engine placement | rear
+1964 Porsche 911 (901) | Engine placement | rear
+1964 Porsche 911 (901) | Brakes | disc
+1964 Porsche 911 (901) | Brakes | ventilated disc
+1964 Porsche 911 (901) | Front tyres | 165-15
+1964 Porsche 911 (901) | Rear tyres | 165-15
+1964 Porsche 911 (901) | Gears | 5 manual
+1964 Porsche 911 (901) | Gears | 5 manual
+1964 Porsche 911 (901) | Gears | 4 auto
+1964 Porsche 911 (901) | Drive | rear
+1964 Porsche 911 (901) | Drive | rear
+1964 Porsche 911 Targa (901) | Volume | 1991 cc
+1964 Porsche 911 Targa (901) | Power | 130 hp @ 6200 rpm
+1964 Porsche 911 Targa (901) | Torque | 162 nm @ 4600 rpm
+1964 Porsche 911 Targa (901) | Compression ratio | 9.0
+1964 Porsche 911 Targa (901) | Bore | 80 mm
+1964 Porsche 911 Targa (901) | Stroke | 66 mm
+1964 Porsche 911 Targa (901) | Weight | 1080 kg
+1964 Porsche 911 Targa (901) | Length | 4163 mm
+1964 Porsche 911 Targa (901) | Width | 1610 mm
+1964 Porsche 911 Targa (901) | Height | 1320 mm
+1964 Porsche 911 Targa (901) | Front track | 1337 mm
+1964 Porsche 911 Targa (901) | Rear track | 1317 mm
+1964 Porsche 911 Targa (901) | Wheelbase | 2211 mm
+1964 Sunbeam Tiger | Count | 7000
+1964 Sunbeam Tiger | Volume | 4.3 L
+1964 Sunbeam Tiger | Cylinders | V8
 1964 Volkswagen Beetle | Power | 40 hp
 1964 Volkswagen Beetle | Speed | 120 kmph
 1964-02 Opel Kapitan | Price | 10990 DM
@@ -2068,17 +2090,20 @@
 1964-03 Opel Rekord | Body | sedan
 1964-03 Opel Rekord | Doors | 4
 1964-03 Opel Rekord | Gears | 4 manual
+1965 Aston Martin DB-6 | Cylinders | 6
 1965 Aston Martin DB-6 | Power | 325 hp
+1965 Aston Martin DB-6 | Power | 282 hp @ 5500 rpm
+1965 Aston Martin DB-6 | Torque | 441 nm @ 3850 rpm
+1965 Aston Martin DB-6 | Speed | 148 mph
+1965 Aston Martin DB-6 | 0-60 mph | 6.5 s
+1965 Aston Martin DB-6 | Weight | 1475 kg
 1965 Aston Martin DB-6 | Seats | 4
-1965 Aston Martin DB6 | Cylinders | 6
-1965 Aston Martin DB6 | Power | 282 hp @ 5500 rpm
-1965 Aston Martin DB6 | Torque | 441 nm @ 3850 rpm
-1965 Aston Martin DB6 | Speed | 148 mph
-1965 Aston Martin DB6 | 0-60 mph | 6.5 s
-1965 Aston Martin DB6 | Weight | 1475 kg
-1965 Aston Martin DB6 | Wheelbase | 3966 mm
-1965 Aston Martin DB6 | Brakes | disc
-1965 Aston Martin DB6 | Gears | 5 manual
+1965 Aston Martin DB-6 | Wheelbase | 3966 mm
+1965 Aston Martin DB-6 | Brakes | disc
+1965 Aston Martin DB-6 | Gears | 5 manual
+1965 ISO Grifo | Volume | 5.4 L
+1965 ISO Grifo | Cylinders | V8
+1965 ISO Grifo | Speed | 257 kmph
 1965 Lamborghini 350 GTS | Volume | 3464 cc
 1965 Lamborghini 350 GTS | Cylinders | V12
 1965 Lamborghini 350 GTS | Power | 270 hp @ 6500 rpm
@@ -2268,6 +2293,15 @@
 1966 Cadillac DeVille | Power | 340 hp
 1966 Cadillac DeVille | 0-100 kmph | 11.1 s
 1966 Cadillac DeVille | Body | sedan
+1966 Ferrari 275 GTB | Cylinders | V12
+1966 Ferrari 275 GTB | Power | 300 hp
+1966 Ferrari 275 GTB | Body | spyder
+1966 Ferrari 275 GTB | Seats | 2
+1966 Ferrari 330 GTC | Volume | 4 L
+1966 Ferrari 330 GTC | Cylinders | V12
+1966 Lamborghini 400 GT | Volume | 3464 cc
+1966 Lamborghini 400 GT | Cylinders | V12
+1966 Lamborghini 400 GT | Power | 360 hp
 1966 Lamborghini 400 GT 2+2 | Volume | 3929 cc
 1966 Lamborghini 400 GT 2+2 | Cylinders | V12
 1966 Lamborghini 400 GT 2+2 | Power | 320 hp @ 6500 rpm
@@ -2471,8 +2505,8 @@
 1966 Porsche 911 Targa | Rear tyres | 165-15
 1966 Porsche 911 Targa | Gears | 5 manual
 1966 Porsche 911 Targa | Drive | rear
-1966 ЗАЗ-966В Запорожец | Cylinders | V4
-1966 ЗАЗ-966В Запорожец | Engine placement | rear
+1966 ЗАЗ-966 В Запорожец | Cylinders | V4
+1966 ЗАЗ-966 В Запорожец | Engine placement | rear
 1967 Alfa Romeo Montreal | Volume | 2593 cc
 1967 Alfa Romeo Montreal | Cylinders | V8
 1967 Alfa Romeo Montreal | Power | 230 hp @ 6500 rpm
@@ -2489,6 +2523,12 @@
 1967 Alfa Romeo Montreal | Brakes | ventilated disc
 1967 Cadillac Eldorado | Power | 235 hp
 1967 Cadillac Eldorado | Drive | front
+1967 Chevrolet Camaro Z28 | Volume | 5 L
+1967 Chevrolet Camaro Z28 | Power | 290 hp
+1967 Chevrolet Camaro Z28 | Body | coupe
+1967 Chevrolet Camaro Z28 | Gears | 4 manual
+1967 Ferrari 365 GT 2+2 | Count | 1100
+1967 Ferrari 365 GT 2+2 | Volume | 3967 cc
 1967 Lamborghini Marzal | Cylinders | 6
 1967 Lamborghini TP200 Bertone Marzal | Volume | 1965 cc
 1967 Lamborghini TP200 Bertone Marzal | Cylinders | V6
@@ -2653,6 +2693,13 @@
 1968 BMW 2002ti | Power | 200 hp @ 7100 rpm
 1968 BMW 2800 CS | Body | coupe
 1968 BMW 2800CS | Power | 170 hp
+1968 Ferrari 365 GTB/4 Daytona | Volume | 4.4 L
+1968 Ferrari 365 GTB/4 Daytona | Cylinders | V12
+1968 Ferrari 365 GTB/4 Daytona | Power | 352 hp
+1968 Ferrari 365 GTB/4 Daytona | Speed | 282 kmph
+1968 Ferrari 365 GTB/4 Daytona | Engine placement | front
+1968 Ferrari 365 GTC | Volume | 4.7 L
+1968 Ferrari 365 GTC | Cylinders | V12
 1968 Jaguar JX8 | Body | sedan
 1968 Jaguar XJ (1) | Volume | 2.8 L
 1968 Jaguar XJ6 | Price | 1800 GBP
@@ -2687,6 +2734,9 @@
 1968 Opel GT-AL Coupe 1900 S | Power | 90 hp
 1968 Opel GT-AL Coupe 1900 S | Fuel feed | carb Solex
 1968 Opel GT-AL Coupe 1900 S | Speed | 185 kmph
+1968 Pontiac Firebird Trans Am | Volume | 6.5 L
+1968 Pontiac Firebird Trans Am | Power | 355 hp
+1968 Pontiac Firebird Trans Am | Brakes | all drum
 1968 Porsche 908 | Volume | 2997 cc
 1968 Porsche 908 | Cylinders | 8
 1968 Porsche 908 | Power | 350 hp
@@ -2877,6 +2927,8 @@
 1969 Lamborghini Miura P400 S | Wheels | 7.0x15
 1969 Lamborghini Miura P400 S | Gears | 5 manual
 1969 Lamborghini Miura P400 S | Drive | rear
+1969 Maserati Indy 4200 | Volume | 4134 cc
+1969 Maserati Indy 4200 | Cylinders | V8
 1969 Pontiac GTO The Judge | Count | 6833
 1969 Pontiac GTO The Judge | Volume | 400 cin
 1969 Pontiac GTO The Judge | Cylinders | V8
@@ -3081,8 +3133,13 @@
 1969-1970 Porsche 911 E | Weight | 1020 kg
 1970 Alpina 2800CS | Power | 250 hp
 1970 Alpina 2800CS | Fuel feed | 3 carb Weber
-1970 Alpina 2800CS | Wheels | 14 in
+1970 Alpina 2800CS | Wheels | 14
 1970 Audi 100 S coupe | Body | coupe
+1970 Citroen GS | Cylinders | B4
+1970 Citroen SM | Count | 13000
+1970 Citroen SM | Volume | 2670 cc
+1970 Citroen SM | Cylinders | V6
+1970 Citroen SM | Cx | 0.250
 1970 Lamborghini Espada 400 GTE (Series II) | Volume | 3939 cc
 1970 Lamborghini Espada 400 GTE (Series II) | Cylinders | V12
 1970 Lamborghini Espada 400 GTE (Series II) | Power | 355 hp @ 7500 rpm
@@ -3139,6 +3196,7 @@
 1970 Lamborghini Urraco P250 | Volume | 2.5 L
 1970 Lamborghini Urraco P250 | Cylinders | 8
 1970 Lamborghini Urraco P250 | Engine placement | center
+1970 Maserati Indy 4700 | Volume | 4.7 L
 1970 Mercedes-Benz 280 SE | Price | 11600 USD
 1970 Mercedes-Benz 280 SE | Count | 5187
 1970 Mercedes-Benz 280 SE | Volume | 2748 cc
@@ -3186,6 +3244,11 @@
 1970 Porsche 911 E | Wheelbase | 2268 mm
 1970 Porsche 911 E | Gears | 5 manual
 1970 Porsche 911 E | Gears | 4 auto
+1970 Porsche 911 E 2.2 | Volume | 2.2 L
+1970 Porsche 911 E 2.2 | Power | 155 hp @ 6200 rpm
+1970 Porsche 911 E 2.2 | Torque | 191 nm @ 4500 rpm
+1970 Porsche 911 E 2.2 | Fuel feed | mechanical injection
+1970 Porsche 911 E 2.2 | Compression ratio | 9.1
 1970 Porsche 911 S | Volume | 2341 cc
 1970 Porsche 911 S | Volume | 2.2 L
 1970 Porsche 911 S | Power | 180 hp @ 6500 rpm
@@ -3202,6 +3265,11 @@
 1970 Porsche 911 S | Wheelbase | 2268 mm
 1970 Porsche 911 S | Gears | 5 manual
 1970 Porsche 911 S | Gears | 6 auto
+1970 Porsche 911 S 2.2 | Volume | 2.2 L
+1970 Porsche 911 S 2.2 | Power | 180 hp @ 6500 rpm
+1970 Porsche 911 S 2.2 | Torque | 199 nm @ 5200 rpm
+1970 Porsche 911 S 2.2 | Fuel feed | mechanical injection
+1970 Porsche 911 S 2.2 | Compression ratio | 9.8
 1970 Porsche 911 S Monte Carlo Prototype | Volume | 2300 cc
 1970 Porsche 911 S Monte Carlo Prototype | Cylinders | B6
 1970 Porsche 911 S Monte Carlo Prototype | Power | 250 hp
@@ -3225,6 +3293,11 @@
 1970 Porsche 911 T | Wheelbase | 2268 mm
 1970 Porsche 911 T | Gears | 5 manual
 1970 Porsche 911 T | Gears | 4 auto
+1970 Porsche 911 T 2.2 | Volume | 2.2 L
+1970 Porsche 911 T 2.2 | Power | 125 hp @ 5800 rpm
+1970 Porsche 911 T 2.2 | Torque | 177 nm @ 4200 rpm
+1970 Porsche 911 T 2.2 | Fuel feed | carb Zenith
+1970 Porsche 911 T 2.2 | Compression ratio | 8.6
 1970 Porsche 914/6 | Count | 3324
 1970 Porsche 914/6 | Volume | 1991 cc
 1970 Porsche 914/6 | Cylinders | B6
@@ -3286,23 +3359,20 @@
 1970-09 Opel Manta 1.9S (A) | Fuel | petrol
 1970-09 Opel Manta 1.9S (A) | Fuel feed | carb
 1970-09 Opel Manta 1.9S (A) | Speed | 188 kmph
-1970-1971 Porsche 911 E 2.2 | Volume | 2.2 L
-1970-1971 Porsche 911 E 2.2 | Power | 155 hp @ 6200 rpm
-1970-1971 Porsche 911 E 2.2 | Torque | 191 nm @ 4500 rpm
-1970-1971 Porsche 911 E 2.2 | Fuel feed | mechanical injection
-1970-1971 Porsche 911 E 2.2 | Compression ratio | 9.1
-1970-1971 Porsche 911 S 2.2 | Volume | 2.2 L
-1970-1971 Porsche 911 S 2.2 | Power | 180 hp @ 6500 rpm
-1970-1971 Porsche 911 S 2.2 | Torque | 199 nm @ 5200 rpm
-1970-1971 Porsche 911 S 2.2 | Fuel feed | mechanical injection
-1970-1971 Porsche 911 S 2.2 | Compression ratio | 9.8
-1970-1971 Porsche 911 T 2.2 | Volume | 2.2 L
-1970-1971 Porsche 911 T 2.2 | Power | 125 hp @ 5800 rpm
-1970-1971 Porsche 911 T 2.2 | Torque | 177 nm @ 4200 rpm
-1970-1971 Porsche 911 T 2.2 | Fuel feed | carb Zenith
-1970-1971 Porsche 911 T 2.2 | Compression ratio | 8.6
+1971 Alfa Romeo Alfasud | Volume | 1186 cc
+1971 Alfa Romeo Alfasud | Cylinders | B4
+1971 Alfa Romeo Alfasud | Body | sedan
+1971 Alfa Romeo Alfasud | Drive | front
 1971 BMW 3.0CSL | Speed | 243 kmph
 1971 BMW 3.0CSL | 0-100 kmph | 6.7 s
+1971 BMW CSL | Speed | 250 kmph
+1971 BMW CSL | Body | coupe
+1971 BMW CSL | Doors | 2
+1971 Ferrari 365 GT4 Berlinetta Boxer | Volume | 4.4 L
+1971 Ferrari 365 GT4 Berlinetta Boxer | Cylinders | B12
+1971 Ferrari 365 GT4 Berlinetta Boxer | Speed | 275 kmph
+1971 Ferrari 365 GT4 Berlinetta Boxer | Engine placement | center
+1971 Ferrari 365 GTK/4 | Volume | 4.4 L
 1971 Jaguar E-Type | Volume | 5.3 L
 1971 Jaguar E-Type | Cylinders | V12
 1971 Jaguar JX12 | Volume | 5.3 L
@@ -3342,6 +3412,12 @@
 1971 Lamborghini Miura P400 SV | Volume | 4 L
 1971 Lamborghini Miura P400 SV | Cylinders | V12
 1971 Lamborghini Miura P400 SV | Power | 385 hp
+1971 Lancia Stratos | Cylinders | V6
+1971 Lancia Stratos | Engine placement | transverse
+1971 Maserati Bora | Volume | 4.7 L
+1971 Maserati Bora | Cylinders | V8
+1971 Maserati Bora | Speed | 275 kmph
+1971 Maserati Bora | Engine placement | center
 1971 Porsche 914/8 #1 | Volume | 2997 cc
 1971 Porsche 914/8 #1 | Cylinders | 8
 1971 Porsche 914/8 #1 | Power | 260 hp
@@ -3404,6 +3480,7 @@
 1972 Cadillac Eldorado | Drive | front
 1972 Ferrari Dino 246 GTS | Count | 1274
 1972 Ferrari Dino 246 GTS | Body | targa
+1972 ISO Grifo | Volume | 7 L
 1972 Jaguar XJ12 | Cylinders | 12
 1972 Jaguar XJ12 | Power | 311 hp
 1972 Lamborghini Jarama 400 GTS | Body | coupe
@@ -3442,6 +3519,8 @@
 1972 Lamborghini Urraco P250 | Cylinders | V8
 1972 Lamborghini Urraco P250 | Power | 220 hp
 1972 Lamborghini Urraco P250 | Engine placement | center transverse
+1972 Maserati Merak | Cylinders | V6
+1972 Maserati Merak | Seats | 2+2
 1972 Mercedes-Benz 250 E | Body | coupe
 1972 Opel Commodore (B) | Volume | 2.8 L
 1972 Opel Commodore (B) | Volume | 2.8 L
@@ -3678,7 +3757,9 @@
 1974 911 Turbo Carrera (930) | Gears | 4 manual
 1974 911 Turbo Carrera (930) | Drive | rear
 1974 Lamborghini Countach | Volume | 3929 cc
+1974 Lamborghini Countach | Volume | 3929 cc
 1974 Lamborghini Countach | Volume | 4 L
+1974 Lamborghini Countach | Cylinders | V12
 1974 Lamborghini Countach | Cylinders | V12
 1974 Lamborghini Countach | Power | 365 hp
 1974 Lamborghini Countach | Power | 375 hp @ 8000 rpm
@@ -3699,6 +3780,7 @@
 1974 Lamborghini Countach | Rear track | 1519 mm
 1974 Lamborghini Countach | Wheelbase | 2426 mm
 1974 Lamborghini Countach | Clearance | 90 mm
+1974 Lamborghini Countach | Engine placement | center longitudinal
 1974 Lamborghini Countach | Engine placement | center
 1974 Lamborghini Countach | Rear brakes | ventilated disc
 1974 Lamborghini Countach | Front brakes | ventilated disc
@@ -3794,6 +3876,9 @@
 1974 Lancia Stratos HF | Brakes | ventilated disc
 1974 Lancia Stratos HF | Gears | 5 manual
 1974 Lancia Stratos HF | Drive | rear
+1974 Lotus Elite | Volume | 1973 cc
+1974 Lotus Elite | Cylinders | 4
+1974 Lotus Elite | Seats | 4
 1974 Opel Manta 1.6GT/E (A) | Volume | 1.6 L
 1974 Opel Manta 1.6GT/E (A) | Power | 80 hp
 1974 Opel Manta 1.6GT/E (A) | Fuel feed | injection
@@ -3885,8 +3970,12 @@
 1974 Porsche 911 T | Torque | 235 nm @ 3800 rpm
 1974 Porsche 911 T | Compression ratio | 8.0
 1974 Porsche 911 T | Weight | 1075 kg
+1974 Porsche 911 Turbo | Volume | 2994 cc
+1974 Porsche 911 Turbo | Compressor | turbo
 1974 Porsche 911 Turbo | Power | 260 hp
 1974 Porsche 911 Turbo | Power | 260 hp
+1974 Porsche 911 Turbo | Power | 260 hp
+1974 Porsche 911 Turbo | Torque | 35 kgm
 1974 Porsche 911 Turbo (930) | Volume | 2994 cc
 1974 Porsche 911 Turbo (930) | Volume | 2994 cc
 1974 Porsche 911 Turbo (930) | Power | 260 hp
@@ -3947,6 +4036,7 @@
 1975 Audi 80 | Fuel consumption | 10 L/100km
 1975 Audi 80 | Fuel consumption | 12.5 L/100km
 1975 Audi Fox (B1) | Body | wagon
+1975 Esprit | Engine placement | center longitudinal
 1975 Jaguar XJ (2) | Volume | 3.4 L
 1975 Jaguar XJ (2) | Cylinders | R6
 1975 Jaguar XJ (2) | Cylinders | V12
@@ -4082,6 +4172,8 @@
 1976 Aston Martin Lagonda | Power | 390 hp
 1976 Aston Martin Lagonda | Body | sedan
 1976 Aston Martin Lagonda | Doors | 4
+1976 Aston-Martin Lagonda | Cylinders | 8
+1976 Aston-Martin Lagonda | Doors | 4
 1976 Audi 100 | Volume | 2 L
 1976 Audi 100 | Fuel | petrol
 1976 Audi 100 (C2) | Body | sedan 2
@@ -4108,6 +4200,8 @@
 1976 Ferrari 512 BB | Front tyres | 215/70 VR15
 1976 Ferrari 512 BB | Rear tyres | 225/70 VR15
 1976 Ferrari 512 BB | Gears | 5
+1976 Ferrari 512 ВВ | Volume | 4.9 L
+1976 Ferrari 512 ВВ | Fuel feed | 4 carb Weber
 1976 Lamborghini Miura P400 SV/R | Volume | 3929 cc
 1976 Lamborghini Miura P400 SV/R | Cylinders | V12
 1976 Lamborghini Miura P400 SV/R | Power | 400 hp @ 8500 rpm
@@ -4263,10 +4357,11 @@
 1976-10 Aston Martin Lagonda | Width | 1816 mm
 1976-10 Aston Martin Lagonda | Height | 1.3 m
 1976-10 Aston Martin Lagonda | Wheelbase | 2910 mm
-1976-10 Aston Martin Lagonda | Wheels | 16 in
+1976-10 Aston Martin Lagonda | Wheels | 16
 1976-10 Audi 100 | Volume | 1.6 L
 1976-10 Audi 100 | Power | 63 kW
 1976-10 Audi 100 | Fuel | petrol
+1977 Aston Martin Vantage | Power | 370 hp
 1977 Aston Martin Vantage | Power | 370 hp
 1977 Audi 100 | Volume | 2.2 L
 1977 Audi 100 | Cylinders | 5
@@ -4316,10 +4411,14 @@
 1977 Porsche 911 SC | Weight | 1160 kg
 1977 Porsche 911 SC | Wheels | 6Jx15
 1977 Porsche 911 Turbo | Volume | 3299 cc
+1977 Porsche 911 Turbo | Volume | 3299 cc
+1977 Porsche 911 Turbo | Power | 300 hp
 1977 Porsche 911 Turbo | Power | 300 hp
 1977 Porsche 928 | Volume | 4474 cc
 1977 Porsche 928 | Volume | 4474 cc
 1977 Porsche 928 | Cylinders | V8
+1977 Porsche 928 | Cylinders | V8
+1977 Porsche 928 | Power | 240 hp
 1977 Porsche 928 | Power | 219 hp @ 5900 rpm
 1977 Porsche 928 | Power | 300 hp
 1977 Porsche 928 | Power | 240 hp
@@ -4336,7 +4435,9 @@
 1977 Porsche 928 | Width | 1734 mm
 1977 Porsche 928 | Height | 12750 mm
 1977 Porsche 928 | Seats | 2+2
+1977 Porsche 928 | Seats | 2+2
 1977 Porsche 928 | Wheelbase | 2400 mm
+1977 Porsche 928 | Engine placement | front
 1977 Porsche 928 | Engine placement | front
 1977 Porsche 928 | Engine placement | front
 1977 Porsche 928 | Brakes | disc
@@ -4434,13 +4535,13 @@
 1978 Alpina B7 Turbo (E12) | Compressor | turbo
 1978 Alpina B7 Turbo (E12) | Power | 300 hp @ 6000 rpm
 1978 Alpina B7 Turbo (E12) | Torque | 462 nm @ 2500 rpm
-1978 Alpina B7 Turbo (E12) | Body | Sedan
+1978 Alpina B7 Turbo (E12) | Body | sedan
 1978 Alpina B7 Turbo (E24) | Volume | 2986 cc
 1978 Alpina B7 Turbo (E24) | Cylinders | 6
 1978 Alpina B7 Turbo (E24) | Compressor | turbo
 1978 Alpina B7 Turbo (E24) | Power | 300 hp @ 6000 rpm
 1978 Alpina B7 Turbo (E24) | Torque | 462 nm @ 2500 rpm
-1978 Alpina B7 Turbo (E24) | Body | Coupe
+1978 Alpina B7 Turbo (E24) | Body | coupe
 1978 Audi 100 | Fuel | diesel
 1978 Audi 200 | Cylinders | 5
 1978 Audi 200 | Compressor | turbo
@@ -4451,14 +4552,20 @@
 1978 BMW E21 323i | Power | 143 hp @ 5800 rpm
 1978 BMW E21 323i | Torque | 190 nm @ 4500 rpm
 1978 BMW M1 | Count | 399
+1978 BMW M1 | Count | 399
+1978 BMW M1 | Volume | 3423 cc
 1978 BMW M1 | Volume | 3453 cc
 1978 BMW M1 | Cylinders | 6
+1978 BMW M1 | Cylinders | 6
+1978 BMW M1 | Power | 280 hp
 1978 BMW M1 | Power | 277 hp @ 6500 rpm
 1978 BMW M1 | Torque | 324 nm @ 5000 rpm
+1978 BMW M1 | Valves per cylinder | 4
 1978 BMW M1 | Valves per cylinder | 4
 1978 BMW M1 | Speed | 259.2 kmph
 1978 BMW M1 | 0-100 kmph | 5.6 s
 1978 BMW M1 | Weight | 1303 kg
+1978 BMW M1 | Engine placement | center longitudinal
 1978 BMW M1 | Engine placement | center longitudinal
 1978 BMW M1 | Brakes | ventilated disc
 1978 BMW M1 | Gears | 5 manual
@@ -4833,7 +4940,7 @@
 1980-10 Audi Coupe GT5S WN | Fuel | petrol
 1980-10 Audi Coupe GT5S WN | Gears | 5 manual
 1980-10 Audi Coupe GT5S WN | Gears | 3 auto
-1981 Alpina BMW 318i | Fuel consumption | 2.672 l/100km
+1981 Alpina BMW 318i | Fuel consumption | 2.672 L/100km
 1981 Audi 4000 S | Volume | 1.7 L
 1981 Audi 4000 S | Cylinders | 4
 1981 Audi 90 SD | Volume | 2144 cc
@@ -4857,6 +4964,7 @@
 1981 Cadillac DeVille | Length | 5620 mm
 1981 Cadillac DeVille | Width | 1915 mm
 1981 Cadillac DeVille | Height | 1405 mm
+1981 Ferrari 512 BB | Fuel feed | injection
 1981 Jaguar XJ (III) | Cylinders | V12
 1981 Jaguar XJ (III) | Compression ratio | 12.5
 1981 Lamborghini Jalpa | Count | 410
@@ -5689,19 +5797,19 @@
 1985 Alfa Romeo 75 | Drive | rear
 1985 Alfa Romeo 75 1.6 | Volume | 1580 cc
 1985 Alfa Romeo 75 1.6 | Power | 75 hp @ 5300 rpm
-1985 Alfa Romeo 75 1.6 | Fuel consumption | 6.3 l/100km
+1985 Alfa Romeo 75 1.6 | Fuel consumption | 6.3 L/100km
 1985 Alfa Romeo 75 1.8 | Volume | 1779 cc
 1985 Alfa Romeo 75 1.8 | Power | 116 hp @ 5300 rpm
-1985 Alfa Romeo 75 1.8 | Fuel consumption | 12.2 l/100km
+1985 Alfa Romeo 75 1.8 | Fuel consumption | 12.2 L/100km
 1985 Alfa Romeo 75 2.0 T.S. | Volume | 1962 cc
-1985 Alfa Romeo 75 2.0 T.S. | Power | 143 @ 5800
-1985 Alfa Romeo 75 2.0 T.S. | Fuel consumption | 7.3 l/100km
+1985 Alfa Romeo 75 2.0 T.S. | Power | 143 hp @ 5800 rpm
+1985 Alfa Romeo 75 2.0 T.S. | Fuel consumption | 7.3 L/100km
 1985 Alfa Romeo 75 3.0 V6 | Volume | 2959 cc
 1985 Alfa Romeo 75 3.0 V6 | Cylinders | V6
 1985 Alfa Romeo 75 3.0 V6 | Cylinders | V6
 1985 Alfa Romeo 75 3.0 V6 | Power | 185 hp @ 5800 rpm
-1985 Alfa Romeo 75 3.0 V6 | Power | 192 hp @ 5800
-1985 Alfa Romeo 75 3.0 V6 | Fuel consumption | 9.4 l/100km
+1985 Alfa Romeo 75 3.0 V6 | Power | 192 hp @ 5800 rpm
+1985 Alfa Romeo 75 3.0 V6 | Fuel consumption | 9.4 L/100km
 1985 Alpina BMW 333i E30 | Price | 2720 USD @ 1985
 1985 Alpina BMW 333i E30 | Count | 210
 1985 Alpina BMW 333i E30 | Volume | 3.3 L
@@ -5724,8 +5832,13 @@
 1985 BMW 524td | Power | 86 hp
 1985 BMW 524td | Fuel | diesel
 1985 Lamborghini Countach | Volume | 5.2 L
+1985 Lamborghini Countach | Volume | 5.2 L
+1985 Lamborghini Countach | Cylinders | V12
+1985 Lamborghini Countach | Power | 455 hp
 1985 Lamborghini Countach | Power | 455 hp
 1985 Lamborghini Countach | Valves per cylinder | 4
+1985 Lamborghini Countach | Valves per cylinder | 4
+1985 Lamborghini Countach | Speed | 286 kmph
 1985 Lamborghini Countach | Speed | 286 kmph
 1985 Lamborghini LP500S QV | Valves per cylinder | 4
 1985 Porsche 924 S | Body | coupe
@@ -6009,7 +6122,7 @@
 1986-10 Jaguar XJ40 Sovereign | Valves per cylinder | 4
 1986-10 Volkswagen Polo | Volume | 1.3 L
 1986-10 Volkswagen Polo | Fuel | diesel
-1987 Alfa Romeo 164 | Cx | 0.3
+1987 Alfa Romeo 164 | Cx | 0.300
 1987 Audi 80 (B3) | Body | sedan
 1987 Audi 80 (B3) | Length | 4393 mm
 1987 Audi 80 (B3) | Width | 1695 mm
@@ -6538,7 +6651,7 @@
 1988-11 Audi quattro 2.3 | Power | 100 kW
 1988-11 Audi quattro 2.3 | Fuel | petrol
 1988-11 Audi quattro 2.3 | Fuel | petrol
-1989 Alfa Romeo 75 Lusso | Volume | 3.0 L
+1989 Alfa Romeo 75 Lusso | Volume | 3 L
 1989 Alpina B10 Biturbo (E34) | Price | 152500 DM
 1989 Alpina B10 Biturbo (E34) | Count | 507
 1989 Alpina B10 Biturbo (E34) | Volume | 3430 cc
@@ -6551,18 +6664,18 @@
 1989 Alpina B10 Biturbo (E34) | Torque | 552 nm
 1989 Alpina B10 Biturbo (E34) | Torque | 520 nm @ 4000 rpm
 1989 Alpina B10 Biturbo (E34) | Compression ratio | 7.2
-1989 Alpina B10 Biturbo (E34) | Speed | 290 км/ч
 1989 Alpina B10 Biturbo (E34) | Speed | 290 kmph
-1989 Alpina B10 Biturbo (E34) | 0-100 kmph | 5 s
+1989 Alpina B10 Biturbo (E34) | Speed | 290 kmph
+1989 Alpina B10 Biturbo (E34) | 0-100 kmph | 5.0 s
 1989 Alpina B10 Biturbo (E34) | 0-100 kmph | 5.6 s
-1989 Alpina B10 Biturbo (E34) | Fuel consumption | 16.9 l/100km
-1989 Alpina B10 Biturbo (E34) | Weight | 1695 кг
-1989 Alpina B10 Biturbo (E34) | Fuel tank | 119 l
+1989 Alpina B10 Biturbo (E34) | Fuel consumption | 16.9 L/100km
+1989 Alpina B10 Biturbo (E34) | Weight | 1695 kg
+1989 Alpina B10 Biturbo (E34) | Fuel tank | 119 L
 1989 Alpina B10 Biturbo (E34) | Front brakes | disc
 1989 Alpina B10 Biturbo (E34) | Front brakes size | 334 mm
-1989 Alpina B10 Biturbo (E34) | Front tyres | 235/45 ZR 17
-1989 Alpina B10 Biturbo (E34) | Rear tyres | 265/40 ZR 17
-1989 Alpina B10 Biturbo (E34) | Wheels | 17 in
+1989 Alpina B10 Biturbo (E34) | Front tyres | 235/45 ZR17
+1989 Alpina B10 Biturbo (E34) | Rear tyres | 265/40 ZR17
+1989 Alpina B10 Biturbo (E34) | Wheels | 17
 1989 Alpina B10 Biturbo (E34) | Gears | 5
 1989 Audi 80 (8A) | Volume | 1.9 L
 1989 Audi 80 (8A) | Power | 68 hp
@@ -6674,8 +6787,12 @@
 1989 Porsche 911 Carrera 4 (964) | Drive | full
 1989 Porsche 911 Carrera 4 (964) | Drive | rear
 1989 Porsche 911 Carrera 4 (964) | Drive | full
+1989 Porsche 911 Speedster | Count | 2100
 1989 Porsche 911 Speedster | Count | 2065
 1989 Porsche 911 Speedster | Volume | 3.2 L
+1989 Porsche 911 Speedster | Volume | 3.2 L
+1989 Porsche 911 Speedster | Power | 217 hp
+1989 Porsche 911 Speedster | Gears | 5 manual
 1989 Porsche 911 Speedster (european) | Weight | 1180 kg
 1989 Porsche 911 Speedster (US) | Weight | 1210 kg
 1989 Porsche 911 turbo 3.3 | Volume | 3299 cc
@@ -6953,7 +7070,7 @@
 1990-12 Audi 100 (С4) | Volume | 2.8 L
 1990-12 Audi 100 (С4) | Cylinders | V6
 1990-12 Audi 100 (С4) | Power | 174 hp
-1991 Acura NSX | Body | Coupe
+1991 Acura NSX | Body | coupe
 1991 Acura NSX-T | Volume | 2977 cc
 1991 Acura NSX-T | Cylinders | V6
 1991 Acura NSX-T | Power | 270 hp @ 7100 rpm
@@ -8568,7 +8685,7 @@
 1995-12 Alpina B12 5.7 E-Kat | Gears | 5 auto
 1995-12 Alpina B12 5.7 E-Kat L | Price | 220000 DM @ 1997
 1995-12 Alpina B12 5.7 E-Kat L | Length | 5124 mm
-1996 Alfa Romeo GTV | Volume | 3.0 L
+1996 Alfa Romeo GTV | Volume | 3 L
 1996 Alfa Romeo GTV | Cylinders | V6
 1996 Aston Martin V8 Coupe | Volume | 5341 cc
 1996 Aston Martin V8 Coupe | Cylinders | V8
@@ -10180,10 +10297,10 @@
 1998-01 Porsche 911 Turbo (993) | Torque | 431 lb-ft
 1998-01 Porsche 911 Turbo (993) | Weight | 1456 kg
 1998-03 Porsche 911 Cabriolet (993) | Body | cabriolet
-1998-05 Alfa Romeo GTV 1.8 TS | Volume | 1.8
+1998-05 Alfa Romeo GTV 1.8 TS | Volume | 1.8 L
 1998-05 Alfa Romeo GTV 1.8 TS | Cylinders | 4
 1998-05 Alfa Romeo GTV 1.8 TS | Valves per cylinder | 4
-1998-05 Alfa Romeo GTV 2.0 TS | Volume | 2.0 L
+1998-05 Alfa Romeo GTV 2.0 TS | Volume | 2 L
 1998-05 Alfa Romeo GTV 2.0 TS | Valves per cylinder | 4
 1998-07 Opel Tigra 1.6 | Volume | 1.6 L
 1998-10 Jaguar S-Type V8 | Volume | 3996 cc
@@ -11106,7 +11223,7 @@
 2001 Acura RSX Type R | Power | 200 hp
 2001 Acura RSX Type R | Gears | 6 manual
 2001 Audi А4 Avant | Body | wagon
-2001 Audi А4 Cabrio | Body | Cabriolet
+2001 Audi А4 Cabrio | Body | cabriolet
 2001 Ferrari 550 GTS | Volume | 5983 cc
 2001 Ferrari 550 GTS | Power | 600 hp @ 7000 rpm
 2001 Ferrari 550 GTS | Torque | 700 nm
@@ -11521,7 +11638,7 @@
 2002-01 Opel Vectra 1.9CDTI (C) | Fuel | diesel
 2002-09 Opel ECO-Speedster | Volume | 1.3 L
 2002-09 Opel ECO-Speedster | Power | 112 hp
-2003 Acura NSX | Body | Coupe
+2003 Acura NSX | Body | coupe
 2003 Audi A6 S line | Volume | 2.7 L
 2003 Audi A6 S line | Volume | 3 L
 2003 Audi A6 S line | Volume | 2.7 L

@@ -49,7 +49,7 @@ const parse = async () => {
         oops("failed to parse value for " + param.k, { id, ks, v });
         continue;
       }
-      facts.push({ id, k: param.k, v });
+      facts.push({ id, k: param.k, v: norm.val.toString() });
     }
   }
   if (!ok) {

@@ -1,5 +1,63 @@
 import readline from "readline/promises";
 
+const main = async () => {
+  const rl = readline.createInterface(process.stdin);
+  for await (const line of rl) {
+    const specs = parse(line);
+    if (!specs) {
+      console.log(line);
+      continue;
+    }
+    for (const spec of specs) {
+      console.log(spec.join(" | "));
+    }
+  }
+};
+
+const parse = (line) => {
+  const cols = line.split("|").map((x) => x.trim());
+  if (cols.length != 2) {
+    return null;
+  }
+  let [id, s] = cols;
+  const facts = [];
+
+  for (;;) {
+    s = s.trim();
+    if (s == "") break;
+
+    // find the longest match
+    const matches = matchers
+      .map((matcher) => {
+        const m = s.match(matcher[0]);
+        if (!m) return null;
+        return { m, matcher };
+      })
+      .filter((x) => x !== null)
+      .sort((a, b) => b.m[0].length - a.m[0].length);
+
+    if (matches.length == 0) {
+      console.warn({ line, facts, remaining: s });
+      return null;
+    }
+
+    const f = matches[0].matcher[1];
+    const m = matches[0].m;
+    const params = f(...m);
+    if (Array.isArray(params[0])) {
+      facts.push(...params);
+    } else {
+      facts.push(params);
+    }
+    s = s.replace(m[0], "");
+    s = s.replace("(", "");
+    s = s.replace(")", "");
+    s = s.replace(";", "");
+  }
+
+  return facts.map((fact) => [id, ...fact]);
+};
+
 const matchers = [
   //
   // Power
@@ -13,7 +71,7 @@ const matchers = [
   // Body
   //
   [
-    /coupe|targa|wagon 3|sedan|cabriolet|roadster|hatchback 5|wagon/i,
+    /coupe|targa|wagon 3|sedan|cabriolet|roadster|hatchback 5|wagon|spyder/i,
     (v) => ["Body", v],
   ],
   [/(2|4)-door sedan/, (_, n) => ["Body", `sedan ${n}`]],
@@ -31,7 +89,7 @@ const matchers = [
   [/(\d.\d)\s?s/, (_, v) => ["0-100 kmph", v]],
 
   //
-  //
+  // Brakes
   //
   [/disc brakes/, (v) => ["Brakes", "disc"]],
 
@@ -44,7 +102,10 @@ const matchers = [
   //
   // Cylinders
   //
-  [/B6|v8|R4|V6|v12|R6|VR6|VR5|R3|V10|W12|R5/i, (v) => ["Cylinders", v]],
+  [/B6|b12|b4|v8|R4|V6|v12|R6|VR6|VR5|R3|V10|W12|R5/i, (v) => ["Cylinders", v]],
+  [/6-cylinder/, (v) => ["Cylinders", 6]],
+  [/(\d)[\- ]?cyl/, (_, v) => ["Cylinders", v]],
+  [/4 cyl/, (v) => ["Cylinders", 4]],
 
   //
   // Fuel
@@ -56,7 +117,7 @@ const matchers = [
   //
   [/(\d+)\s?cc/, (v) => ["Volume", v]],
   [/(\d\.\d)\s?(Liter|L|л)/i, (_, v) => ["Volume", v + "L"]],
-  [/(\d)\s?(L|л)/, (_, v) => ["Volume", v + "L"]],
+  [/(\d)\s?(L|л)/i, (_, v) => ["Volume", v + "L"]],
 
   //
   // Gearbox
@@ -74,17 +135,40 @@ const matchers = [
   [/\d+ lbs/, (v) => ["Weight", v]],
 
   //
+  // Cx
+  //
+  [/Cx=(0\.\d+)/, (_, cx) => ["Cx", cx]],
+
+  //
+  // Count
+  //
+  [/count(=| )(\d+)/, (...m) => ["Count", m[2]]],
+
+  //
+  // Engine placement
+  //
+  [/(front|center|rear) engine/, (_, v) => ["Engine placement", v]],
+  [/engine transverse/, () => ["Engine placement", "transverse"]],
+  [
+    /center longitudinal engine/,
+    () => ["Engine placement", "center longitudinal"],
+  ],
+
+  //
+  // Seats
+  //
+  [/2\+2/, () => ["Seats", "2+2"]],
+  [/(\d)\s?seats/, (_, v) => ["Seats", v]],
+  [/seats=(\d)/i, (_, v) => ["Seats", v]],
+
+  //
+  // Doors
+  //
+  [/(\d) doors/, (_, v) => ["Doors", v]],
+
   //
   //
-
-  [/Zenith carbs/, (v) => ["Fuel feed", "carb Zenith"]],
-  [/2-carburetor/, (v) => ["Fuel feed", "2 carb"]],
-  [/carb/, (v) => ["Fuel feed", "carb"]],
-  [/carb Solex/, (v) => ["Fuel feed", "carb Solex"]],
-  [/Solex/, () => ["Fuel feed", "carb Solex"]],
-  [/4 Webers/, () => ["Fuel feed", "4 carb Weber"]],
-  [/4 cyl/, (v) => ["Cylinders", 4]],
-
+  //
   [/\d+\.\d:1/, (v) => ["Compression ratio", v]],
   [/\b\d\.\d\b/, (v) => ["Volume", v + "L"]],
 
@@ -94,9 +178,8 @@ const matchers = [
   [/tyres 195\/70-14/, (v) => ["Tyres", v]],
 
   // 180 kmph, 126 mph
-  [/\d\d\d (kmph|mph)/, (v) => ["Speed", v]],
-  [/6-cylinder/, (v) => ["Cylinders", 6]],
-  [/(\d)[\- ]?cyl/, (_, v) => ["Cylinders", v]],
+  [/\d\d\d\s?(kmph|mph)/, (v) => ["Speed", v]],
+
   [
     /(\d\.\d)i/,
     (z, v) => [
@@ -123,6 +206,13 @@ const matchers = [
   //
   // Fuel feed
   //
+  [/Zenith carbs/, (v) => ["Fuel feed", "carb Zenith"]],
+  [/2-carburetor/, (v) => ["Fuel feed", "2 carb"]],
+  [/carb/, (v) => ["Fuel feed", "carb"]],
+  [/carb Solex/, (v) => ["Fuel feed", "carb Solex"]],
+  [/Solex/i, () => ["Fuel feed", "carb Solex"]],
+  [/4 Webers/i, () => ["Fuel feed", "4 carb Weber"]],
+  [/(\d) carb weber/i, (_, v) => ["Fuel feed", v + " carb Weber"]],
   [
     /mechanical injector Bosch K-Jetronic/,
     (v) => ["Fuel feed", "mechanical injection Bosch"],
@@ -152,6 +242,7 @@ const matchers = [
   // Drive
   //
   [/front-drive/, () => ["Drive", "front"]],
+  [/front drive/, () => ["Drive", "front"]],
   [/4wd/, () => ["Drive", "full"]],
   [/rwd/, () => ["Drive", "rear"]],
 
@@ -177,6 +268,7 @@ const matchers = [
   // Torque
   //
   [/(\d+) lb-ft/, (_, v) => ["Torque", v + " lb-ft"]],
+  [/(\d+)\s?kgm/, (_, v) => ["Torque", v + " kgm"]],
   [
     /(\d+)\s?nm\s?@\s?(\d+)( rpm)?/i,
     (_, n, r) => ["Torque", `${n} nm @ ${r} rpm`],
@@ -241,64 +333,5 @@ const matchers = [
     ],
   ],
 ];
-
-const main = async () => {
-  const rl = readline.createInterface(process.stdin);
-  for await (const line of rl) {
-    const [id, specs, z] = line.split("|").map((x) => x.trim());
-    if (id == "") continue;
-    if (!specs || z) {
-      console.log({ line });
-      throw new Error("invalid line");
-    }
-
-    for (const spec of specs.split("::")) {
-      const facts = extract(spec);
-      for (const fact of facts) {
-        console.log([id, ...fact].join(" | "));
-      }
-    }
-  }
-};
-
-const extract = (s) => {
-  const s0 = s;
-  const facts = [];
-
-  for (;;) {
-    s = s.trim();
-    if (s == "") break;
-
-    // find the longest match
-    const matches = matchers
-      .map((matcher) => {
-        const m = s.match(matcher[0]);
-        if (!m) return null;
-        return { m, matcher };
-      })
-      .filter((x) => x !== null)
-      .sort((a, b) => b.m[0].length - a.m[0].length);
-
-    if (matches.length == 0) {
-      console.log({ s0, facts, s });
-      throw new Error("remaining");
-    }
-
-    const f = matches[0].matcher[1];
-    const m = matches[0].m;
-    const params = f(...m);
-    if (Array.isArray(params[0])) {
-      facts.push(...params);
-    } else {
-      facts.push(params);
-    }
-    s = s.replace(m[0], "");
-    s = s.replace("(", "");
-    s = s.replace(")", "");
-    s = s.replace(";", "");
-  }
-
-  return facts;
-};
 
 main();
