@@ -1,8 +1,34 @@
 import readline from "readline/promises";
-import { formatFact, groupFacts } from "./db.mts";
 import { getParam, known } from "./schema.mts";
 
 type Fact = { id: string; k: string; v: string };
+type Car = { k: string; v: string }[];
+
+const formatFact = (f: Fact) => [f.id, f.k, f.v].join(" | ");
+
+const groupFacts = (ff: Fact[], kk: string[]) => {
+  // Collect facts
+  const map = new Map<string, Car>();
+  for (const t of ff) {
+    const list = map.get(t.id);
+    if (list) {
+      list.push(t);
+    } else {
+      map.set(t.id, [t]);
+    }
+  }
+
+  // Order the facts according to the provided params list.
+  const order = new Map();
+  kk.forEach((k, i) => {
+    order.set(k, i);
+  });
+  const ee = [...map.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+  for (const [id, entries] of ee) {
+    entries.sort((a, b) => order.get(a.k) - order.get(b.k));
+  }
+  return new Map(ee);
+};
 
 /**
  * Reads facts from stdin, prints them normalized and reformatted.

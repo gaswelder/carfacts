@@ -2,22 +2,18 @@ import * as fs from "fs";
 import { calc } from "./query-exec.mts";
 import { parseExpr, type Expr } from "./query-parser.mts";
 
+/**
+ * A single atomic fact.
+ */
 type Fact = { id: string; k: string; v: string };
-type Car = { k: string; v: string }[];
 
-export const formatFact = (f: Fact) => [f.id, f.k, f.v].join(" | ");
+/**
+ * Facts grouped by entity id.
+ */
+type FactGroup = { k: string; v: string }[];
 
-export const parseFact = (s: string) => {
-  const cols = s.split("|").map((c) => c.trim());
-  if (cols.length != 3) {
-    throw new Error("malformed fact: " + s);
-  }
-  return { id: cols[0], k: cols[1], v: cols[2] };
-};
-
-export const groupFacts = (ff: Fact[], kk: string[]) => {
-  // Collect facts
-  const map = new Map<string, Car>();
+const groupFacts = (ff: Fact[], kk: string[]) => {
+  const map = new Map<string, FactGroup>();
   for (const t of ff) {
     const list = map.get(t.id);
     if (list) {
@@ -40,13 +36,21 @@ export const groupFacts = (ff: Fact[], kk: string[]) => {
 };
 
 export const loadDb = (path: string, params: string[]) => {
-  const tuples = fs
+  //
+  // Load the facts.
+  //
+  const facts = fs
     .readFileSync(path)
     .toString()
     .split("\n")
     .filter((x) => x != "")
-    .map(parseFact);
-  const cars = groupFacts(tuples, params);
+    .map((s) => {
+      const cols = s.split("|").map((c) => c.trim());
+      if (cols.length != 3) {
+        throw new Error("malformed fact: " + s);
+      }
+      return { id: cols[0], k: cols[1], v: cols[2] };
+    });
 
   const cache = new Map<string, Expr>();
 
@@ -67,7 +71,7 @@ export const loadDb = (path: string, params: string[]) => {
     /**
      * Runs query q on the given car.
      */
-    query(car: Car, q: string) {
+    query(car: FactGroup, q: string) {
       return calc(car, parseExprCached(q));
     },
     /**
@@ -75,6 +79,7 @@ export const loadDb = (path: string, params: string[]) => {
      */
     *entries(q?: string) {
       const ql = q?.toLowerCase();
+      const cars = groupFacts(facts, params);
       for (const [id, car] of cars.entries()) {
         if (ql && !id.toLowerCase().includes(ql)) {
           continue;
