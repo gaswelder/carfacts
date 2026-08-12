@@ -1,15 +1,24 @@
 import readline from "readline/promises";
 import { loadDb } from "./db/db.mts";
+import * as fs from "fs";
 
 /**
  * Reads facts from stdin, inserts to the database.
  */
 const main = async () => {
-  let ok = true;
-  const oops = (msg: string, data: Record<string, unknown>) => {
-    process.stderr.write(JSON.stringify({ msg, ...data }) + "\n");
-    ok = false;
+  let ok = 0;
+  let fails = 0;
+  let failed = new Map<string, string[]>();
+  const fail = (msg: string, line: string) => {
+    const ls = failed.get(msg);
+    if (ls) {
+      ls.push(line);
+    } else {
+      failed.set(msg, [line]);
+    }
+    fails++;
   };
+
   const db = loadDb("carfacts.txt", []);
 
   const rl = readline.createInterface(process.stdin);
@@ -19,24 +28,32 @@ const main = async () => {
     }
     const cols = line.split("|").map((x) => x.trim());
     if (cols.length != 3) {
-      oops("invalid tuple: " + line, {});
+      fail("invalid tuple", line);
       continue;
     }
-    const [id, ks, vs] = cols;
-
-    // " :: " splits a tuple into multiple tuples.
-    for (const v of vs.split(" :: ")) {
-      try {
-        db.insert({ id, k: ks, v });
-      } catch (err: any) {
-        oops(err.message, {});
-        continue;
-      }
+    const [id, k, v] = cols;
+    try {
+      db.insert({ id, k, v });
+      ok++;
+    } catch (err: any) {
+      fail(err.message, line);
+      continue;
     }
   }
-  if (!ok) {
+  console.log(`${ok} inserted, ${fails} failed`);
+  if (ok == 0) {
     process.exit(1);
   }
+
+  const ff = failed
+    .entries()
+    .map(([k, v]) => {
+      return ["# " + k, ...v, ""].join("\n");
+    })
+    .toArray()
+    .join("\n");
+  fs.writeFileSync(`fails-${Date.now()}.txt`, ff);
+
   await db.save("carfacts.txt.tmp");
 };
 

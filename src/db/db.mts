@@ -48,7 +48,7 @@ export const loadDb = (path: string, params: string[]) => {
     .map((s) => {
       const cols = s.split("|").map((c) => c.trim());
       if (cols.length != 3) {
-        throw new Error("malformed fact: " + s);
+        throw new Error("malformed fact");
       }
       return { id: cols[0], k: cols[1], v: cols[2] };
     });
@@ -98,9 +98,7 @@ export const loadDb = (path: string, params: string[]) => {
       }
       const norm = param.v(f.v);
       if (!norm || !("val" in norm)) {
-        throw new Error(
-          "failed to parse value for " + param.k + ": " + JSON.stringify(f),
-        );
+        throw new Error("failed to parse value for " + param.k);
       }
       facts.push({ id: f.id, k: param.k, v: norm.val.toString() });
     },
