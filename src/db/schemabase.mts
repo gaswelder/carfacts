@@ -47,6 +47,10 @@ export const unit =
         }
       }
       if (typeof u == "object") {
+        if (x.unit == u.canonical) {
+          unitok = true;
+          break;
+        }
         if (u.aliases.includes(x.unit)) {
           x.unit = u.canonical;
           unitok = true;

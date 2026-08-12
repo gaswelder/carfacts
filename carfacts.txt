@@ -37397,77 +37397,77 @@ Porsche 911 Turbo (993) | Wheelbase | 2272 mm
 Porsche 911 Turbo (993) | Engine placement | rear
 Porsche 911 Turbo (993) | Brakes | disc
 Porsche 911 Turbo (993) | Drive | full
-Porsche 911 Turbo (996) | Price | 200000 DM
-Porsche 911 Turbo (996) | Volume | 3600 cc
-Porsche 911 Turbo (996) | Volume | 3600 cc
-Porsche 911 Turbo (996) | Cylinders | V6
-Porsche 911 Turbo (996) | Cylinders | V6
-Porsche 911 Turbo (996) | Compressor | turbo
-Porsche 911 Turbo (996) | Compressor | turbo
-Porsche 911 Turbo (996) | Power | 420 hp @ 6000 rpm
-Porsche 911 Turbo (996) | Power | 425 bhp
-Porsche 911 Turbo (996) | Power | 420 hp
-Porsche 911 Turbo (996) | Power | 420 hp @ 6000 rpm
-Porsche 911 Turbo (996) | Torque | 560 nm @ 2700 rpm
-Porsche 911 Turbo (996) | Torque | 560 nm @ 2700 rpm
-Porsche 911 Turbo (996) | Fuel feed | distributed injection
-Porsche 911 Turbo (996) | Fuel feed | distributed injection
-Porsche 911 Turbo (996) | Compression ratio | 9.4
-Porsche 911 Turbo (996) | Compression ratio | 9.4
-Porsche 911 Turbo (996) | Bore | 100 mm
-Porsche 911 Turbo (996) | Bore | 100 mm
-Porsche 911 Turbo (996) | Stroke | 76.4 mm
-Porsche 911 Turbo (996) | Stroke | 76.4 mm
-Porsche 911 Turbo (996) | Valves per cylinder | 4
-Porsche 911 Turbo (996) | Valves per cylinder | 4
-Porsche 911 Turbo (996) | Speed | 298 kmph
-Porsche 911 Turbo (996) | Speed | 305 kmph
-Porsche 911 Turbo (996) | Speed | 310 kmph
-Porsche 911 Turbo (996) | 0-100 kmph | 5.0 s
-Porsche 911 Turbo (996) | 0-100 kmph | 4.0 s
-Porsche 911 Turbo (996) | 0-100 kmph | 4.4 s
-Porsche 911 Turbo (996) | Fuel consumption | 9.6 L/100km
-Porsche 911 Turbo (996) | Fuel consumption | 21.9 L/100km
-Porsche 911 Turbo (996) | Fuel consumption | 9.2 L/100km
-Porsche 911 Turbo (996) | Fuel consumption | 18.9 L/100km
-Porsche 911 Turbo (996) | Weight | 1585 kg
-Porsche 911 Turbo (996) | Weight | 1540 kg
-Porsche 911 Turbo (996) | Body | coupe
-Porsche 911 Turbo (996) | Body | coupe
-Porsche 911 Turbo (996) | Length | 4435 mm
-Porsche 911 Turbo (996) | Length | 4435 mm
-Porsche 911 Turbo (996) | Width | 1830 mm
-Porsche 911 Turbo (996) | Width | 1830 mm
-Porsche 911 Turbo (996) | Height | 1295 mm
-Porsche 911 Turbo (996) | Height | 1295 mm
-Porsche 911 Turbo (996) | Seats | 2+2
-Porsche 911 Turbo (996) | Seats | 2+2
-Porsche 911 Turbo (996) | Doors | 2
-Porsche 911 Turbo (996) | Doors | 2
-Porsche 911 Turbo (996) | Fuel tank | 64 L
-Porsche 911 Turbo (996) | Fuel tank | 64 L
-Porsche 911 Turbo (996) | Trunk size | 100 L
-Porsche 911 Turbo (996) | Trunk size | 100 L
-Porsche 911 Turbo (996) | Front track | 1465 mm
-Porsche 911 Turbo (996) | Front track | 1465 mm
-Porsche 911 Turbo (996) | Rear track | 1522 mm
-Porsche 911 Turbo (996) | Rear track | 1522 mm
-Porsche 911 Turbo (996) | Wheelbase | 2350 mm
-Porsche 911 Turbo (996) | Wheelbase | 2350 mm
-Porsche 911 Turbo (996) | Engine placement | rear
-Porsche 911 Turbo (996) | Engine placement | rear
-Porsche 911 Turbo (996) | Brakes | disc
-Porsche 911 Turbo (996) | Front tyres | 225/40 R18
-Porsche 911 Turbo (996) | Rear tyres | 295/30 R18
-Porsche 911 Turbo (996) | Wheels | 18
-Porsche 911 Turbo (996) | Gears | 5 auto
-Porsche 911 Turbo (996) | Gears | 6 manual
-Porsche 911 Turbo (996) | Gears | 5 auto
-Porsche 911 Turbo (996) | Gears | 6 manual
-Porsche 911 Turbo (996) | Drive | full
-Porsche 911 Turbo (996) | Drive | rear
-Porsche 911 Turbo (996) | Drive | full
-Porsche 911 Turbo (996) | Drive | rear
+2000 Porsche 911 Turbo (996) | Price | 200000 DM
+2000 Porsche 911 Turbo (996) | Volume | 3600 cc
+2000 Porsche 911 Turbo (996) | Volume | 3600 cc
+2000 Porsche 911 Turbo (996) | Cylinders | V6
+2000 Porsche 911 Turbo (996) | Cylinders | V6
+2000 Porsche 911 Turbo (996) | Compressor | turbo
+2000 Porsche 911 Turbo (996) | Compressor | turbo
+2000 Porsche 911 Turbo (996) | Power | 420 hp @ 6000 rpm
+2000 Porsche 911 Turbo (996) | Power | 425 bhp
+2000 Porsche 911 Turbo (996) | Power | 420 hp
+2000 Porsche 911 Turbo (996) | Power | 420 hp @ 6000 rpm
+2000 Porsche 911 Turbo (996) | Torque | 560 nm @ 2700 rpm
+2000 Porsche 911 Turbo (996) | Torque | 560 nm @ 2700 rpm
+2000 Porsche 911 Turbo (996) | Fuel feed | distributed injection
+2000 Porsche 911 Turbo (996) | Fuel feed | distributed injection
+2000 Porsche 911 Turbo (996) | Compression ratio | 9.4
+2000 Porsche 911 Turbo (996) | Compression ratio | 9.4
+2000 Porsche 911 Turbo (996) | Bore | 100 mm
+2000 Porsche 911 Turbo (996) | Bore | 100 mm
+2000 Porsche 911 Turbo (996) | Stroke | 76.4 mm
+2000 Porsche 911 Turbo (996) | Stroke | 76.4 mm
+2000 Porsche 911 Turbo (996) | Valves per cylinder | 4
+2000 Porsche 911 Turbo (996) | Valves per cylinder | 4
+2000 Porsche 911 Turbo (996) | Speed | 298 kmph
+2000 Porsche 911 Turbo (996) | Speed | 305 kmph
+2000 Porsche 911 Turbo (996) | Speed | 310 kmph
+2000 Porsche 911 Turbo (996) | 0-100 kmph | 5.0 s
+2000 Porsche 911 Turbo (996) | 0-100 kmph | 4.0 s
+2000 Porsche 911 Turbo (996) | 0-100 kmph | 4.4 s
+2000 Porsche 911 Turbo (996) | Fuel consumption | 9.6 L/100km
+2000 Porsche 911 Turbo (996) | Fuel consumption | 21.9 L/100km
+2000 Porsche 911 Turbo (996) | Fuel consumption | 9.2 L/100km
+2000 Porsche 911 Turbo (996) | Fuel consumption | 18.9 L/100km
+2000 Porsche 911 Turbo (996) | Weight | 1585 kg
+2000 Porsche 911 Turbo (996) | Weight | 1540 kg
+2000 Porsche 911 Turbo (996) | Body | coupe
+2000 Porsche 911 Turbo (996) | Body | coupe
+2000 Porsche 911 Turbo (996) | Length | 4435 mm
+2000 Porsche 911 Turbo (996) | Length | 4435 mm
+2000 Porsche 911 Turbo (996) | Width | 1830 mm
+2000 Porsche 911 Turbo (996) | Width | 1830 mm
+2000 Porsche 911 Turbo (996) | Height | 1295 mm
+2000 Porsche 911 Turbo (996) | Height | 1295 mm
+2000 Porsche 911 Turbo (996) | Seats | 2+2
+2000 Porsche 911 Turbo (996) | Seats | 2+2
+2000 Porsche 911 Turbo (996) | Doors | 2
+2000 Porsche 911 Turbo (996) | Doors | 2
+2000 Porsche 911 Turbo (996) | Fuel tank | 64 L
+2000 Porsche 911 Turbo (996) | Fuel tank | 64 L
+2000 Porsche 911 Turbo (996) | Trunk size | 100 L
+2000 Porsche 911 Turbo (996) | Trunk size | 100 L
+2000 Porsche 911 Turbo (996) | Front track | 1465 mm
+2000 Porsche 911 Turbo (996) | Front track | 1465 mm
+2000 Porsche 911 Turbo (996) | Rear track | 1522 mm
+2000 Porsche 911 Turbo (996) | Rear track | 1522 mm
+2000 Porsche 911 Turbo (996) | Wheelbase | 2350 mm
+2000 Porsche 911 Turbo (996) | Wheelbase | 2350 mm
+2000 Porsche 911 Turbo (996) | Engine placement | rear
+2000 Porsche 911 Turbo (996) | Engine placement | rear
+2000 Porsche 911 Turbo (996) | Brakes | disc
+2000 Porsche 911 Turbo (996) | Front tyres | 225/40 R18
+2000 Porsche 911 Turbo (996) | Rear tyres | 295/30 R18
+2000 Porsche 911 Turbo (996) | Wheels | 18
+2000 Porsche 911 Turbo (996) | Gears | 5 auto
+2000 Porsche 911 Turbo (996) | Gears | 6 manual
+2000 Porsche 911 Turbo (996) | Gears | 5 auto
+2000 Porsche 911 Turbo (996) | Gears | 6 manual
+2000 Porsche 911 Turbo (996) | Drive | full
+2000 Porsche 911 Turbo (996) | Drive | rear
+2000 Porsche 911 Turbo (996) | Drive | full
+2000 Porsche 911 Turbo (996) | Drive | rear
 Porsche 911 Turbo 3.3 (930) | Volume | 3299 cc
 Porsche 911 Turbo 3.3 (930) | Power | 300 hp
 Porsche 911 Turbo 3.3 (930) | Speed | 162 mph
@@ -37720,33 +37720,33 @@ Range Rover | Length | 4950 mm
 Range Rover | Width | 2191 mm
 Range Rover | Height | 1913 mm
 Renault 4CV | Engine placement | rear
-Ruf CTF2 | Rear tyres | 285/30 ZR19
-Ruf CTR2 | Volume | 3600 cc
-Ruf CTR2 | Cylinders | B6
-Ruf CTR2 | Compressor | 2 turbo
-Ruf CTR2 | Power | 520 hp
-Ruf CTR2 | Power | 520 hp @ 5800 rpm
-Ruf CTR2 | Torque | 505 lb-ft @ 4800 rpm
-Ruf CTR2 | Torque | 685 nm
-Ruf CTR2 | Fuel feed | injection TAGtronic
-Ruf CTR2 | Compression ratio | 8.0
-Ruf CTR2 | Bore | 100 mm
-Ruf CTR2 | Stroke | 76.4 mm
-Ruf CTR2 | Speed | 220 mph
-Ruf CTR2 | Speed | 339.8 kmph
-Ruf CTR2 | 0-60 mph | 3.6 s
-Ruf CTR2 | Fuel consumption | 15 mpg
-Ruf CTR2 | Weight | 3045 lbs
-Ruf CTR2 | Length | 168.9 in
-Ruf CTR2 | Width | 68.3 in
-Ruf CTR2 | Height | 51.2 in
-Ruf CTR2 | Wheelbase | 89.4 in
-Ruf CTR2 | Front brakes size | 14 in
-Ruf CTR2 | Rear brakes size | 14 in
-Ruf CTR2 | Front tyres | 245/35 ZR19
-Ruf CTR2 | Front wheels | 8.5x19
-Ruf CTR2 | Rear wheels | 10.0x19
-Ruf CTR2 | Gears | 6 manual
+1997 Ruf CTR2 | Rear tyres | 285/30 ZR19
+1997 Ruf CTR2 | Volume | 3600 cc
+1997 Ruf CTR2 | Cylinders | B6
+1997 Ruf CTR2 | Compressor | 2 turbo
+1997 Ruf CTR2 | Power | 520 hp
+1997 Ruf CTR2 | Power | 520 hp @ 5800 rpm
+1997 Ruf CTR2 | Torque | 505 lb-ft @ 4800 rpm
+1997 Ruf CTR2 | Torque | 685 nm
+1997 Ruf CTR2 | Fuel feed | injection TAGtronic
+1997 Ruf CTR2 | Compression ratio | 8.0
+1997 Ruf CTR2 | Bore | 100 mm
+1997 Ruf CTR2 | Stroke | 76.4 mm
+1997 Ruf CTR2 | Speed | 220 mph
+1997 Ruf CTR2 | Speed | 339.8 kmph
+1997 Ruf CTR2 | 0-60 mph | 3.6 s
+1997 Ruf CTR2 | Fuel consumption | 15 mpg
+1997 Ruf CTR2 | Weight | 3045 lbs
+1997 Ruf CTR2 | Length | 168.9 in
+1997 Ruf CTR2 | Width | 68.3 in
+1997 Ruf CTR2 | Height | 51.2 in
+1997 Ruf CTR2 | Wheelbase | 89.4 in
+1997 Ruf CTR2 | Front brakes size | 14 in
+1997 Ruf CTR2 | Rear brakes size | 14 in
+1997 Ruf CTR2 | Front tyres | 245/35 ZR19
+1997 Ruf CTR2 | Front wheels | 8.5x19
+1997 Ruf CTR2 | Rear wheels | 10.0x19
+1997 Ruf CTR2 | Gears | 6 manual
 RUF R-Turbo | Compressor | turbo
 RUF R-Turbo | Power | 520 hp
 RUF R-Turbo | 0-100 kmph | 3.6 s
@@ -37791,47 +37791,47 @@ Typ-60 | Power | 22 hp
 Typ-60 | Speed | 105 kmph
 Typ-60 | Weight | 600 kg
 Typ-60 | Engine placement | rear
-Venturi Atlantique 300 | Volume | 2975 cc
-Venturi Atlantique 300 | Cylinders | V6
-Venturi Atlantique 300 | Power | 282 hp @ 5300 rpm
-Venturi Atlantique 300 | Torque | 420 nm @ 2500 rpm
-Venturi Atlantique 300 | Valves per cylinder | 2
-Venturi Atlantique 300 | Speed | 280 kmph
-Venturi Atlantique 300 | 0-100 kmph | 5.3 s
-Venturi Atlantique 300 | Fuel consumption | 13.8 L/100km
-Venturi Atlantique 300 | Weight | 1250 kg
-Venturi Atlantique 300 | Length | 4.24 m
-Venturi Atlantique 300 | Width | 1.84 m
-Venturi Atlantique 300 | Height | 1.18 m
-Venturi Atlantique 300 | Fuel tank | 90 L
-Venturi Atlantique 300 | Front track | 1.5 m
-Venturi Atlantique 300 | Rear track | 1.59 m
-Venturi Atlantique 300 | Wheelbase | 2.5 m
-Venturi Atlantique 300 | Engine placement | center longitudinal
-Venturi Atlantique 300 | Brakes | disc
-Venturi Atlantique 300 | Gears | 5 manual
-Venturi Atlantique 300 | Drive | rear
-Venturi Atlantique 300 Biturbo | Volume | 2946 cc
-Venturi Atlantique 300 Biturbo | Cylinders | V6
-Venturi Atlantique 300 Biturbo | Compressor | 2 turbo
-Venturi Atlantique 300 Biturbo | Power | 310 hp @ 6200 rpm
-Venturi Atlantique 300 Biturbo | Torque | 392 nm @ 3800 rpm
-Venturi Atlantique 300 Biturbo | Valves per cylinder | 4
-Venturi Atlantique 300 Biturbo | Speed | 275 kmph
-Venturi Atlantique 300 Biturbo | 0-100 kmph | 4.9 s
-Venturi Atlantique 300 Biturbo | Fuel consumption | 12.7 L/100km
-Venturi Atlantique 300 Biturbo | Weight | 1250 kg
-Venturi Atlantique 300 Biturbo | Length | 4.24 m
-Venturi Atlantique 300 Biturbo | Width | 1.84 m
-Venturi Atlantique 300 Biturbo | Height | 1.18 m
-Venturi Atlantique 300 Biturbo | Fuel tank | 90 L
-Venturi Atlantique 300 Biturbo | Front track | 1.5 m
-Venturi Atlantique 300 Biturbo | Rear track | 1.59 m
-Venturi Atlantique 300 Biturbo | Wheelbase | 2.5 m
-Venturi Atlantique 300 Biturbo | Engine placement | center longitudinal
-Venturi Atlantique 300 Biturbo | Brakes | disc
-Venturi Atlantique 300 Biturbo | Gears | 5 manual
-Venturi Atlantique 300 Biturbo | Drive | rear
+1997 Venturi Atlantique 300 | Volume | 2975 cc
+1997 Venturi Atlantique 300 | Cylinders | V6
+1997 Venturi Atlantique 300 | Power | 282 hp @ 5300 rpm
+1997 Venturi Atlantique 300 | Torque | 420 nm @ 2500 rpm
+1997 Venturi Atlantique 300 | Valves per cylinder | 2
+1997 Venturi Atlantique 300 | Speed | 280 kmph
+1997 Venturi Atlantique 300 | 0-100 kmph | 5.3 s
+1997 Venturi Atlantique 300 | Fuel consumption | 13.8 L/100km
+1997 Venturi Atlantique 300 | Weight | 1250 kg
+1997 Venturi Atlantique 300 | Length | 4.24 m
+1997 Venturi Atlantique 300 | Width | 1.84 m
+1997 Venturi Atlantique 300 | Height | 1.18 m
+1997 Venturi Atlantique 300 | Fuel tank | 90 L
+1997 Venturi Atlantique 300 | Front track | 1.5 m
+1997 Venturi Atlantique 300 | Rear track | 1.59 m
+1997 Venturi Atlantique 300 | Wheelbase | 2.5 m
+1997 Venturi Atlantique 300 | Engine placement | center longitudinal
+1997 Venturi Atlantique 300 | Brakes | disc
+1997 Venturi Atlantique 300 | Gears | 5 manual
+1997 Venturi Atlantique 300 | Drive | rear
+1998 Venturi Atlantique 300 Biturbo | Volume | 2946 cc
+1998 Venturi Atlantique 300 Biturbo | Cylinders | V6
+1998 Venturi Atlantique 300 Biturbo | Compressor | 2 turbo
+1998 Venturi Atlantique 300 Biturbo | Power | 310 hp @ 6200 rpm
+1998 Venturi Atlantique 300 Biturbo | Torque | 392 nm @ 3800 rpm
+1998 Venturi Atlantique 300 Biturbo | Valves per cylinder | 4
+1998 Venturi Atlantique 300 Biturbo | Speed | 275 kmph
+1998 Venturi Atlantique 300 Biturbo | 0-100 kmph | 4.9 s
+1998 Venturi Atlantique 300 Biturbo | Fuel consumption | 12.7 L/100km
+1998 Venturi Atlantique 300 Biturbo | Weight | 1250 kg
+1998 Venturi Atlantique 300 Biturbo | Length | 4.24 m
+1998 Venturi Atlantique 300 Biturbo | Width | 1.84 m
+1998 Venturi Atlantique 300 Biturbo | Height | 1.18 m
+1998 Venturi Atlantique 300 Biturbo | Fuel tank | 90 L
+1998 Venturi Atlantique 300 Biturbo | Front track | 1.5 m
+1998 Venturi Atlantique 300 Biturbo | Rear track | 1.59 m
+1998 Venturi Atlantique 300 Biturbo | Wheelbase | 2.5 m
+1998 Venturi Atlantique 300 Biturbo | Engine placement | center longitudinal
+1998 Venturi Atlantique 300 Biturbo | Brakes | disc
+1998 Venturi Atlantique 300 Biturbo | Gears | 5 manual
+1998 Venturi Atlantique 300 Biturbo | Drive | rear
 Volkswagen Golf Cabriolet (I) | Body | cabriolet
 Volkswagen Golf R GTI | Volume | 2 L
 Volkswagen Golf R GTI | Power | 380 hp
@@ -37842,65 +37842,65 @@ Volkswagen Lupo | Fuel | petrol
 Volkswagen Lupo | Fuel feed | direct injection
 Volkswagen Lupo | Body | hatchback 3
 Volkswagen Lupo 3L TDI | Fuel consumption | 3 L/100km
-Volkswagen Passat (IV) | Volume | 1.6 L
-Volkswagen Passat (IV) | Volume | 1.9 L
-Volkswagen Passat (IV) | Volume | 1.9 L
-Volkswagen Passat (IV) | Compressor | turbo
-Volkswagen Passat (IV) | Compressor | turbo
-Volkswagen Passat (IV) | Compressor | turbo
-Volkswagen Passat (IV) | Power | 80 hp
-Volkswagen Passat (IV) | Power | 64 hp
-Volkswagen Passat (IV) | Power | 75 hp
-Volkswagen Passat (IV) | Power | 110 hp
-Volkswagen Passat (IV) | Fuel | diesel
-Volkswagen Passat (IV) | Fuel | diesel
-Volkswagen Passat (IV) | Fuel | diesel
-Volkswagen Passat (IV) | Fuel | diesel
-Volkswagen Passat (IV) | Weight | 1100 kg
-Volkswagen Passat (IV) | Body | sedan
-Volkswagen Passat (IV) | Body | sedan
-Volkswagen Passat (IV) | Cx | 0.290
-Volkswagen Passat (IV) | Trunk size | 495 L
-Volkswagen Passat (IV) | Rear brakes | disc
-Volkswagen Passat (IV) | Rear brakes | drum
-Volkswagen Passat (IV) | Front brakes | ventilated disc
-Volkswagen Passat (IV) | Gears | 5 manual
-Volkswagen Passat (IV) | Drive | full
-Volkswagen Passat 1.6 (IV) | Volume | 1.6 L
-Volkswagen Passat 1.6 (IV) | Power | 72 hp
-Volkswagen Passat 1.6 (IV) | Power | 75 hp
-Volkswagen Passat 1.6 (IV) | Power | 100 hp
-Volkswagen Passat 1.6 (IV) | Fuel | petrol
-Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
-Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
-Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
-Volkswagen Passat 1.8 (IV) | Power | 75 hp
-Volkswagen Passat 1.8 (IV) | Power | 107 hp
-Volkswagen Passat 1.8 (IV) | Power | 112 hp
-Volkswagen Passat 1.8 (IV) | Power | 133 hp
-Volkswagen Passat 1.8 (IV) | Power | 160 hp
-Volkswagen Passat 1.8 (IV) | Fuel | petrol
-Volkswagen Passat 1.8 (IV) | Fuel | petrol
-Volkswagen Passat 1.8 (IV) | Fuel | petrol
-Volkswagen Passat 1.8 (IV) | Valves per cylinder | 4
-Volkswagen Passat 2.0 (IV) | Volume | 2 L
-Volkswagen Passat 2.0 (IV) | Volume | 2 L
-Volkswagen Passat 2.0 (IV) | Power | 115 hp
-Volkswagen Passat 2.0 (IV) | Power | 136 hp
-Volkswagen Passat 2.0 (IV) | Power | 150 hp
-Volkswagen Passat 2.0 (IV) | Fuel | petrol
-Volkswagen Passat 2.0 (IV) | Fuel | petrol
-Volkswagen Passat 2.0 (IV) | Valves per cylinder | 4
-Volkswagen Passat 2.8 (IV) | Volume | 2.8 L
-Volkswagen Passat 2.8 (IV) | Cylinders | VR6
-Volkswagen Passat 2.8 (IV) | Power | 174 hp
-Volkswagen Passat 2.8 (IV) | Fuel | petrol
-Volkswagen Passat 2.9 (IV) | Volume | 2.9 L
-Volkswagen Passat 2.9 (IV) | Cylinders | VR6
-Volkswagen Passat 2.9 (IV) | Power | 190 hp
-Volkswagen Passat 2.9 (IV) | Fuel | petrol
-Volkswagen Passat Variant (IV) | Body | wagon
-Volkswagen Passat Variant (IV) | Trunk size | 465..1500 L
+1993 Volkswagen Passat (IV) | Volume | 1.6 L
+1993 Volkswagen Passat (IV) | Volume | 1.9 L
+1993 Volkswagen Passat (IV) | Volume | 1.9 L
+1993 Volkswagen Passat (IV) | Compressor | turbo
+1993 Volkswagen Passat (IV) | Compressor | turbo
+1993 Volkswagen Passat (IV) | Compressor | turbo
+1993 Volkswagen Passat (IV) | Power | 80 hp
+1993 Volkswagen Passat (IV) | Power | 64 hp
+1993 Volkswagen Passat (IV) | Power | 75 hp
+1993 Volkswagen Passat (IV) | Power | 110 hp
+1993 Volkswagen Passat (IV) | Fuel | diesel
+1993 Volkswagen Passat (IV) | Fuel | diesel
+1993 Volkswagen Passat (IV) | Fuel | diesel
+1993 Volkswagen Passat (IV) | Fuel | diesel
+1993 Volkswagen Passat (IV) | Weight | 1100 kg
+1993 Volkswagen Passat (IV) | Body | sedan
+1993 Volkswagen Passat (IV) | Body | sedan
+1993 Volkswagen Passat (IV) | Cx | 0.290
+1993 Volkswagen Passat (IV) | Trunk size | 495 L
+1993 Volkswagen Passat (IV) | Rear brakes | disc
+1993 Volkswagen Passat (IV) | Rear brakes | drum
+1993 Volkswagen Passat (IV) | Front brakes | ventilated disc
+1993 Volkswagen Passat (IV) | Gears | 5 manual
+1993 Volkswagen Passat (IV) | Drive | full
+1993 Volkswagen Passat 1.6 (IV) | Volume | 1.6 L
+1993 Volkswagen Passat 1.6 (IV) | Power | 72 hp
+1993 Volkswagen Passat 1.6 (IV) | Power | 75 hp
+1993 Volkswagen Passat 1.6 (IV) | Power | 100 hp
+1993 Volkswagen Passat 1.6 (IV) | Fuel | petrol
+1993 Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
+1993 Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
+1993 Volkswagen Passat 1.8 (IV) | Volume | 1.8 L
+1993 Volkswagen Passat 1.8 (IV) | Power | 75 hp
+1993 Volkswagen Passat 1.8 (IV) | Power | 107 hp
+1993 Volkswagen Passat 1.8 (IV) | Power | 112 hp
+1993 Volkswagen Passat 1.8 (IV) | Power | 133 hp
+1993 Volkswagen Passat 1.8 (IV) | Power | 160 hp
+1993 Volkswagen Passat 1.8 (IV) | Fuel | petrol
+1993 Volkswagen Passat 1.8 (IV) | Fuel | petrol
+1993 Volkswagen Passat 1.8 (IV) | Fuel | petrol
+1993 Volkswagen Passat 1.8 (IV) | Valves per cylinder | 4
+1993 Volkswagen Passat 2.0 (IV) | Volume | 2 L
+1993 Volkswagen Passat 2.0 (IV) | Volume | 2 L
+1993 Volkswagen Passat 2.0 (IV) | Power | 115 hp
+1993 Volkswagen Passat 2.0 (IV) | Power | 136 hp
+1993 Volkswagen Passat 2.0 (IV) | Power | 150 hp
+1993 Volkswagen Passat 2.0 (IV) | Fuel | petrol
+1993 Volkswagen Passat 2.0 (IV) | Fuel | petrol
+1993 Volkswagen Passat 2.0 (IV) | Valves per cylinder | 4
+1993 Volkswagen Passat 2.8 (IV) | Volume | 2.8 L
+1993 Volkswagen Passat 2.8 (IV) | Cylinders | VR6
+1993 Volkswagen Passat 2.8 (IV) | Power | 174 hp
+1993 Volkswagen Passat 2.8 (IV) | Fuel | petrol
+1993 Volkswagen Passat 2.9 (IV) | Volume | 2.9 L
+1993 Volkswagen Passat 2.9 (IV) | Cylinders | VR6
+1993 Volkswagen Passat 2.9 (IV) | Power | 190 hp
+1993 Volkswagen Passat 2.9 (IV) | Fuel | petrol
+1993 Volkswagen Passat Variant (IV) | Body | wagon
+1993 Volkswagen Passat Variant (IV) | Trunk size | 465..1500 L
 ЗИС 102 | Body | phaeton
 ЗИС 115 | Count | 30
 ЗИС 115 | Weight | 5 t
