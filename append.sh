@@ -1,4 +1,4 @@
 #!/bin/sh
 
-node src/cmd-insert.mts || exit 1
+node src/cmd-cars.mts insert || exit 1
 meld carfacts.txt carfacts.txt.tmp
