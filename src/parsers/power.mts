@@ -1,7 +1,10 @@
 import { reader } from "../db/reader.mjs";
 
 export const parsePower = (s: string) => {
-  s = s.replace("л.с.", "hp");
+  const aliases = ["л.с.", "PS"];
+  for (const a of aliases) {
+    s = s.replace(a, "hp");
+  }
   const r = reader(s);
   const num = r.num();
   if (num === "") return null;

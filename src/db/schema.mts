@@ -2,78 +2,8 @@ import { parsePower } from "../parsers/power.mts";
 import { parseTorque } from "../parsers/torque.mts";
 import { parseTyre } from "../parsers/tyres.mts";
 import { readWheel } from "../parsers/wheels.mts";
+import { oneof, unitless, unit } from "./schemabase.mts";
 import { Val } from "./val.mts";
-
-type enumvars = { canonical: string; aliases: string[] };
-
-/**
- * Matches one of the given strings, case-insensitive.
- */
-const matchOneOf = (val: string, options: (string | enumvars)[]) => {
-  for (const opt of options) {
-    const vars = typeof opt == "string" ? { canonical: opt, aliases: [] } : opt;
-    for (const s of [vars.canonical, ...vars.aliases]) {
-      if (s.toLowerCase() == val.toLowerCase()) {
-        return { val: vars.canonical };
-      }
-    }
-  }
-};
-
-/**
- * Matches a number, optionally formatting it to fixed digits.
- */
-const matchNumber = (val: string, fixed?: number) => {
-  const n = parseFloat(val);
-  if (fixed !== undefined) {
-    return { val: n.toFixed(fixed) };
-  }
-  return { val: n.toString() };
-};
-
-/**
- * Matches one of possible unit values,
- * when different units are acceptable in general case.
- */
-const matchUnit = (
-  val: string,
-  units: string[],
-  params: Partial<{
-    aliases: Record<string, string>;
-    defaults: {
-      unit: string;
-      min?: number;
-      max?: number;
-    }[];
-  }>,
-) => {
-  // if (val.includes(",") && !val.match(/,\d{3,}/)) {
-  //   val = val.replace(",", ".");
-  // }
-  const x = Val.parse(val);
-  if (x.unit == "" && params.defaults) {
-    for (const def of params.defaults) {
-      if (def.min !== undefined && x.val < def.min) {
-        continue;
-      }
-      if (def.max !== undefined && x.val > def.max) {
-        continue;
-      }
-      x.unit = def.unit;
-      break;
-    }
-  }
-  if (x.unit && params.aliases && params.aliases[x.unit]) {
-    x.unit = params.aliases[x.unit];
-  }
-  if (units.includes(x.unit)) {
-    return { val: x.format() };
-  }
-};
-
-const oneof = (options: (string | enumvars)[]) => (val: string) =>
-  matchOneOf(val, options);
-const unitless = (fixed?: number) => (val: string) => matchNumber(val, fixed);
 
 const parseSeconds = (s: string) => {
   const v = Val.parse(s.replace(",", "."));
@@ -83,19 +13,6 @@ const parseSeconds = (s: string) => {
     return { val: v.val.toFixed(1) + " s" };
   }
 };
-
-const units =
-  (
-    units: string[],
-    defaults?: {
-      unit: string;
-      min?: number;
-      max?: number;
-    }[],
-  ) =>
-  (val: string) => {
-    return matchUnit(val, units, { defaults });
-  };
 
 const matchRange = (
   val: string,
@@ -132,7 +49,9 @@ const range = (units: string[]) => (val: string) => {
   return matchRange(val, units, {});
 };
 
-const size = units(["mm", "in", "m", "cm"], [{ min: 1000, unit: "mm" }]);
+const size = unit(["mm", "in", "m", "cm"], {
+  defaults: [{ min: 1000, unit: "mm" }],
+});
 
 const isnum = (s: string) => s.match(/^\d+(\.\d+)?$/);
 
@@ -169,7 +88,7 @@ export const getParam = (name: string) => {
 };
 
 export const known = {
-  Price: units(["USD", "DM", "GBP", "RUR", "EUR", "BYN"]),
+  Price: unit(["USD", "DM", "GBP", "RUR", "EUR", "BYN"], {}),
   Count(val: string) {
     let m = val.match(/(\d+) (in|@) (\d+)/);
     if (m) {
@@ -193,7 +112,7 @@ export const known = {
   },
 
   // Engine
-  Volume: units(["cc", "L", "cin"], [{ unit: "L", max: 10 }]),
+  Volume: unit(["cc", "L", "cin"], { defaults: [{ unit: "L", max: 10 }] }),
   Cylinders: oneof(
     `1 10 12 16 18 2 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5 R3
         V10 V12 V16 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),
@@ -215,12 +134,19 @@ export const known = {
     if (!p.u) p.u = "hp";
     return { val: p.format() };
   },
-  Torque: (s: string) => {
-    const p = parseTorque(s);
-    if (!p) return null;
-    if (!p.u) p.u = "nm";
-    return { val: p.format() };
-  },
+  Torque: unit(
+    [
+      { canonical: "nm", aliases: ["N·m", "Nm"] },
+      { canonical: "lb-ft", aliases: ["ft-lb"] },
+    ],
+    {},
+  ),
+  // Torque: (s: string) => {
+  //   const p = parseTorque(s);
+  //   if (!p) return null;
+  //   if (!p.u) p.u = "nm";
+  //   return { val: p.format() };
+  // },
   Fuel: oneof([
     "petrol",
     "natural gas",
@@ -289,15 +215,13 @@ export const known = {
 
   // Engine details
   "Compression ratio": unitless(1),
-  Bore: units(["mm", "in"], [{ min: 40, unit: "mm" }]),
-  Stroke: units(["mm", "in"], [{ min: 40, unit: "mm" }]),
+  Bore: unit(["mm", "in"], { defaults: [{ min: 40, unit: "mm" }] }),
+  Stroke: unit(["mm", "in"], { defaults: [{ min: 40, unit: "mm" }] }),
   "Valves per cylinder": oneof(["2", "3", "4", "5"]),
-  "Max rpm": units([""]),
+  "Max rpm": unitless(),
 
   // Perf
-  Speed(s: string) {
-    return matchUnit(s, ["kmph", "mph"], { aliases: { "км/ч": "kmph" } });
-  },
+  Speed: unit([{ canonical: "kmph", aliases: ["км/ч"] }, "mph"], {}),
   "0-96 kmph": parseSeconds,
   "0-100 kmph": parseSeconds,
   "0-120 kmph": parseSeconds,
@@ -339,12 +263,14 @@ export const known = {
       return { val: `${m[1]} ${m[2]}` };
     }
   },
-  Weight(s: string) {
-    return matchUnit(s, ["kg", "lbs", "t"], {
-      aliases: { T: "t", кг: "kg", lb: "lbs" },
-      defaults: [{ unit: "kg" }],
-    });
-  },
+  Weight: unit(
+    [
+      { canonical: "kg", aliases: ["кг"] },
+      { canonical: "lbs", aliases: ["lb"] },
+      "t",
+    ],
+    { defaults: [{ unit: "kg" }] },
+  ),
 
   Body: oneof([
     "ambulance 5",
@@ -426,9 +352,9 @@ export const known = {
   ]),
   "Rear brakes": brakes,
   "Front brakes": brakes,
-  "Brakes size": units(["mm", "in"]),
-  "Front brakes size": units(["mm", "in"]),
-  "Rear brakes size": units(["mm", "in"]),
+  "Brakes size": unit(["mm", "in"], {}),
+  "Front brakes size": unit(["mm", "in"], {}),
+  "Rear brakes size": unit(["mm", "in"], {}),
   Tyres: tyres,
   "Front tyres": tyres,
   "Rear tyres": tyres,
