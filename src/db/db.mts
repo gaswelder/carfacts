@@ -96,6 +96,9 @@ export const loadDb = (path: string, params: string[]) => {
       if (!param) {
         throw new Error("unknown param: " + f.k);
       }
+      if (!f.id.match(/^\d\d\d\d /)) {
+        throw new Error("missing year");
+      }
       const norm = param.v(f.v);
       if (!norm || !("val" in norm)) {
         throw new Error("failed to parse value for " + param.k);
