@@ -1,6 +1,7 @@
 import * as fs from "fs";
 import { calc } from "./query-exec.mts";
 import { parseExpr, type Expr } from "./query-parser.mts";
+import { getParam } from "./schema.mts";
 
 /**
  * A single atomic fact.
@@ -86,6 +87,44 @@ export const loadDb = (path: string, params: string[]) => {
         }
         yield { id, car };
       }
+    },
+    /**
+     * Inserts a fact.
+     */
+    insert(f: Fact) {
+      const param = getParam(f.k);
+      if (!param) {
+        throw new Error("unknown param: " + f.k);
+      }
+      const norm = param.v(f.v);
+      if (!norm || !("val" in norm)) {
+        throw new Error(
+          "failed to parse value for " + param.k + ": " + JSON.stringify(f),
+        );
+      }
+      facts.push({ id: f.id, k: param.k, v: norm.val.toString() });
+    },
+    /**
+     * Writes the database out.
+     */
+    async save(path: string) {
+      const out = fs.createWriteStream(path);
+      facts.sort((a, b) => {
+        let byid = a.id.localeCompare(b.id);
+        if (byid) {
+          return byid;
+        }
+        return params.indexOf(a.k) - params.indexOf(b.k);
+      });
+      for (const f of facts) {
+        out.write([f.id, f.k, f.v].join(" | ") + "\n");
+      }
+      await new Promise<void>((ok, fail) => {
+        out.close((err) => {
+          if (err) fail(err);
+          else ok();
+        });
+      });
     },
   };
 };

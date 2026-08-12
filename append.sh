@@ -1,7 +1,4 @@
 #!/bin/sh
 
-tmp=new-`date +%Y%m%d%H%M%S`.tmp
-cat > $tmp
-
-cat $tmp carfacts.txt | node src/cmd-insert.mts > /tmp/carfacts.tmp
-meld carfacts.txt /tmp/carfacts.tmp
+node src/cmd-insert.mts || exit 1
+meld carfacts.txt carfacts.txt.tmp
