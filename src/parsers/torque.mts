@@ -1,4 +1,4 @@
-import { reader } from "../reader.mjs";
+import { reader } from "../db/reader.mjs";
 
 export const parseTorque = (s: string) => {
   const r = reader(s);

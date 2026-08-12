@@ -1,5 +1,5 @@
 import readline from "readline/promises";
-import { loadDb } from "./db.mts";
+import { loadDb } from "./db/db.mts";
 
 /**
  * Reads facts from stdin, inserts to the database.

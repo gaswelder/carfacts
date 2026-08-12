@@ -1,7 +1,7 @@
-import { parsePower } from "./parsers/power.mts";
-import { parseTorque } from "./parsers/torque.mts";
-import { parseTyre } from "./parsers/tyres.mts";
-import { readWheel } from "./parsers/wheels.mts";
+import { parsePower } from "../parsers/power.mts";
+import { parseTorque } from "../parsers/torque.mts";
+import { parseTyre } from "../parsers/tyres.mts";
+import { readWheel } from "../parsers/wheels.mts";
 import { Val } from "./val.mts";
 
 type enumvars = { canonical: string; aliases: string[] };

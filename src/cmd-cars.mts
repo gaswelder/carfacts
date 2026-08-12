@@ -1,4 +1,4 @@
-import { loadDb } from "./db.mts";
+import { loadDb } from "./db/db.mts";
 
 const foo = () => loadDb("carfacts.txt", []);
 
