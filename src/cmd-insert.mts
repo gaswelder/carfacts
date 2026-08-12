@@ -23,7 +23,7 @@ const main = async () => {
 
   const rl = readline.createInterface(process.stdin);
   for await (const line of rl) {
-    if (line.trim() == "") {
+    if (line.trim() == "" || line.trim()[0] == "#") {
       continue;
     }
     const cols = line.split("|").map((x) => x.trim());
@@ -41,9 +41,6 @@ const main = async () => {
     }
   }
   console.log(`${ok} inserted, ${fails} failed`);
-  if (ok == 0) {
-    process.exit(1);
-  }
 
   const ff = failed
     .entries()
@@ -54,7 +51,9 @@ const main = async () => {
     .join("\n");
   fs.writeFileSync(`fails-${Date.now()}.txt`, ff);
 
-  await db.save("carfacts.txt.tmp");
+  if (ok > 0) {
+    await db.save("carfacts.txt.tmp");
+  }
 };
 
 main();

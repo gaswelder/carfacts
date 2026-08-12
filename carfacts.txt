@@ -22,6 +22,7 @@
 1896 Yakovlev & Frese | Power | 2 hp
 1896 Yakovlev & Frese | Weight | 300 kg
 1896 Yakovlev & Frese | Wheelbase | 1370 mm
+1896 Yakovlev & Frese | Volume | 1000 cc
 1898 Leon Bollee-Darracq | Power | 2 hp
 1898 Leon Bollee-Darracq | Volume | 641 cc
 1898 Renault Voiturette | Fuel consumption | 6 L/100km
@@ -153,6 +154,7 @@
 1908 Iris 40 HP | Power | 43 hp
 1908 Iris 40 HP | Volume | 7310 cc
 1908 Marmon | Power | 60 hp
+1908 Marmon | Cylinders | V8
 1908 Peugeot 105 | Cylinders | 6
 1908 Peugeot 105 | Volume | 11150 cc
 1908 Renault AR | Power | 50 hp
@@ -441,6 +443,7 @@
 1926 Bentley 6.5 Litre | Volume | 6500 cc
 1926 Cunningham | Power | 95 hp
 1926 Cunningham | Volume | 6790 cc
+1926 Cunningham | Cylinders | V8
 1926 Horch 303 Berlin | Volume | 3132 cc
 1926 Horch 303 Berlin | Cylinders | 8
 1926 Horch 303 Berlin | Power | 60 hp
@@ -552,6 +555,7 @@
 1930 American Bantam | Volume | 751 cc
 1930 Blackhawk | Volume | 3956 cc
 1930 Delage D-8 | Volume | 4061 cc
+1930 Ford Model A (European) | Volume | 2000 cc
 1930 Invicta S-Type | Power | 140 hp
 1930 Invicta S-Type | Volume | 4467 cc
 1930 La Salle | Power | 95 hp
@@ -1447,6 +1451,7 @@
 1953 Cadillac Eldorado | Length | 5600 mm
 1953 Cadillac Eldorado | Power | 210 hp @ 4150 rpm
 1953 Cadillac Eldorado | Width | 2000 mm
+1953 Cadillac Eldorado | Cylinders | V8
 1953 Chevrolet Corvette | Price | 3000 USD
 1953 Chevrolet Corvette | Count | 1953 183
 1953 Chevrolet Corvette | Cylinders | R6
@@ -1852,6 +1857,7 @@
 1957 Ford Skyliner | Power | 270 hp
 1957 Ford Skyliner | Power | 300 hp
 1957 Ford Skyliner | Weight | 2000 kg
+1957 Ford Skyliner | Cylinders | V8
 1957 GAZ-21 | Volume | 2445 cc
 1957 Jaguar XK 150 | Volume | 3.4 L
 1957 Jaguar XK 150 | Volume | 3.8 L
@@ -1920,6 +1926,7 @@
 1958 DeSoto Fireflite | Volume | 4769 cc
 1958 Edsel Citation | Power | 345 hp
 1958 Edsel Citation | Volume | 6719 cc
+1958 Edsel Citation | Cylinders | V8
 1958 Ford Skyliner | Power | 205 hp
 1958 Ford Skyliner | Power | 265 hp
 1958 Ford Skyliner | Power | 300 hp
@@ -1976,6 +1983,7 @@
 1959 Cadillac Eldorado | Speed | 210 kmph
 1959 Cadillac Eldorado | Weight | 2 t
 1959 Cadillac Eldorado | Power | 325 hp @ 4800 rpm
+1959 Chevrolet El Camino | Cylinders | V8
 1959 Daimler SP250 | Volume | 2548 cc
 1959 Daimler SP250 | Cylinders | V8
 1959 Daimler SP250 | Power | 140 hp @ 5800 rpm
@@ -1988,6 +1996,7 @@
 1959 Daimler SP250 | Brakes | all disc
 1959 Daimler SP250 | Power | 140 hp @ 5800 rpm
 1959 Daimler SP250 | Volume | 2548 cc
+1959 Daimler SP250 | Cylinders | V8
 1959 De Tomaso Formula 2 | Power | 135 hp
 1959 Jaguar Mark IX | Count | 10002
 1959 Jaguar Mark IX | Body | sedan
@@ -2593,6 +2602,7 @@
 1963 Chevrolet Corvette Sting Ray | Wheelbase | 3822 mm
 1963 Chevrolet Corvette Sting Ray | Width | 2714 mm
 1963 Chevrolet Corvette Sting Ray | Volume | 5400 cc
+1963 Chevrolet Corvette Sting Ray | Cylinders | V8
 1963 Ferrari 330 America | Power | 300 hp @ 6600 rpm
 1963 Ferrari 330 America | Volume | 3967 cc
 1963 Jensen C-V8 | Power | 300 hp
@@ -2863,6 +2873,7 @@
 1964 Pontiac GTO | Length | 5200 mm
 1964 Pontiac GTO | Power | 325 hp
 1964 Pontiac GTO | Weight | 1500 kg
+1964 Pontiac GTO | Cylinders | V8
 1964 Pontiac GTO Tri-Power | Power | 348 hp
 1964 Porsche 904 Carrera GTS | Power | 155 hp
 1964 Porsche 904 Carrera GTS | Speed | 252 kmph
@@ -3477,6 +3488,7 @@
 1967 Chevrolet Camaro | Volume | 3900 cc
 1967 Chevrolet Camaro | Volume | 5100 cc
 1967 Chevrolet Camaro | Volume | 5500 cc
+1967 Chevrolet Camaro | Cylinders | V8
 1967 Chevrolet Camaro SS | Power | 325 hp
 1967 Chevrolet Camaro SS | Power | 375 hp
 1967 Chevrolet Camaro SS | Volume | 6200 cc
@@ -3692,6 +3704,7 @@
 1968 Cadillac Eldorado | Volume | 7700 cc
 1968 Chevrolet El Camino SS 396 | Power | 450 hp
 1968 Chevrolet El Camino SS 396 | Volume | 7500 cc
+1968 Chevrolet El Camino SS 396 | Cylinders | V8
 1968 Citroën DS21 | Power | 109 hp
 1968 Citroën DS21 Presidentielle | Height | 1.6 m
 1968 Citroën DS21 Presidentielle | Length | 6.53 m
@@ -3916,6 +3929,7 @@
 1969 Dodge Daytona | Fuel consumption | 28.6 L/100km
 1969 Dodge Daytona 440 | Power | 375 hp @ 4600 rpm
 1969 Dodge Daytona 440 | Volume | 7200 cc
+1969 Dodge Daytona 440 | Cylinders | V8
 1969 Dodge Daytona Hemi 426 | Power | 425 hp @ 5000 rpm
 1969 Dodge Daytona Hemi 426 | Volume | 7000 cc
 1969 Dodge Hemi Charger 500 | Volume | 6974 cc
@@ -4990,6 +5004,7 @@
 1974 Ford Capri 1600 GT | Power | 88 hp
 1974 Ford Capri RS 3100 Spa Special | Power | 185 hp
 1974 Lamborghini Bravo | Power | 300 hp
+1974 Lamborghini Bravo | Cylinders | V8
 1974 Lamborghini Countach | Volume | 3929 cc
 1974 Lamborghini Countach | Volume | 3929 cc
 1974 Lamborghini Countach | Volume | 4 L
@@ -8636,6 +8651,7 @@
 1989 Ferrari 348 | Wheelbase | 2450 mm
 1989 Ferrari 348 | Width | 1984 mm
 1989 Ferrari 348 | Volume | 3405 cc
+1989 Ferrari 348 | Cylinders | V8
 1989 Ferrari 348 Spyder | Volume | 3405 cc
 1989 Ferrari 348 Spyder | Cylinders | V8
 1989 Ferrari 348 Spyder | Power | 300 hp
@@ -9601,6 +9617,7 @@
 1992 Audi S2 3B | Count | 5469
 1992 Audi S2 ABY | Count | 1901
 1992 Audi S2 Turbo | Compressor | turbo
+1992 BMW 730i (E32) | Cylinders | V8
 1992 BMW 740i (E32) | Volume | 4000 cc
 1992 BMW 830i (E31) | Power | 218 hp
 1992 BMW 830i (E31) | Volume | 3000 cc
@@ -11677,6 +11694,7 @@
 1995 Lexus SC400 | Wheelbase | 2690 mm
 1995 Lexus SC400 | Width | 1790 mm
 1995 Lexus SC400 | Volume | 3969 cc
+1995 Lincoln Continental | Cylinders | V8
 1995 Lister Storm IMS | Power | 500 hp
 1995 Lister Storm IMS | Volume | 6996 cc
 1995 Lotus Esprit S4S | Price | 75995 USD
@@ -13322,6 +13340,7 @@
 1997 Iding Power Ferrari F365-SIII | Wheelbase | 2451 mm
 1997 Iding Power Ferrari F365-SIII | Width | 1902 mm
 1997 Iding Power Ferrari F365-SIII | Volume | 3576 cc
+1997 Iding Power Ferrari F365-SIII | Cylinders | V8
 1997 Jaguar XK8 Convertible | Price | 69900 USD
 1997 Jaguar XK8 Convertible | Volume | 3996 cc
 1997 Jaguar XK8 Convertible | Cylinders | V8
@@ -14628,6 +14647,7 @@
 1998 Nissan Cube | Power | 98 hp
 1998 Nissan Maxima QX 3.0 | Length | 4770 mm
 1998 Nissan President | Power | 269 hp
+1998 Nissan President | Cylinders | V8
 1998 Oldsmobile Intrigue GL | Price | 22100 USD
 1998 Oldsmobile Intrigue GL | Volume | 3800 cc
 1998 Oldsmobile Intrigue GL | Cylinders | V6
@@ -19405,6 +19425,7 @@
 2001 Caterham Super Seven | Drive | rear
 2001 Caterham Super Seven | Drive | rear
 2001 Caterham Superlight R500 | Weight | 460 kg
+2001 Chevrolet Corvette | Cylinders | V8
 2001 Chevrolet Corvette Z06 | Price | 47855 USD
 2001 Chevrolet Corvette Z06 | Price | 47855 USD
 2001 Chevrolet Corvette Z06 | Price | 47855 USD
@@ -24007,6 +24028,7 @@
 2002 Opel Corsa MPV | Body | bus
 2002 Opel Corsa MPV | Seats | 5
 2002 Opel Vectra Caravan | Power | 122 hp
+2002 Opel Vectra Caravan | Fuel consumption | 7.9 L/100km
 2002 Pagani Zonda C12 7.3 | Power | 555 hp
 2002 Pagani Zonda C12 7.3 | Torque | 750 nm
 2002 Pagani Zonda C12 7.3 | Volume | 7300 cc
@@ -26278,6 +26300,7 @@
 2003 Chrysler PT Turbo | Drive | front
 2003 Chrysler Sebring | Seats | 5
 2003 Chrysler Sebring | Torque | 220 nm
+2003 Chrysler Sebring | Fuel consumption | 8.9 L/100km
 2003 Daewoo Evanda | Power | 131 hp
 2003 Daewoo Evanda | Seats | 5
 2003 Dodge Viper Competition Coupe | Price | 100000 USD
@@ -28244,6 +28267,7 @@
 2003 Porsche 911 GT3 | Drive | full constant
 2003 Porsche 911 GT3 | Drive | rear
 2003 Porsche 980 | Power | 700 hp
+2003 Porsche 980 | Cylinders | V8
 2003 Porsche Boxster | Price | 42600 USD
 2003 Porsche Boxster | Price | 42600 USD
 2003 Porsche Boxster | Price | 42600 USD
@@ -29501,6 +29525,8 @@
 2005 BMW 6-series Coupe | Body | coupe
 2005 Bugatti Veyron 16.4 | Torque | 1250 nm
 2005 Bugatti Veyron 16.4 | Volume | 7993 cc
+2005 Bugatti Veyron 16.4 | Fuel consumption | 14.7 L/100km
+2005 Bugatti Veyron 16.4 | Fuel consumption | 24.1 L/100km
 2005 Cadillac SRX | Price | 69000 USD @ 2005 Russia
 2005 Cadillac SRX | Volume | 4565 cc
 2005 Cadillac SRX | Cylinders | V8
@@ -29884,6 +29910,7 @@
 2006 Chevrolet Camaro Concept | Seats | 4
 2006 Chevrolet Camaro Concept | Width | 2033 mm
 2006 Chevrolet Camaro Concept | Volume | 6000 cc
+2006 Chevrolet Camaro Concept | Cylinders | V8
 2006 Dodge Charger Daytona R/T | Power | 350 hp
 2006 Dodge Charger Daytona R/T | Torque | 390 lb-ft
 2006 Honda Civic 4D | Power | 140 hp
@@ -30794,6 +30821,7 @@
 2008 Buick LaCrosse Super | 0-60 mph | 5.7 s
 2008 Buick LaCrosse Super | Power | 304 hp
 2008 Buick LaCrosse Super | Volume | 5.3 L
+2008 Buick LaCrosse Super | Cylinders | V8
 2008 Chevrolet Aveo Hatchback 5d | Seats | 5
 2008 Daewoo New Nexia | Seats | 5
 2008 Ferrari California | Volume | 4297 cc
@@ -31709,6 +31737,7 @@
 2011 BMW 650i Coupe | Torque | 600 nm
 2011 BMW 650i Coupe | Volume | 4400 cc
 2011 BMW ActiveHybrid 7 | Volume | 4400 cc
+2011 BMW ActiveHybrid 7 | Fuel consumption | 9.0 L/100km
 2011 Chevrolet Cruze Hatchback | Length | 4510 mm
 2011 Chevrolet Cruze Hatchback | Power | 113 hp
 2011 Chevrolet Cruze Hatchback | Power | 141 hp
