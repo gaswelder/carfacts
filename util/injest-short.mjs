@@ -242,6 +242,8 @@ const matchers = [
   // Price
   //
   [/\d+ (DM|GBP|USD|EUR)/, (v) => ["Price", v]],
+  [/\$(\d+)/, (v) => ["Price", v + " USD"]],
+  [/\$(\d+),000 \((\d\d\d\d)\)/, (p, y) => ["Price", `${p}000 USD @ ${y}`]],
   [/DM20000/, (v) => ["Price", "20000 DM"]],
   [/\$(\d+)/, (_, v) => ["Price", `${v} USD`]],
   [/\$(\d+) @ 1994/, (_, v) => ["Price", `${v} USD @ 1994`]],

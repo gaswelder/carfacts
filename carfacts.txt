@@ -209,6 +209,7 @@
 1908 Gaggenau Prinz Heinrich | Power | 95 hp
 1908 Gaggenau Prinz Heinrich | Volume | 6272 cc
 1908 Gaggenau Prinz Heinrich | Gears | 4 manual
+1908 Gaggenau Prinz Heinrich | Cylinders | R6
 1908 Iris 40 HP | Power | 43 hp
 1908 Iris 40 HP | Volume | 7310 cc
 1908 Iris 40 HP | Gears | 3 manual
@@ -291,6 +292,7 @@
 1912 Abadal 18/24 HP | Power | 24 hp
 1912 Abadal 18/24 HP | Volume | 3619 cc
 1912 Abadal 18/24 HP | Gears | 4 manual
+1912 Abadal 18/24 HP | Cylinders | R4
 1912 Bedelia | Power | 10 hp
 1912 Bedelia | Volume | 1056 cc
 1912 Chevrolet Classic Six | Power | 30 hp
@@ -319,6 +321,7 @@
 1912 Hispano-Suiza-Alfonso-XIII | Cylinders | R4
 1912 Peugeot Bebe | Weight | 330 kg
 1912 Peugeot Bebe | Volume | 856 cc
+1912 Peugeot Bebe | Cylinders | R4
 1912 Praga Grand | Cylinders | 4
 1912 Praga Grand | Power | 45 hp
 1912 Praga Grand | Volume | 2824 cc
@@ -331,6 +334,7 @@
 1912 Vinot-Deguingand 12 CV | Cylinders | R6
 1913 Alda (racing) | Power | 45 hp
 1913 Alda (racing) | Gears | 4 manual
+1913 Alda (racing) | Cylinders | R4
 1913 Apperson Jack Rabbit | Volume | 5971 cc
 1913 Apperson Jack Rabbit | Gears | 3 manual
 1913 Apperson Jack Rabbit | Cylinders | R6
@@ -469,6 +473,7 @@
 1920 Varley-Woods | Power | 27 hp
 1920 Varley-Woods | Volume | 1795 cc
 1920 Varley-Woods | Gears | 4 manual
+1920 Varley-Woods | Cylinders | R4
 1920 Voisin C-1 | Volume | 3969 cc
 1920 Voisin C-1 | Power | 90 hp
 1920 Voisin C-1 | Gears | 4 manual
@@ -500,6 +505,7 @@
 1921 Spyker | Cylinders | 6
 1921 Spyker | Power | 70 hp
 1921 Spyker | Volume | 5700 cc
+1922 Alfa Romeo RL | Cylinders | R6
 1922 Ansaldo-4CS | Volume | 1980 cc
 1922 Ansaldo-4CS | Power | 48 hp @ 3000 rpm
 1922 Ansaldo-4CS | Gears | 3 manual
@@ -859,6 +865,7 @@
 1929 Mercedes-Benz-SS | Volume | 7065 cc
 1929 Mercedes-Benz-SS | Power | 140 hp
 1929 Mercedes-Benz-SS | Gears | 4 manual
+1929 Mercedes-Benz-SS | Cylinders | R6
 1929 Mercedes-Benz-SS supercharged | Power | 200 hp
 1929 Oakland All-American Six | Power | 68 hp
 1929 Oakland All-American Six | Volume | 3038 cc
@@ -867,6 +874,7 @@
 1929 Rolls-Royce 20/25 | Weight | 2000 kg
 1929 Rolls-Royce 20/25 | Volume | 3700 cc
 1930 Alfa Romeo 6C 1750 Gran Sport | Power | 84 hp @ 4500 rpm
+1930 Alfa Romeo 6C 1750 Gran Sport | Cylinders | R6
 1930 Alfa Romeo 6C 1750 Gran Sport (early series) | Power | 60 hp @ 4500 rpm
 1930 Alfa Romeo 6C 1750 Gran Sport (final series) | Power | 105 hp
 1930 Alfa Romeo 6C 1750 Gran Sport (final series) | 0-100 kmph | 10.0 s
@@ -1010,6 +1018,7 @@
 1932 Alfa Romeo 8C2300 | Width | 1651 mm
 1932 Alfa Romeo 8C2300 | Gears | 4 manual
 1932 Alvis 1.5-Litre Road | Power | 50 hp
+1932 Alvis 1.5-Litre Road | Cylinders | R4
 1932 Alvis 1.5-Litre Supercharged | Power | 75 hp
 1932 Alvis Racing FWD | Gears | 4 manual
 1932 Checker Model T | Cylinders | 8
@@ -1246,6 +1255,7 @@
 1935 Delahaye-135 Coupe des Alpes | Power | 120 hp
 1935 Delahaye-135 Coupe des Alpes | Volume | 3558 cc
 1935 Delahaye-135 Coupe des Alpes | Gears | 4 manual
+1935 Delahaye-135 Coupe des Alpes | Cylinders | R6
 1935 Duesenberg-SJ | Power | 320 hp @ 4750 rpm
 1935 Graham-Paige | Power | 140 hp
 1935 Graham-Paige | Volume | 4350 cc
@@ -1315,6 +1325,7 @@
 1935 Tatra 77 | Volume | 3400 cc
 1935 Volvo Carioca | Cylinders | 6
 1936 Adler Autobahn | Body | coupe
+1936 Adler Autobahn | Cylinders | R4
 1936 Adler Trumpf Aerodynamik | Volume | 1.5 L
 1936 Adler Trumpf Aerodynamik | Speed | 129 kmph
 1936 Auto Union Type C | Volume | 6010 cc
@@ -1426,6 +1437,7 @@
 1937 Maybach Zeppelin | Volume | 7977 cc
 1937 Mercedes-Benz-540K | Volume | 5401 cc
 1937 Mercedes-Benz-540K | Gears | 4 manual
+1937 Mercedes-Benz-540K | Cylinders | R8
 1937 Opel Admiral | Count | 6404
 1937 Opel Admiral | Volume | 3626 cc
 1937 Opel Admiral | Cylinders | R6
@@ -1933,6 +1945,7 @@
 1951 Mercedes-Benz 220 (W187) | Volume | 2200 cc
 1951 Mercedes-Benz 220 (W187) | Cylinders | 6
 1951 Mercedes-Benz 300 (W186) | Volume | 2996 cc
+1951 Mercedes-Benz 300 (W186) | Cylinders | 6
 1951 Opel Olympia | Price | 6400 DM
 1951 Opel Olympia | Price | 7350 DM
 1951 Opel Olympia | Volume | 1488 cc
@@ -2004,6 +2017,7 @@
 1952 Porsche America Roadster | Brakes | drum
 1952 Porsche America Roadster | Gears | 4 manual
 1952 Porsche America Roadster | Drive | rear
+1952 Porsche America Roadster | Body | cabriolet
 1952 Reliant-Regal | Volume | 595 cc
 1952 Reliant-Regal | Volume | 70 cc
 1952 Reliant-Regal | Volume | 748 cc
@@ -2023,6 +2037,7 @@
 1953 Dodge Coronet D-44 | Brakes | drum
 1953 Dodge Coronet D-44 | Power | 140 hp
 1953 Dodge Coronet D-44 | Volume | 3949 cc
+1953 Dodge Coronet D-44 | Cylinders | V8
 1953 Ferrari 250 Europa | Volume | 3 L
 1953 Ferrari 250 MM | Brakes | drum
 1953 Ferrari 250 MM | Front track | 1300 mm
@@ -2032,6 +2047,8 @@
 1953 Ferrari 250 MM | Wheelbase | 2400 mm
 1953 Ferrari 250 MM | Volume | 2953 cc
 1953 Ferrari 250 MM | Gears | 4 manual
+1953 Ferrari 250 MM | Valves per cylinder | 2
+1953 Ferrari 250 MM | Cylinders | 12
 1953 Ferrari 375 America | Volume | 4.5 L
 1953 Kaiser-Darrin | Power | 118 hp
 1953 Kaiser-Darrin | Volume | 3706 cc
@@ -2058,6 +2075,7 @@
 1953 Pegaso-Z-102-B | Length | 4100 mm
 1953 Pegaso-Z-102-B | Weight | 990 kg
 1953 Pegaso-Z-102-B | Wheelbase | 2340 mm
+1953 Pegaso-Z-102-B | Cylinders | V8
 1953 Porsche 1300 S | Volume | 1290 cc
 1953 Porsche 1300 S | Power | 60 hp
 1953 Skoda 420 | Power | 40 hp
@@ -2126,12 +2144,14 @@
 1954 Mercedes-Benz-300SL | Width | 1790 mm
 1954 Mercedes-Benz-300SL | Gears | 4 manual
 1954 Mercedes-Benz-300SL | Cylinders | R6
+1954 Mercedes-Benz-300SL | Cylinders | R6
 1954 Nash Metropolitan | Bore | 65.48 mm
 1954 Nash Metropolitan | Power | 42 hp
 1954 Nash Metropolitan | Seats | 2
 1954 Nash Metropolitan | Stroke | 89 mm
 1954 Nash Metropolitan | Volume | 1199 cc
 1954 Nash Metropolitan | Gears | 3 manual
+1954 Nash Metropolitan | Cylinders | R4
 1954 Porsche 550 | Count | 1953 15
 1954 Porsche-356-Carrera (road) | Power | 100 hp @ 6200 rpm
 1954-10 Opel Kapitan | Power | 71 hp
@@ -2151,9 +2171,12 @@
 1955 Chevrolet Bel Air | Weight | 1410 kg
 1955 Chevrolet Bel Air | Wheelbase | 2921 mm
 1955 Chevrolet Bel Air | Volume | 4343 cc
+1955 Chevrolet Bel Air | Compressor | turbo
+1955 Chevrolet Bel Air | Cylinders | V8
 1955 Chevrolet-V8 | Cylinders | V8
 1955 Citroën DS19 | Power | 75 hp
 1955 Citroën DS19 | Volume | 1911 cc
+1955 Citroën DS19 | Cylinders | R4
 1955 Mercedes-Benz 300Sc (W188) | Power | 150 hp
 1955 Messerschmitt Kabinenroller KR-175 | Count | 10666
 1955 Messerschmitt Kabinenroller KR-175 | Cylinders | 1
@@ -2558,6 +2581,7 @@
 1958 DB Panhard HBR-5 | Wheelbase | 2159 mm
 1958 DeSoto Fireflite | Power | 200 hp
 1958 DeSoto Fireflite | Volume | 4769 cc
+1958 DeSoto Fireflite | Cylinders | V8
 1958 Edsel Citation | Power | 345 hp
 1958 Edsel Citation | Volume | 6719 cc
 1958 Edsel Citation | Cylinders | V8
@@ -2980,6 +3004,7 @@
 1960 Sabra Sport | Power | 90 hp
 1960 Sabra Sport | Volume | 1703 cc
 1960 Sabra Sport | Gears | 4 manual
+1960 Sabra Sport | Cylinders | R4
 1960 Subaru 450 | Power | 23 hp
 1960 Subaru 450 | Volume | 423 cc
 1960 Toyota | Power | 72 hp
@@ -3067,6 +3092,8 @@
 1961 Ferrari 250 GTS | Wheelbase | 2600 mm
 1961 Ferrari 250 GTS | Volume | 2953 cc
 1961 Ferrari 250 GTS | Gears | 4 manual
+1961 Ferrari 250 GTS | Valves per cylinder | 2
+1961 Ferrari 250 GTS | Cylinders | 12
 1961 Innocenti-Spider-950 (approx) | Power | 50 hp
 1961 Isuzu DL201 | Volume | 1991 cc
 1961 Isuzu-DL201 | Volume | 1991 cc
@@ -3166,6 +3193,8 @@
 1962 Ferrari 250 GTO | Wheelbase | 2400 mm
 1962 Ferrari 250 GTO | Volume | 2953 cc
 1962 Ferrari 250 GTO | Gears | 5 manual
+1962 Ferrari 250 GTO | Valves per cylinder | 2
+1962 Ferrari 250 GTO | Cylinders | 12
 1962 Ferrari-250 GTO | Volume | 2953 cc
 1962 Ferrari-250 GTO | Compression ratio | 8.5
 1962 Ferrari-250 GTO | Length | 4445 mm
@@ -4311,6 +4340,7 @@
 1967 Dodge Charger | Brakes | drum
 1967 Dodge Charger | Volume | 7210 cc
 1967 Dodge Charger | Body | coupe
+1967 Dodge Charger | Cylinders | V8
 1967 Ferrari 275 GTB | Front track | 1401 mm
 1967 Ferrari 275 GTB | Power | 300 hp @ 8000 rpm
 1967 Ferrari 275 GTB | Rear track | 1417 mm
@@ -5810,6 +5840,8 @@
 1973 Citroen GS Birotor | Gears | 3 semi-auto
 1973 DAF-66 | Power | 47 hp
 1973 DAF-66 | Volume | 1108 cc
+1973 DAF-66 | Brakes | drum
+1973 DAF-66 | Brakes | disc
 1973 Ferrari Dino 308 GT/4 | Power | 225 hp
 1973 Ferrari Dino 308 GT/4 | Volume | 3 L
 1973 Ferrari Dino 308 GT/4 | Cylinders | V8
@@ -7153,6 +7185,8 @@
 1978 Porsche 928 | Speed | 151 mph
 1978 Porsche 928 | Torque | 254 lb-ft @ 3600 rpm
 1978 Porsche 928 | Clearance | 4.5 in
+1978 Porsche 928 | Volume | 4.5 L
+1978 Porsche 928 | Cylinders | V8
 1978 Porsche 930 | 0-60 mph | 4.9 s
 1978 Porsche 930 Turbo 3.3 | Volume | 3.3 L
 1978 Porsche 930 Turbo 3.3 | Power | 300 hp
@@ -7571,6 +7605,7 @@
 1981 Covini Sirio Turbocooler | Cylinders | R4
 1981 De Lorean DMC-12 | Power | 132 hp
 1981 De Lorean DMC-12 | Volume | 2849 cc
+1981 De Lorean DMC-12 | Cylinders | V6
 1981 DeLorean DMC-12 | Weight | 1200 kg
 1981 DeLorean DMC-12 | Volume | 2900 cc
 1981 DeLorean DMC-12 | 0-100 kmph | 9.9 s
@@ -11202,6 +11237,10 @@
 1991-09 Аudi 100/S4 (C4) | Fuel | diesel
 1991-09 Аudi 100/S4 (C4) | Gears | 4 auto
 1991-09 Аudi 100/S4 (C4) | Gears | 5 manual
+1992 911 Turbo S | Price | 180000 USD
+1992 911 Turbo S | Count | 80
+1992 911 Turbo S | Power | 322 hp
+1992 911 Turbo S | Volume | 3.3 L
 1992 Aixam Mega Track | Power | 395 hp
 1992 Alfa Romeo 155 | Body | sedan
 1992 Alfa Romeo 155 | Doors | 4
@@ -11928,6 +11967,7 @@
 1993 Lamborghini Diablo SE30 | Power | 525 hp @ 7000 rpm
 1993 Lamborghini Diablo SE30 | 0-100 kmph | 4.1 s
 1993 Lamborghini Diablo SE30 | Gears | 5 manual
+1993 Lamborghini Diablo SE30 | Cylinders | V12
 1993 Lamborghini Diablo VT | Volume | 5709 cc
 1993 Lamborghini Diablo VT | Cylinders | V12
 1993 Lamborghini Diablo VT | Power | 492 hp @ 7000 rpm
@@ -11975,6 +12015,7 @@
 1993 Lamborghini Diablo VT | Volume | 5707 cc
 1993 Lamborghini Diablo VT | 0-100 kmph | 4.2 s
 1993 Lamborghini Diablo VT | Gears | 5 manual
+1993 Lamborghini Diablo VT | Cylinders | V12
 1993 Lamborghini-Diablo SE30 | Volume | 5700 cc
 1993 Lamborghini-Diablo SE30 | Brakes | ventilated disc
 1993 Lamborghini-Diablo SE30 | Front track | 1540 mm
@@ -11988,6 +12029,7 @@
 1993 Lamborghini-Diablo SE30 | Width | 2040 mm
 1993 Lamborghini-Diablo SE30 | 0-100 kmph | 4.1 s
 1993 Lamborghini-Diablo SE30 | Gears | 5 manual
+1993 Lamborghini-Diablo SE30 | Cylinders | V12
 1993 Lamborghini-Diablo VT | Volume | 5707 cc
 1993 Lamborghini-Diablo VT | Brakes | ventilated disc
 1993 Lamborghini-Diablo VT | Front track | 1540 mm
@@ -12001,6 +12043,7 @@
 1993 Lamborghini-Diablo VT | Width | 2040 mm
 1993 Lamborghini-Diablo VT | 0-100 kmph | 4.2 s
 1993 Lamborghini-Diablo VT | Gears | 5 manual
+1993 Lamborghini-Diablo VT | Cylinders | V12
 1993 Lotus Esprit Turbo | Price | 67345 USD
 1993 Lotus Esprit Turbo | Volume | 2174 cc
 1993 Lotus Esprit Turbo | Cylinders | R4
@@ -12967,6 +13010,7 @@
 1994 Lamborghini Diablo SV | Volume | 5707 cc
 1994 Lamborghini Diablo SV | 0-100 kmph | 3.9 s
 1994 Lamborghini Diablo SV | Gears | 5 manual
+1994 Lamborghini Diablo SV | Cylinders | V12
 1994 Lamborghini-Diablo SV | Volume | 5707 cc
 1994 Lamborghini-Diablo SV | Brakes | ventilated disc
 1994 Lamborghini-Diablo SV | Front track | 1540 mm
@@ -12980,6 +13024,7 @@
 1994 Lamborghini-Diablo SV | Width | 2040 mm
 1994 Lamborghini-Diablo SV | 0-100 kmph | 3.9 s
 1994 Lamborghini-Diablo SV | Gears | 5 manual
+1994 Lamborghini-Diablo SV | Cylinders | V12
 1994 Mazda MX-5 Miata | Power | 130 hp @ 6500 rpm
 1994 Mazda MX-5 Miata | Volume | 1840 cc
 1994 Mercedes G320 | Power | 211 hp
@@ -13100,6 +13145,11 @@
 1994 Porsche 911 Carrera RS | Volume | 3746 cc
 1994 Porsche 911 Carrera RS | Power | 300 hp
 1994 Porsche 911 Carrera RS | Power | 300 hp
+1994 Porsche 911 Speedster | Count | 2939
+1994 Porsche 911 Speedster | Power | 247 hp
+1994 Porsche 911 Speedster | Volume | 3.6 L
+1994 Porsche 911 Speedster | Gears | 5 manual
+1994 Porsche 911 Speedster | Gears | 4 auto
 1994 Porsche 911 Speedster (964) | Price | 66400 USD @ 1994
 1994 Porsche 911 Speedster (964) | Count | 2939
 1994 Porsche 911 Speedster (964) | Volume | 3.6 L
@@ -13660,6 +13710,14 @@
 1995 Lamborghini Diablo Roadster | Engine placement | center
 1995 Lamborghini Diablo Roadster | Brakes | disc
 1995 Lamborghini Diablo Roadster | Drive | rear
+1995 Lamborghini Diablo Roadster | Power | 492 hp @ 6800 rpm
+1995 Lamborghini Diablo Roadster | Gears | 5 manual
+1995 Lamborghini Diablo Roadster | Torque | 580 nm @ 5200 rpm
+1995 Lamborghini Diablo Roadster | Front track | 1514 mm
+1995 Lamborghini Diablo Roadster | Rear track | 1544 mm
+1995 Lamborghini Diablo Roadster | Speed | 325 kmph
+1995 Lamborghini Diablo Roadster | Cylinders | V12
+1995 Lamborghini Diablo Roadster | Weight | 1740 kg
 1995 Lamborghini Diablo Roadster VT | Body | roadster
 1995 Lamborghini Diablo SE/VT | Power | 525 hp
 1995 Lamborghini Diablo SE30 Jota | Volume | 5709 cc
@@ -13710,6 +13768,7 @@
 1995 Lamborghini Diablo SE30 Jota | Volume | 5707 cc
 1995 Lamborghini Diablo SE30 Jota | 0-100 kmph | 3.8 s
 1995 Lamborghini Diablo SE30 Jota | Gears | 6 manual
+1995 Lamborghini Diablo SE30 Jota | Cylinders | V12
 1995 Lamborghini Diablo SV | Volume | 5709 cc
 1995 Lamborghini Diablo SV | Cylinders | V12
 1995 Lamborghini Diablo SV | Power | 510 hp @ 7100 rpm
@@ -13796,6 +13855,7 @@
 1995 Lamborghini-Diablo SE30 Jota | Width | 2040 mm
 1995 Lamborghini-Diablo SE30 Jota | 0-100 kmph | 3.8 s
 1995 Lamborghini-Diablo SE30 Jota | Gears | 6 manual
+1995 Lamborghini-Diablo SE30 Jota | Cylinders | V12
 1995 Lexus SC400 | Brakes | ventilated disc
 1995 Lexus SC400 | Front track | 1520 mm
 1995 Lexus SC400 | Height | 1340 mm
@@ -15440,6 +15500,7 @@
 1997 BMW 850 CSI | Width | 1854 mm
 1997 BMW 850 CSI | Volume | 5379 cc
 1997 BMW 850 CSI | Gears | 5 auto
+1997 BMW 850 CSI | Cylinders | V12
 1997 BMW Alpina B10 | Volume | 4619 cc
 1997 BMW Alpina B10 | Cylinders | V8
 1997 BMW Alpina B10 | Power | 340 hp @ 5700 rpm
@@ -15736,6 +15797,7 @@
 1997 Ford Mustang Saleen S351 | Volume | 5800 cc
 1997 Ford Mustang Saleen S351 | 0-100 kmph | 5.1 s
 1997 Ford Mustang Saleen S351 | Gears | 5 manual
+1997 Ford Mustang Saleen S351 | Cylinders | V8
 1997 GAZ-3110-Volga | Volume | 2287 cc
 1997 GAZ-3110-Volga | Power | 150 hp @ 5200 rpm
 1997 GAZ-3110-Volga | Gears | 5 manual
@@ -15777,6 +15839,7 @@
 1997 Hennesy / Dodge-Dodge Viper Venom 600 GTS | Gears | 6 manual
 1997 Hennesy / Dodge-Dodge Viper Venom 600 GTS | Cylinders | V10
 1997 Honda Prelude | Power | 220 hp
+1997 Honda Prelude | Cylinders | R4
 1997 Honda Prelude SH | Front track | 1524 mm
 1997 Honda Prelude SH | Height | 1316 mm
 1997 Honda Prelude SH | Length | 4521 mm
@@ -16211,6 +16274,8 @@
 1997 Plymouth Prowler | Width | 1930 mm
 1997 Plymouth Prowler | Volume | 3518 cc
 1997 Plymouth Prowler | 0-100 kmph | 7.4 s
+1997 Plymouth Prowler | Valves per cylinder | 4
+1997 Plymouth Prowler | Cylinders | 6
 1997 Pontiac Firebird WS6 | Front track | 1539 mm
 1997 Pontiac Firebird WS6 | Height | 1321 mm
 1997 Pontiac Firebird WS6 | Length | 5004 mm
@@ -31980,6 +32045,8 @@
 2004 Daewoo Lanos (Sens) | Volume | 1.3 L
 2004 Ford-Mustang-GT-R | Torque | 542 nm
 2004 Ford-Mustang-GT-R | Gears | 6 manual
+2004 Ford-Mustang-GT-R | Volume | 5 L
+2004 Ford-Mustang-GT-R | Cylinders | V8
 2004 Honda FR-V | Volume | 1.7 L
 2004 Honda FR-V | Volume | 2 L
 2004 Honda FR-V | Volume | 2.2 L
