@@ -3,12 +3,14 @@
 1885 Benz Patent-Motorwagen | Power | 0.75 hp
 1885 Benz Patent-Motorwagen | Weight | 263 kg
 1885 Benz Patent-Motorwagen | Volume | 950 cc
+1885 Benz Patent-Motorwagen | Max rpm | 400
 1888 Marcus | Cylinders | 1
 1888 Marcus | Power | 1 hp @ 300 rpm
 1888 Marcus | Volume | 1570 cc
 1889 Rover 8 | Power | 8 hp
 1891 Panhard et Levassor | Power | 2.5 hp
 1891 Panhard et Levassor | Volume | 1235 cc
+1891 Panhard et Levassor | Engine placement | front
 1893 Benz Victoria | Bore | 130 mm
 1893 Benz Victoria | Cylinders | 1
 1893 Benz Victoria | Length | 2.9 m
@@ -16,6 +18,7 @@
 1893 Benz Victoria | Stroke | 150 mm
 1893 Benz Victoria | Weight | 650 kg
 1893 Benz Victoria | Volume | 2000 cc
+1893 Benz Victoria | Max rpm | 400
 1893 Benz Viktoria | Volume | 1730 cc
 1893 Benz Viktoria | Power | 3 hp
 1894 Daimler Visi-a-Vis | Seats | 4
@@ -34,7 +37,10 @@
 1898 Renault | Gears | 3 manual
 1898 Renault Voiturette | Fuel consumption | 6 L/100km
 1898 Renault Voiturette | Volume | 273 cc
+1898 Renault Voiturette | Power | 1.75 hp
+1899 Argyll 864 cc Model | Volume | 864 cc
 1899 Argyll Voiturette | Power | 2.7 hp
+1899 Argyll Voiturette | Volume | 318 cc
 1899 Opel Lutzman | Price | 2650 DM
 1899 Opel Lutzman | Price | 3800 DM
 1899 Opel Lutzman | Count | 65
@@ -47,10 +53,12 @@
 1900 Mercedes 35PS | Power | 35 hp @ 1000 rpm
 1900 Peugeot 31 | Cylinders | 2
 1900 Peugeot 31 | Power | 8 hp
+1900 Renault | Power | 3.5 hp
 1901 Mercedes 35 PS | Volume | 5913 cc
 1901 Mercedes 35 PS | Cylinders | R4
 1901 Mercedes 35PS | Volume | 5913 cc
 1901 Oldsmobile Curved Dash | Wheelbase | 1676 mm
+1901 Oldsmobile Curved Dash | Weight | 320 kg
 1901 Opel Darracq | Price | 5900 DM
 1901 Opel Darracq | Volume | 1281 cc
 1901 Opel Darracq | Cylinders | 1
@@ -76,6 +84,8 @@
 1902 Mercedes 40/45PS | Volume | 6785 cc
 1902 Mercedes 65PS | Volume | 9235 cc
 1902 Mercedes Simplex | Volume | 3050 cc
+1902 Mercedes Simplex | Weight | 900 kg
+1902 Mercedes Simplex | Power | 33 hp @ 1200 rpm
 1902 Mercedes-Simplex 40/45 PS | Volume | 6785 cc
 1902 Mercedes-Simplex 60 PS | Volume | 9235 cc
 1902 Opel 10/12PS | Volume | 1884 cc
@@ -105,9 +115,12 @@
 1903 Opel-20/24 PS | Cylinders | 4
 1903 Winton 20HP | Power | 20 hp
 1903 Winton 20HP | Volume | 4256 cc
+1903 Winton 20HP | Gears | 2 manual
 1903-01 Cadillac A | Cylinders | 1
 1903-01 Cadillac A | Power | 10 hp
 1904 Aksai | Power | 7 hp
+1904 Aksai | Gears | 2 manual
+1904 Aksai | Volume | 1929 cc
 1904 Auburn | Power | 10 hp
 1904 Auburn | Weight | 680 kg
 1904 Cadillac D | Cylinders | 4
@@ -131,6 +144,7 @@
 1904 Opel Rennwagen | Cylinders | 4
 1904 Opel Rennwagen | Power | 100 hp
 1904 White 15 HP | Power | 15 hp
+1904 White 15 HP | Gears | 2 manual
 1905 Germain 14/20 | Power | 20 hp
 1905 Germain 14/20 | Volume | 2929 cc
 1905 Germain 14/20 | Gears | 4 manual
@@ -139,6 +153,7 @@
 1905 Peugeot Bebe 6 PS | Volume | 695 cc
 1905 Skoda-Laurin-Klement-CCR | Power | 5 hp
 1905 Skoda-Laurin-Klement-CCR | Cylinders | 2
+1905 Vauxhall Two-seater | Power | 9 hp
 1906 De Dion-Bouton AV 8CV | Power | 12 hp
 1906 De Dion-Bouton AV 8CV | Volume | 1206 cc
 1906 De Dion-Bouton AV 8CV | Gears | 3 manual
@@ -157,8 +172,10 @@
 1906 Speedwell 25 HP | Gears | 3 manual
 1906 Speedwell 25 HP | Speed | 53 mph
 1906 Speedwell 25 HP | Cylinders | R4
+1906 Speedwell 25 HP | Power | 45 hp
 1906 Spyker 15 HP | Cylinders | 4
 1906 Spyker 15 HP | Volume | 2546 cc
+1906 Spyker 15 HP | Fuel tank | 45 L
 1907 Alba 35/40 HP | Bore | 125 mm
 1907 Alba 35/40 HP | Count | 9
 1907 Alba 35/40 HP | Cylinders | R4
@@ -195,6 +212,7 @@
 1907 Rolls-Royce 40/50 Silver Ghost | Width | 1587.5 mm
 1907 Rolls-Royce 40/50 Silver Ghost | Volume | 7036 cc
 1907 Rolls-Royce 40/50 Silver Ghost | Power | 48 hp @ 1200 rpm
+1907 Rolls-Royce 40/50 Silver Ghost | Tyres | Front 875 x 105 mm, rear 880 x 120 mm
 1907 Rolls-Royce Silver Ghost | Compression ratio | 3.2
 1907 Rolls-Royce Silver Ghost | Cylinders | 6
 1907 Rolls-Royce Silver Ghost | Power | 48 hp @ 1200 rpm
@@ -206,6 +224,7 @@
 1907 Thomas model 36 | Volume | 9400 cc
 1908 Ford Model T | Volume | 2898 cc
 1908 Ford Model T | Cylinders | R4
+1908 Ford Model T | Gears | 2 manual
 1908 Gaggenau Prinz Heinrich | Power | 95 hp
 1908 Gaggenau Prinz Heinrich | Volume | 6272 cc
 1908 Gaggenau Prinz Heinrich | Gears | 4 manual
@@ -236,6 +255,7 @@
 1909 Benz Blitzen | Volume | 21594 cc
 1909 Benz Blitzen | Power | 200 hp
 1909 Benz Blitzen | Gears | 4 manual
+1909 Benz Blitzen | Cylinders | R4
 1909 Blitzen Benz | Volume | 20 L
 1909 Blitzen Benz | Cylinders | 4
 1909 Blitzen Benz | Power | 200 hp @ 1600 rpm
@@ -253,6 +273,7 @@
 1909 Delaunay-Belleville F-6 | Volume | 5521 cc
 1909 Delaunay-Belleville F-6 | Gears | 4 manual
 1909 Delaunay-Belleville F-6 | Cylinders | R6
+1909 Delaunay-Belleville F-6 | Tyres | 880-120
 1909 Opel 4/8 Doctorwagen | Count | 1556
 1909 Opel 4/8 Doctorwagen | Volume | 1029 cc
 1909 Opel 4/8 Doctorwagen | Cylinders | 4
@@ -260,6 +281,9 @@
 1909 Opel 4/8 Doctorwagen | Weight | 525 kg
 1909 Renault AX | Weight | 850 kg
 1909 Renault AX | Volume | 1885 cc
+1909 Renault AX | Bore | 100 mm
+1909 Renault AX | Gears | 3 manual
+1909 Renault AX | Stroke | 120 mm
 1909 Zebra Type A | Weight | 350 kg
 1909 Zebra Type A | Volume | 616 cc
 1910 Alfa 24 HP | Volume | 5084 cc
@@ -335,6 +359,7 @@
 1913 Alda (racing) | Power | 45 hp
 1913 Alda (racing) | Gears | 4 manual
 1913 Alda (racing) | Cylinders | R4
+1913 Alda (racing) | Volume | 3187 cc
 1913 Apperson Jack Rabbit | Volume | 5971 cc
 1913 Apperson Jack Rabbit | Gears | 3 manual
 1913 Apperson Jack Rabbit | Cylinders | R6
@@ -393,6 +418,8 @@
 1914 Vauxhall Prince Henry | Volume | 3969 cc
 1914 Vauxhall Prince Henry | Power | 70 hp
 1914 Vauxhall Prince Henry | Gears | 4 manual
+1914 Vauxhall Prince Henry | Cylinders | R4
+1914 Vauxhall Prince Henry | Gears | 4 manual
 1914 Vauxhall Prince Henry (Torpedo version) | Price | 605 GBP
 1914 Vittoria | Power | 30 hp @ 1800 rpm
 1914 Vittoria | Volume | 3176 cc
@@ -407,6 +434,7 @@
 1915 Cadillac-V8 | Volume | 5152 cc
 1915 Cadillac-V8 | Power | 70 hp
 1915 Cadillac-V8 | Gears | 3 manual
+1915 Cadillac-V8 | Cylinders | V8
 1915 Fiat Zero | Weight | 900 kg
 1915 Pierce-Arrow | Bore | 144.3 mm
 1915 Pierce-Arrow | Power | 75 hp @ 2500 rpm
@@ -451,6 +479,7 @@
 1919 Isotta Fraschini Tipo 8 | Power | 80 hp @ 2200 rpm
 1919 Isotta Fraschini Tipo 8 | Gears | 3 manual
 1919 Isotta Fraschini Tipo 8 | Cylinders | R8
+1919 Isotta Fraschini Tipo 8 | Tyres | 835-135
 1920 ABC | Power | 36 hp
 1920 ABC | Volume | 1203 cc
 1920 ABC | Gears | 4 manual
@@ -506,16 +535,20 @@
 1921 Spyker | Power | 70 hp
 1921 Spyker | Volume | 5700 cc
 1922 Alfa Romeo RL | Cylinders | R6
+1922 Alfa Romeo RL | Volume | 2994 cc
+1922 Alfa Romeo RL Sport | Volume | 2994 cc
 1922 Ansaldo-4CS | Volume | 1980 cc
 1922 Ansaldo-4CS | Power | 48 hp @ 3000 rpm
 1922 Ansaldo-4CS | Gears | 3 manual
 1922 Ansaldo-4CS | Cylinders | R4
 1922 Austin Seven | Length | 3 m
+1922 Austin Seven | Count | 290000
 1922 Bentley 3 Litre | Cylinders | 4
 1922 Bentley 3 Litre | Volume | 3000 cc
 1922 Renault 9.1 Litre | Length | 6 m
 1922 Renault 9.1 Litre | Power | 140 hp
 1922 Renault 9.1 Litre | Volume | 9121 cc
+1922 Renault 9.1 Litre | Cylinders | R6
 1922 Rolls-Royce 20 HP | Volume | 3128 cc
 1922 Rolls-Royce 20 HP | Power | 53 hp @ 3000 rpm
 1922 Rolls-Royce 20 HP | Gears | 3 manual
@@ -524,10 +557,12 @@
 1922 Vauxhall OE-30/98 | Brakes | drum
 1922 Vauxhall OE-30/98 | Power | 120 hp
 1922 Vauxhall OE-30/98 | Gears | 4 manual
+1922 Vauxhall OE-30/98 | Cylinders | R4
 1923 Alvis 12/50 | Volume | 1496 cc
 1923 Alvis 12/50 | Body | convertible
 1923 Alvis 12/50 | Power | 50 hp
 1923 Alvis 12/50 | Gears | 4 manual
+1923 Alvis 12/50 | Cylinders | R4
 1923 Austin Seven | Bore | 56 mm
 1923 Austin Seven | Cylinders | 4
 1923 Austin Seven | Fuel consumption | 6 L/100km
@@ -542,6 +577,7 @@
 1923 Bentley 3L | Brakes | drum
 1923 Bentley 3L | Power | 80 hp @ 3500 rpm
 1923 Bentley 3L | Gears | 4 manual
+1923 Bentley 3L | Cylinders | R4
 1923 Chiribiri Monza | Brakes | drum
 1923 Chiribiri Monza | Power | 45 hp
 1923 Chiribiri Monza | Volume | 1486 cc
@@ -578,6 +614,8 @@
 1923 Salmson-D (10CV) | Volume | 1194 cc
 1923 Tatra 11 | Fuel consumption | 7.6 L/100km
 1923 Tatra 11 | Volume | 1056 cc
+1923 TATRA 111 | Drive | full
+1923 TATRA 111 | Fuel | diesel
 1923 Triumph 10/12HP | Volume | 1393 cc
 1923 Vauxhall OE-30/98 | Volume | 4224 cc
 1923 Vauxhall OE-30/98 | Compression ratio | 5.0
@@ -587,6 +625,8 @@
 1923 Vauxhall OE-30/98 | Wheelbase | 2972 mm
 1923 Vauxhall OE-30/98 | Width | 1676 mm
 1923 Vauxhall OE-30/98 | Power | 120 hp @ 3300 rpm
+1923 Vauxhall OE-30/98 | Gears | 4 manual
+1923 Vauxhall OE-30/98 | Tyres | 32 inch diameter (81 cm)
 1924 Armino Mezzo Edit | Volume | 1020 cc
 1924 Armino Mezzo Edit | Cylinders | 2
 1924 Armino Mezzo Edit | Gears | 3 manual
@@ -596,6 +636,14 @@
 1924 Ballot 2LTS | Volume | 1991 cc
 1924 Ballot 2LTS | Gears | 4 manual
 1924 Ballot 2LTS | Cylinders | R4
+1924 Barre-Barre | Cylinders | R4
+1924 Barre-Barre | Speed | 80 kmph
+1924 Barre-Barre | Power | 30 hp
+1924 Barre-Barre | Brakes | drum
+1924 Bean-Bean | Cylinders | R4
+1924 Bean-Bean | Speed | 90 kmph
+1924 Bean-Bean | Power | 40 hp
+1924 Bean-Bean | Brakes | drum
 1924 Beverley-Barnes | Power | 80 hp
 1924 Beverley-Barnes | Volume | 3958 cc
 1924 Beverley-Barnes | Gears | 3 manual
@@ -698,6 +746,7 @@
 1926 Amilcar C-6 | Width | 1225 mm
 1926 Amilcar C-6 | Volume | 1094 cc
 1926 Amilcar C-6 | Power | 62 hp @ 5600 rpm
+1926 Amilcar C-6 | Tyres | 700x19 or 400x19
 1926 Amilcar CGSS | Power | 30 hp
 1926 Amilcar CGSS | Volume | 1075 cc
 1926 Amilcar CGSS | Gears | 3 manual
@@ -743,6 +792,7 @@
 1927 Bugatti 35B | Power | 150 hp
 1927 Bugatti 41 Royale | Volume | 12763 cc
 1927 Bugatti 41 Royale | Power | 200 hp
+1927 Bugatti 41 Royale | Cylinders | R8
 1927 Bugatti Type 41 Royale | Volume | 12.8 L
 1927 Bugatti Type 41 Royale | Wheelbase | 4.27 m
 1927 Case Jay-Eye-See | Power | 52 hp
@@ -770,6 +820,7 @@
 1927 Praga Grand | Weight | 1900 kg
 1927 Praga Grand | Volume | 3384 cc
 1927 Praga Grand | Volume | 4429 cc
+1927 Volvo | Count | 280
 1927 Volvo OV4 | Volume | 1944 cc
 1928 Adler Favorit | Volume | 1.9 L
 1928 Adler Standard-8 | Volume | 3.9 L
@@ -819,6 +870,7 @@
 1929 Alfa Romeo 6C1750 SS | Volume | 1752 cc
 1929 Alfa Romeo 6C1750 SS | Power | 85 hp @ 4500 rpm
 1929 Alfa Romeo 6C1750 SS | Gears | 4 manual
+1929 Alfa Romeo 6C1750 SS | Cylinders | R6
 1929 Bentley 4½ Litre | Power | 200 hp
 1929 BNC 1.5 Litre | Brakes | drum
 1929 BNC 1.5 Litre | Volume | 1496 cc
@@ -849,6 +901,7 @@
 1929 Delage D-8 | Width | 1776 mm
 1929 Delage D-8 | Volume | 4061 cc
 1929 Delage D-8 | Cylinders | R8
+1929 Delage D-8 | Tyres | 6.00 x 19
 1929 Delage D8 | Bore | 77 mm
 1929 Delage D8 | Stroke | 109 mm
 1929 Delage D8 | Weight | 1440 kg
@@ -875,7 +928,9 @@
 1929 Rolls-Royce 20/25 | Volume | 3700 cc
 1930 Alfa Romeo 6C 1750 Gran Sport | Power | 84 hp @ 4500 rpm
 1930 Alfa Romeo 6C 1750 Gran Sport | Cylinders | R6
+1930 Alfa Romeo 6C 1750 Gran Sport | Volume | 1752 cc
 1930 Alfa Romeo 6C 1750 Gran Sport (early series) | Power | 60 hp @ 4500 rpm
+1930 Alfa Romeo 6C 1750 Gran Sport (early series) | Volume | 1500 cc
 1930 Alfa Romeo 6C 1750 Gran Sport (final series) | Power | 105 hp
 1930 Alfa Romeo 6C 1750 Gran Sport (final series) | 0-100 kmph | 10.0 s
 1930 American Bantam | Power | 10.5 hp
@@ -890,6 +945,7 @@
 1930 Bentley 4.5L Supercharged | Wheelbase | 300 mm
 1930 Bentley 4.5L Supercharged | Width | 1740 mm
 1930 Bentley 4.5L Supercharged | Gears | 4 manual
+1930 Bentley 4.5L Supercharged | Tyres | Dunlop 6.50x21
 1930 Blackhawk | Volume | 3956 cc
 1930 Blackhawk | Gears | 4 manual
 1930 Blackhawk | Cylinders | R6
@@ -898,6 +954,8 @@
 1930 Cadillac-V16 | Fuel consumption | 28 L/100km
 1930 Cadillac-V16 | Weight | 2812 kg
 1930 Cadillac-V16 | Wheelbase | 3759 mm
+1930 Cadillac-V16 | Gears | 3 manual
+1930 Cadillac-V16 | Tyres | 7.50 x 19
 1930 Daihatsu-HA | Volume | 500 cc
 1930 Daimler-Double Six | Volume | 7133 cc
 1930 Daimler-Double Six | Length | 5490 mm
@@ -905,6 +963,7 @@
 1930 Daimler-Double Six | Weight | 2641 kg
 1930 Daimler-Double Six | Wheelbase | 3810 mm
 1930 Daimler-Double Six | Width | 1980 mm
+1930 Daimler-Double Six | Tyres | 7.50 x 23
 1930 Delage D-8 | Volume | 4061 cc
 1930 Delage D-8 | Power | 105 hp @ 3500 rpm
 1930 Delage D-8 | Gears | 4 manual
@@ -941,10 +1000,12 @@
 1930 АМО-2 | Count | 1715
 1930 АМО-2 | Clearance | 223 mm
 1931 Alfa Romeo 8C 2300 | Power | 140 hp @ 5400 rpm
+1931 Alfa Romeo 8C 2300 | Volume | 2330 cc
 1931 Alfa Romeo 8C 2300 Monza | Power | 165 hp @ 6400 rpm
 1931 Alfa Romeo 8C2300 | Volume | 2336 cc
 1931 Alfa Romeo 8C2300 | Power | 142 hp @ 5000 rpm
 1931 Alfa Romeo 8C2300 | Gears | 4 manual
+1931 Alfa Romeo 8C2300 | Cylinders | R8
 1931 Bentley 4½ Litre | Bore | 100 mm
 1931 Bentley 4½ Litre | Cylinders | 4
 1931 Bentley 4½ Litre | Stroke | 140 mm
@@ -963,6 +1024,7 @@
 1931 Duesenberg-J | Power | 265 hp @ 4200 rpm
 1931 Duesenberg-J | Valves per cylinder | 4
 1931 Duesenberg-J | Cylinders | R8
+1931 Duesenberg-J | Weight | 2100 kg
 1931 Jaguar SS I | Cylinders | R6
 1931 Jaguar SS I | Speed | 113 kmph
 1931 Marmon V16 | Cylinders | 16
@@ -1017,14 +1079,21 @@
 1932 Alfa Romeo 8C2300 | Wheelbase | 2750 mm
 1932 Alfa Romeo 8C2300 | Width | 1651 mm
 1932 Alfa Romeo 8C2300 | Gears | 4 manual
+1932 Alfa Romeo 8C2300 | Tyres | 5.50x19
 1932 Alvis 1.5-Litre Road | Power | 50 hp
 1932 Alvis 1.5-Litre Road | Cylinders | R4
+1932 Alvis 1.5-Litre Road | Volume | 1482 cc
 1932 Alvis 1.5-Litre Supercharged | Power | 75 hp
+1932 Alvis First Model | Volume | 1.4 L
+1932 Alvis Later Models | Volume | 4.6 L
 1932 Alvis Racing FWD | Gears | 4 manual
+1932 Alvis Racing FWD | Volume | 1.5 L
+1932 Alvis Racing FWD | Weight | 475 kg
 1932 Checker Model T | Cylinders | 8
 1932 Cord-L29 | Volume | 4934 cc
 1932 Cord-L29 | Compression ratio | 5.3
 1932 Cord-L29 | Power | 125 hp @ 3300 rpm
+1932 Cord-L29 | Tyres | 7.00-18
 1932 Duesenberg SJ | Compressor | mechanical
 1932 Duesenberg SJ | Speed | 210 kmph
 1932 Duesenberg SJ | Power | 320 hp
@@ -1053,6 +1122,7 @@
 1932 Vauxhall Cadet | Brakes | drum
 1932 Vauxhall Cadet | Power | 40 hp
 1932 Vauxhall Cadet | Gears | 3 manual
+1932 Vauxhall Cadet | Cylinders | R6
 1932 ГАЗ АА | Volume | 3285 cc
 1932 ГАЗ АА | Cylinders | 4
 1932 ГАЗ АА | Power | 40 hp @ 2200 rpm
@@ -1086,6 +1156,8 @@
 1933 Adler Trumpf | Gears | 4 manual
 1933 Adler Trumpf | Drive | front
 1933 Aero 662 | Fuel consumption | 7 L/100km
+1933 Aero 662 | Volume | 662 cc
+1933 Aero 662 | Weight | 500 kg
 1933 Auto Union | Volume | 4358 cc
 1933 Auto Union | Cylinders | V16
 1933 Auto Union | Power | 295 hp @ 4500 rpm
@@ -1096,6 +1168,7 @@
 1933 Bentley 3.5L | Volume | 3669 cc
 1933 Bentley 3.5L | Power | 110 hp
 1933 Bentley 3.5L | Gears | 4 manual
+1933 Bentley 3.5L | Cylinders | R6
 1933 BMW 303 | Cylinders | R6
 1933 Humber Snipe | Power | 75 hp
 1933 Humber Snipe | Volume | 3494 cc
@@ -1176,6 +1249,7 @@
 1934 BMW 315 | Volume | 1490 cc
 1934 Bugatti 57 | Volume | 3257 cc
 1934 Bugatti 57 | Power | 135 hp
+1934 Bugatti 57 | Cylinders | R8
 1934 Buick Model 66S | Power | 100 hp
 1934 Datsun | Power | 12 hp
 1934 Datsun | Volume | 748 cc
@@ -1219,6 +1293,7 @@
 1935 Alfa Romeo 6C2300B Pescara | Volume | 2309 cc
 1935 Alfa Romeo 6C2300B Pescara | Power | 95 hp @ 4500 rpm
 1935 Alfa Romeo 6C2300B Pescara | Gears | 4 manual
+1935 Alfa Romeo 6C2300B Pescara | Cylinders | R6
 1935 Alta | Power | 85 hp
 1935 Alta | Volume | 1488 cc
 1935 Alta | Gears | 4 manual
@@ -1231,6 +1306,7 @@
 1935 Audi Front | Brakes | drum
 1935 Audi Front | Power | 50 hp
 1935 Audi Front | Gears | 4 manual
+1935 Audi Front | Cylinders | R6
 1935 Auto Union Type B | Cylinders | V16
 1935 Auto Union Type B | Compressor | roots
 1935 Auto Union Type B | Power | 375 hp @ 4800 rpm
@@ -1264,6 +1340,7 @@
 1935 Lagonda Rapier | Volume | 1086 cc
 1935 Lagonda Rapier | Power | 45 hp
 1935 Lagonda Rapier | Gears | 4 manual
+1935 Lagonda Rapier | Count | 300
 1935 Lagonda Rapier racing | Power | 70 hp
 1935 Mercedes-130 | Power | 26 hp
 1935 Mercedes-130 | Volume | 1308 cc
@@ -1323,9 +1400,11 @@
 1935 Tatra 77 | Power | 70 hp
 1935 Tatra 77 | Volume | 3000 cc
 1935 Tatra 77 | Volume | 3400 cc
+1935 TATRA 77 | Cylinders | V8
 1935 Volvo Carioca | Cylinders | 6
 1936 Adler Autobahn | Body | coupe
 1936 Adler Autobahn | Cylinders | R4
+1936 Adler Autobahn | Volume | 1645 cc
 1936 Adler Trumpf Aerodynamik | Volume | 1.5 L
 1936 Adler Trumpf Aerodynamik | Speed | 129 kmph
 1936 Auto Union Type C | Volume | 6010 cc
@@ -1362,6 +1441,7 @@
 1936 Rolls-Royce Phantom III | Wheelbase | 3605 mm
 1936 Rolls-Royce Phantom III | Width | 1955 mm
 1936 Rolls-Royce Phantom III | Volume | 7340 cc
+1936 Rolls-Royce Phantom III | Tyres | 7.00 x 18, optional 7.50 x 18
 1936 Salmson-S-4D | Volume | 1595 cc
 1936 Volkswagen-30 | Count | 30
 1936 Wanderer W-25K | Brakes | drum
@@ -1403,9 +1483,11 @@
 1936 ЗИС 101 | Tyres | 7.50x17 in
 1936 ЗИС 101 | Gears | 3 manual
 1937 Alfa Romeo 8C 2900 | Power | 180 hp
+1937 Alfa Romeo 8C 2900 | Volume | 2905 cc
 1937 Alfa Romeo 8C2900B | Volume | 2905 cc
 1937 Alfa Romeo 8C2900B | Power | 220 hp @ 5500 rpm
 1937 Alfa Romeo 8C2900B | Gears | 4 manual
+1937 Alfa Romeo 8C2900B | Cylinders | R8
 1937 Auto Union | Power | 545 hp
 1937 BMW 328 | Cylinders | 6
 1937 BMW 328 | Power | 80 hp
@@ -1419,7 +1501,10 @@
 1937 BMW 328 | Wheelbase | 2360 mm
 1937 BMW 328 | Width | 1550 mm
 1937 BMW 328 | Torque | 127 nm @ 4000 rpm
+1937 BMW 328 | Tyres | 5.50-16
+1937 BMW 328 | Tyres | 5.25 x 16
 1937 BMW 328 (Mille Miglia) | Power | 100 hp
+1937 Bugatti Type 57 | Volume | 3.3 L
 1937 Bugatti Type 57 | Volume | 3.3 L
 1937 Cord 812 | Power | 190 hp
 1937 Jaguar SS 100 | Compression ratio | 7.5
@@ -1432,9 +1517,13 @@
 1937 Lancia Aprilia | Power | 47 hp
 1937 Lancia Aprilia | Stroke | 83 mm
 1937 Lancia Aprilia | Volume | 1351 cc
+1937 Lancia Aprilia | Cx | 0.470
 1937 Maybach Zeppelin | Cylinders | 12
 1937 Maybach Zeppelin | Power | 200 hp @ 3200 rpm
 1937 Maybach Zeppelin | Volume | 7977 cc
+1937 Maybach Zeppelin | Volume | 8 L
+1937 Maybach Zeppelin | Power | 200 hp
+1937 Maybach Zeppelin | Cylinders | V12
 1937 Mercedes-Benz-540K | Volume | 5401 cc
 1937 Mercedes-Benz-540K | Gears | 4 manual
 1937 Mercedes-Benz-540K | Cylinders | R8
@@ -1518,6 +1607,7 @@
 1938 Daihatsu-prototype (approx) | Volume | 1200 cc
 1938 Horch 951 A | Power | 120 hp @ 3400 rpm
 1938 Horch 951 A | Volume | 4944 cc
+1938 Horch 951 A | Weight | 2650 kg
 1938 Mercedes-Benz 770 W150 | Gears | 5 manual
 1938 Mercedes-Benz W154 | Volume | 3000 cc
 1938 Opel Kadett | Price | 2000 DM
@@ -1581,6 +1671,8 @@
 1938 SS Jaguar 100 | Gears | 4 manual
 1939 Adler Autobahn | Fuel consumption | 17 L/100km
 1939 Adler Autobahn | Power | 42.6 kW @ 3800 rpm
+1939 Adler Autobahn | Volume | 2494 cc
+1939 Adler Autobahn | Weight | 1310 kg
 1939 Auto Union Type D | Compressor | roots
 1939 Auto Union Type D | Power | 420 bhp
 1939 Auto Union Type D | Power | 485 bhp
@@ -1636,6 +1728,7 @@
 1941 ГАЗ 64 | Count | 686
 1942 Willys MB | Volume | 2199 cc
 1942 Willys MB | Power | 54 hp
+1942 Willys MB | Cylinders | R4
 1943-09 ГАЗ 67 | Count | 92843
 1943-09 ГАЗ 67 | Volume | 3280 cc
 1943-09 ГАЗ 67 | Cylinders | R4
@@ -1696,6 +1789,7 @@
 1947 Cisitalia Grand Prix (Type 360) | Gears | 5 seq
 1947 Cisitalia Grand Prix (Type 360) | Drive | full
 1947 Claveau-Descartes | Volume | 2300 cc
+1947 Claveau-Descartes | Cylinders | V8
 1947 Ferrari 125 S | Volume | 1497 cc
 1947 Ferrari 125 S | Cylinders | V12
 1947 Ferrari 125 S | Power | 72 hp @ 5600 rpm
@@ -1842,8 +1936,13 @@
 1950 Aston Martin DB-2 | Volume | 2.6 L
 1950 Aston Martin DB2 | Volume | 2.6 L
 1950 Aston Martin DB2 | Power | 105 hp
+1950 Bristol-401 | Cylinders | R6
+1950 Bristol-401 | Speed | 172 kmph
+1950 Bristol-401 | Power | 85 hp
+1950 Bristol-401 | Brakes | drum
 1950 Chevrolet Impala | Power | 211 hp
 1950 Chevrolet Impala | Power | 230 hp
+1950 Chevrolet Impala | Gears | 4 auto
 1950 DKW Meisterklasse F 89 P | Seats | 4
 1950 Ferrari 195 S | Volume | 2341 cc
 1950 Ferrari 195 S | Cylinders | V12
@@ -1939,6 +2038,7 @@
 1951 Lambert Course | Power | 50 hp
 1951 Lambert Course | Volume | 1087 cc
 1951 Lambert Course | Cylinders | R4
+1951 Lambert Course | Gears | 4 manual
 1951 Mercedes-300S | Volume | 2996 cc
 1951 Mercedes-300S | Cylinders | 6
 1951 Mercedes-Benz 220 (W187) | Power | 80 hp
@@ -1946,6 +2046,7 @@
 1951 Mercedes-Benz 220 (W187) | Cylinders | 6
 1951 Mercedes-Benz 300 (W186) | Volume | 2996 cc
 1951 Mercedes-Benz 300 (W186) | Cylinders | 6
+1951 Nissan-Patrol | Cylinders | 6
 1951 Opel Olympia | Price | 6400 DM
 1951 Opel Olympia | Price | 7350 DM
 1951 Opel Olympia | Volume | 1488 cc
@@ -1965,10 +2066,12 @@
 1952 Alfa Romeo Disco Volante | Volume | 1997 cc
 1952 Alfa Romeo Disco Volante | Power | 158 hp @ 6500 rpm
 1952 Alfa Romeo Disco Volante | Gears | 5 manual
+1952 Alfa Romeo Disco Volante | Cylinders | R4
 1952 Bentley Continental | Body | sedan 2
 1952 Bentley Continental R | Volume | 4566 cc
 1952 Bentley Continental R | Brakes | drum
 1952 Bentley Continental R | Gears | 4 manual
+1952 Bentley Continental R | Cylinders | R6
 1952 Dellow Mk III | Power | 36 hp
 1952 Dellow Mk III | Volume | 1172 cc
 1952 Dellow Mk III | Gears | 3 manual
@@ -2076,6 +2179,7 @@
 1953 Pegaso-Z-102-B | Weight | 990 kg
 1953 Pegaso-Z-102-B | Wheelbase | 2340 mm
 1953 Pegaso-Z-102-B | Cylinders | V8
+1953 Pegaso-Z-102-B | Tyres | 6.0 x 16
 1953 Porsche 1300 S | Volume | 1290 cc
 1953 Porsche 1300 S | Power | 60 hp
 1953 Skoda 420 | Power | 40 hp
@@ -2083,9 +2187,11 @@
 1953 Triumph TR2 | Power | 90 hp
 1953 Triumph TR2 | Weight | 900 kg
 1953 Triumph TR2 | Volume | 1991 cc
+1953 Triumph TR2 | 0-100 kmph | 12.0 s
 1953 Vauxhall Wyvern | Volume | 1507 cc
 1953 Vauxhall Wyvern | Power | 40 hp
 1953 Vauxhall Wyvern | Gears | 3 manual
+1953 Vauxhall Wyvern | Cylinders | R4
 1953-09 ГАЗ 69 | Volume | 2111 cc
 1953-09 ГАЗ 69 | Cylinders | R4
 1953-09 ГАЗ 69 | Power | 55 hp @ 3600 rpm
@@ -2120,6 +2226,7 @@
 1954 Alfa Romeo Giulietta Sprint | Volume | 1290 cc
 1954 Alfa Romeo Giulietta Sprint | Power | 80 hp @ 6300 rpm
 1954 Alfa Romeo Giulietta Sprint | Gears | 5 manual
+1954 Alfa Romeo Giulietta Sprint | Cylinders | R4
 1954 BMW 501 | Volume | 2.6 L
 1954 BMW 501 | Cylinders | V8
 1954 Cadillac Eldorado | Power | 230 hp
@@ -2145,6 +2252,7 @@
 1954 Mercedes-Benz-300SL | Gears | 4 manual
 1954 Mercedes-Benz-300SL | Cylinders | R6
 1954 Mercedes-Benz-300SL | Cylinders | R6
+1954 Mercedes-Benz-300SL | Tyres | 6.50/6.80 x 15
 1954 Nash Metropolitan | Bore | 65.48 mm
 1954 Nash Metropolitan | Power | 42 hp
 1954 Nash Metropolitan | Seats | 2
@@ -2177,6 +2285,7 @@
 1955 Citroën DS19 | Power | 75 hp
 1955 Citroën DS19 | Volume | 1911 cc
 1955 Citroën DS19 | Cylinders | R4
+1955 Citroën DS19 | Cx | 0.300
 1955 Mercedes-Benz 300Sc (W188) | Power | 150 hp
 1955 Messerschmitt Kabinenroller KR-175 | Count | 10666
 1955 Messerschmitt Kabinenroller KR-175 | Cylinders | 1
@@ -2503,6 +2612,7 @@
 1957 Ford Skyliner | Cylinders | V8
 1957 GAZ-21 | Volume | 2445 cc
 1957 GAZ-21 | Power | 70 hp @ 4000 rpm
+1957 GAZ-21 | Tyres | 6.70-15
 1957 Jaguar XK 150 | Volume | 3.4 L
 1957 Jaguar XK 150 | Volume | 3.8 L
 1957 Jaguar XK 150 | Body | roadster
@@ -2524,6 +2634,7 @@
 1957 Maserati 250 S | Speed | 160 mph
 1957 Maserati 250 S | Power | 250 hp
 1957 Maserati 3500GT | Volume | 3485 cc
+1957 Maserati 3500GT | Volume | 3.5 L
 1957 Maserati-3500 | Volume | 3000 cc
 1957 Mercedes-Benz 300d (W189) | Power | 180 hp
 1957 Moskvich 423 | Body | wagon
@@ -2592,6 +2703,7 @@
 1958 Lotus 11 | Volume | 1098 cc
 1958 Lotus 11 | Power | 84 hp
 1958 Lotus 11 | Gears | 4 manual
+1958 Lotus 11 | Cylinders | R4
 1958 Porsche 356 A 1500 GS Carrera GT | Power | 110 hp
 1958 Porsche 356 A Convertible D | Volume | 1600 cc
 1958 Porsche 356 A Convertible D | Cylinders | B4
@@ -2681,6 +2793,7 @@
 1959 Lotus Elite | Volume | 1216 cc
 1959 Lotus Elite | Power | 75 hp
 1959 Lotus Elite | Gears | 4 manual
+1959 Lotus Elite | Cylinders | R4
 1959 Maserati 5000 GT | Count | 32
 1959 Maserati 5000 GT | Cylinders | V8
 1959 Opel-1200 | Volume | 1196 cc
@@ -2786,6 +2899,7 @@
 1959 Porsche Bergspyder | Power | 148 hp
 1959 Porsche Carrera 1600GS-GT de lux | Power | 105 hp
 1959 Porsche Type 718 | Volume | 1600 cc
+1959 Porsche Type 718 | Power | 148 hp
 1959 Renault Dauphine | Power | 30 hp
 1959 Renault Dauphine | Volume | 845 cc
 1959 Renault Dauphine | Gears | 3 manual
@@ -3074,6 +3188,7 @@
 1961 BMW 1500 | Body | sedan
 1961 BMW 1500 | Volume | 1.5 L
 1961 BMW 1500 | Volume | 1.5 L
+1961 BMW 1500 | Power | 80 hp
 1961 Cadillac Eldorado | Power | 325 hp
 1961 Chevrolet Corvette 283 | Power | 315 hp
 1961 Chevrolet Corvette 283 | 0-100 kmph | 5.5 s
@@ -3132,6 +3247,8 @@
 1961 Skoda-Octavia-Super-TS | Weight | 1270 kg
 1961 Subaru 360 | Power | 18 hp
 1961 Subaru 360 | Power | 18 hp
+1961 Subaru 360 | Volume | 360 cc
+1961 Subaru 360 Sport | Power | 36 hp
 1961 VW 1500 Karmann-Ghia (Type 34) | Power | 45 hp
 1961 ГАЗ 13Б Чайка | Body | phaeton
 1962 AC Cobra | Volume | 4.2 L
@@ -3144,8 +3261,10 @@
 1962 Alfa Romeo Giulia TI | Brakes | drum
 1962 Alfa Romeo Giulia TI | Power | 92 hp @ 6200 rpm
 1962 Alfa Romeo Giulia TI | Gears | 5 manual
+1962 Alfa Romeo Giulia TI | Cylinders | R4
 1962 Alvis TD-21 | Volume | 2993 cc
 1962 Alvis TD-21 | Power | 120 hp
+1962 Alvis TD-21 | Cylinders | R6
 1962 ASA-1000GT | Power | 97 hp
 1962 ASA-1000GT | Volume | 1032 cc
 1962 ASA-1000GT | Gears | 4 manual
@@ -3195,6 +3314,8 @@
 1962 Ferrari 250 GTO | Gears | 5 manual
 1962 Ferrari 250 GTO | Valves per cylinder | 2
 1962 Ferrari 250 GTO | Cylinders | 12
+1962 Ferrari 250 GTO | Gears | 5 manual
+1962 Ferrari 250 GTO | Tyres | Dunlop 6.00 x 15 front, 7.00 x 15 rear
 1962 Ferrari-250 GTO | Volume | 2953 cc
 1962 Ferrari-250 GTO | Compression ratio | 8.5
 1962 Ferrari-250 GTO | Length | 4445 mm
@@ -3231,7 +3352,9 @@
 1962 Lotus Elite S-2 | Width | 1470 mm
 1962 Lotus Elite S-2 | Power | 80 hp @ 6100 rpm
 1962 Lotus Elite S-2 | Torque | 102 nm @ 4750 rpm
+1962 Lotus Elite S-2 | Tyres | 4.80 x 15
 1962 Mitsubishi Minica | Seats | 4
+1962 Mitsubishi Minica | Volume | 359 cc
 1962 Mitsubishi Minica | Volume | 359 cc
 1962 Opel Kadett (A) | Count | 649512
 1962 Opel Kadett (A) | Volume | 993 cc
@@ -3304,6 +3427,7 @@
 1962 Triumph TR4 | Power | 100 hp
 1962 Triumph TR4 | Weight | 1013 kg
 1962 Triumph TR4 | Volume | 2138 cc
+1962 Triumph TR4 | 0-100 kmph | 14.0 s
 1962 Triumph Vitesse | Cylinders | 6
 1962 Triumph Vitesse | Volume | 1600 cc
 1962 Volkswagen 1600 | Engine placement | rear
@@ -3349,6 +3473,7 @@
 1963 ATS-2500 GTS | Gears | 5 manual
 1963 BMW 1800 | Volume | 1.8 L
 1963 BMW 1800 | Volume | 1.8 L
+1963 BMW 1800 | Power | 90 hp
 1963 BMW-1800 | Volume | 1.8 L
 1963 BMW-1800 | Power | 90 hp
 1963 Chevrolet Corvette Sting Ray | Brakes | drum
@@ -3384,6 +3509,7 @@
 1963 Lamborghini Grifo A3L | Volume | 7 L
 1963 Lamborghini Grifo A3L | Power | 420 hp
 1963 Lamborghini Grifo A3L | Body | coupe
+1963 Lamborghini-350GT | Cylinders | V12
 1963 Marcos 1800 | Power | 114 hp
 1963 Maserati Quattroporte | Volume | 4135 cc
 1963 Maserati Quattroporte | Cylinders | V8
@@ -3392,10 +3518,14 @@
 1963 Mercedes-600 | Power | 250 hp
 1963 Mercedes-600 | Volume | 6.3 L
 1963 Mercedes-600 | Cylinders | V8
+1963 Mercedes-600 | Gears | 4 auto
 1963 Mercedes-600 Pullman | Length | 6240 mm
 1963 Mercedes-Benz 600 (W100) | Power | 247 hp
 1963 Mercedes-Benz 600 (W100) | Torque | 503 nm
 1963 Mercedes-Benz 600 (W100) | Volume | 6332 cc
+1963 Mercedes-Benz 600 (W100) (coupés) | Count | 2
+1963 Mercedes-Benz 600 (W100) (long Pullman limousines) | Count | 428
+1963 Mercedes-Benz 600 (W100) (open landaulets) | Count | 59
 1963 Opel Rekord (A) | Price | 7230 DM
 1963 Opel Rekord (A) | Count | 720976
 1963 Opel Rekord (A) | Volume | 1.5 L
@@ -3574,6 +3704,10 @@
 1963-11 Porsche 904 | Power | 180 hp
 1963-11 Porsche 904 | Speed | 250 kmph
 1963-11 Porsche 904 | Brakes | disc
+1964 Alpina 1500 | Power | 92 hp
+1964 Bizzarrini-Strada GT-5300 | Cylinders | V8
+1964 Bizzarrini-Strada GT-5300 | Speed | 248 kmph
+1964 Bizzarrini-Strada GT-5300 | Brakes | disc
 1964 Chevrolet El Camino | Power | 120 hp
 1964 Chevrolet El Camino | Volume | 3.2 L
 1964 Chevrolet El Camino | Cylinders | R6
@@ -3671,6 +3805,7 @@
 1964 Porsche 904 Carrera GTS | Engine placement | center
 1964 Porsche 904 Carrera GTS | Volume | 1966 cc
 1964 Porsche 904 Carrera GTS | Speed | 161 mph
+1964 Porsche 904 Carrera GTS | Power | 185 hp @ 7000 rpm
 1964 Porsche 911 (901) | Volume | 2000 cc
 1964 Porsche 911 (901) | Volume | 1600 cc
 1964 Porsche 911 (901) | Volume | 1991 cc
@@ -3759,6 +3894,7 @@
 1964 Vauxhall Viva | Brakes | drum
 1964 Vauxhall Viva | Power | 44 hp
 1964 Vauxhall Viva | Gears | 4 manual
+1964 Vauxhall Viva | Cylinders | R4
 1964 Volkswagen Beetle | Power | 40 hp
 1964 Volkswagen Beetle | Speed | 120 kmph
 1964-02 Opel Kapitan | Price | 10990 DM
@@ -3805,6 +3941,7 @@
 1965 Ford GT40 | Fuel tank | 140 L
 1965 Ford GT40 | Volume | 4.7 L
 1965 Ford GT40 | Height | 40 in
+1965 Ford GT40 | Gears | 5
 1965 Ford-Mustang-Shelby-GT-350 | Power | 306 hp
 1965 Ford-Mustang-Shelby-GT-350R | Power | 360 hp
 1965 GAZ-21C | Power | 85 hp
@@ -3974,7 +4111,9 @@
 1965 Porsche-356-C | Width | 1671 mm
 1965 Porsche-356-C | Power | 75 hp @ 5200 rpm
 1965 Porsche-356-C | 0-100 kmph | 13.6 s
+1965 Porsche-356-C | Tyres | Diagonal 165 x 15
 1965 Renault 16 | Volume | 1470 cc
+1965 Renault 16 | Volume | 1.5 L
 1965 Shelby Cobra 427 | Volume | 6991 cc
 1965 Shelby Cobra 427 | Cylinders | V8
 1965 Shelby Cobra 427 | Power | 425 hp @ 6500 rpm
@@ -4237,6 +4376,8 @@
 1966 Opel Rekord С | Gears | 4 manual
 1966 Porsche 906 | Volume | 1991 cc
 1966 Porsche 906 | Speed | 173 mph
+1966 Porsche 906 | Power | 210 hp @ 8000 rpm
+1966 Porsche 906 | Count | 50
 1966 Porsche 911 S | Volume | 2000 cc
 1966 Porsche 911 S | Cylinders | B6
 1966 Porsche 911 S | Power | 160 hp @ 6500 rpm
@@ -4297,6 +4438,7 @@
 1966 ЗАЗ-966 В Запорожец | Engine placement | rear
 1967 1968 Porsche 911S | Compression ratio | 9.8
 1967 1968 Porsche 911S | Speed | 140 mph
+1967 1968 Porsche 911S | Power | 160 hp
 1967 Alfa Romeo Montreal | Volume | 2593 cc
 1967 Alfa Romeo Montreal | Cylinders | V8
 1967 Alfa Romeo Montreal | Power | 230 hp @ 6500 rpm
@@ -4341,6 +4483,7 @@
 1967 Dodge Charger | Volume | 7210 cc
 1967 Dodge Charger | Body | coupe
 1967 Dodge Charger | Cylinders | V8
+1967 Ferrari 206 GT Dino | Cylinders | 6
 1967 Ferrari 275 GTB | Front track | 1401 mm
 1967 Ferrari 275 GTB | Power | 300 hp @ 8000 rpm
 1967 Ferrari 275 GTB | Rear track | 1417 mm
@@ -4358,6 +4501,7 @@
 1967 Ferrari-206 GT Dino | Power | 180 hp
 1967 Ford-Mustang-Shelby-GT-500 | Volume | 7 L
 1967 Ford-Mustang-Shelby-GT-500 | Power | 355 hp
+1967 Jensen Interceptor FF | Count | 320
 1967 Lamborghini Marzal | Cylinders | 6
 1967 Lamborghini Miura P400 | Volume | 4000 cc
 1967 Lamborghini Miura P400 | 0-100 kmph | 5.7 s
@@ -4394,6 +4538,7 @@
 1967 Lotus Europa | Volume | 1470 cc
 1967 Lotus Europa | Power | 82 hp
 1967 Lotus Europa | Gears | 4 manual
+1967 Lotus Europa | Cylinders | R4
 1967 Moskvich 412 | Body | sedan
 1967 Moskvich 426 | Body | wagon
 1967 Moskvich 427 | Body | wagon
@@ -4408,6 +4553,7 @@
 1967 NSU Ro 80 | Brakes | disc
 1967 NSU Ro 80 | Gears | 3 semi-auto
 1967 NSU Ro 80 | Drive | front
+1967 NSU Ro 80 | Power | 115 hp
 1967 NSU Ro-80 | Power | 115 hp
 1967 Opel Commodore | Volume | 2490 cc
 1967 Opel Commodore (A) | Volume | 2.5 L
@@ -4569,6 +4715,7 @@
 1968 BMW E3 2500 | Weight | 1400 kg
 1968 BMW E3 2500 | Volume | 2494 cc
 1968 BMW E3 2500 | Torque | 215 nm @ 3700 rpm
+1968 BMW E3 2500 | Tyres | 175 HR14
 1968 Cadillac Eldorado | Power | 375 hp
 1968 Cadillac Eldorado | Volume | 7700 cc
 1968 Cadillac Eldorado | Volume | 5 L
@@ -4604,6 +4751,7 @@
 1968 Ferrari Dino 206 GT | Height | 111.5 cm
 1968 Ferrari Dino 206 GT | Power | 180 hp
 1968 Ferrari Dino 206 GT | 0-100 kmph | 8.2 s
+1968 Ferrari Dino 206 GT | Cx | 0.362
 1968 Ford GT40 | Volume | 5 L
 1968 Ford-Mustang-Shelby-GT-500KR | Power | 325 hp
 1968 GAZ-21 (diesel Indenor) | Power | 68 hp
@@ -4630,6 +4778,7 @@
 1968 Mercedes 300SEL 6.3 | Power | 250 hp
 1968 Mercedes 300SEL 6.3 | Volume | 6.3 L
 1968 Mercedes 300SEL 6.3 | Cylinders | V8
+1968 Morgan-Plus 8 | Cx | NaN
 1968 NSU Ro-80 | Compression ratio | 9.0
 1968 NSU Ro-80 | Fuel consumption | 14.2 L/100km
 1968 NSU Ro-80 | Length | 4780 mm
@@ -4639,6 +4788,7 @@
 1968 NSU Ro-80 | Weight | 1210 kg
 1968 NSU Ro-80 | Wheelbase | 2860 mm
 1968 NSU Ro-80 | Width | 1760 mm
+1968 NSU Ro-80 | Tyres | 175 SR14
 1968 Opel GT Coupe | Price | 10000 DM
 1968 Opel GT Coupe | 0-100 kmph | 11.5 s
 1968 Opel GT Coupe | Weight | 940 kg
@@ -4756,6 +4906,7 @@
 1968 Porsche 911 Targa | Rear track | 1321 mm
 1968 Porsche 911 Targa | Wheelbase | 2211 mm
 1968 Porsche 911E | Power | 140 hp
+1968 Porsche 911L | Power | 130 hp
 1968 Porsche 911S | Power | 170 hp
 1968 Porsche-908 | Power | 350 bhp
 1968 Porsche-908 | Volume | 2997 cc
@@ -4817,6 +4968,7 @@
 1969 BMW E3 2800 | Power | 170 hp @ 6000 rpm
 1969 BMW E3 2800 | Volume | 2788 cc
 1969 BMW E3 2800 | Torque | 240 nm @ 3700 rpm
+1969 BMW E3 2800 | Tyres | 195/70 HR14
 1969 Dodge Daytona | Fuel consumption | 28.6 L/100km
 1969 Dodge Daytona 440 | Power | 375 hp @ 4600 rpm
 1969 Dodge Daytona 440 | Volume | 7200 cc
@@ -4988,6 +5140,7 @@
 1969 Porsche 911 T 2.0 | Fuel feed | carb Weber
 1969 Porsche 911 T 2.0 | Weight | 1020 kg
 1969 Porsche 911S | Compression ratio | 9.9
+1969 Porsche 911S | Power | 170 hp
 1969 Porsche 914 | Volume | 1700 cc
 1969 Porsche 914 | Cylinders | B4
 1969 Porsche 914 | Power | 80 hp @ 4900 rpm
@@ -5073,11 +5226,13 @@
 1969 Porsche 917 | Weight | 1760 lbs
 1969 Porsche 917 | Weight | 800 kg
 1969 Porsche 917 | Volume | 4494 cc
+1969 Porsche 917 | Power | 580 hp
 1969 Porsche-911E | Volume | 2 L
 1969 Porsche-911E | Power | 140 hp
 1969 Renault 6 | Volume | 845 cc
 1969 Shelby GT500 | Power | 335 hp
 1969 Simca-Special | Volume | 1118 cc
+1969 Subaru R-2 | Power | 25 hp
 1969 Subaru R-2 | Power | 25 hp
 1969 Triumph TR6 (Europe) | Power | 150 hp
 1969 VW 411 E | Power | 80 hp
@@ -5136,10 +5291,12 @@
 1970 Alfa Romeo Montreal | Volume | 2593 cc
 1970 Alfa Romeo Montreal | Power | 200 hp @ 6500 rpm
 1970 Alfa Romeo Montreal | Gears | 5 manual
+1970 Alfa Romeo Montreal | Cylinders | V8
 1970 Alpina 2800CS | Power | 250 hp
 1970 Alpina 2800CS | Fuel feed | 3 carb Weber
 1970 Alpina 2800CS | Wheels | 14
 1970 Alpina BMW 2800 | Power | 200 hp @ 6000 rpm
+1970 Alpina BMW 2800 | Tyres | 215/50 R15
 1970 Audi 100 S coupe | Body | coupe
 1970 Cadillac Eldorado | Power | 400 hp
 1970 Cadillac Eldorado | Volume | 8200 cc
@@ -5348,6 +5505,7 @@
 1970 Porsche 914-4 | Volume | 1795 cc
 1970 Porsche 914-4 | Volume | 1971 cc
 1970 Porsche 914-4 | Gears | 5 manual
+1970 Porsche 914-4 | Weight | 2892 lbs
 1970 Porsche 914-6 | Volume | 2000 cc
 1970 Porsche 914/6 | Count | 3324
 1970 Porsche 914/6 | Volume | 1991 cc
@@ -5440,10 +5598,12 @@
 1971 BMW CSL | Speed | 250 kmph
 1971 BMW CSL | Body | coupe
 1971 BMW CSL | Doors | 2
+1971 Chevrolet Corvette ZR1 | Tyres | 335/25 rear
 1971 Ferrari 365 GT4 Berlinetta Boxer | Volume | 4.4 L
 1971 Ferrari 365 GT4 Berlinetta Boxer | Cylinders | B12
 1971 Ferrari 365 GT4 Berlinetta Boxer | Speed | 275 kmph
 1971 Ferrari 365 GT4 Berlinetta Boxer | Engine placement | center
+1971 Ferrari 365 GTB/4 Daytona | Cylinders | V12
 1971 Ferrari 365 GTK/4 | Volume | 4.4 L
 1971 Ferrari 365GT4 Boxer | Volume | 4.4 L
 1971 Ferrari-365 GTB/4 Daytona | Volume | 4390 cc
@@ -5466,12 +5626,15 @@
 1971 Ford Capri V8 Perena | 0-100 kmph | 6.6 s
 1971 Ford Capri V8 Perena | Gears | 4 manual
 1971 Ford GT70 | Wheelbase | 2324 mm
+1971 Ford GT70 | Tyres | 195/70 R13Dunlop
+1971 Ford GT70 | Cx | 0.360
 1971 Ford Mustang Boss | Power | 500 hp
 1971 Jaguar E-Type | Volume | 5.3 L
 1971 Jaguar E-Type | Cylinders | V12
 1971 Jaguar JX12 | Volume | 5.3 L
 1971 Jaguar JX12 | Cylinders | 12
 1971 Jaguar JX12 | Speed | 240 kmph
+1971 Jaguar-XJ12 | Cylinders | V12
 1971 Lada 2101 | Body | sedan 4
 1971 Lada 21013 | Power | 69 hp
 1971 Lada 21013 | Volume | 1.3 L
@@ -5539,6 +5702,7 @@
 1971 Porsche 917 | Volume | 5000 cc
 1971 Porsche 917 | Power | 630 bhp
 1971 Porsche 917 | Power | 630 bhp
+1971 VAZ-2101 | Power | 60 hp
 1971 VAZ-2101 | Power | 60 hp
 1971 ВАЗ-2101 | Volume | 1.2 L
 1971 ВАЗ-2101 | Cylinders | 4
@@ -5614,6 +5778,7 @@
 1972 Ferrari Dino 246 GTS | Count | 1274
 1972 Ferrari Dino 246 GTS | Body | targa
 1972 Ford Capri RS 2600 | Power | 170 hp @ 5500 rpm
+1972 Ford Capri RS 2600 | Cx | 0.400
 1972 ISO Grifo | Volume | 7 L
 1972 Jaguar XJ12 | Cylinders | 12
 1972 Jaguar XJ12 | Power | 311 hp
@@ -5673,12 +5838,16 @@
 1972 Maserati Merak | Volume | 3 L
 1972 Maserati Merak | Cylinders | V6
 1972 Mercedes-Benz 250 E | Body | coupe
+1972 Mercedes-Benz S-Klasse W116 | Tyres | 185/70HR14 (2.8L and 3.0L diesel)
+1972 Mercedes-Benz S-Klasse W116 | Tyres | 205/70HR14 (3.5L and 4.5L)
+1972 Mercedes-Benz S-Klasse W116 | Tyres | 215/70HR14 (6.9L)
 1972 Mercedes-Benz S-Klasse W116 300SD | Power | 113 hp
 1972 Mercedes-Benz S-Klasse W116 450SEL 6.9 | Fuel consumption | 18 L/100km
 1972 Mercedes-Benz S-Klasse W116 450SEL 6.9 | Power | 286 hp @ 4250 rpm
 1972 Mercedes-Benz S-Klasse W116 450SEL 6.9 | Volume | 6900 cc
 1972 Mercedes-Benz S-Klasse W116 450SEL 6.9 | Torque | 550 nm @ 3000 rpm
 1972 Mercedes-Benz S-Klasse W116 450SEL 6.9 AMG | Power | 380 hp
+1972 Mercedes-Benz S-Klasse W116 450SEL 6.9 AMG | Tyres | 215/60R15, 225/50VR16, 235/45ZR17
 1972 Opel Ascona Irmscher | Power | 215 hp
 1972 Opel Commodore (B) | Volume | 2.8 L
 1972 Opel Commodore (B) | Volume | 2.8 L
@@ -5791,6 +5960,8 @@
 1972 Porsche 914 | Power | 100 hp
 1972 Porsche 916 | Wheels | 7x15
 1972 Porsche 916 | Speed | 145 mph
+1972 Porsche 916 | Tyres | 185/70-15
+1972 Porsche 916 | Power | 190 hp
 1972 Porsche 917/10 | Volume | 5000 cc
 1972 Porsche 917/10 | Compressor pressure | 20 psi
 1972 Porsche 917/10 | Power | 1000 bhp
@@ -5805,6 +5976,8 @@
 1972 Toyota Cressida | Volume | 2563 cc
 1972 Triumph Dolomite | Volume | 1854 cc
 1972 Triumph Dolomite Sprint | Volume | 1998 cc
+1972 VAZ-2103 | Power | 77 hp
+1972 VAZ-2103 | Volume | 1.5 L
 1972 VAZ-2103 | Power | 77 hp
 1972-01 Opel Diplomat (B) | Volume | 2.8 L
 1972-01 Opel Diplomat (B) | Fuel feed | injection
@@ -5825,6 +5998,7 @@
 1972-1973 Porsche 911 T 2.4 | Power | 140 hp @ 5600 rpm
 1972-1973 Porsche 911 T 2.4 | Fuel feed | mechanical injection
 1972-1973 Porsche 911 T 2.4 | Compression ratio | 7.5
+1973 Alpina 2800CS | Power | 250 hp
 1973 Alpina 3.0CSL | 0-100 kmph | 6.7 s
 1973 Alpina B2 3.0s | Power | 230 hp @ 6750 rpm
 1973 Alpina B2 3.0s | Torque | 270 nm @ 5000 rpm
@@ -5980,6 +6154,7 @@
 1974 BMW 2002 Turbo | Power | 170 hp
 1974 BMW 2002 Turbo | Torque | 253 nm
 1974 BMW 2002 Turbo | Volume | 1990 cc
+1974 BMW 2002 Turbo | Tyres | 185/70 VR13
 1974 BMW 3.3iL | Power | 200 hp
 1974 BMW 3.3L | Power | 190 hp
 1974 BMW 3.3L | Volume | 3188 cc
@@ -5995,6 +6170,7 @@
 1974 De Tomaso Pantera | Gears | 5 manual
 1974 Ford Capri 1600 GT | Power | 88 hp
 1974 Ford Capri RS 3100 Spa Special | Power | 185 hp
+1974 Ford Capri RS 3100 Spa Special | Cx | 0.370
 1974 Ford Mustang II | Power | 80 hp
 1974 Ford Mustang II | Volume | 2.6 L
 1974 Ford Mustang II | Cylinders | R4
@@ -6263,6 +6439,7 @@
 1974 Porsche 911 Turbo (930) | Power | 260 hp
 1974 Porsche 911 Turbo (930) | Power | 260 hp
 1974 Porsche 911 Turbo RSR | Compressor | turbo
+1974 Porsche 911S | Power | 175 hp
 1974 Porsche 935 | Volume | 2.8 L
 1974 Porsche 935 | Volume | 2856 cc
 1974 Porsche 935 | Compressor | turbo
@@ -6306,6 +6483,7 @@
 1974-08 Audi 50 (A01) | Engine placement | front transverse
 1974-08 Audi 50 (A01) | Gears | 4 manual
 1974-08 Audi 50 (A01) | Drive | front
+1975 1977 Porsche 911S | Power | 165 hp
 1975 Alpine Renault Le Mans A442 | Volume | 1997 cc
 1975 Alpine Renault Le Mans A442 | Cylinders | V6
 1975 Alpine Renault Le Mans A442 | Compressor | turbo
@@ -6428,6 +6606,7 @@
 1975 Porsche 924 | Power | 125 hp
 1975 Porsche 924 | Volume | 2000 cc
 1975 Porsche 934 | Volume | 3 L
+1975 Porsche 934 | Power | 485 hp
 1975 Porsche-914-6 | Volume | 1991 cc
 1975 Porsche-914-6 | Power | 110 hp
 1975 Porsche-914-6 | Gears | 5 manual
@@ -6516,6 +6695,7 @@
 1976 Ferrari 512 BB | Front tyres | 215/70 VR15
 1976 Ferrari 512 BB | Rear tyres | 225/70 VR15
 1976 Ferrari 512 BB | Gears | 5
+1976 Ferrari 512 BB | Cylinders | B12
 1976 Ferrari 512 ВВ | Volume | 4.9 L
 1976 Ferrari 512 ВВ | Fuel feed | 4 carb Weber
 1976 Ferrari-512 BB | Volume | 5000 cc
@@ -6548,10 +6728,13 @@
 1976 Mercedes-Benz 230CE AMG | Power | 160 hp
 1976 Mercedes-Benz 230CE AMG | Volume | 2300 cc
 1976 Mercedes-Benz 230CE AMG | Gears | 4 manual
+1976 Mercedes-Benz 230CE AMG | Tyres | 195/55 R15
 1976 Mercedes-Benz 280E 5.0 AMG | Power | 276 hp @ 5750 rpm
 1976 Mercedes-Benz 280E 5.0 AMG | Volume | 5000 cc
 1976 Mercedes-Benz 280E 5.0 AMG | Torque | 408 nm @ 4000 rpm
+1976 Mercedes-Benz 280E 5.0 AMG | Tyres | 235/45 R16
 1976 Mercedes-Benz 280E AMG | Volume | 2800 cc
+1976 Mercedes-Benz 280E AMG | Tyres | 205/55 R15
 1976 Mercedes-Benz E-Klasse W123 200 | Power | 94 hp
 1976 Mercedes-Benz E-Klasse W123 200 | Volume | 2000 cc
 1976 Mercedes-Benz E-Klasse W123 200D | Power | 55 hp
@@ -6672,6 +6855,7 @@
 1976 Porsche 924 | Clearance | 4.92 in
 1976 Porsche 924 | Seats | 2+2
 1976 Porsche 924 | Torque | 155 lb-ft @ 4500 rpm
+1976 Porsche 924 | Weight | 2734 lbs
 1976 Porsche 930 912E | Count | 2000
 1976 Porsche 930 912E | Volume | 2 L
 1976 Porsche 930 912E | Cylinders | B4
@@ -6717,6 +6901,7 @@
 1976 Porsche 935 | Fuel consumption | 4 mpg
 1976 Porsche 935 | Gears | 4 manual
 1976 Porsche 935 | Speed | 185 mph
+1976 Porsche 935 | Weight | 2134 lbs
 1976 Porsche 935/76 | Volume | 2857 cc
 1976 Porsche 935/76 | Cylinders | 6
 1976 Porsche 935/76 | Compressor | turbo
@@ -6774,6 +6959,7 @@
 1977 Alfa Romeo Giulietta 1.3 | Volume | 1357 cc
 1977 Alfa Romeo Giulietta 1.3 | Power | 95 hp
 1977 Alfa Romeo Giulietta 1.3 | Gears | 5 manual
+1977 Alfa Romeo Giulietta 1.3 | Cylinders | R4
 1977 Aston Martin Vantage | Power | 370 hp
 1977 Aston Martin Vantage | Power | 370 hp
 1977 Audi 100 | Volume | 2.2 L
@@ -6802,14 +6988,17 @@
 1977 Ford Capri 2.8i | Power | 160 hp @ 5700 rpm
 1977 Ford Capri 2.8i | Torque | 226 nm @ 4300 rpm
 1977 Ford Capri 2.8i | 0-100 kmph | 7.8 s
+1977 Ford Capri 2.8i | Tyres | 215/60 R14
 1977 Ford Capri 2000 | Power | 98 hp
 1977 Ford Capri 2000 | Volume | 1993 cc
 1977 Ford Capri 3000 S | Power | 138 hp @ 5100 rpm
 1977 Ford Capri 3000 S | Torque | 243 nm @ 3000 rpm
 1977 Ford Capri 3000 S | 0-100 kmph | 8.5 s
+1977 Ford Capri 3000 S | Tyres | 185/70 R13
 1977 Ford Capri 3000 S X-Pack | Power | 175 hp @ 5000 rpm
 1977 Ford Capri 3000 S X-Pack | Torque | 275 nm @ 4000 rpm
 1977 Ford Capri 3000 S X-Pack | 0-100 kmph | 7.4 s
+1977 GAZ-14 | Power | 220 hp
 1977 GAZ-14-Chaika | Volume | 5526 cc
 1977 GAZ-14-Chaika | Power | 220 hp @ 4200 rpm
 1977 Opel Manta 1.9E (B) | Price | 14000 DM
@@ -6908,6 +7097,7 @@
 1977 Porsche 934 | Cylinders | B6
 1977 Porsche 934 | Power | 540 hp @ 7000 rpm
 1977 Porsche 934 | Fuel feed | mechanical injection
+1977 Porsche 934 | Power | 540 hp
 1977 Porsche 935/77 | Volume | 2857 cc
 1977 Porsche 935/77 | Cylinders | 6
 1977 Porsche 935/77 | Compressor | 2 turbo
@@ -6980,6 +7170,7 @@
 1978 Alpina B6 2.8 | Torque | 248 nm @ 4500 rpm
 1978 Alpina B6 2.8 | Volume | 2.8 L
 1978 Alpina B6 2.8 | Cylinders | R6
+1978 Alpina B6 2.8 | Power | 200 hp @ 6200 rpm
 1978 Alpina B6 2.8 (E21) | Volume | 2788 cc
 1978 Alpina B6 2.8 (E21) | Power | 200 hp @ 6200 rpm
 1978 Alpina B6 2.8 (E21) | Torque | 248 nm @ 4500 rpm
@@ -6992,6 +7183,7 @@
 1978 Alpina B7 Turbo | Compressor | turbo
 1978 Alpina B7 Turbo | Volume | 3 L
 1978 Alpina B7 Turbo | Cylinders | R6
+1978 Alpina B7 Turbo | Power | 300 hp @ 6000 rpm
 1978 Alpina B7 Turbo (E12) | Volume | 2986 cc
 1978 Alpina B7 Turbo (E12) | Cylinders | 6
 1978 Alpina B7 Turbo (E12) | Compressor | turbo
@@ -7008,6 +7200,7 @@
 1978 Alpina B7S | Power | 330 hp
 1978 Alpina B7S | Volume | 3453 cc
 1978 Alpina B7S | Torque | 500 nm
+1978 Alpina B7S | Tyres | Pirelli P7 205/55 front, 225/50 rear on 16-inch wheels
 1978 Audi 100 | Fuel | diesel
 1978 Audi 200 | Cylinders | 5
 1978 Audi 200 | Compressor | turbo
@@ -7187,6 +7380,7 @@
 1978 Porsche 928 | Clearance | 4.5 in
 1978 Porsche 928 | Volume | 4.5 L
 1978 Porsche 928 | Cylinders | V8
+1978 Porsche 928 | Power | 219 hp
 1978 Porsche 930 | 0-60 mph | 4.9 s
 1978 Porsche 930 Turbo 3.3 | Volume | 3.3 L
 1978 Porsche 930 Turbo 3.3 | Power | 300 hp
@@ -7248,6 +7442,7 @@
 1978-08 Audi 100 | Fuel | diesel
 1979 AMC Eagle | Power | 110 hp
 1979 AMC Eagle | Volume | 4200 cc
+1979 AMC Eagle | Tyres | 15-inch
 1979 Audi 200 | Body | sedan
 1979 Audi 80 | Volume | 1800 cc
 1979 Audi 80 | Power | 90 hp
@@ -7261,8 +7456,10 @@
 1979 BMW M 535i (E12) | Power | 218 hp @ 6500 rpm
 1979 BMW M 535i (E12) | Volume | 3453 cc
 1979 BMW M 535i (E12) | Torque | 313 nm @ 4000 rpm
+1979 BMW M 535i (E12) | Tyres | BBS Mahle Cross-Spoke 195/70VRR14
 1979 BMW M 535i (E12) South Africa | Power | 214 hp
 1979 BMW M 535i (E12) South Africa | Torque | 320 nm
+1979 BMW M 535i (E12) South Africa Hybrid | Tyres | 200/60VR14 Michelin TRX
 1979 BMW M1 | Front track | 1550 mm
 1979 BMW M1 | Height | 1140 mm
 1979 BMW M1 | Length | 4360 mm
@@ -7270,6 +7467,7 @@
 1979 BMW M1 | Rear track | 1576 mm
 1979 BMW M1 | Width | 1824 mm
 1979 BMW M1 | Volume | 3453 cc
+1979 BMW M1 | Tyres | 205/50 VR 16 front, 225/50 VR 16 rear
 1979 BMW M1 Group 4 | Weight | 1020 kg
 1979 Cadillac Eldorado | Power | 170 hp
 1979 Cadillac Eldorado | Volume | 5700 cc
@@ -7369,6 +7567,7 @@
 1979 Porsche 928S | Power | 300 hp
 1979 Porsche 928S | Speed | 250 kmph
 1979 Porsche 928S | Speed | 250 kmph
+1979 Porsche 928S | Power | 300 hp
 1979 Porsche 928S | Power | 300 hp
 1979 Rolls Royce Phantom VI Park Ward | Gears | 3 auto
 1979 Toyota Celica Supra Mk I | Power | 110 hp
@@ -7490,6 +7689,7 @@
 1980 Lotus Esprit-S | Volume | 2174 cc
 1980 Lotus Esprit-S | Power | 160 hp
 1980 Lotus Esprit-S | Gears | 4 manual
+1980 Lotus Esprit-S | Cylinders | R4
 1980 Porsche 911 SC | Power | 204 hp
 1980 Porsche 911 SC | Power | 204 hp
 1980 Porsche 911 SC | Power | 188 hp
@@ -7537,6 +7737,8 @@
 1980 Porsche 924 Turbo | Torque | 147 lb-ft @ 3000 rpm
 1980 Porsche 924 Turbo | Gears | 5 manual
 1980 Porsche 924 Turbo | Speed | 140 mph
+1980 Porsche 924 Turbo | Weight | 2835 lbs
+1980 Porsche 924 Turbo | Power | 143 hp @ 5500 rpm
 1980 Porsche 928 | Price | 38850 USD
 1980 Porsche 928 | Power | 220 hp @ 5500 rpm
 1980 Porsche 928 S | Volume | 4.7 L
@@ -7571,6 +7773,7 @@
 1981 Alpina B9 3.5 | Volume | 3500 cc
 1981 Alpina B9 3.5 | Torque | 320 nm @ 4500 rpm
 1981 Alpina B9 3.5 | Cylinders | R6
+1981 Alpina B9 3.5 | Tyres | 205/55 front, 225/50 rear, 16 in
 1981 Alpina BMW 318i | Fuel consumption | 2.672 L/100km
 1981 AMC Eagle SX-4/Kammback | Power | 100 hp
 1981 AMC Eagle SX-4/Kammback | Volume | 2500 cc
@@ -7799,6 +8002,7 @@
 1982 Ford Capri 2.8i Turbo | Torque | 300 nm @ 4000 rpm
 1982 Ford Capri 2.8i Turbo | 0-100 kmph | 7.5 s
 1982 Ford Capri 2.8i Turbo | Gears | 5 manual
+1982 Ford Capri 2.8i Turbo | Tyres | 235/60 VR13
 1982 Lamborghini Countach LP500 S | Volume | 4754 cc
 1982 Lamborghini Countach LP500 S | Cylinders | V12
 1982 Lamborghini Countach LP500 S | Power | 375 hp @ 7000 rpm
@@ -7988,6 +8192,8 @@
 1982 Porsche 956 | Speed | 217 mph
 1982 Porsche 956 | Torque | 442 lb-ft @ 5000 rpm
 1982 Porsche 956 | Speed | 220 mph
+1982 Porsche 956 | Weight | 820 kg
+1982 Porsche 956 | Power | 620 hp @ 8200 rpm
 1982 Porsche 962 | Count | 1976 2
 1982 Porsche 962 | Count | 1977 13
 1982 Porsche 962 | Volume | 2.8 L
@@ -8076,10 +8282,12 @@
 1983 1986 Porsche 928 S | Speed | 154 mph
 1983 1986 Porsche 928 S | Clearance | 4.5 in
 1983 Alfa Romeo 33 | Body | hatchback
+1983 Alfa Romeo 33 Giardinetta | Trunk size | 1350 L
 1983 Alfa Romeo Arna | Body | hatchback
 1983 Alpina 635CSi Racing | Volume | 3473 cc
 1983 Alpina 635CSi Racing | Volume | 3.5 L
 1983 Alpina 635CSi Racing | Cylinders | R6
+1983 Alpina 635CSi Racing | Power | 285 hp @ 6000 rpm
 1983 AM General Hummer | Volume | 9450 cc
 1983 AM General Hummer | Cylinders | V8
 1983 AM General Hummer | Power | 190 hp @ 4000 rpm
@@ -8110,6 +8318,9 @@
 1983 AM General Hummer | Cylinders | V8
 1983 AM General Hummer | Fuel | diesel
 1983 AM General Hummer | 0-100 kmph | 20.2 s
+1983 AM General Hummer | Gears | 4 auto
+1983 AM General Hummer | Volume | 9450 cc
+1983 AM General Hummer | Engine placement | front
 1983 Audi 100 (C3) | Volume | 1.8 L
 1983 Audi 100 (C3) | Power | 55 kWt
 1983 Audi 100 (C3) | Body | sedan
@@ -8269,6 +8480,7 @@
 1983 Porsche 944 | Power | 147 hp @ 5800 rpm
 1983 Porsche 944 | Speed | 135 mph
 1983 Porsche 944 | Torque | 140 lb-ft @ 3000 rpm
+1983 Porsche 944 | Weight | 2965 lbs
 1983 Porsche 959 | Price | 420000 DM
 1983 Porsche 959 | Count | 250
 1983 Porsche 959 | Volume | 2.85 L
@@ -8366,6 +8578,8 @@
 1984 BMW E28 M5 | Power | 286 hp
 1984 Cadillac-Eldorado Biarritz | Volume | 4097 cc
 1984 Cadillac-Eldorado Biarritz | Power | 137 hp
+1984 Cadillac-Eldorado Biarritz | Gears | 4 auto
+1984 Cadillac-Eldorado Biarritz | Cylinders | V8
 1984 Dacia 1310 | Power | 54 hp @ 5250 rpm
 1984 Dacia 1310 | Power | 63 hp
 1984 Dacia 1310 | Power | 72 hp
@@ -8379,6 +8593,7 @@
 1984 Daihatsu Rocky Diesel | Volume | 2765 cc
 1984 Daimler-DS-420 Limousine | Volume | 4235 cc
 1984 Daimler-DS-420 Limousine | Power | 167 hp
+1984 Daimler-DS-420 Limousine | Cylinders | R6
 1984 Ferrari 512 M | Volume | 4932 cc
 1984 Ferrari 512 M | Cylinders | V12
 1984 Ferrari 512 M | Power | 370 hp @ 6000 rpm
@@ -8606,9 +8821,13 @@
 1984 Mercedes-Benz E-Klasse W124 500E | Volume | 4973 cc
 1984 Mercedes-Benz E-Klasse W124 500E | Torque | 470 nm
 1984 Mercedes-Benz E-Klasse W124 500E | Torque | 480 nm
+1984 Mercedes-Benz E-Klasse W124 500E | Gears | 4 auto
+1984 Mercedes-Benz E-Klasse W124 500E | Tyres | 235/45 R18
 1984 Mercedes-Benz E-Klasse W124 6.0 Hammer AMG | Power | 385 hp
+1984 Mercedes-Benz E-Klasse W124 6.0 Hammer AMG | Tyres | 255/45 R18
 1984 Mercedes-Benz E-Klasse W124 AMG E36 | Power | 280 hp @ 5750 rpm
 1984 Mercedes-Benz E-Klasse W124 AMG E36 | Torque | 385 nm @ 4000 rpm
+1984 Mercedes-Benz E-Klasse W124 AMG E36 | Gears | 4 auto
 1984 Mercedes-Benz E-Klasse W124 cabriolet | Height | 1392 mm
 1984 Mercedes-Benz E-Klasse W124 cabriolet | Width | 1740 mm
 1984 Mercedes-Benz E-Klasse W124 coupe | Height | 1410 mm
@@ -8619,6 +8838,7 @@
 1984 Mercedes-Benz E-Klasse W124 wagon | Width | 1740 mm
 1984 Mercedes-Benz-G-280-GE | Power | 150 hp
 1984 Nissan 300ZX | Volume | 3 L
+1984 Nissan 300ZX | Power | 283 hp
 1984 Opel Kadett | Body | hatchback
 1984 Opel Kadett (E) | Volume | 1.8 L
 1984 Opel Kadett (E) | Volume | 2 L
@@ -8702,6 +8922,7 @@
 1984 Porsche-911-Carrera | Wheelbase | 2271 mm
 1984 Porsche-911-Carrera | Width | 1649 mm
 1984 Porsche-911-Carrera | Power | 231 hp @ 5900 rpm
+1984 Porsche-911-Carrera | Tyres | Front 185/70VR15, rear 215/60VR15
 1984 Porsche-911-Turbo-3.3 | Volume | 3299 cc
 1984 Porsche-911-Turbo-3.3 | Power | 300 hp
 1984 Porsche-911-Turbo-3.3 | Gears | 4 manual
@@ -8759,6 +8980,7 @@
 1985 Alfa Romeo 75 3.0 V6 | Fuel consumption | 9.4 L/100km
 1985 Alfa Romeo Alfa 75 1.6 | Volume | 1570 cc
 1985 Alfa Romeo Alfa 75 1.6 | Power | 110 hp @ 5800 rpm
+1985 Alfa Romeo Alfa 75 1.6 | Cylinders | R4
 1985 Alpina BMW 333i E30 | Price | 2720 USD @ 1985
 1985 Alpina BMW 333i E30 | Count | 210
 1985 Alpina BMW 333i E30 | Volume | 3.3 L
@@ -8788,6 +9010,7 @@
 1985 BMW 524td | Fuel | diesel
 1985 BMW M3 | Power | 200 hp
 1985 BMW M3 (E30) | Power | 200 hp
+1985 BMW M3 (E30) | Tyres | 205/55 R15
 1985 BMW M3 Evo 2.3 | Power | 220 hp
 1985 BMW M3 Evo I | Power | 220 hp
 1985 BMW M3 Evo II | Power | 238 hp
@@ -8798,6 +9021,7 @@
 1985 Ford Capri Aston Martin Tickford 2.8i Turbo | Power | 230 hp @ 6000 rpm
 1985 Ford Capri Aston Martin Tickford 2.8i Turbo | Torque | 400 nm @ 4000 rpm
 1985 Ford Capri Aston Martin Tickford 2.8i Turbo | 0-100 kmph | 6.0 s
+1985 Ford Capri Aston Martin Tickford 2.8i Turbo | Tyres | 235/45 VR16
 1985 Ford-Mustang | Power | 210 hp
 1985 Hyundai Pony 1.3 | Volume | 1.3 L
 1985 Lamborghini Countach | Volume | 5.2 L
@@ -8816,6 +9040,7 @@
 1985 Lamborghini LP500S QV | Valves per cylinder | 4
 1985 Opel Kadett GSi | Power | 115 hp
 1985 Opel Kadett GSi | Volume | 1.8 L
+1985 Porsche 924 | Count | 137500
 1985 Porsche 924 S | Body | coupe
 1985 Porsche 928 S | Price | 44600 USD
 1985 Porsche 928 S | Count | 5356
@@ -9116,6 +9341,7 @@
 1986 Porsche 959 | Power | 450 hp
 1986 Porsche 959 | Volume | 2800 cc
 1986 Porsche 961 | Power | 640 hp
+1986 Porsche 961 | Power | 640 hp
 1986 Reliant-Scimitar 1800Ti | Power | 135 hp
 1986 Reliant-Scimitar 1800Ti | 0-100 kmph | 7.9 s
 1986 ЗИЛ-41041 | Body | sedan
@@ -9213,6 +9439,7 @@
 1987 Alfa Romeo 164 | Body | sedan
 1987 Alfa Romeo 164 | Cylinders | V6
 1987 Alfa Romeo 164 | Trunk size | 505 L
+1987 Alfa Romeo 164 | Cx | 0.300
 1987 Alfa Romeo 164 Q4 | Power | 230 hp
 1987 Audi 80 (B3) | Body | sedan
 1987 Audi 80 (B3) | Length | 4393 mm
@@ -9298,6 +9525,7 @@
 1987 Ferrari F40 | Gears | 5 manual
 1987 Ferrari F40 | Valves per cylinder | 4
 1987 Ferrari F40 | Cylinders | V8
+1987 Ferrari F40 | Weight | 1100 kg
 1987 Ferrari-F40 | Volume | 2900 cc
 1987 Ferrari-F40 | Volume | 2936 cc
 1987 Ferrari-F40 | Volume | 3000 cc
@@ -9339,6 +9567,11 @@
 1987 Lamborghini Countach QV Race Car | Volume | 5.2 L
 1987 Lamborghini Countach QV Race Car | Cylinders | V12
 1987 Lotus Esprit GT3 | Volume | 3500 cc
+1987 Lotus Esprit GT3 | Volume | 3500 cc
+1987 Lotus Esprit GT3 | Cylinders | V8
+1987 Lotus Esprit GT3 | Speed | 162 mph
+1987 Lotus Esprit GT3 | 0-100 kmph | 5.2 s
+1987 Lotus Esprit GT3 | Cylinders | V8
 1987 Mercedes-Benz-G-250-GD | Power | 84 hp
 1987 Opel Senator (B) | Power | 136 hp
 1987 Opel Senator (B) | Volume | 2500 cc
@@ -9460,6 +9693,8 @@
 1987 Porsche 959 | Torque | 530 nm
 1987 Porsche 959 | Gears | 6 manual
 1987 Porsche 959 | Gears | 6 manual
+1987 Porsche 959 | Tyres | 235/45-17 front, 255/40 VR17 rear
+1987 Porsche 959 | Cx | 0.310
 1987 Porsche Carrera CS | Count | 340
 1987 Ruf 911 CTR | Volume | 3.4 L
 1987 Ruf 911 CTR | Cylinders | 6
@@ -9591,6 +9826,7 @@
 1988 Alpina B12 5.0 (E32) | Power | 350 hp
 1988 Alpina B12 5.0 (E32) | Volume | 5000 cc
 1988 Alpina B12 5.0 (E32) | Cylinders | V12
+1988 Alpina B12 5.0 (E32) | Tyres | front 235/45 ZR 17, rear 265/40 ZR 17
 1988 Aston Martin Vantage | Volume | 5340 cc
 1988 Aston Martin Vantage | Cylinders | V8
 1988 Aston Martin Vantage | Power | 557 hp @ 6500 rpm
@@ -10035,8 +10271,10 @@
 1989 Alpina B10 Bi-Turbo (E34) | Weight | 1695 kg
 1989 Alpina B10 Bi-Turbo (E34) | Volume | 3430 cc
 1989 Alpina B10 Bi-Turbo (E34) | Torque | 552 nm
+1989 Alpina B10 Bi-Turbo (E34) | Tyres | 235/45 ZR17 front, 265/40 ZR17 rear
 1989 Alpina B10 BiTurbo | 0-100 kmph | 5.6 s
 1989 Alpina B10 BiTurbo | Torque | 520 nm @ 4000 rpm
+1989 Alpina B10 BiTurbo | Power | 360 hp @ 6000 rpm
 1989 Alpina B10 Biturbo (E34) | Price | 152500 DM
 1989 Alpina B10 Biturbo (E34) | Count | 507
 1989 Alpina B10 Biturbo (E34) | Volume | 3430 cc
@@ -10156,7 +10394,10 @@
 1989 Ferrari Mythos | Width | 2098 mm
 1989 Ferrari Mythos | 0-100 kmph | 6.4 s
 1989 Ferrari Mythos | Gears | 5 manual
+1989 Ferrari Mythos | Volume | 4942 cc
+1989 Ferrari Mythos | Weight | 1252 kg
 1989 Infiniti-Q45 | Power | 278 hp
+1989 Infiniti-Q45 | Cylinders | V8
 1989 Lamborghini P140 | Power | 400 hp
 1989 Lamborghini P140 | Gears | 6 manual
 1989 Lexus-ES250 | Volume | 2500 cc
@@ -10165,7 +10406,10 @@
 1989 Maserati Shamal | Power | 325 hp
 1989 Maserati Shamal | Power | 325 hp
 1989 Maserati Shamal | Volume | 3200 cc
+1989 Maserati Shamal | Volume | 3200 cc
+1989 Maserati Shamal | Power | 325 hp
 1989 Mazda 323 | Volume | 1.8 L
+1989 Mazda 323 | Power | 185 hp
 1989 Mercedes-Benz 500 SL | Cylinders | V8
 1989 Mercedes-Benz 500 SL | Power | 322 hp
 1989 Mercedes-Benz 500 SL | Torque | 450 nm
@@ -10192,6 +10436,11 @@
 1989 Opel Lotus Omega | Front wheels | 8.5Jx17
 1989 Opel Lotus Omega | Rear wheels | 9.5Jx17
 1989 Opel Lotus Omega | Gears | 6
+1989 Opel Lotus Omega | Compression ratio | 8.6
+1989 Opel Lotus Omega | Power | 377 hp @ 5200 rpm
+1989 Opel Lotus Omega | Torque | 419 nm @ 4200 rpm
+1989 Opel Lotus Omega | Compressor pressure | 0.7 bar
+1989 Opel Lotus Omega | Gears | 6 manual
 1989 Opel Senator (B) 3.0 24V | Power | 204 hp
 1989 Opel Vectra 4x4 Turbo | Power | 204 hp
 1989 Porsche 911 (964) | Volume | 3.6 L
@@ -10345,6 +10594,8 @@
 1989 Subaru SVX | Body | coupe
 1989 Subaru SVX | Power | 250 hp
 1989 Subaru SVX | Volume | 3300 cc
+1989 Subaru SVX | Power | 250 hp
+1989 Subaru SVX | 0-100 kmph | 8.7 s
 1989 Toyota MR2 2.0 GT | Brakes | ventilated disc
 1989 Toyota MR2 2.0 GT | Front track | 1470 mm
 1989 Toyota MR2 2.0 GT | Height | 1240 mm
@@ -10358,6 +10609,9 @@
 1989 Toyota MR2 2.0 GT | Gears | 5 manual
 1989 Toyota MR2 2.0 GT | Speed | 140 mph
 1989 Toyota MR2 2.0 GT | 0-100 kmph | 8.1 s
+1989 Toyota MR2 2.0 GT | Power | 175 hp @ 7000 rpm
+1989 Toyota Sera | Body | coupe
+1989 Toyota Sera | Seats | 2
 1989 Toyota Sera | Body | coupe
 1989 Toyota Tercel | Body | hatchback
 1989 Volkswagen Golf Country | Drive | full
@@ -10392,9 +10646,11 @@
 1989-10 Opel Senator 3.0i CD (B) | Volume | 3 L
 1989-10 Opel Senator 3.0i CD (B) | Power | 204 hp
 1989-10 Opel Senator 3.0i CD (B) | Fuel feed | injection
+1990 Acura-NSX | Cylinders | V6
 1990 Alpina B12 5.0 | Compression ratio | 9.5
 1990 Alpina B12 5.0 | Power | 350 hp @ 5300 rpm
 1990 Alpina B12 5.0 | 0-100 kmph | 6.8 s
+1990 Alpina B12 5.0 | Volume | 4988 cc
 1990 Audi S2 Coupe | Body | coupe
 1990 Audi S2 Coupe | Seats | 5
 1990 Audi S2 Coupe | Gears | 5 manual
@@ -10412,6 +10668,7 @@
 1990 BMW M3 Sport Evolution (E30) | Power | 238 hp
 1990 BMW M3 Sport Evolution (E30) | Wheels | 7.5Jx16
 1990 BMW M3 Sport Evolution (E30) | Volume | 2500 cc
+1990 BMW M3 Sport Evolution (E30) | Tyres | 225/45 ZR16
 1990 BMW M8 (E31) | Power | 550 hp
 1990 Bugatti EB 110 | Volume | 3.5 L
 1990 Bugatti EB 110 | Volume | 3500 cc
@@ -10472,6 +10729,8 @@
 1990 IZH-2126 Orbita | Seats | 5
 1990 IZH-2126 Orbita | Gears | 4 manual
 1990 IZH-2126 Orbita | Cylinders | R4
+1990 IZH-2126 Orbita | Volume | 1478 cc
+1990 IZH-2126 Orbita | Weight | 1040 kg
 1990 Jaguar Sovereign V12 | Volume | 5344 cc
 1990 Jaguar Sovereign V12 | Cylinders | 12
 1990 Jaguar Sovereign V12 | Torque | 377 nm @ 2750 rpm
@@ -10505,6 +10764,10 @@
 1990 Lamborghini Diablo | Power | 492 hp
 1990 Lamborghini Diablo | 0-100 kmph | 4.0 s
 1990 Lamborghini Diablo | Cylinders | V12
+1990 Lamborghini Diablo | Volume | 5.7 L
+1990 Lamborghini Diablo | Weight | 1625 kg
+1990 Lamborghini Diablo | Engine placement | center
+1990 Lamborghini Diablo | Cx | 0.310
 1990 Mitsubishi 3000 GT | Body | convertible
 1990 Mitsubishi 3000 GT | Body | coupe
 1990 Moskvich 2142 | Body | sedan
@@ -10523,6 +10786,7 @@
 1990 Nissan 300ZX Twin Turbo | Valves per cylinder | 4
 1990 Nissan 300ZX Twin Turbo | Cylinders | 6
 1990 Nissan 300ZX Twin Turbo | 0-100 kmph | 6.2 s
+1990 Nissan 300ZX Twin Turbo | Power | 283 hp @ 6400 rpm
 1990 Opel Calibra | Body | coupe
 1990 Opel Calibra 4x4 Turbo | Power | 204 hp
 1990 Opel Omega Lotus | Power | 300 hp
@@ -10542,6 +10806,7 @@
 1990 Pininfarina Nautilus | Width | 1950 mm
 1990 Pininfarina Nautilus | Volume | 2946 cc
 1990 Pininfarina Nautilus | 0-100 kmph | 10.2 s
+1990 Pininfarina Nautilus | Power | 194 hp @ 6000 rpm
 1990 Porsche 911 | Power | 320 hp
 1990 Porsche 911 Carrera 2 | Volume | 3600 cc
 1990 Porsche 911 Carrera 2 | Cylinders | B6
@@ -10599,6 +10864,8 @@
 1990 Rover Mini 1.3i | Gears | 5 manual
 1990 Rover Mini 1.3i | Speed | 92 mph
 1990 Rover Mini 1.3i | 0-100 kmph | 11.9 s
+1990 Rover Mini 1.3i | Power | 62 hp @ 5700 rpm
+1990 Saab 9000 | Volume | 1985 cc
 1990 Saab 9000 CS | Power | 200 hp @ 5000 rpm
 1990 Saab 9000 CS | Torque | 330 nm @ 2000 rpm
 1990 Subaru Vivio | Volume | 658 cc
@@ -10623,6 +10890,7 @@
 1990 TVR Griffith | Valves per cylinder | 2
 1990 TVR Griffith | Cylinders | 8
 1990 TVR Griffith | 0-100 kmph | 4.6 s
+1990 TVR Griffith | Power | 327 hp @ 5250 rpm
 1990 Volkswagen Polo (3) | Volume | 1.6 L
 1990-03 Opel Calibra | Volume | 2 L
 1990-03 Opel Calibra | Volume | 2 L
@@ -10703,6 +10971,8 @@
 1991 Acura NSX-T | Width | 1810 mm
 1991 Acura NSX-T | Cylinders | V6
 1991 Acura NSX-T | Gears | 5 manual
+1991 Acura NSX-T | Volume | 2977 cc
+1991 Acura NSX-T | Weight | 1385 kg
 1991 Alpine A-610 | Power | 250 hp
 1991 Alpine A-610 | Volume | 2975 cc
 1991 Audi 100 (C4) | Body | sedan
@@ -10721,10 +10991,12 @@
 1991 Audi 80 2.6 (B4) | Volume | 2.6 L
 1991 Audi 80 2.6 (B4) | Cylinders | V6
 1991 Audi 80 2.6 V6 | Power | 150 hp
+1991 Audi 80 2.6 V6 | Volume | 2.6 L
 1991 Audi 80 2.8 (B4) | Volume | 2.8 L
 1991 Audi 80 2.8 (B4) | Cylinders | V6
 1991 Audi 80 2.8 V6 | Power | 174 hp
 1991 Audi 80 2.8 V6 | Fuel consumption | 13 L/100km
+1991 Audi 80 2.8 V6 | Volume | 2.8 L
 1991 Audi 90 (B4) | Volume | 2.8 L
 1991 Audi Avus | Volume | 4785 cc
 1991 Audi Avus | Cylinders | W12
@@ -10807,6 +11079,8 @@
 1991 BMW M5 (E34) | Power | 340 hp
 1991 BMW M5 (E34) | Volume | 3795 cc
 1991 BMW M5 (E34) | Torque | 412 nm
+1991 BMW M5 (E34) | Tyres | 235/45ZR17 (M System I wheels)
+1991 BMW M5 (E34) | Tyres | 255/40ZR17 (M System II wheels)
 1991 BMW M5 (E34) "Naghi Motors" | Power | 318 hp
 1991 Bugatti EB110 GT | Doors | 2
 1991 Bugatti EB110 GT | Power | 559 hp
@@ -10815,6 +11089,22 @@
 1991 Bugatti EB110 GT | Valves per cylinder | 5
 1991 Bugatti EB110 GT | Trunk size | 72 L
 1991 Bugatti EB110 GT | Weight | 1870 kg
+1991 Bugatti EB110 GT | Valves per cylinder | 5
+1991 Bugatti EB110 GT | Cylinders | 12
+1991 Bugatti EB110 GT | Volume | 3500 cc
+1991 Bugatti EB110 GT | Front track | 1550 mm
+1991 Bugatti EB110 GT | Height | 1125 mm
+1991 Bugatti EB110 GT | Length | 4400 mm
+1991 Bugatti EB110 GT | Power | 560 hp @ 8000 rpm
+1991 Bugatti EB110 GT | Rear track | 1618 mm
+1991 Bugatti EB110 GT | Torque | 611 nm @ 3750 rpm
+1991 Bugatti EB110 GT | Weight | 1550 kg
+1991 Bugatti EB110 GT | Wheelbase | 2550 mm
+1991 Bugatti EB110 GT | Width | 1960 mm
+1991 Bugatti EB110 GT | 0-100 kmph | 3.5 s
+1991 Bugatti EB110 GT | Gears | 6 manual
+1991 Bugatti EB110 GT | Volume | 3500 cc
+1991 Bugatti EB110 GT | Weight | 1620 kg
 1991 Bugatti EB110 SS | Front track | 1550 mm
 1991 Bugatti EB110 SS | Height | 1125 mm
 1991 Bugatti EB110 SS | Length | 4400 mm
@@ -10846,6 +11136,7 @@
 1991 Cizeta Moroder V16T | Width | 1980 mm
 1991 Cizeta Moroder V16T | 0-100 kmph | 4.6 s
 1991 Cizeta Moroder V16T | Gears | 5 manual
+1991 Cizeta Moroder V16T | Volume | 5995 cc
 1991 Daewoo Damas | Seats | 7
 1991 Daewoo Tico | Body | hatchback
 1991 De Tomaso Pantera GT5 | Volume | 5 L
@@ -10935,11 +11226,13 @@
 1991 Lexus-SC300 | Volume | 3000 cc
 1991 Lexus-SC400 | Volume | 3000 cc
 1991 Lexus-SC400 | Volume | 4000 cc
+1991 Lexus-SC400 | Gears | 4 auto
 1991 Lister Storm | Torque | 580 nm @ 3450 rpm
 1991 Lister Storm | Weight | 1664 kg
 1991 Lister Storm | Volume | 7000 cc
 1991 Lister Storm | Gears | 6 manual
 1991 Lister Storm | Speed | 200 mph
+1991 Lister Storm | Power | 594 hp @ 6100 rpm
 1991 Mazda 787B | Volume | 2622 cc
 1991 Mazda 787B | Power | 700 hp @ 9000 rpm
 1991 Mazda 787B | Weight | 845 kg
@@ -10968,6 +11261,7 @@
 1991 McLaren F1 | Speed | 221 mph
 1991 McLaren F1 | Cylinders | V12
 1991 McLaren F1 | 0-100 kmph | 3.2 s
+1991 McLaren F1 | Power | 627 hp
 1991 Mercedes-Benz 400SE/SEL | Power | 286 hp
 1991 Mercedes-Benz 500SE/SEL/SEC | Power | 326 hp
 1991 Mercedes-Benz 600SEL | Power | 408 hp
@@ -10986,6 +11280,7 @@
 1991 Mercedes-Benz C112 | Speed | 193 mph
 1991 Mercedes-Benz C112 | Valves per cylinder | 4
 1991 Mercedes-Benz C112 | Cylinders | 12
+1991 Mercedes-Benz C112 | Power | 408 hp @ 5200 rpm
 1991 Mitsubishi 3000 GT | Brakes | ventilated disc
 1991 Mitsubishi 3000 GT | Front track | 1560 mm
 1991 Mitsubishi 3000 GT | Height | 1290 mm
@@ -11001,6 +11296,7 @@
 1991 Mitsubishi 3000 GT | Valves per cylinder | 4
 1991 Mitsubishi 3000 GT | Cylinders | 6
 1991 Mitsubishi 3000 GT | 0-100 kmph | 6.0 s
+1991 Mitsubishi 3000 GT | Power | 286 hp @ 6000 rpm
 1991 Opel Astra (F) | Body | cabriolet
 1991 Opel Astra (F) | Body | hatchback
 1991 Opel Astra (F) | Body | sedan
@@ -11054,6 +11350,7 @@
 1991 Opel Calibra Turbo 4x4 | Volume | 1998 cc
 1991 Opel Calibra Turbo 4x4 | Gears | 6 manual
 1991 Opel Calibra Turbo 4x4 | 0-100 kmph | 6.9 s
+1991 Opel Calibra Turbo 4x4 | Power | 204 hp @ 5600 rpm
 1991 Opel Frontera | Seats | 5
 1991 Opel Frontera | Fuel | petrol
 1991 Opel Frontera | Volume | 2 L
@@ -11151,11 +11448,18 @@
 1991 Porsche Carrera 4 Cabriolet | Width | 65 in
 1991 Porsche Carrera 4 Cabriolet | Height | 52 in
 1991 Porsche Carrera 4 Cabriolet | Gears | 5 manual
+1991 Subaru SVX | Gears | 4 auto
 1991 Toyota Cynos | Body | coupe
 1991 Toyota Cynos | Gears | 5 manual
 1991 Toyota Hilux Pick Up | Body | pickup
 1991 Toyota Scepter | Body | sedan
+1991 Toyota Scepter | Seats | 5
+1991 Toyota Scepter | Body | sedan
 1991 Toyota Soarer | Body | coupe
+1991 Toyota Soarer | Doors | 2
+1991 Toyota Soarer | Power | 265 hp
+1991 Toyota Soarer | Body | coupe
+1991 Toyota Soarer | Fuel | petrol
 1991 Toyota Sprinter | Body | sedan
 1991 Toyota Sprinter | Seats | 5
 1991 Toyota Sprinter | Body | sedan
@@ -11251,6 +11555,8 @@
 1992 Alpina B12 5.7 | Torque | 570 nm @ 4000 rpm
 1992 Alpina B12 5.7 | 0-100 kmph | 6.5 s
 1992 Alpina B12 5.7 | Fuel consumption | 19.9 L/100km
+1992 Alpina B12 5.7 | Volume | 5646 cc
+1992 Alpina B12 5.7 | Fuel tank | 90 L
 1992 Aston Martin Volante | Brakes | ventilated disc
 1992 Aston Martin Volante | Cylinders | 8
 1992 Aston Martin Volante | Drive | rear
@@ -11276,6 +11582,7 @@
 1992 Audi S2 | Gears | 6 manual
 1992 Audi S2 | Drive | full
 1992 Audi S2 | Gears | 6 manual
+1992 Audi S2 | Volume | 2.2 L
 1992 Audi S2 (3B) | Power | 220 hp
 1992 Audi S2 (ABY) | Power | 230 hp
 1992 Audi S2 3B | Count | 5469
@@ -11293,12 +11600,14 @@
 1992 BMW 850csi | Body | coupe
 1992 BMW 850csi | Gears | 6 manual
 1992 BMW 850CSi | Power | 380 hp
+1992 BMW 850CSi | Volume | 5.6 L
 1992 BMW E36 M3 | Power | 282 hp
 1992 BMW E36 M3 | Volume | 2990 cc
 1992 BMW M3 3.0 (E36) | Compression ratio | 10.8
 1992 BMW M3 3.0 (E36) | Power | 286 hp @ 7000 rpm
 1992 BMW M3 3.0 (E36) | Torque | 330 nm @ 3600 rpm
 1992 BMW M3 3.0 (E36) | Cylinders | R6
+1992 BMW M3 3.0 (E36) | Volume | 2990 cc
 1992 Bugatti EB110 Supersport | Power | 610 hp
 1992 Dodge Viper RT10 | Count | 1500
 1992 Dodge Viper RT10 | Volume | 8 L
@@ -11365,6 +11674,7 @@
 1992 Mazda RX-7 | Power | 255 hp @ 6500 rpm
 1992 McLaren F1 | Power | 550 hp
 1992 McLaren F1 | Gears | 6 manual
+1992 McLaren F1 | Weight | 1018 kg
 1992 McLaren-F1 | Power | 550 hp
 1992 McLaren-F1 | Weight | 1081 kg
 1992 Mercedes-Benz 400SE/SEL | Power | 279 hp
@@ -11384,6 +11694,7 @@
 1992 Opel Calibra | Fuel feed | injection
 1992 Opel Calibra | Valves per cylinder | 4
 1992 Opel Calibra | Gears | 6 manual
+1992 Opel Calibra | Power | 204 hp
 1992 Opel Calibra Turbo 4x4 | Volume | 1998 cc
 1992 Opel Calibra Turbo 4x4 | Power | 204 hp @ 5600 rpm
 1992 Opel Calibra Turbo 4x4 | Gears | 6 manual
@@ -11567,6 +11878,9 @@
 1992 Porsche 968 | Rear track | 1450 mm
 1992 Porsche 968 | Gears | 6 manual
 1992 Porsche 968 | 0-100 kmph | 6.7 s
+1992 Porsche 968 | Cx | 0.340
+1992 Porsche 968 | Weight | 3086 lbs
+1992 Porsche 968 | Power | 236 hp
 1992 Porsche 968 Turbo S | Volume | 3000 cc
 1992 Porsche 968 Turbo S | Cylinders | 4
 1992 Porsche 968 Turbo S | Power | 305 hp @ 5400 rpm
@@ -11601,6 +11915,7 @@
 1992 Rover MG RV8 | Valves per cylinder | 2
 1992 Rover MG RV8 | Cylinders | 8
 1992 Rover MG RV8 | 0-100 kmph | 6.6 s
+1992 Rover MG RV8 | Power | 190 hp @ 4750 rpm
 1992 Schuppan 962CR | Brakes | ventilated disc
 1992 Schuppan 962CR | Height | 1030 mm
 1992 Schuppan 962CR | Length | 4800 mm
@@ -11609,11 +11924,13 @@
 1992 Schuppan 962CR | Volume | 3294 cc
 1992 Schuppan 962CR | Speed | 214 mph
 1992 Schuppan 962CR | 0-100 kmph | 3.5 s
+1992 Schuppan 962CR | Power | 600 hp
 1992 Subaru Impreza | Volume | 2000 cc
 1992 Subaru Vivio | Body | hatchback
 1992 Subaru Vivio | Volume | 0.7 L
 1992 Subaru Vivio | Cylinders | R4
 1992 Toyota Caldina | Fuel consumption | 11 L/100km
+1992 Toyota Caldina | Power | 260 hp
 1992 Toyota Carina | Body | sedan
 1992 Toyota Mark II | Body | sedan
 1992 Toyota Sprinter Marino | Body | sedan
@@ -11740,11 +12057,15 @@
 1993 Aston Martin Lagonda Limited | Valves per cylinder | 4
 1993 Aston Martin Lagonda Limited | Wheelbase | 2900 mm
 1993 Aston Martin Lagonda Limited | Width | 1854 mm
+1993 Aston Martin Lagonda Limited | Volume | 6247 cc
+1993 Aston Martin Lagonda Limited | Weight | 2040 kg
+1993 Aston Martin Lagonda Limited | Engine placement | front
 1993 Audi 80 Avant | Volume | 2.8 L
 1993 Audi 80 Avant | Power | 174 hp
 1993 Audi 80 Avant | Speed | 220 kmph
 1993 Audi 80 Avant | Fuel consumption | 13 L/100km
 1993 Audi S2 Avant | Power | 230 hp
+1993 Audi S2 Avant | Volume | 2.2 L
 1993 BMW 840 Ci | Cylinders | 8
 1993 BMW 840 Ci | Power | 286 hp
 1993 BMW 840 Ci | Speed | 250 kmph
@@ -11778,12 +12099,28 @@
 1993 Bugatti EB112 | Engine placement | front
 1993 Bugatti EB112 | Brakes | ventilated disc
 1993 Bugatti EB112 | Gears | 6 manual
+1993 Bugatti EB112 | Valves per cylinder | 5
+1993 Bugatti EB112 | Cylinders | 12
+1993 Bugatti EB112 | Volume | 5994 cc
+1993 Bugatti EB112 | Front track | 1670 mm
+1993 Bugatti EB112 | Height | 1410 mm
+1993 Bugatti EB112 | Length | 5130 mm
+1993 Bugatti EB112 | Power | 455 hp @ 6300 rpm
+1993 Bugatti EB112 | Rear track | 1660 mm
+1993 Bugatti EB112 | Torque | 590 nm @ 3000 rpm
+1993 Bugatti EB112 | Weight | 1800 kg
+1993 Bugatti EB112 | Wheelbase | 3100 mm
+1993 Bugatti EB112 | Width | 1960 mm
+1993 Bugatti EB112 | 0-100 kmph | 4.5 s
+1993 Bugatti EB112 | Gears | 6 manual
 1993 Buick Century | Seats | 6
 1993 Buick Century | Body | sedan
 1993 Buick Century | Body | sedan 4
 1993 Cadillac Fleetwood | Length | 5717 mm
 1993 Cadillac Fleetwood | Power | 185 hp
 1993 Cadillac Fleetwood | Wheelbase | 3085 mm
+1993 Cadillac Fleetwood | Gears | 4 auto
+1993 Cadillac Fleetwood | Volume | 5.7 L
 1993 Campagna T-Rex | Length | 3480 mm
 1993 Campagna T-Rex | Power | 155 hp @ 9500 rpm
 1993 Campagna T-Rex | Torque | 107 nm @ 7500 rpm
@@ -11856,6 +12193,8 @@
 1993 Ferrari F333 SP | Power | 600 hp @ 11000 rpm
 1993 Ferrari F333 SP | Rear track | 1572 mm
 1993 Ferrari F333 SP | Wheelbase | 2750 mm
+1993 Ferrari F333 SP | Volume | 3997 cc
+1993 Ferrari F333 SP | Engine placement | rear
 1993 Ferrari-456 GT | Volume | 5474 cc
 1993 Ferrari-456 GT | Brakes | ventilated disc
 1993 Ferrari-456 GT | Front track | 1585 mm
@@ -11875,6 +12214,7 @@
 1993 Ford-Scorpio-Topas | Volume | 2 L
 1993 Gillet Vertigo | Power | 220 hp @ 6250 rpm
 1993 Gillet Vertigo | Gears | 5 manual
+1993 Gillet Vertigo | Volume | 1994 cc
 1993 Honda Accord LX | Price | 17370 USD
 1993 Honda Accord LX | Cylinders | R4
 1993 Honda Accord LX | Power | 125 hp @ 5200 rpm
@@ -12081,6 +12421,7 @@
 1993 Mazda RX-7 | Gears | 5 manual
 1993 Mazda RX-7 | Speed | 155 mph
 1993 Mazda RX-7 | 0-100 kmph | 5.4 s
+1993 Mazda RX-7 | Power | 239 hp @ 6500 rpm
 1993 Mazda Xedos | Body | sedan 4
 1993 Mazda Xedos | Body | sedan
 1993 McLaren F1 | Power | 627 hp
@@ -12099,6 +12440,7 @@
 1993 McLaren F1 LM | Speed | 224 mph
 1993 McLaren F1 LM | Cylinders | V12
 1993 McLaren F1 LM | 0-100 kmph | 3.0 s
+1993 McLaren F1 LM | Power | 668 hp @ 7800 rpm
 1993 Mega Track | Brakes | ventilated disc
 1993 Mega Track | Front track | 1800 mm
 1993 Mega Track | Height | 1400 mm
@@ -12112,9 +12454,13 @@
 1993 Mega Track | Speed | 155 mph
 1993 Mega Track | Valves per cylinder | 4
 1993 Mega Track | Cylinders | 12
+1993 Mega Track | Gears | 4 auto
+1993 Mega Track | Power | 395 hp @ 5300 rpm
 1993 Mercedes-Benz 600 SEC Koenig | Power | 520 hp
 1993 Mercedes-Benz 600 SEC Koenig | Torque | 720 nm
 1993 Mercedes-Benz 600 SEC Koenig | 0-100 kmph | 4.5 s
+1993 Mercedes-Benz 600 SEC Koenig | Front tyres | 245/35 ZR18
+1993 Mercedes-Benz 600 SEC Koenig | Rear tyres | 335/30 ZR18
 1993 Mercedes-Benz 600SEL | Power | 389 hp
 1993 Mercedes-Benz 600SEL | Torque | 570 nm
 1993 Mercedes-Benz 600SL | Price | 119500 USD
@@ -12132,11 +12478,13 @@
 1993 Mercedes-Benz S280 | Power | 197 hp
 1993 Mercedes-Benz S350 TURBODIESEL | Power | 150 hp
 1993 Mercedes-Benz S350 TURBODIESEL | Cylinders | R6
+1993 Mercedes-Benz S350 TURBODIESEL | Volume | 3.5 L
 1993 Mitsuoka-Viewt | Volume | 1000 cc
 1993 Mitsuoka-Viewt | Volume | 1400 cc
 1993 Mitsuoka-Viewt | Power | 60 hp
 1993 Mitsuoka-Viewt | Power | 85 hp
 1993 Nissan Altima | Volume | 2.5 L
+1993 Nissan Altima | Power | 198 hp
 1993 Nissan Altima GXE | Price | 14849 USD
 1993 Nissan Altima GXE | Cylinders | R4
 1993 Nissan Altima GXE | Power | 150 hp @ 5600 rpm
@@ -12315,6 +12663,7 @@
 1993 Porsche 968 | Rear wheels | 16
 1993 Porsche 968 | Gears | 6 manual
 1993 Porsche 968 | Drive | rear
+1993 Porsche 968 | Power | 240 hp
 1993 Porsche 968 Cabriolet RS | Volume | 2990 cc
 1993 Porsche 968 Cabriolet RS | Power | 240 hp @ 6200 rpm
 1993 Porsche 968 Cabriolet RS | Torque | 305 nm @ 4100 rpm
@@ -12347,6 +12696,8 @@
 1993 Porsche 968 CS | Engine placement | front
 1993 Porsche 968 CS | Gears | 6 manual
 1993 Porsche 968 CS | Drive | rear
+1993 Porsche 968 Turbo RS | Power | 337 hp
+1993 Porsche 968 Turbo S | Power | 305 hp
 1993 Porsche Boxster | Price | 76500 DM @ Germany
 1993 Porsche Boxster | Volume | 2687 cc
 1993 Porsche Boxster | Cylinders | B6
@@ -12429,6 +12780,9 @@
 1993 Toyota Supra 3000 GT | Gears | 6 manual
 1993 Toyota Supra 3000 GT | Speed | 155 mph
 1993 Toyota Supra 3000 GT | 0-100 kmph | 5.1 s
+1993 Toyota Supra 3000 GT | Power | 330 hp @ 5600 rpm
+1993 Toyota Supra Mk IV | Front tyres | 255/40 R17
+1993 Toyota Supra Mk IV | Rear tyres | 235/45 R17
 1993 Toyota Supra Mk IV (naturally aspirated) | Power | 225 hp
 1993 Toyota Supra Mk IV (naturally aspirated) | Torque | 290 nm
 1993 Toyota Supra Mk IV (twin turbo) | Power | 280 hp
@@ -12924,24 +13278,28 @@
 1994 Audi RS2 Avant | Torque | 400 nm
 1994 Audi RS2 Avant | 0-100 kmph | 5.4 s
 1994 Audi RS2 Avant | Fuel consumption | 15 L/100km
+1994 Audi RS2 Avant | Volume | 2.2 L
 1994 Audi S2 | Cylinders | 5
 1994 Audi S2 | Compressor | turbo
 1994 Audi S2 | Valves per cylinder | 4
 1994 Audi S2 | Body | coupe
 1994 BMW 7 Series (E38) | Gears | 5 auto
 1994 BMW 730d (E38) | 0-100 kmph | 8.0 s
+1994 BMW 730d (E38) | Volume | 3 L
 1994 BMW 750i (E38) | Power | 346 hp
 1994 BMW 750i (E38) | Volume | 5400 cc
 1994 BMW 750i (E38) | Power | 326 hp
 1994 BMW 750i (E38) | Cylinders | V12
 1994 BMW 750i (E38) | 0-100 kmph | 6.0 s
 1994 BMW 750i (E38) | Cylinders | V12
+1994 BMW 750i (E38) | Volume | 5.4 L
 1994 BMW 750iL (E38) | Gears | 5 auto
 1994 BMW E36 M3 GT | Volume | 3 L
 1994 BMW E36 M3 GT | Power | 295 hp
 1994 BMW M3 3.0 (E36) North America | Compression ratio | 10.5
 1994 BMW M3 3.0 (E36) North America | Power | 240 hp @ 6000 rpm
 1994 BMW M3 3.0 (E36) North America | Torque | 314 nm @ 4250 rpm
+1994 BMW M5 (E34) | Tyres | 245/45ZR17 (M Parallel Spoke wheels)
 1994 Bugatti-EB110-S | Volume | 3500 cc
 1994 Bugatti-EB110-S | Height | 1125 mm
 1994 Bugatti-EB110-S | Length | 4400 mm
@@ -12951,6 +13309,7 @@
 1994 Bugatti-EB110-S | Power | 611 hp @ 8250 rpm
 1994 Bugatti-EB110-S | 0-100 kmph | 3.5 s
 1994 Bugatti-EB110-S | Gears | 6 manual
+1994 Bugatti-EB110-S | Tyres | Michelin 245/40 ZR 18 front, 325/30 ZR 18 rear
 1994 Buick Riviera | Body | coupe
 1994 Cadillac DeVille | Volume | 4.9 L
 1994 Cadillac DeVille | Cylinders | V8
@@ -12960,6 +13319,8 @@
 1994 Cadillac DeVille | Length | 5325 mm
 1994 Cadillac Fleetwood (LT1) | Power | 260 hp @ 5000 rpm
 1994 Cadillac Fleetwood (LT1) | 0-100 kmph | 9.0 s
+1994 Cadillac Fleetwood (LT1) | Volume | 5.7 L
+1994 Cadillac Fleetwood (LT1) | Weight | 1982 kg
 1994 Caterham Super Seven 1.6L | Power | 116 hp
 1994 Caterham Super Seven 1.6L | Volume | 1.6 L
 1994 Caterham Super Seven 2.0L | Power | 190 hp
@@ -12971,6 +13332,7 @@
 1994 Daewoo Nexia | Power | 90 hp
 1994 Daewoo Nexia | Volume | 1500 cc
 1994 Daewoo Nexia | Gears | 5 manual
+1994 Daewoo Nexia | Gears | 4 auto
 1994 De Tomaso Guara | Body | coupe
 1994 De Tomaso Guara | Body | spyder
 1994 De Tomaso Guara | Body | roadster
@@ -12984,9 +13346,24 @@
 1994 Ferrari F355 Berlinetta | Gears | 6 manual
 1994 Ferrari F355 Berlinetta | Valves per cylinder | 5
 1994 Ferrari F355 Berlinetta | Cylinders | 8
+1994 Ferrari F355 Berlinetta | Valves per cylinder | 5
+1994 Ferrari F355 Berlinetta | Cylinders | 8
+1994 Ferrari F355 Berlinetta | Volume | 3496 cc
+1994 Ferrari F355 Berlinetta | Front track | 1514 mm
+1994 Ferrari F355 Berlinetta | Height | 1171 mm
+1994 Ferrari F355 Berlinetta | Length | 4249 mm
+1994 Ferrari F355 Berlinetta | Power | 380 hp @ 8250 rpm
+1994 Ferrari F355 Berlinetta | Rear track | 1615 mm
+1994 Ferrari F355 Berlinetta | Torque | 363 nm @ 6000
+1994 Ferrari F355 Berlinetta | Weight | 1216 kg
+1994 Ferrari F355 Berlinetta | Wheelbase | 2451 mm
+1994 Ferrari F355 Berlinetta | Width | 1900 mm
+1994 Ferrari F355 Berlinetta | 0-100 kmph | 5.1 s
+1994 Ferrari F355 Berlinetta | Gears | 6 manual
 1994 Ford GT90 | Power | 720 hp @ 6600 rpm
 1994 Ford GT90 | Torque | 881 nm @ 4750 rpm
 1994 Ford GT90 | Weight | 1450 kg
+1994 Ford GT90 | Cx | 0.320
 1994 Honda Passport | Power | 205 hp
 1994 Honda Passport | Volume | 3.2 L
 1994 Jaguar XJ 3.2 | Volume | 3.2 L
@@ -13045,6 +13422,7 @@
 1994 Mercedes-Benz E 420 | Valves per cylinder | 4
 1994 Mercedes-Benz E 420 | Cylinders | V8
 1994 Mercedes-Benz E 420 | 0-100 kmph | 7.1 s
+1994 Mercedes-Benz E 420 | Power | 279 hp @ 5700 rpm
 1994 Mercedes-Benz E50 AMG | Brakes | ventilated disc
 1994 Mercedes-Benz E50 AMG | Front track | 1540 mm
 1994 Mercedes-Benz E50 AMG | Height | 1420 mm
@@ -13060,6 +13438,7 @@
 1994 Mercedes-Benz E50 AMG | Valves per cylinder | 4
 1994 Mercedes-Benz E50 AMG | Cylinders | V8
 1994 Mercedes-Benz E50 AMG | 0-100 kmph | 6.3 s
+1994 Mercedes-Benz E50 AMG | Power | 347 hp @ 5700 rpm
 1994 Mitsubishi FTO | Height | 1300 mm
 1994 Mitsubishi FTO | Length | 4320 mm
 1994 Mitsubishi FTO | Torque | 200 nm @ 6000 rpm
@@ -13069,6 +13448,8 @@
 1994 Mitsubishi FTO | Speed | 140 mph
 1994 Mitsubishi FTO | Cylinders | V6
 1994 Mitsubishi FTO | 0-100 kmph | 6.5 s
+1994 Mitsubishi FTO | Gears | 4 auto
+1994 Mitsubishi FTO | Power | 197 hp @ 7500 rpm
 1994 Mitsubishi Galant GS | Price | 20000 USD
 1994 Mitsubishi Galant GS | Volume | 2350 cc
 1994 Mitsubishi Galant GS | Cylinders | R4
@@ -13104,6 +13485,7 @@
 1994 Mitsuoka Zero1 | Volume | 1598 cc
 1994 Mitsuoka Zero1 | Gears | 5 manual
 1994 Mitsuoka Zero1 | Speed | 124 mph
+1994 Mitsuoka Zero1 | Power | 120 hp @ 6500 rpm
 1994 Mitsuoka-Zero 1 | Volume | 1800 cc
 1994 Mitsuoka-Zero 1 | Power | 130 hp
 1994 Moskvich 2901 | Body | wagon
@@ -13274,6 +13656,7 @@
 1994 Renault Espace F1 | Valves per cylinder | 4
 1994 Renault Espace F1 | Cylinders | 10
 1994 Renault Espace F1 | 0-100 kmph | 2.9 s
+1994 Renault Espace F1 | Power | 800 hp
 1994 Spectre R42 | Front track | 1600 mm
 1994 Spectre R42 | Height | 1090 mm
 1994 Spectre R42 | Length | 4120 mm
@@ -13284,6 +13667,11 @@
 1994 Spectre R42 | Volume | 4600 cc
 1994 Spectre R42 | Speed | 174 mph
 1994 Spectre R42 | 0-100 kmph | 4.6 s
+1994 Spectre R42 | Gears | 5 manual
+1994 Spectre R42 | Gears | 6 manual
+1994 Spectre R42 | Power | 355 hp @ 6000 rpm
+1994 Subaru Outback | Gears | 4 auto
+1994 Subaru Outback | Gears | 5 manual
 1994 Toyota Curren | Body | coupe
 1994 TVR Cerbera | Brakes | ventilated disc
 1994 TVR Cerbera | Front track | 1460 mm
@@ -13303,6 +13691,7 @@
 1994 TVR Cerbera | Volume | 4185 cc
 1994 TVR Cerbera | Cylinders | V8
 1994 TVR Cerbera | 0-100 kmph | 4.4 s
+1994 TVR Cerbera | Power | 350 hp @ 6500 rpm
 1994 Volkswagen Polo (4) | Body | hatchback 3
 1994 Volkswagen Polo (4) | Body | hatchback 5
 1994-02 Opel Omega (B) | Volume | 2498 cc
@@ -13421,15 +13810,20 @@
 1995 Alfa Romeo GTV Turbo | Cylinders | V6
 1995 Alfa Romeo GTV Turbo | 0-100 kmph | 7.5 s
 1995 Alfa Romeo GTV Turbo | Gears | 5 manual
+1995 Alfa Romeo GTV Turbo | Volume | 1997 cc
+1995 Alfa Romeo GTV Turbo | Weight | 1375 kg
+1995 Alfa Romeo GTV Turbo | Engine placement | front
 1995 Alpina B12 5.7 E-Kat | Compression ratio | 10.5
 1995 Alpina B12 5.7 E-Kat | Length | 4984 mm
 1995 Alpina B12 5.7 E-Kat | Power | 387 hp @ 5200 rpm
 1995 Alpina B12 5.7 E-Kat | 0-100 kmph | 6.4 s
 1995 Alpina B12 5.7 E-Kat | Torque | 560 nm @ 4100 rpm
+1995 Alpina B12 5.7 E-Kat | Volume | 5.7 L
 1995 Alpina B12 5.7 E-Kat L | Length | 5124 mm
 1995 Alpina B8 4.6 | Volume | 4619 cc
 1995 Alpina B8 4.6 | Volume | 4.6 L
 1995 Alpina B8 4.6 | Cylinders | V8
+1995 Alpina B8 4.6 | Power | 333 hp
 1995 Alpina B8 4.6 (E36) | Volume | 4619 cc
 1995 Alpina B8 4.6 (E36) | Cylinders | V8
 1995 Alpina B8 4.6 (E36) | Power | 333 hp
@@ -13461,16 +13855,20 @@
 1995 BMW E36 M3 (US) | Power | 240 bhp
 1995 BMW E36 M3 (US) | Volume | 3 L
 1995 BMW E36 M3 (US) | Torque | 305 nm
+1995 BMW E36 M3 LTW | Tyres | 235/40-17
 1995 BMW M3 3.2 (E36) | Compression ratio | 11.3
 1995 BMW M3 3.2 (E36) | Power | 321 hp @ 7400 rpm
 1995 BMW M3 3.2 (E36) | Torque | 360 nm @ 3250 rpm
+1995 BMW M3 3.2 (E36) | Volume | 3201 cc
 1995 BMW M3 3.2 North America (S52) | Power | 240 hp @ 6000 rpm
 1995 BMW M3 3.2 North America (S52) | Torque | 330 nm @ 3800 rpm
+1995 BMW M3 3.2 North America (S52) | Volume | 3152 cc
 1995 BMW M3 3.2 South Africa | Compression ratio | 10.5
 1995 BMW M3 3.2 South Africa | Power | 310 hp
 1995 BMW M3 3.2 South Africa | Torque | 351 nm
 1995 BMW M3 GT | Power | 295 hp @ 7000 rpm
 1995 BMW M3 GT | Torque | 332 nm @ 3900 rpm
+1995 BMW M3 Lightweight (CSL) | Weight | 1338 kg
 1995 BMW M540i (E34) | Power | 286 hp @ 5800 rpm
 1995 BMW M540i (E34) | Volume | 3982 cc
 1995 BMW M540i (E34) | Torque | 413 nm @ 4500 rpm
@@ -13501,10 +13899,12 @@
 1995 BMW Z3 | Width | 1692 mm
 1995 BMW Z3 | Volume | 1895 cc
 1995 BMW Z3 | 0-100 kmph | 9.4 s
+1995 BMW Z3 | Weight | 1300 kg
 1995 BMW/Alpina B10 4.6 V8 | Power | 347 hp
 1995 BMW/Alpina B10 4.6 V8 | Volume | 4.6 L
 1995 Buick Riviera | Seats | 5
 1995 Daewoo Espero | Body | sedan
+1995 Dodge Avenger | Body | sedan
 1995 Dodge Avenger ES | Price | 18121 USD
 1995 Dodge Avenger ES | Cylinders | V6
 1995 Dodge Avenger ES | Power | 155 hp @ 5500 rpm
@@ -13521,6 +13921,7 @@
 1995 Dodge Viper GTS | Body | coupe
 1995 Dodge Viper RT/10 | Power | 406 hp
 1995 Dodge Viper RT/10 | Volume | 7990 cc
+1995 Dodge Viper RT/10 | Gears | 6 manual
 1995 Ferrari F355 GTS | Power | 375 hp @ 8250 rpm
 1995 Ferrari F355 GTS | Torque | 363 nm @ 6000 rpm
 1995 Ferrari F355 GTS | Weight | 1352.7 kg
@@ -13530,6 +13931,20 @@
 1995 Ferrari F355 GTS | Gears | 6 manual
 1995 Ferrari F355 GTS | Valves per cylinder | 5
 1995 Ferrari F355 GTS | Cylinders | 8
+1995 Ferrari F355 GTS | Valves per cylinder | 5
+1995 Ferrari F355 GTS | Cylinders | 8
+1995 Ferrari F355 GTS | Volume | 3496 cc
+1995 Ferrari F355 GTS | Front track | 1514 mm
+1995 Ferrari F355 GTS | Height | 1171 mm
+1995 Ferrari F355 GTS | Length | 4158 mm
+1995 Ferrari F355 GTS | Power | 375 hp @ 8250 rpm
+1995 Ferrari F355 GTS | Rear track | 1615 mm
+1995 Ferrari F355 GTS | Torque | 363 nm @ 6000
+1995 Ferrari F355 GTS | Weight | 1352.727 kg
+1995 Ferrari F355 GTS | Wheelbase | 2451 mm
+1995 Ferrari F355 GTS | Width | 1900 mm
+1995 Ferrari F355 GTS | 0-100 kmph | 4.8 s
+1995 Ferrari F355 GTS | Gears | 6 manual
 1995 Ferrari F355 Spider | Power | 380 hp @ 8250 rpm
 1995 Ferrari F355 Spider | Torque | 363 nm @ 6000 rpm
 1995 Ferrari F355 Spider | Weight | 1400 kg
@@ -13706,6 +14121,15 @@
 1995 Lamborghini Cala | Seats | 2+2
 1995 Lamborghini Cala | Volume | 4 L
 1995 Lamborghini Cala | Cylinders | V10
+1995 Lamborghini Cala | Valves per cylinder | 4
+1995 Lamborghini Cala | Cylinders | 10
+1995 Lamborghini Cala | Volume | 3900 cc
+1995 Lamborghini Cala | Height | 1222 mm
+1995 Lamborghini Cala | Length | 4389 mm
+1995 Lamborghini Cala | Power | 400 hp @ 7200 rpm
+1995 Lamborghini Cala | Weight | 1293 kg
+1995 Lamborghini Cala | Width | 1900 mm
+1995 Lamborghini Cala | 0-100 kmph | 5.2 s
 1995 Lamborghini Diablo Roadster | Volume | 5707 cc
 1995 Lamborghini Diablo Roadster | Engine placement | center
 1995 Lamborghini Diablo Roadster | Brakes | disc
@@ -13870,9 +14294,12 @@
 1995 Lexus SC400 | Valves per cylinder | 4
 1995 Lexus SC400 | Cylinders | V8
 1995 Lexus SC400 | 0-100 kmph | 7.7 s
+1995 Lexus SC400 | Gears | 4 auto
+1995 Lexus SC400 | Power | 245 hp @ 5400 rpm
 1995 Lincoln Continental | Cylinders | V8
 1995 Lister Storm IMS | Power | 500 hp
 1995 Lister Storm IMS | Volume | 6996 cc
+1995 Lister Storm IMS | Cylinders | V12
 1995 Lotus Esprit S4S | Price | 75995 USD
 1995 Lotus Esprit S4S | Volume | 2174 cc
 1995 Lotus Esprit S4S | Cylinders | R4
@@ -13898,8 +14325,11 @@
 1995 Lotus Esprit S4S | Gears | 5 manual
 1995 Lotus Esprit S4S | Drive | rear
 1995 Maserati Ghibli Cup | Power | 330 hp
+1995 Maserati Ghibli Cup | Volume | 2 L
+1995 Maserati Ghibli Cup | Power | 330 hp
 1995 McLaren F1 | Power | 550 hp @ 7000 rpm
 1995 McLaren F1 | Cylinders | V12
+1995 McLaren F1 | Volume | 6064 cc
 1995 McLaren F1 GTR | Front track | 1568 mm
 1995 McLaren F1 GTR | Height | 1080 mm
 1995 McLaren F1 GTR | Length | 4288 mm
@@ -13911,6 +14341,7 @@
 1995 McLaren F1 GTR | Volume | 6062 cc
 1995 McLaren F1 GTR | Gears | 6 manual
 1995 McLaren F1 GTR | Cylinders | V12
+1995 McLaren F1 GTR | Power | 636 hp @ 7400 rpm
 1995 Mercedes V-class | Seats | 7
 1995 Mercedes V-class | Trunk size | 581 L
 1995 Mitsubishi 3000 GT | Body | coupe
@@ -13925,6 +14356,7 @@
 1995 Mitsubishi Eclipse Spyder GS-T | Width | 1745 mm
 1995 Mitsubishi Eclipse Spyder GS-T | Volume | 2000 cc
 1995 Mitsubishi Eclipse Spyder GS-T | Gears | 5 manual
+1995 Mitsubishi Eclipse Spyder GS-T | Power | 210 hp @ 6000 rpm
 1995 Mitsubishi GSR Evo III | Power | 270 hp
 1995 Nissan Maxima SE | Price | 22679 USD
 1995 Nissan Maxima SE | Cylinders | V6
@@ -13968,6 +14400,8 @@
 1995 Porsche 911 Carrera | Power | 270 hp
 1995 Porsche 911 Carrera | Gears | 6 manual
 1995 Porsche 911 Carrera | 0-100 kmph | 5.5 s
+1995 Porsche 911 Carrera | Volume | 3.6 L
+1995 Porsche 911 Carrera | Power | 282 hp @ 6700 rpm
 1995 Porsche 911 Carrera 4 | Weight | 1400 kg
 1995 Porsche 911 Carrera 4S | Power | 286 bhp
 1995 Porsche 911 Carrera RS Clubsport | Brakes | ventilated disc
@@ -13982,6 +14416,7 @@
 1995 Porsche 911 Carrera RS Clubsport | Volume | 3744 cc
 1995 Porsche 911 Carrera RS Clubsport | Gears | 6 manual
 1995 Porsche 911 Carrera RS Clubsport | 0-100 kmph | 5.1 s
+1995 Porsche 911 Carrera RS Clubsport | Power | 300 hp @ 6500 rpm
 1995 Porsche 911 Carrera S 993 | Power | 285 hp
 1995 Porsche 911 GT2 | Volume | 3.6 L
 1995 Porsche 911 GT2 | Compressor | 2 turbo
@@ -14000,6 +14435,7 @@
 1995 Porsche 911 GT2 | Volume | 3600 cc
 1995 Porsche 911 GT2 | Gears | 6 manual
 1995 Porsche 911 GT2 | 0-100 kmph | 3.8 s
+1995 Porsche 911 GT2 | Power | 430 hp @ 5750 rpm
 1995 Porsche 911 GT2 (993) | Power | 430 hp
 1995 Porsche 911 GT2 (993) | Weight | 1290 kg
 1995 Porsche 911 GT2 (993) | Drive | rear
@@ -14041,6 +14477,7 @@
 1995 Porsche 911 Turbo | Width | 1795 mm
 1995 Porsche 911 Turbo | Volume | 3600 cc
 1995 Porsche 911 Turbo | 0-100 kmph | 4.6 s
+1995 Porsche 911 Turbo | Power | 400 hp @ 5750 rpm
 1995 Porsche 911 Turbo (Type 993) | Power | 408 hp
 1995 Porsche 911 Turbo 993 | Power | 400 hp @ 5750 rpm
 1995 Porsche 911 Turbo 993 | Speed | 192 mph
@@ -14072,6 +14509,7 @@
 1995 Renault Spider | Gears | 5 manual
 1995 Renault Spider | Speed | 134 mph
 1995 Renault Spider | 0-100 kmph | 7.0 s
+1995 Renault Spider | Power | 150 hp @ 6000 rpm
 1995 Renault Sport Spider | Height | 1250 mm
 1995 Renault Sport Spider | Volume | 2000 cc
 1995 Renault Sport Spider | 0-100 kmph | 6.9 s
@@ -14086,8 +14524,10 @@
 1995 Rover MGF 1.8i VVC | Gears | 5 manual
 1995 Rover MGF 1.8i VVC | Speed | 132 mph
 1995 Rover MGF 1.8i VVC | 0-100 kmph | 7.7 s
+1995 Rover MGF 1.8i VVC | Power | 145 hp @ 7000 rpm
 1995 Ruf CTR2 | Torque | 685 nm
 1995 Suzuki Cultus Wagon | Power | 135 hp
+1995 Suzuki Cultus Wagon | Gears | 4 auto
 1995 Toyota 4Runner | Power | 125 hp
 1995 Toyota 4Runner | Power | 152 hp
 1995 Toyota 4Runner | Power | 185 hp
@@ -14095,16 +14535,23 @@
 1995 Toyota 4Runner | Volume | 2.7 L
 1995 Toyota 4Runner | Volume | 3 L
 1995 Toyota 4Runner | Volume | 3.4 L
+1995 Toyota 4Runner | Fuel | diesel
+1995 Toyota 4Runner | Compressor | turbo
 1995 Toyota Avalon | Power | 210 hp
 1995 Toyota Avalon | Volume | 3 L
 1995 Toyota Avalon | Cylinders | V6
+1995 Toyota Avalon | Gears | 4 auto
 1995 Toyota Cavalier | Body | sedan
+1995 Toyota Cavalier | Power | 150 hp
 1995 Toyota Cynos | Body | coupe
 1995 Toyota Grand Hiace | Power | 185 hp
+1995 Toyota Grand Hiace | Fuel | petrol
 1995 Toyota Granvia | Seats | 8
 1995 Toyota Granvia | Volume | 2.7 L
 1995 Toyota Granvia | Volume | 3 L
 1995 Toyota Granvia | Volume | 3.4 L
+1995 Toyota Granvia | Fuel | diesel
+1995 Toyota Granvia | Compressor | turbo
 1995 Toyota Sprinter Carib | Power | 165 hp
 1995 Toyota Sprinter Carib | Seats | 5
 1995 Toyota Sprinter Carib | Body | wagon
@@ -14126,6 +14573,7 @@
 1995 Vector Avtech WX3 | Valves per cylinder | 4
 1995 Vector Avtech WX3 | Cylinders | V8
 1995 Vector Avtech WX3 | 0-100 kmph | 3.4 s
+1995 Vector Avtech WX3 | Power | 600 hp @ 5800 rpm
 1995 Volkswagen Polo Classic | Body | sedan
 1995 Volvo 850 Turbo | Height | 1415 mm
 1995 Volvo 850 Turbo | Length | 4661 mm
@@ -14224,6 +14672,7 @@
 1996 Aston Martin V8 Coupe | Wheelbase | 2610 mm
 1996 Aston Martin V8 Coupe | Width | 1950 mm
 1996 Aston Martin V8 Coupe | Volume | 5341 cc
+1996 Aston Martin V8 Coupe | Gears | 4 auto
 1996 Audi A3 | Volume | 1.8 L
 1996 Audi A3 | Volume | 1.6 L
 1996 Audi A3 | Volume | 1.8 L
@@ -14338,6 +14787,7 @@
 1996 Bentley Azure | Volume | 6750 cc
 1996 Bentley Azure | Valves per cylinder | 2
 1996 Bentley Azure | Cylinders | 8
+1996 Bentley Azure | Gears | 4 auto
 1996 Bentley Continental T | Body | coupe
 1996 Bentley Continental T | Compressor | turbo
 1996 Bentley Continental T | Power | 426 hp
@@ -14400,6 +14850,7 @@
 1996 BMW Z3 Roadster 2.8 | Width | 1740 mm
 1996 BMW Z3 Roadster 2.8 | Volume | 2793 cc
 1996 BMW Z3 Roadster 2.8 | 0-100 kmph | 6.5 s
+1996 BMW Z3 Roadster 2.8 | Weight | 1292.727 kg
 1996 Brabus E V12 | Power | 582 hp @ 6000 rpm
 1996 Brabus E V12 | Torque | 722 nm @ 4000 rpm
 1996 Brabus E V12 | Volume | 7255 cc
@@ -14412,6 +14863,7 @@
 1996 Caterham Classic 1.4L | Volume | 1.4 L
 1996 Caterham Super Seven 1600 | Power | 117 hp @ 6000 rpm
 1996 Caterham Super Seven 1600 | Gears | 6 manual
+1996 Caterham Super Seven 1600 | Volume | 1588 cc
 1996 Chevrolet Corvette Grand Sport | Front track | 1466 mm
 1996 Chevrolet Corvette Grand Sport | Height | 1176 mm
 1996 Chevrolet Corvette Grand Sport | Length | 4534 mm
@@ -14427,6 +14879,7 @@
 1996 Chevrolet Corvette Grand Sport | Cylinders | V8
 1996 Daimler-Double Six Century | Volume | 5993 cc
 1996 Daimler-Double Six Century | Power | 311 hp @ 5350 rpm
+1996 Daimler-Double Six Century | Gears | 4 auto
 1996 De Tomaso Bigua | Volume | 4601 cc
 1996 De Tomaso Bigua | Cylinders | V8
 1996 De Tomaso Bigua | Power | 305 hp @ 6500 rpm
@@ -14455,8 +14908,24 @@
 1996 De Tomaso Bigua | Gears | 4 auto
 1996 De Tomaso Bigua | Gears | 5 manual
 1996 De Tomaso Bigua | Drive | rear
+1996 De Tomaso Bigua | Valves per cylinder | 4
+1996 De Tomaso Bigua | Cylinders | V8
+1996 De Tomaso Bigua | Volume | 4601 cc
+1996 De Tomaso Bigua | Brakes | ventilated disc
+1996 De Tomaso Bigua | Front track | 1590 mm
+1996 De Tomaso Bigua | Height | 1280 mm
+1996 De Tomaso Bigua | Length | 4190 mm
+1996 De Tomaso Bigua | Power | 305 hp @ 6500 rpm
+1996 De Tomaso Bigua | Rear track | 1580 mm
+1996 De Tomaso Bigua | Torque | 407 nm @ 6500 rpm
+1996 De Tomaso Bigua | Weight | 1150 kg
+1996 De Tomaso Bigua | Wheelbase | 2670 mm
+1996 De Tomaso Bigua | Width | 1900 mm
+1996 De Tomaso Bigua | 0-100 kmph | 6.1 s
+1996 De Tomaso Bigua | Gears | 5 manual
 1996 De Tomaso Guara | Power | 304 hp @ 5500 rpm
 1996 De Tomaso Guara | Volume | 3982 cc
+1996 De Tomaso Guara | Gears | 6 manual
 1996 Dodge Viper GTS | Speed | 298 kmph
 1996 Dodge Viper GTS | Brakes | disc
 1996 Dodge Viper GTS | Front track | 1514 mm
@@ -14526,6 +14995,8 @@
 1996 Dodge-Viper GTS | Width | 1923 mm
 1996 Dodge-Viper GTS | 0-100 kmph | 4.6 s
 1996 Dodge-Viper GTS | Gears | 6 manual
+1996 FerrarB456 GT | Gears | 6 manual
+1996 Ferrari F-50 | Gears | 6 manual
 1996 Ferrari F50 | Power | 513 hp @ 8500 rpm
 1996 Ferrari F50 | Torque | 471 nm @ 6500 rpm
 1996 Ferrari F50 | Weight | 1200 kg
@@ -14613,6 +15084,19 @@
 1996 Hyundai H-1 | Gears | 5 manual
 1996 Infiniti Q45 | Volume | 4.1 L
 1996 Infiniti Q45 | Cylinders | V8
+1996 Isotta Franschini T8 | Valves per cylinder | 4
+1996 Isotta Franschini T8 | Cylinders | V8
+1996 Isotta Franschini T8 | Volume | 4200 cc
+1996 Isotta Franschini T8 | Brakes | ventilated disc
+1996 Isotta Franschini T8 | Front track | 1590 mm
+1996 Isotta Franschini T8 | Height | 1380 mm
+1996 Isotta Franschini T8 | Length | 4530 mm
+1996 Isotta Franschini T8 | Power | 299 hp @ 6000 rpm
+1996 Isotta Franschini T8 | Rear track | 1610 mm
+1996 Isotta Franschini T8 | Torque | 400 nm @ 3300 rpm
+1996 Isotta Franschini T8 | Wheelbase | 2480 mm
+1996 Isotta Franschini T8 | Width | 1890 mm
+1996 Isotta Franschini T8 | Gears | 4 auto
 1996 Jaguar XK8 | Body | cabriolet
 1996 Jaguar XK8 | Body | coupe
 1996 Jaguar XK8 Coupe | Volume | 3996 cc
@@ -14687,10 +15171,12 @@
 1996 Jeep Grand Cherokee | Power | 223 hp @ 4400 rpm
 1996 Jeep Grand Cherokee | Volume | 5210 cc
 1996 Jeep Grand Cherokee | Clearance | 210 mm
+1996 Jeep Grand Cherokee | Gears | 4 auto
 1996 Kia Sportage | Torque | 206 nm @ 2000 rpm 2.0 L turbo diesel
 1996 Kia Sportage 2.0 | Power | 95 hp @ 5000 rpm
 1996 Kia Sportage 2.0 | Gears | 5 manual
 1996 Kia Sportage 2.0 | Cylinders | R4
+1996 Kia Sportage 2.0 | Volume | 1998 cc
 1996 Kia Sportage 3-door | Length | 4050 mm
 1996 Kia Sportage 3-door | Wheelbase | 2360 mm
 1996 Kia Sportage 5-door | Length | 4335 mm
@@ -14802,6 +15288,7 @@
 1996 Lamborghini Diablo VTTT Platinum Motors | Drive | full
 1996 Lincoln Town Car | Power | 193 hp @ 4200 rpm
 1996 Lincoln Town Car | Volume | 4601 cc
+1996 Lincoln Town Car | Gears | 4 auto
 1996 Lotus Elise | Brakes | ventilated disc
 1996 Lotus Elise | Front track | 1440 mm
 1996 Lotus Elise | Height | 1200 mm
@@ -14818,6 +15305,7 @@
 1996 Lotus Elise | Gears | 5 manual
 1996 Lotus Elise | Speed | 125 mph
 1996 Lotus Elise | 0-100 kmph | 6.0 s
+1996 Lotus Elise | Power | 120 hp @ 5500 rpm
 1996 Lotus Esprit S4S | Front track | 1529 mm
 1996 Lotus Esprit S4S | Height | 1151 mm
 1996 Lotus Esprit S4S | Length | 4369 mm
@@ -14830,12 +15318,16 @@
 1996 Lotus Esprit S4S | Gears | 5 manual
 1996 Lotus Esprit S4S | Speed | 164 mph
 1996 Lotus Esprit S4S | 0-100 kmph | 4.9 s
+1996 Lotus Esprit S4S | Power | 300 hp @ 6400 rpm
+1996 Maserati Quattroporte I | Volume | 4200 cc
+1996 Maserati Quattroporte I | Cylinders | V8
 1996 Maserati Quattroporte IV Evoluzione | Length | 4550 mm
 1996 Maserati Quattroporte IV Evoluzione | Power | 335 hp
 1996 Maserati Quattroporte IV Evoluzione | Wheelbase | 2650 mm
 1996 Maserati Quattroporte IV Evoluzione | 0-100 kmph | 5.8 s
 1996 Maserati Quattroporte IV Evoluzione | Volume | 3.2 L
 1996 Maserati Quattroporte IV Evoluzione | Cylinders | V8
+1996 Maserati Quattroporte IV Evoluzione | Weight | 1650 kg
 1996 Mazda 323C 1.5 | Power | 88 hp @ 5500 rpm
 1996 Mazda 323C 1.5 | Volume | 1489 cc
 1996 Mercedes-Benz S300 TURBODIESEL | Power | 177 hp
@@ -14872,6 +15364,7 @@
 1996 Nissan Skyline GT-R | 0-100 kmph | 5.5 s
 1996 Nissan Skyline GT-R | Torque | 207 nm @ 4400 rpm
 1996 Nissan Skyline GT-R | Gears | 5 manual
+1996 Nissan Skyline GT-R | Cylinders | R6
 1996 Opel Monterey | Volume | 3.5 L
 1996 Opel Monterey | Cylinders | V6
 1996 Opel Monterey | Compressor | turbo
@@ -14897,6 +15390,7 @@
 1996 Porsche 911 993 Carrera 4 & 2 | Rear track | 1444 mm
 1996 Porsche 911 Carrera | Weight | 1370 kg
 1996 Porsche 911 Carrera | Power | 282 hp
+1996 Porsche 911 Carrera 4S | Volume | 3.6 L
 1996 Porsche 911 Carrera RS | Weight | 1270 kg
 1996 Porsche 911 Carrera RS / RS Clubsport | Volume | 3.8 L
 1996 Porsche 911 Carrera RS / RS Clubsport | Power | 300 bhp
@@ -14937,6 +15431,7 @@
 1996 Porsche 911 GT1 | Power | 700 hp @ 7200 rpm
 1996 Porsche 911 GT1 | Stroke | 74.4 mm
 1996 Porsche 911 GT1 | Torque | 550 lb-ft @ 5500 rpm
+1996 Porsche 911 GT1 | Weight | 2850 lbs
 1996 Porsche 911 GT1 Strasseversion | Volume | 3164 cc
 1996 Porsche 911 GT1 Strasseversion | Cylinders | B6
 1996 Porsche 911 GT1 Strasseversion | Compressor | 2 turbo
@@ -15010,6 +15505,7 @@
 1996 Porsche 911 GT2 | Torque | 430 lb-ft
 1996 Porsche 911 GT2 | Volume | 3600 cc
 1996 Porsche 911 GT2 | Gears | 6 manual
+1996 Porsche 911 GT2 | Weight | 2850 lbs
 1996 Porsche 911 S | Length | 4245 mm
 1996 Porsche 911 S | Width | 1795 mm
 1996 Porsche 911 S | Front track | 1405 mm
@@ -15026,6 +15522,7 @@
 1996 Porsche 911 Targa | Volume | 3600 cc
 1996 Porsche 911 Targa | Gears | 6 manual
 1996 Porsche 911 Targa | 0-100 kmph | 5.5 s
+1996 Porsche 911 Targa | Power | 282 hp @ 6700 rpm
 1996 Porsche 911 Targa (993) | Body | targa
 1996 Porsche 911 Turbo | Price | 99000 USD
 1996 Porsche 911 Turbo | Volume | 3600 cc
@@ -15058,6 +15555,7 @@
 1996 Porsche 911 Turbo (Type 993) | Power | 400 hp @ 5750 rpm
 1996 Porsche 911 Turbo (Type 993) | Speed | 192 mph
 1996 Porsche 911 Turbo (Type 993) | Torque | 400 lb-ft @ 4500 rpm
+1996 Porsche 911 Turbo (Type 993) | Weight | 3307 lbs
 1996 Porsche 959 S | Volume | 2649 cc
 1996 Porsche 959 S | Cylinders | B6
 1996 Porsche 959 S | Compressor | 2 turbo
@@ -15093,6 +15591,7 @@
 1996 Porsche 986 Boxster | Body | roadster
 1996 Porsche 986 Boxster | Seats | 2
 1996 Porsche 986 Boxster | Volume | 2500 cc
+1996 Porsche 986 Boxster | Cx | 0.310
 1996 Porsche Boxster | Volume | 2480 cc
 1996 Porsche Boxster | Volume | 2480 cc
 1996 Porsche Boxster | Cylinders | B6
@@ -15122,6 +15621,7 @@
 1996 Rinspeed Mono Ego | Volume | 4600 cc
 1996 Rinspeed Mono Ego | Speed | 160 mph
 1996 Rinspeed Mono Ego | 0-100 kmph | 4.9 s
+1996 Rinspeed Mono Ego | Power | 410 hp @ 5800 rpm
 1996 Rinspeed Yello Talbo | Height | 1350 mm
 1996 Rinspeed Yello Talbo | Length | 4370 mm
 1996 Rinspeed Yello Talbo | Torque | 480 nm @ 4000 rpm
@@ -15130,8 +15630,11 @@
 1996 Rinspeed Yello Talbo | Volume | 4942 cc
 1996 Rinspeed Yello Talbo | Speed | 155 mph
 1996 Rinspeed Yello Talbo | 0-100 kmph | 5.6 s
+1996 Rinspeed Yello Talbo | Gears | 4 auto
+1996 Rinspeed Yello Talbo | Power | 320 hp @ 4250 rpm
 1996 Rolls-Royce Silver Dawn III | Volume | 6750 cc
 1996 Rolls-Royce Silver Dawn III | Power | 247 hp @ 4000 rpm
+1996 Rolls-Royce Silver Dawn III | Gears | 4 auto
 1996 Subaru Forester | Price | 23000 USD @ USA
 1996 Subaru Forester | Volume | 1994 cc
 1996 Subaru Forester | Volume | 2 L
@@ -15357,7 +15860,9 @@
 1996-10 Volkswagen Passat (V) | Power | 150 hp
 1996-10 Volkswagen Passat (V) | Power | 90 hp
 1997 Acura CL | Body | coupe
+1997 Acura CL 2.2 | Volume | 2.2 L
 1997 Acura CL 3.0 | Power | 200 hp
+1997 Acura CL 3.0 | Volume | 3 L
 1997 Acura EL | Seats | 5
 1997 Acura EL | Body | sedan
 1997 Alfa Romeo 156 | Body | sedan
@@ -15370,6 +15875,7 @@
 1997 Alfa Romeo Nuvola | Seats | 2
 1997 Alfa Romeo Nuvola | Cylinders | V6
 1997 Alfa Romeo Nuvola | 0-100 kmph | 7.5 s
+1997 Alfa Romeo Nuvola | Volume | 1996 cc
 1997 Alfa Romeo Spider 3.0 | Volume | 2959 cc
 1997 Alfa Romeo Spider 3.0 | Power | 192 hp @ 5600 rpm
 1997 Alfa Romeo Spider 3.0 | Gears | 5 manual
@@ -15401,6 +15907,9 @@
 1997 Alfa Romeo Spider V6 | Cylinders | V6
 1997 Alfa Romeo Spider V6 | 0-100 kmph | 7.5 s
 1997 Alfa Romeo Spider V6 | Gears | 5 manual
+1997 Alfa Romeo Spider V6 | Volume | 2959 cc
+1997 Alfa Romeo Spider V6 | Weight | 1350 kg
+1997 Alfa Romeo Spider V6 | Engine placement | front
 1997 Alpina B10 | Height | 1420 mm
 1997 Alpina B10 | Length | 4780 mm
 1997 Alpina B10 | Power | 340 hp @ 5700 rpm
@@ -15410,8 +15919,12 @@
 1997 Alpina B10 | Cylinders | V8
 1997 Alpina B10 | 0-100 kmph | 6.0 s
 1997 Alpina B10 | Gears | 5 manual
+1997 Alpina B10 | Volume | 4619 cc
+1997 Alpina B10 | Weight | 1650 kg
+1997 Alpina B10 | Engine placement | front
 1997 Audi A3 1.6 | Volume | 1595 cc
 1997 Audi A3 1.6 | Power | 101 hp @ 5600 rpm
+1997 Audi A3 1.6 | Cylinders | R4
 1997 Audi A4 2.5 (B5) | Volume | 2.5 L
 1997 Audi A4 2.5 (B5) | Compressor | turbo
 1997 Audi A4 2.5 (B5) | Fuel | diesel
@@ -15471,6 +15984,7 @@
 1997 Bentley Azure | Length | 5342 mm
 1997 Bentley Azure | Power | 389 hp @ 4000 rpm
 1997 Bentley Azure | Wheelbase | 3016 mm
+1997 Bentley Azure | Gears | 4 auto
 1997 BMW 850 CI | Volume | 5379 cc
 1997 BMW 850 CI | Cylinders | V12
 1997 BMW 850 CI | Power | 322 hp @ 5000 rpm
@@ -15565,6 +16079,9 @@
 1997 Caterham Seven JPE | Wheelbase | 2250 mm
 1997 Caterham Seven JPE | Width | 1508 mm
 1997 Caterham Seven JPE | 0-100 kmph | 3.3 s
+1997 Caterham Seven JPE | Volume | 1998 cc
+1997 Caterham Seven JPE | Weight | 510 kg
+1997 Caterham Seven JPE | Engine placement | front
 1997 Chevrolet Corvette C5 | Front track | 1575 mm
 1997 Chevrolet Corvette C5 | Height | 12123 mm
 1997 Chevrolet Corvette C5 | Length | 4572 mm
@@ -15588,6 +16105,7 @@
 1997 Daewoo Nexia GL/GLX | Doors | 4
 1997 Daewoo Nexia GL/GLX | Body | sedan 4
 1997 Daewoo Nexia GL/GLX | Cylinders | R4
+1997 Daewoo Nexia GL/GLX | Volume | 1498 cc
 1997 Daewoo Nubira | Seats | 5
 1997 Daihatsu Move | Power | 42 hp
 1997 Daihatsu Move | Volume | 847 cc
@@ -15701,6 +16219,7 @@
 1997 Ferrari F355 F1 | Width | 1900 mm
 1997 Ferrari F355 F1 | Cylinders | V8
 1997 Ferrari F355 F1 | 0-100 kmph | 4.8 s
+1997 Ferrari F355 F1 | Weight | 1353 kg
 1997 Ferrari F355 Spider | Price | 137075 USD
 1997 Ferrari F355 Spider | Volume | 3496 cc
 1997 Ferrari F355 Spider | Cylinders | V8
@@ -15902,6 +16421,7 @@
 1997 Isuzu Rodeo 3.1 TD | Power | 116 hp @ 3600 rpm
 1997 Isuzu Rodeo 3.1 TD | Fuel | diesel
 1997 Isuzu Rodeo 3.1 TD | Cylinders | R4
+1997 Isuzu Rodeo 3.1 TD | Volume | 3059 cc
 1997 Isuzu-VehiCross | Volume | 3200 cc
 1997 Isuzu-VehiCross | Power | 215 hp
 1997 Jaguar XK8 Convertible | Price | 69900 USD
@@ -15949,6 +16469,8 @@
 1997 Josse Car-Jösse Car Indigo 3000 | 0-100 kmph | 6.6 s
 1997 Josse Car-Jösse Car Indigo 3000 | Gears | 5 manual
 1997 Kia-KMS-II | Power | 140 hp
+1997 Kia-KMS-II | Fuel | petrol
+1997 Kia-KMS-II | Volume | 1.8 L
 1997 Lamborghini Diablo | Power | 530 hp
 1997 Lamborghini Diablo GT1 | Volume | 5994 cc
 1997 Lamborghini Diablo GT1 | Cylinders | V12
@@ -16099,6 +16621,26 @@
 1997 Lotus Esprit V8 | Gears | 5 manual
 1997 Lotus Esprit V8 | Speed | 175 mph
 1997 Lotus Esprit V8 | 0-100 kmph | 5.0 s
+1997 Lotus Esprit V8 | Volume | 3506 cc
+1997 Lotus Esprit V8 | Volume | 3506 cc
+1997 Lotus Esprit V8 | Power | 354 hp
+1997 Lotus Esprit V8 | Cylinders | V8
+1997 Lotus Esprit V8 | 0-100 kmph | 4.9 s
+1997 Lotus Esprit V8 | Speed | 175 mph
+1997 Lotus Esprit V8 | 0-100 kmph | 4.9 s
+1997 Lotus Esprit V8 | Power | 350 hp @ 6500 rpm
+1997 Lotus Esprit V8 | Power | 354 hp
+1997 Lotus Esprit V8 GT | Brakes | ventilated disc
+1997 Lotus Esprit V8 GT | Front track | 1540 mm
+1997 Lotus Esprit V8 GT | Height | 1100 mm
+1997 Lotus Esprit V8 GT | Length | 4300 mm
+1997 Lotus Esprit V8 GT | Rear track | 1630 mm
+1997 Lotus Esprit V8 GT | Weight | 900 kg
+1997 Lotus Esprit V8 GT | Wheelbase | 2440 mm
+1997 Lotus Esprit V8 GT | Width | 1950 mm
+1997 Lotus Esprit V8 GT | Cylinders | V8
+1997 Lotus Esprit V8 GT | Gears | 6 manual
+1997 Lotus Esprit V8 GT | Power | 550 hp
 1997 Marcos Mantis | Power | 359 hp
 1997 Marcos Mantis | 0-100 kmph | 4.1 s
 1997 Mazda Millenia S | Price | 36595 USD
@@ -16201,6 +16743,7 @@
 1997 Mercedes-Benz SLK | Gears | 5 manual
 1997 Mercedes-Benz SLK | Speed | 144 mph
 1997 Mercedes-Benz SLK | 0-100 kmph | 6.8 s
+1997 Mercedes-Benz SLK | Power | 185 hp @ 5300 rpm
 1997 Moskvich 214122 Svyatogor | Body | hatchback
 1997 Moskvich 2141R5 Yuri Dolgoruky | Body | hatchback
 1997 Moskvich-2141R5-Yuri-Dolgoruky | Body | hatchback 5
@@ -16276,6 +16819,7 @@
 1997 Plymouth Prowler | 0-100 kmph | 7.4 s
 1997 Plymouth Prowler | Valves per cylinder | 4
 1997 Plymouth Prowler | Cylinders | 6
+1997 Plymouth Prowler | Power | 214 hp @ 5850 rpm
 1997 Pontiac Firebird WS6 | Front track | 1539 mm
 1997 Pontiac Firebird WS6 | Height | 1321 mm
 1997 Pontiac Firebird WS6 | Length | 5004 mm
@@ -16288,6 +16832,7 @@
 1997 Pontiac Firebird WS6 | Gears | 6 manual
 1997 Pontiac Firebird WS6 | Cylinders | V8
 1997 Pontiac Firebird WS6 | 0-100 kmph | 6.0 s
+1997 Pontiac Firebird WS6 | Power | 305 hp @ 5400 rpm
 1997 Pontiac Grand Prix GTP | Height | 1389 mm
 1997 Pontiac Grand Prix GTP | Length | 4991 mm
 1997 Pontiac Grand Prix GTP | Power | 195 hp @ 5200 rpm
@@ -16296,6 +16841,10 @@
 1997 Pontiac Grand Prix GTP | Width | 1847 mm
 1997 Pontiac Grand Prix GTP | Cylinders | V6
 1997 Pontiac Grand Prix GTP | 0-100 kmph | 6.8 s
+1997 Pontiac Grand Prix GTP | Gears | 4 auto
+1997 Pontiac Grand Prix GTP | Volume | 3800 cc
+1997 Pontiac Grand Prix GTP | Weight | 1543.636 kg
+1997 Pontiac Grand Prix GTP | Engine placement | front
 1997 Pontiac Grand Prix GTP Sedan | Price | 20500 USD
 1997 Pontiac Grand Prix GTP Sedan | Volume | 3800 cc
 1997 Pontiac Grand Prix GTP Sedan | Cylinders | V6
@@ -16329,6 +16878,7 @@
 1997 Pontiac Rageous | Valves per cylinder | 2
 1997 Pontiac Rageous | Cylinders | 8
 1997 Pontiac Rageous | 0-100 kmph | 5.7 s
+1997 Pontiac Rageous | Power | 315 hp @ 5400 rpm
 1997 Porsche 911 | Power | 300 hp
 1997 Porsche 911 | Speed | 280 kmph
 1997 Porsche 911 (993) | Volume | 3387 cc
@@ -16366,6 +16916,9 @@
 1997 Porsche 911 GT1 Strassenversion | Torque | 601 nm @ 5500 rpm
 1997 Porsche 911 GT1 Strassenversion | Width | 1951 mm
 1997 Porsche 911 GT1 Strassenversion | 0-100 kmph | 3.7 s
+1997 Porsche 911 GT1 Strassenversion | Volume | 3164 cc
+1997 Porsche 911 GT1 Strassenversion | Weight | 1082 kg
+1997 Porsche 911 GT1 Strassenversion | Engine placement | rear
 1997 Porsche 911 Turbo (993) | Compressor | turbo
 1997 Porsche 911 Turbo (993) | Power | 424 hp
 1997 Porsche 911 Turbo (993) | Power | 424 hp
@@ -16379,6 +16932,7 @@
 1997 Porsche 911 Turbo S | Drive | full
 1997 Porsche 911 Turbo S | Drive | full
 1997 Porsche 911 Turbo S | Power | 424 hp
+1997 Porsche 911 Turbo S | Volume | 3.6 L
 1997 Porsche 911 Turbo S 993 | Power | 424 hp
 1997 Porsche Boxster | Compression ratio | 11.0
 1997 Porsche Boxster | Cylinders | 6
@@ -16402,6 +16956,9 @@
 1997 Porsche Boxster | Speed | 148 mph
 1997 Porsche Boxster | Speed | 155 mph
 1997 Porsche Boxster | 0-100 kmph | 6.3 s
+1997 Porsche Boxster | Cx | 0.310
+1997 Porsche Boxster | Weight | 2550 lbs
+1997 Porsche Boxster | Power | 201 hp @ 6000 rpm
 1997 Porsche-911-996-Carrera | Volume | 3387 cc
 1997 Porsche-Boxster | Volume | 2480 cc
 1997 Porsche-Boxster | Power | 204 hp @ 6000 rpm
@@ -16411,6 +16968,7 @@
 1997 Renault Laguna V6 | Volume | 3000 cc
 1997 Renault Safrane V6 | Volume | 2963 cc
 1997 Renault Safrane V6 | Power | 167 hp @ 5500 rpm
+1997 Renault Safrane V6 | Gears | 4 auto
 1997 Ruf CTR 2 Sport | Volume | 3600 cc
 1997 Ruf CTR 2 Sport | Cylinders | B6
 1997 Ruf CTR 2 Sport | Power | 520 hp @ 5800 rpm
@@ -16434,6 +16992,9 @@
 1997 Ruf CTR 2 Sport | Width | 1915 mm
 1997 Ruf CTR 2 Sport | 0-100 kmph | 3.6 s
 1997 Ruf CTR 2 Sport | Gears | 6 manual
+1997 Ruf CTR 2 Sport | Volume | 3600 cc
+1997 Ruf CTR 2 Sport | Weight | 1350 kg
+1997 Ruf CTR 2 Sport | Engine placement | rear
 1997 Ruf CTR-2 | Volume | 3600 cc
 1997 Ruf CTR-2 | Cylinders | V6
 1997 Ruf CTR-2 | Power | 520 hp @ 5800 rpm
@@ -16464,6 +17025,7 @@
 1997 RUF CTR-2 | Gears | 6 manual
 1997 RUF CTR-2 | Speed | 216 mph
 1997 RUF CTR-2 | 0-100 kmph | 3.7 s
+1997 RUF CTR-2 | Power | 520 hp @ 5800 rpm
 1997 Ruf CTR2 | 0-60 mph | 3.6 s
 1997 Ruf CTR2 | Compression ratio | 8.0
 1997 Ruf CTR2 | Fuel consumption | 15 mpg
@@ -16501,6 +17063,8 @@
 1997 Ruf CTR2 | Front wheels | 8.5x19
 1997 Ruf CTR2 | Rear wheels | 10.0x19
 1997 Ruf CTR2 | Gears | 6 manual
+1997 Ruf CTR2 | Volume | 3600 cc
+1997 Ruf CTR2 | Weight | 3045 lbs
 1997 RUF Porsche CTR-2 | Volume | 3600 cc
 1997 RUF Porsche CTR-2 | Cylinders | 6
 1997 RUF Porsche CTR-2 | Compressor | 2 turbo
@@ -16545,6 +17109,7 @@
 1997 Shelby Series One | Valves per cylinder | 4
 1997 Shelby Series One | Cylinders | 8
 1997 Shelby Series One | 0-100 kmph | 5.2 s
+1997 Shelby Series One | Power | 250 hp @ 5600 rpm
 1997 Subaru Forester | Power | 122 hp
 1997 Subaru Forester | Volume | 2000 cc
 1997 Subaru Forester | Gears | 5 manual
@@ -16559,6 +17124,7 @@
 1997 Toyota Century | Body | sedan
 1997 Toyota Century | Fuel | petrol
 1997 Toyota Century | Volume | 5 L
+1997 Toyota Century | Power | 280 hp
 1997 Toyota Chaser | Body | sedan
 1997 Toyota Corona | Body | sedan
 1997 Toyota Corsa | Doors | 3
@@ -16567,6 +17133,8 @@
 1997 Toyota Corsa | Volume | 1.5 L
 1997 Toyota Corsa | Body | hatchback
 1997 Toyota Corsa | Body | sedan
+1997 Toyota Corsa | Fuel | diesel
+1997 Toyota Corsa | Compressor | turbo
 1997 Toyota Mark II Wagon Qualis | Body | wagon
 1997 TVR Griffith 500 | Volume | 4997 cc
 1997 TVR Griffith 500 | Power | 340 hp @ 6000 rpm
@@ -16638,6 +17206,8 @@
 1997 Zender Progetto Cinque | Width | 1760 mm
 1997 Zender Progetto Cinque | Cylinders | V6
 1997 Zender Progetto Cinque | 0-100 kmph | 8.7 s
+1997 Zender Progetto Cinque | Volume | 2934 cc
+1997 Zender Progetto Cinque | Weight | 985 kg
 1997 ГАЗ 3103 Волга | Trunk size | 700 L
 1997 ГАЗ 3103 Волга | Rear brakes | disc
 1997 ГАЗ 3103 Волга | Front brakes | ventilated disc
@@ -16715,6 +17285,7 @@
 1998 AC Cobra Superblower | Rear wheels | 8x16
 1998 AC Cobra Superblower | Gears | 5 manual
 1998 Acura CL 2.3 | Power | 150 hp
+1998 Acura CL 2.3 | Volume | 2.3 L
 1998 Acura NSX | Price | 84000 USD
 1998 Acura NSX | Volume | 3179 cc
 1998 Acura NSX | Cylinders | V6
@@ -16972,6 +17543,9 @@
 1998 BMW 323ti | Width | 1700 mm
 1998 BMW 323ti | 0-100 kmph | 8.1 s
 1998 BMW 323ti | Gears | 5 manual
+1998 BMW 323ti | Volume | 2494 cc
+1998 BMW 323ti | Weight | 1330 kg
+1998 BMW 323ti | Engine placement | front
 1998 BMW M Roadster | Price | 42200 USD
 1998 BMW M Roadster | Volume | 3152 cc
 1998 BMW M Roadster | Cylinders | R6
@@ -17003,6 +17577,7 @@
 1998 BMW Z3 M | Volume | 3201 cc
 1998 BMW Z3 M | 0-100 kmph | 5.4 s
 1998 BMW Z3 M | Gears | 5 manual
+1998 BMW Z3 M | Weight | 1409 kg
 1998 BMW Z3 M Roadster | Volume | 3201 cc
 1998 BMW Z3 M Roadster | Cylinders | I6
 1998 BMW Z3 M Roadster | Power | 317 hp @ 7400 rpm
@@ -17025,6 +17600,7 @@
 1998 Cadillac-Seville-STS | Volume | 4565 cc
 1998 Cadillac-Seville-STS | Length | 5200 mm
 1998 Cadillac-Seville-STS | Power | 305 hp @ 6000 rpm
+1998 Cadillac-Seville-STS | Gears | 4 auto
 1998 Caterham R400 | Power | 200 hp
 1998 Caterham R400 | Volume | 1.8 L
 1998 Caterham R400 | 0-100 kmph | 3.9 s
@@ -17059,6 +17635,9 @@
 1998 Chevrolet Corvette C5 Convertible | Width | 1869 mm
 1998 Chevrolet Corvette C5 Convertible | Cylinders | V8
 1998 Chevrolet Corvette C5 Convertible | Gears | 6 manual
+1998 Chevrolet Corvette C5 Convertible | Volume | 5666 cc
+1998 Chevrolet Corvette C5 Convertible | Weight | 1472 kg
+1998 Chevrolet Corvette C5 Convertible | Engine placement | front
 1998 Chevrolet Corvette convertible | Price | 44425 USD
 1998 Chevrolet Corvette convertible | Volume | 5666 cc
 1998 Chevrolet Corvette convertible | Cylinders | V8
@@ -17102,6 +17681,8 @@
 1998 Daimler Double Six | Trunk size | 430 L
 1998 Daimler Double Six | Tyres | 225/60 ZR16
 1998 Daimler Double Six | Drive | rear
+1998 Daimler Double Six | Body | sedan
+1998 Daimler Double Six | Tyres | 225/60 ZR16
 1998 Dodge Viper GTS | Price | 66000 USD
 1998 Dodge Viper GTS | Volume | 7990 cc
 1998 Dodge Viper GTS | Cylinders | V10
@@ -17168,9 +17749,12 @@
 1998 Ferrari F355 F1 | Gears | 6 manual
 1998 Ferrari F355 F1 | Drive | rear
 1998 Ferrari F355 F1 | Drive | rear
+1998 Ford Focus MkI (US) | Volume | 2 L
 1998 Ford Focus MkI Ghia | Power | 115 hp
+1998 Ford Focus MkI Ghia | Volume | 1.8 L
 1998 Ford Focus RS | Power | 215 hp
 1998 Ford Focus ST170 | Power | 172 hp
+1998 Ford Focus ST170 | Volume | 2 L
 1998 Jaguar XJR | Price | 68480 USD
 1998 Jaguar XJR | Volume | 3996 cc
 1998 Jaguar XJR | Cylinders | V8
@@ -17408,6 +17992,7 @@
 1998 Lotus GT1 | Gears | 6 manual
 1998 Lotus GT1 | Speed | 194 mph
 1998 Lotus GT1 | 0-100 kmph | 3.9 s
+1998 Lotus GT1 | Power | 580 hp @ 7500 rpm
 1998 Maserati 3200 GT | Power | 370 hp
 1998 Mazda 323 | Body | sedan
 1998 Mercedes-Benz CLK GTR | Brakes | ventilated disc
@@ -17415,6 +18000,7 @@
 1998 Mercedes-Benz CLK GTR | Volume | 6900 cc
 1998 Mercedes-Benz CLK GTR | Gears | 6 manual
 1998 Mercedes-Benz CLK GTR | Cylinders | V12
+1998 Mercedes-Benz CLK GTR | Power | 560 hp @ 7000 rpm
 1998 Mercedes-Benz SLK230 Kompressor | Price | 40000 USD
 1998 Mercedes-Benz SLK230 Kompressor | Volume | 2290 cc
 1998 Mercedes-Benz SLK230 Kompressor | Cylinders | R4
@@ -17466,6 +18052,7 @@
 1998 Nissan Maxima QX 3.0 | Volume | 2988 cc
 1998 Nissan President | Power | 269 hp
 1998 Nissan President | Cylinders | V8
+1998 Oldsmobile Intrigue | Volume | 3.5 L
 1998 Oldsmobile Intrigue GL | Price | 22100 USD
 1998 Oldsmobile Intrigue GL | Volume | 3800 cc
 1998 Oldsmobile Intrigue GL | Cylinders | V6
@@ -17551,6 +18138,7 @@
 1998 Porsche 911 (993) | Torque | 250 lb-ft
 1998 Porsche 911 (993) | Volume | 3600 cc
 1998 Porsche 911 (993) | Speed | 171 mph
+1998 Porsche 911 (993) | Weight | 3064 lbs
 1998 Porsche 911 (996) | Volume | 3387 cc
 1998 Porsche 911 (996) | Cylinders | B6
 1998 Porsche 911 (996) | Power | 296 hp @ 6800 rpm
@@ -17640,6 +18228,7 @@
 1998 Porsche 996 | Wheelbase | 92.5 in
 1998 Porsche 996 | Width | 69.5 in
 1998 Porsche 996 | Speed | 175 mph
+1998 Porsche 996 | Weight | 2920 lbs
 1998 Renault Kangoo | Volume | 1390 cc
 1998 Renault Kangoo | Power | 75 hp @ 5500 rpm
 1998 Renault Kangoo | Gears | 5 manual
@@ -17655,6 +18244,7 @@
 1998 Riley & Scott MKII Roadster | Gears | 6 manual
 1998 Riley & Scott MKII Roadster | Speed | 179 mph
 1998 Riley & Scott MKII Roadster | 0-100 kmph | 4.1 s
+1998 Riley & Scott MKII Roadster | Power | 560 hp
 1998 SEAT Arosa | Fuel feed | direct injection
 1998 SEAT Arosa | Fuel | diesel
 1998 SEAT Arosa | Volume | 1.7 L
@@ -17670,9 +18260,14 @@
 1998 Toyota Altezza RS200 | Cylinders | 4
 1998 Toyota Altezza RS200 | Volume | 2000 cc
 1998 Toyota Altezza RS200 | Gears | 6 manual
+1998 Toyota Altezza RS200 | Power | 210 hp
 1998 Toyota Crown | Body | sedan
 1998 Toyota Duet | Body | hatchback
 1998 Toyota Progres | Body | sedan
+1998 Toyota Progres | Power | 200 hp
+1998 Toyota Progres | Seats | 5
+1998 Toyota Progres | Body | sedan
+1998 Toyota Progres | Cylinders | 6
 1998 Toyota Vista | Body | sedan
 1998 Toyota Vista Ardeo | Doors | 5
 1998 Toyota Vista Ardeo | Power | 145 hp
@@ -17687,6 +18282,7 @@
 1998 TVR 7/12 | Speed | 220.6 mph
 1998 TVR 7/12 | Valves per cylinder | 4
 1998 TVR 7/12 | Cylinders | 12
+1998 TVR 7/12 | Power | 660 hp
 1998 Venturi Atlantique 300 2 turbo | Cylinders | V6
 1998 Venturi Atlantique 300 2 turbo | Compressor | 2 turbo
 1998 Venturi Atlantique 300 2 turbo | Power | 310 hp
@@ -17853,10 +18449,13 @@
 1999 Acura NSX Alex Zanardi Edition | Cylinders | V6
 1999 Acura NSX Alex Zanardi Edition | 0-100 kmph | 4.9 s
 1999 Acura NSX Alex Zanardi Edition | Gears | 6 manual
+1999 Acura NSX Alex Zanardi Edition | Volume | 3.2 L
+1999 Acura NSX Alex Zanardi Edition | Weight | 1347 kg
 1999 Alfa Romeo 156 2.0 | Gears | 5 seq
 1999 Alpina B12 6.0 E-Kat | Power | 430 hp @ 5600 rpm
 1999 Alpina B12 6.0 E-Kat | 0-100 kmph | 5.9 s
 1999 Alpina B12 6.0 E-Kat | Torque | 600 nm @ 4200 rpm
+1999 Alpina B12 6.0 E-Kat | Volume | 5980 cc
 1999 Alpina D10 Biturbo (E39) | Fuel | diesel
 1999 Aston Martin DB7 Vantage | Volume | 6 L
 1999 Aston Martin DB7 Vantage | Cylinders | V12
@@ -18354,6 +18953,7 @@
 1999 Lamborghini Diablo GT | Power | 575 hp @ 7300 rpm
 1999 Lamborghini Diablo GT | Volume | 6 L
 1999 Lamborghini Diablo GT | Cylinders | V12
+1999 Lamborghini Diablo GT | Volume | 6 L
 1999 Lamborghini Diablo GTR | Volume | 5992 cc
 1999 Lamborghini Diablo GTR | Cylinders | V12
 1999 Lamborghini Diablo GTR | Power | 590 hp @ 7300 rpm
@@ -18497,6 +19097,7 @@
 1999 Moskvich 2142 Duet-1 | Body | coupe
 1999 Moskvich 2142Z7 Ivan Kalita | Body | sedan
 1999 Nissan 200SX | Power | 247 hp
+1999 Nissan 200SX | Gears | 6 manual
 1999 Nissan Cedric (V6 turbo) | Power | 280 hp
 1999 Nissan Gloria | Volume | 2.5 L
 1999 Nissan Gloria | Volume | 3 L
@@ -18560,6 +19161,9 @@
 1999 Porsche 911 Carrera | Width | 1765 mm
 1999 Porsche 911 Carrera | 0-100 kmph | 5.4 s
 1999 Porsche 911 Carrera | Gears | 6 manual
+1999 Porsche 911 Carrera | Volume | 3387 cc
+1999 Porsche 911 Carrera | Weight | 1322.7 kg
+1999 Porsche 911 Carrera | Engine placement | rear
 1999 Porsche 911 GT3 | Compression ratio | 11.7
 1999 Porsche 911 GT3 | Fuel tank | 89 L
 1999 Porsche 911 GT3 | Height | 1270 mm
@@ -18569,16 +19173,30 @@
 1999 Porsche 911 GT3 | Power | 360 hp @ 7200 rpm
 1999 Porsche 911 GT3 | 0-100 kmph | 4.8 s
 1999 Porsche 911 GT3 | Torque | 370 nm @ 5000 rpm
+1999 Porsche 911 GT3 | Weight | 1350 kg
 1999 Porsche 911 Turbo (996) | Compressor | turbo
 1999 Porsche 986 Boxster S | Power | 260 hp
 1999 Porsche 986 Boxster S | Speed | 160 mph
 1999 Porsche Boxster S | Volume | 3000 cc
 1999 Porsche Boxster S | Speed | 160 mph
 1999 Porsche Boxster S | Volume | 3 L
+1999 Porsche Boxster S | Power | 250 bhp
+1999 Porsche GT3 (996) | 0-100 kmph | 4.8 s
 1999 Porsche GT3 (996) | 0-100 kmph | 4.8 s
 1999 Porsche GT3 (996) | 0-100 kmph | 4.8 s
 1999 Smart | Length | 2.5 m
 1999 Smart | Power | 55 hp
+1999 Smart | Power | 45 hp
+1999 Smart | Wheelbase | 812 mm
+1999 Smart | Weight | 720 kg
+1999 Smart (turbo) | Power | 55 hp
+1999 Smart City Coupe | Length | 2.5 m
+1999 Smart diesel | Fuel | diesel
+1999 Smart diesel | Volume | 0.8 L
+1999 Smart diesel | Compressor | turbo
+1999 Smart diesel | Power | 41 hp
+1999 Subaru Legacy 2.5 | Volume | 2.5 L
+1999 Subaru Legacy 2.5 | Power | 156 hp
 1999 Subaru Legacy 2.5 GT Wagon | Price | 24295 USD
 1999 Subaru Legacy 2.5 GT Wagon | Volume | 2457 cc
 1999 Subaru Legacy 2.5 GT Wagon | Cylinders | B4
@@ -18620,6 +19238,8 @@
 1999 Toyota Tundra | Volume | 3.4 L
 1999 Toyota Tundra | Volume | 4.7 L
 1999 Toyota Tundra | Body | pickup
+1999 Toyota Tundra | Cylinders | V6
+1999 Toyota Tundra | Cylinders | V8
 1999 Toyota Will Cypha | Body | sedan
 1999 Toyota Will Cypha | Seats | 5
 1999 Volkswagen Golf GTI GLX | Price | 22150 USD
@@ -18733,7 +19353,10 @@
 1999-10 Opel Astra Van | Doors | 3
 1999-10 Opel Astra Van | Trunk size | 1600 L
 2000 Acura CL 3.2 | Power | 228 hp
+2000 Acura CL 3.2 | Gears | 4 auto
+2000 Acura CL 3.2 | Volume | 3.2 L
 2000 Acura MDX | Cylinders | V6
+2000 Acura MDX | Power | 265 hp
 2000 Alfa Romeo 147 | Doors | 3
 2000 Alfa Romeo 147 | Doors | 5
 2000 Alfa Romeo 147 | Power | 120 hp
@@ -18742,6 +19365,8 @@
 2000 Alfa Romeo 147 | Body | hatchback 3
 2000 Alfa Romeo 147 | Body | hatchback 5
 2000 Alfa Romeo 147 | Fuel | petrol
+2000 Alfa Romeo 147 | Volume | 1.6 L
+2000 Alfa Romeo 147 | Volume | 2 L
 2000 Aston Martin V12 Vanquish | Cylinders | V12
 2000 Audi A2 | Seats | 5
 2000 Audi A2 | Body | hatchback 5
@@ -19271,6 +19896,9 @@
 2000 BMW Z8 | Drive | rear
 2000 BMW Z8 | Drive | rear
 2000 BMW Z8 | Drive | rear
+2000 BMW-Z8 | Cylinders | V8
+2000 BMW-Z8 | Power | 400 hp
+2000 BMW-Z8 | Weight | 1660 kg
 2000 Buick GL8 | Power | 172 hp
 2000 Buick GL8 | Seats | 8
 2000 Buick GL8 | 0-100 kmph | 16.0 s
@@ -19517,6 +20145,16 @@
 2000 Daewoo Magnus | Body | sedan
 2000 Dodge Viper GTS/R | Power | 500 hp
 2000 Dodge Viper GTS/R | Cylinders | V10
+2000 Dodge Viper GTS/R | Volume | 8000 cc
+2000 Dodge Viper GTS/R | Cylinders | V10
+2000 Dodge Viper GTS/R | Height | 1194 mm
+2000 Dodge Viper GTS/R | Length | 4902 mm
+2000 Dodge Viper GTS/R | Power | 500 hp
+2000 Dodge Viper GTS/R | Torque | 678 nm
+2000 Dodge Viper GTS/R | Weight | 1475 kg
+2000 Dodge Viper GTS/R | Wheelbase | 2509 mm
+2000 Dodge Viper GTS/R | Width | 1936 mm
+2000 Dodge Viper GTS/R | Gears | 6 manual
 2000 Excalibur Roadster | Power | 233 hp
 2000 Excalibur Roadster | Torque | 448 nm
 2000 Excalibur Roadster | Volume | 5.7 L
@@ -20068,6 +20706,7 @@
 2000 Lamborghini Diablo 6.0 VT | Gears | 5 manual
 2000 Lamborghini Diablo 6.0 VT | Drive | full
 2000 Lamborghini Diablo 6.0 VT | Power | 550 hp
+2000 Lamborghini Diablo VT 6.0 | Volume | 6 L
 2000 Lamborghini Diablo VT Millenium Metallico Roadster | Volume | 5707 cc
 2000 Lamborghini Diablo VT Millenium Metallico Roadster | Cylinders | V12
 2000 Lamborghini Diablo VT Millenium Metallico Roadster | Power | 530 hp @ 7100 rpm
@@ -20110,6 +20749,7 @@
 2000 Lexus-LS430 | Power | 280 hp
 2000 Lexus-LS430 | Torque | 417 nm
 2000 Lexus-LS430 | Gears | 5 auto
+2000 Lexus-LS430 | Cylinders | V8
 2000 Mazda MX-5 Miata LS | Price | 23995 USD
 2000 Mazda MX-5 Miata LS | Price | 23995 USD
 2000 Mazda MX-5 Miata LS | Price | 23995 USD
@@ -20199,6 +20839,7 @@
 2000 Mazda MX-5 Miata LS | Drive | rear
 2000 Mazda MX-5 Miata LS | Drive | rear
 2000 Mercedes 290GD TD (W461) | Power | 120 hp
+2000 Mercedes 290GD TD (W461) | Gears | 4 auto
 2000 Mercedes C-class W203 | Fuel | diesel
 2000 Mercedes G400 CDI | Power | 250 hp
 2000 Mercedes-Benz E55 AMG | Price | 69800 USD
@@ -21333,6 +21974,12 @@
 2000 Suzuki Ignis | Volume | 1300 cc
 2000 Suzuki Ignis | Volume | 1300 cc
 2000 Suzuki Ignis | Volume | 1500 cc
+2000 Suzuki Ignis | Fuel | diesel
+2000 Suzuki Ignis | Volume | 1.3 L
+2000 Suzuki Ignis | Fuel | petrol
+2000 Suzuki Ignis | Volume | 1.3 L
+2000 Suzuki Ignis | Fuel | petrol
+2000 Suzuki Ignis | Volume | 1.5 L
 2000 Toyota Avalon | Body | sedan
 2000 Toyota bB | Power | 105 hp
 2000 Toyota bB | Power | 88 hp
@@ -21478,12 +22125,15 @@
 2000 Toyota MR2 Spyder | Drive | rear
 2000 Toyota Opa | Volume | 1800 cc
 2000 Toyota Opa | Volume | 2000 cc
+2000 Toyota Opa | Gears | 4 auto
+2000 Toyota Opa | Tyres | 185/70R14 (base) / 195/65R15
 2000 Toyota Platz | Body | sedan
 2000 Toyota Platz | Body | sedan
 2000 Toyota Pronard | Body | sedan
 2000 Toyota Pronard | Body | sedan
 2000 Toyota Pronard | Power | 215 hp
 2000 Toyota Pronard | Clearance | 145 mm
+2000 Toyota Pronard | Fuel | petrol
 2000 Toyota Sparky | Power | 88 hp
 2000 Toyota Sparky | Seats | 7
 2000 Volvo S80 | Power | 272 hp
@@ -21750,12 +22400,14 @@
 2001 Acura 3.2CL Type S | Drive | front
 2001 Acura 3.2CL Type S | Drive | front
 2001 Acura 3.2CL Type S | Drive | front
+2001 Acura EL | Power | 127 hp
 2001 Acura Integra GS | Volume | 1.8 L
 2001 Acura Integra GS | Power | 140 hp
 2001 Acura Integra GS-R | Power | 170 hp
 2001 Acura Integra LS | Volume | 1.8 L
 2001 Acura Integra LS | Power | 140 hp
 2001 Acura RSX | Gears | 6 manual
+2001 Acura RSX | Power | 160 hp
 2001 Acura RSX Type R | Volume | 2 L
 2001 Acura RSX Type R | Power | 200 hp
 2001 Acura RSX Type R | Gears | 6 manual
@@ -21763,6 +22415,8 @@
 2001 Aston Martin Vanquish | Power | 457 hp
 2001 Aston Martin Vanquish | Torque | 556 nm
 2001 Aston Martin Vanquish | Volume | 5935 cc
+2001 Aston Martin Vanquish (front) | Tyres | 255/40 ZR19
+2001 Aston Martin Vanquish (rear) | Tyres | 285/40 ZR19
 2001 Audi S8 | Price | 72500 USD
 2001 Audi S8 | Price | 72500 USD
 2001 Audi S8 | Price | 72500 USD
@@ -22460,6 +23114,7 @@
 2001 Caterham Superlight R500 | Weight | 460 kg
 2001 Caterham Superlight R500 | 0-100 kmph | 3.4 s
 2001 Chevrolet Corvette | Cylinders | V8
+2001 Chevrolet Corvette | Tyres | 245/45 R17 front, 275/40 R18 rear
 2001 Chevrolet Corvette Z06 | Price | 47855 USD
 2001 Chevrolet Corvette Z06 | Price | 47855 USD
 2001 Chevrolet Corvette Z06 | Price | 47855 USD
@@ -22626,6 +23281,7 @@
 2001 Chrysler PT Cruiser Limited Edition | Drive | front
 2001 Chrysler PT Cruiser Limited Edition | Drive | front
 2001 Chrysler PT Cruiser Limited Edition | Drive | front
+2001 Daewoo Musso | Cx | 0.420
 2001 Edonis | Volume | 3760 cc
 2001 Edonis | Height | 1120 mm
 2001 Edonis | Length | 4350 mm
@@ -22635,6 +23291,7 @@
 2001 Edonis | Power | 680 hp @ 8000 rpm
 2001 Edonis | 0-100 kmph | 4.0 s
 2001 Edonis | Gears | 6 manual
+2001 Edonis | Tyres | Michelin Pax System 245/40 ZR 18 front, 335/30 ZR 18 rear
 2001 Ferrari 550 Barchetta Pininfarina | Price | 258000 USD
 2001 Ferrari 550 Barchetta Pininfarina | Price | 258000 USD
 2001 Ferrari 550 Barchetta Pininfarina | Price | 258000 USD
@@ -22779,6 +23436,7 @@
 2001 Ford Focus ST170 | Gears | 6 manual
 2001 Ford Focus ST170 | Fuel | petrol
 2001 Ford Focus ST170 | Volume | 2 L
+2001 Ford Focus ST170 | Tyres | 215/45-17
 2001 Honda Insight | Price | 20080 USD
 2001 Honda Insight | Price | 20080 USD
 2001 Honda Insight | Price | 20080 USD
@@ -23142,6 +23800,8 @@
 2001 Maserati Spyder | Gears | 6 seq
 2001 Mazda Tribute | Volume | 2000 cc
 2001 Mazda Tribute | Volume | 3000 cc
+2001 Mazda Tribute | Valves per cylinder | 4
+2001 Mazda Tribute | Cylinders | 6
 2001 Mercedes Gelaendewagen AMG (tuned) | Torque | 525 nm
 2001 Mercedes Gelaendewagen AMG (tuned) | 0-100 kmph | 7.4 s
 2001 Mercedes Gelaendewagen Brabus | Power | 375 hp
@@ -23157,6 +23817,8 @@
 2001 Mercedes SL 500 Opera Design | Power | 302 hp @ 5600 rpm
 2001 Mercedes SL 500 Opera Design | Power | 360 hp @ 5500 rpm
 2001 Mercedes SL 500 Opera Design | Torque | 540 nm @ 2800 rpm
+2001 Mercedes SL 500 Opera Design | Valves per cylinder | 3
+2001 Mercedes SL 500 Opera Design | Cylinders | 8
 2001 Mercedes SL 600 | Cylinders | V12
 2001 Mercedes SL 600 Biturbo | 0-60 mph | 3.9 s
 2001 Mercedes SL 600 Biturbo | Power | 718 hp
@@ -23521,6 +24183,9 @@
 2001 Morgan-Aero 8 | Torque | 430 nm @ 3700 rpm
 2001 Morgan-Aero 8 | Width | 1750 mm
 2001 Morgan-Aero 8 | 0-100 kmph | 5.0 s
+2001 Morgan-Aero 8 | Tyres | Dunlop 225/40ZR18
+2001 Morgan-Aero 8 | Cx | 0.390
+2001 Morgan-Aero 8 | Weight | 1000 kg
 2001 Oldsmobile Aurora 3.5 | Price | 30130 USD
 2001 Oldsmobile Aurora 3.5 | Price | 30130 USD
 2001 Oldsmobile Aurora 3.5 | Price | 30130 USD
@@ -23647,9 +24312,16 @@
 2001 Opel Combo | Fuel feed | injection
 2001 Opel Combo | Fuel feed | injection
 2001 Opel Combo | Body | truck
+2001 Opel Combo | Fuel | diesel
+2001 Opel Combo | Volume | 1.3 L
+2001 Opel Combo | Fuel | petrol
+2001 Opel Combo | Volume | 1.4 L
+2001 Opel Combo | Gears | 5 manual
 2001 Opel Frogster | Count | 1
 2001 Opel Frogster | Volume | 1 L
 2001 Opel-Speedster | Gears | 5 manual
+2001 Opel-Speedster | Tyres | Bridgestone Potenza RE040
+2001 Opel-Speedster | Max rpm | 6500
 2001 Peugeot-206-CC | Volume | 1.6 L
 2001 Peugeot-206-CC (tuned) | 0-100 kmph | 7.0 s
 2001 Porsche 911 GT2 | Power | 462 hp
@@ -23834,13 +24506,21 @@
 2001 Suzuki Aerio | Volume | 1500 cc
 2001 Suzuki Aerio | Body | sedan
 2001 Suzuki Aerio | Body | wagon
+2001 Suzuki Aerio | Volume | 1.5 L
 2001 Suzuki Every Landy | Volume | 1300 cc
+2001 Suzuki Every Landy | Volume | 1.3 L
 2001 Suzuki Liana | Volume | 1.3 L
 2001 Suzuki Liana | Volume | 1.4 L
 2001 Suzuki Liana | Volume | 1.5 L
 2001 Suzuki Liana | Volume | 1.6 L
 2001 Suzuki Liana | Volume | 1.8 L
 2001 Suzuki Liana | Volume | 2.3 L
+2001 Suzuki Liana | Power | 106 hp
+2001 Suzuki Liana | Power | 110 hp
+2001 Suzuki Liana | Power | 125 hp
+2001 Suzuki Liana | Power | 155 hp
+2001 Suzuki Liana | Power | 90 hp
+2001 Suzuki XL7 | Power | 252 hp
 2001 Suzuki-Aerio | Volume | 1500 cc
 2001 Suzuki-Every Landy | Volume | 1300 cc
 2001 Toyota Allex | Body | hatchback
@@ -23854,6 +24534,7 @@
 2001 Toyota Gaia | Doors | 5
 2001 Toyota Gaia | Volume | 2 L
 2001 Toyota Gaia | Volume | 2.2 L
+2001 Toyota Noah | Power | 156 hp
 2001 Toyota Prius | Price | 19995 USD
 2001 Toyota Prius | Price | 19995 USD
 2001 Toyota Prius | Volume | 1497 cc
@@ -23898,6 +24579,7 @@
 2001 Toyota Prius | Drive | front
 2001 Toyota Verossa | Body | sedan
 2001 Toyota Verossa | Body | sedan
+2001 Toyota Verossa | Compressor | turbo
 2001 Toyota Voxy | Doors | 5
 2001 Toyota Voxy | Seats | 8
 2001 Toyota Will VS | Body | hatchback
@@ -25428,6 +26110,7 @@
 2002 Coggiola T-Rex | Volume | 6.5 L
 2002 Coggiola T-Rex | Compressor | turbo
 2002 Coggiola T-Rex | Cylinders | V8
+2002 Coggiola T-Rex | Weight | 3200 kg
 2002 Daewoo Kalos | Body | hatchback
 2002 Daewoo Nexia | Power | 85 hp
 2002 Daewoo Nexia | Volume | 1500 cc
@@ -25899,7 +26582,15 @@
 2002 Honda Civic Si | Drive | front
 2002 Honda Civic Si | Drive | front
 2002 Honda Legend | Body | sedan
+2002 Honda Legend | Volume | 3.5 L
+2002 Honda Legend | Cylinders | 6
 2002 Hyundai Sonata | Body | sedan
+2002 Hyundai Sonata | Cylinders | R4
+2002 Hyundai Sonata | Cylinders | V6
+2002 Hyundai Sonata | Volume | 2 L
+2002 Hyundai Sonata | Volume | 2.7 L
+2002 Hyundai Sonata | Power | 133 hp
+2002 Hyundai Sonata | Power | 173 hp
 2002 Infiniti G35 | Price | 28950 USD
 2002 Infiniti G35 | Price | 28950 USD
 2002 Infiniti G35 | Price | 28950 USD
@@ -27138,7 +27829,9 @@
 2002 Mini Cooper S | Drive | front
 2002 Mini Cooper S | Drive | front
 2002 Mitsubishi Colt | Volume | 1.5 L
+2002 Mitsubishi Colt | Power | 150 hp
 2002 Nissan 350Z | Gears | 6 manual
+2002 Nissan 350Z | Power | 313 hp
 2002 Nissan Elgrand | Gears | 5 auto
 2002 Nissan Elgrand | Fuel | petrol
 2002 Nissan Elgrand | Volume | 2.5 L
@@ -27991,6 +28684,7 @@
 2002 Saturn LW300 | Drive | front
 2002 Subaru Baja | Body | pickup
 2002 Subaru Baja | Seats | 5
+2002 Subaru Baja | Power | 165 hp
 2002 Subaru Impreza WRX | Price | 23995 USD
 2002 Subaru Impreza WRX | Price | 23995 USD
 2002 Subaru Impreza WRX | Price | 23995 USD
@@ -28162,6 +28856,10 @@
 2002 Subaru Impreza WRX Sport Wagon | Drive | full
 2002 Subaru Impreza WRX Sport Wagon | Drive | full
 2002 Subaru Impreza WRX Sport Wagon | Drive | full
+2002 Toyota Allion | Body | sedan
+2002 Toyota Allion | Volume | 1.5 L
+2002 Toyota Allion | Volume | 1.8 L
+2002 Toyota Allion | Volume | 2 L
 2002 Toyota Allion | Body | sedan
 2002 Toyota Camry XLE | Price | 25405 USD
 2002 Toyota Camry XLE | Price | 25405 USD
@@ -28716,9 +29414,12 @@
 2003 Alfa Romeo GT | Fuel | petrol
 2003 Alfa Romeo GT | Trunk size | 320..905 L
 2003 Alfa Romeo GT 1.8 | Power | 140 hp
+2003 Alfa Romeo GT 1.8 | Volume | 1.8 L
 2003 Alfa Romeo GT 1.9 JTD AWD | Power | 150 hp
 2003 Alfa Romeo GT 1.9 JTD AWD | Fuel | diesel
+2003 Alfa Romeo GT 1.9 JTD AWD | Volume | 1.9 L
 2003 Alfa Romeo GT 2.0 | Power | 165 hp
+2003 Alfa Romeo GT 2.0 | Volume | 2 L
 2003 Alpina B7 | 0-100 kmph | 5.5 s
 2003 Aston Martin DB9 | Cylinders | 12
 2003 Aston Martin DB9 | Volume | 6000 cc
@@ -30077,6 +30778,11 @@
 2003 Honda Civic Type R | Volume | 2 L
 2003 Honda Civic Type R | Power | 200 hp @ 7400 rpm
 2003 Honda Civic Type R | Torque | 196 nm @ 5900 rpm
+2003 Honda Civic Type R | Power | 200 hp @ 7400 rpm
+2003 Honda Civic Type R | Volume | 2 L
+2003 Honda Civic Type R | Torque | 196 nm @ 5900 rpm
+2003 Honda Civic Type R | Gears | 6 manual
+2003 Honda Civic Type R | Max rpm | 8500
 2003 Honda MDX | Body | wagon
 2003 Infiniti G35 Sport Coupe | Price | 30000 USD
 2003 Infiniti G35 Sport Coupe | Price | 30000 USD
@@ -30331,6 +31037,11 @@
 2003 Jaguar S-Type R | Gears | 6 auto
 2003 Jaguar S-Type R | Drive | rear
 2003 Jaguar S-Type R | Drive | rear
+2003 Jaguar S-Type R | Volume | 4200 cc
+2003 Jaguar S-Type R | Cylinders | 8
+2003 Jaguar S-Type R | Power | 400 hp @ 6100 rpm
+2003 Jaguar S-Type R | Torque | 553 nm @ 3500 rpm
+2003 Jaguar S-Type R | Weight | 2000 kg
 2003 Jaguar XJ | Volume | 3 L
 2003 Jaguar XJ | Volume | 3.5 L
 2003 Jaguar XJ | Volume | 4.2 L
@@ -30554,6 +31265,8 @@
 2003 Land Rover Range Rover HSE | Drive | full
 2003 Lexus-RX330 | Volume | 3300 cc
 2003 Mazda 2 | Trunk size | 250 L
+2003 Mazda 3 Hatchback | Gears | 6 manual
+2003 Mazda 3 Hatchback | Volume | 2 L
 2003 Mazda 6s | Price | 21100 USD
 2003 Mazda 6s | Price | 21100 USD
 2003 Mazda 6s | Price | 21100 USD
@@ -31086,8 +31799,11 @@
 2003 Mercedes-Benz SL500 | Drive | rear
 2003 Mercedes-Benz SL500 | Drive | rear
 2003 Mitsubishi Endeavor | Volume | 3.8 L
+2003 Mitsubishi Endeavor | Power | 218 hp
 2003 Mitsubishi Grandis | Volume | 2 L
 2003 Mitsubishi Grandis | Volume | 2.4 L
+2003 Mitsubishi Grandis | Power | 136 hp
+2003 Mitsubishi Grandis | Power | 165 hp
 2003 Mitsubishi Lancer Evolution | Price | 28987 USD
 2003 Mitsubishi Lancer Evolution | Price | 28987 USD
 2003 Mitsubishi Lancer Evolution | Volume | 1997 cc
@@ -31574,9 +32290,18 @@
 2003 Porsche Carrera GT | Gears | 6 manual
 2003 Porsche Carrera GT | Cylinders | V10
 2003 Porsche Carrera GT | Cylinders | V10
+2003 Porsche Carrera GT | Volume | 5.7 L
+2003 Porsche Carrera GT | Weight | 1200 kg
+2003 Porsche Carrera GT | Engine placement | center
 2003 Porsche-Carrera-GT | Power | 612 hp @ 8000 rpm
 2003 Porsche-Carrera-GT | Torque | 590 nm
 2003 Porsche-Carrera-GT | 0-100 kmph | 3.9 s
+2003 Range Rover | Power | 190 hp
+2003 Range Rover | Volume | 4 L
+2003 Range Rover | Cylinders | V8
+2003 Range Rover | Power | 224 hp
+2003 Range Rover | Volume | 4.6 L
+2003 Range Rover | Cylinders | V8
 2003 Renault Megane | Body | sedan
 2003 Renault Megane Estate | Power | 110 hp
 2003 Renault Megane Hatchback | Body | hatchback
@@ -31743,6 +32468,7 @@
 2003 Toyota Harrier | Volume | 2.2 L
 2003 Toyota Harrier | Volume | 2.4 L
 2003 Toyota Harrier | Volume | 3 L
+2003 Toyota Harrier | Cylinders | V6
 2003 Toyota Wish | Power | 156 hp
 2003 Toyota Wish | Seats | 7
 2003 Volkswagen Passat GLX | Price | 28750 USD
@@ -32005,13 +32731,16 @@
 2004 Acura RL | Body | sedan
 2004 Acura RL | Cylinders | V6
 2004 Acura RL | Fuel | petrol
+2004 Acura RL | Volume | 3.5 L
 2004 Acura RSX Type S | Power | 200 hp
 2004 Acura RSX Type S | Volume | 2 L
 2004 Acura RSX Type S | Torque | 142 lb-ft @ 6000 rpm
 2004 Acura TL | Volume | 3.2 L
+2004 Acura TL | Power | 270 hp
 2004 Acura TSX | Power | 200 hp
 2004 Acura TSX | Gears | 6 manual
 2004 Acura TSX | Torque | 166 lb-ft @ 4500 rpm
+2004 Acura TSX | Power | 200 hp
 2004 Alfa Romeo 156 Crosswagon | Seats | 5
 2004 Alfa Romeo 156 Crosswagon | Clearance | 140 mm
 2004 Aston Martin DB9 Volante | Cylinders | 12
@@ -32032,6 +32761,7 @@
 2004 Audi A4 Avant RS4 | Power | 420 hp
 2004 Audi A4 Avant RS4 | Volume | 4.2 L
 2004 BMW 1 Series | Wheelbase | 2660 mm
+2004 BMW 1 Series | Cx | 0.290
 2004 BMW 1-series | Body | hatchback
 2004 BMW 7-series | Body | sedan
 2004 Buick Excelle | Power | 109 hp
@@ -32047,6 +32777,7 @@
 2004 Ford-Mustang-GT-R | Gears | 6 manual
 2004 Ford-Mustang-GT-R | Volume | 5 L
 2004 Ford-Mustang-GT-R | Cylinders | V8
+2004 Ford-Mustang-GT-R | Tyres | 275/35 front, 315/30 rear (20-inch wheels)
 2004 Honda FR-V | Volume | 1.7 L
 2004 Honda FR-V | Volume | 2 L
 2004 Honda FR-V | Volume | 2.2 L
@@ -32058,6 +32789,11 @@
 2004 Honda Odyssey | Body | wagon
 2004 Honda S2000 | Body | roadster
 2004 Hyundai Accent | Body | sedan
+2004 Hyundai Accent | Volume | 1.5 L
+2004 Hyundai Accent | Power | 102 hp
+2004 Hyundai Accent | Body | sedan
+2004 Hyundai Accent | Fuel | petrol
+2004 Hyundai Accent | Clearance | 170 mm
 2004 Hyundai Elantra XD | Body | sedan
 2004 Kia Spectra | Doors | 4
 2004 Kia Spectra | Seats | 5
@@ -32134,6 +32870,7 @@
 2004 Mazda 3 MPS | Body | hatchback
 2004 Mazda 6 MPS | Volume | 2.3 L
 2004 Mazda 6 MPS | Body | sedan
+2004 Mazda 6 MPS | Power | 260 hp
 2004 Mazda RX-8 | Price | 26680 USD
 2004 Mazda RX-8 | Price | 26680 USD
 2004 Mazda RX-8 | Price | 26680 USD
@@ -32440,6 +33177,11 @@
 2004 Opel Astra | Body | hatchback
 2004 Opel Astra Caravan | Body | wagon
 2004 Opel Astra OPC | Body | hatchback
+2004 Opel Astra OPC | Fuel | petrol
+2004 Opel Astra OPC | Volume | 2 L
+2004 Opel Astra OPC | Power | 240 hp
+2004 Opel Astra OPC | 0-100 kmph | 6.4 s
+2004 Opel Astra OPC | Gears | 6 manual
 2004 Pontiac GTO | Volume | 5.7 L
 2004 Pontiac GTO | Cylinders | 8
 2004 Pontiac GTO | Power | 340 hp
@@ -32656,8 +33398,20 @@
 2004 Suzuki Swift | Power | 125 hp
 2004 Suzuki Swift | Volume | 1.6 L
 2004 Toyota Mark X | Body | sedan
+2004 Toyota Mark X | Seats | 5
+2004 Toyota Mark X | Body | sedan
+2004 Toyota Passo | Body | hatchback
+2004 Toyota Passo | Volume | 1 L
+2004 Toyota Passo | Doors | 5
+2004 Toyota Passo | Seats | 5
 2004 Toyota Passo | Body | hatchback
 2004 Toyota Porte | Body | hatchback
+2004 Toyota Porte | Doors | 3
+2004 VAZ-2112 | Volume | 1600 cc
+2004 VAZ-2112 | Power | 120 hp
+2004 VAZ-2112 | Power | 120 hp
+2004 VAZ-2112 | Power | 122 hp
+2004 VAZ-2112 | Tyres | Goodyear Eagle 195/55 R15
 2004 VAZ-21123 | Fuel | petrol
 2004 VAZ-21123 | Volume | 1.5 L
 2004 Volvo S80 2.5T | Power | 210 hp
@@ -32761,6 +33515,7 @@
 2005 Acura CSX | Seats | 5
 2005 Acura CSX | Body | sedan
 2005 Acura CSX | Body | sedan
+2005 Acura RL | Power | 300 hp
 2005 Alfa Romeo 159 | Body | sedan
 2005 Alfa Romeo 159 | Body | sedan
 2005 Alfa Romeo 159 | Power | 140 hp
@@ -32769,7 +33524,20 @@
 2005 Alfa Romeo 159 | Power | 260 hp
 2005 Alfa Romeo 159 | Body | sedan
 2005 Alfa Romeo 159 | Fuel | petrol
+2005 Alfa Romeo 159 | Volume | 1.8 L
+2005 Alfa Romeo 159 | Volume | 1.9 L
+2005 Alfa Romeo 159 | Volume | 2.2 L
+2005 Alfa Romeo 159 | Volume | 3.2 L
 2005 Alfa Romeo Brera | Body | coupe
+2005 Alfa Romeo Brera 2.2 JTS | Power | 185 hp
+2005 Alfa Romeo Brera 2.2 JTS | Volume | 2200 cc
+2005 Alfa Romeo Brera 2.4 JTD | Power | 200 hp
+2005 Alfa Romeo Brera 2.4 JTD | Fuel | diesel
+2005 Alfa Romeo Brera 2.4 JTD | 0-100 kmph | 8.1 s
+2005 Alfa Romeo Brera 2.4 JTD | Volume | 2400 cc
+2005 Alfa Romeo Brera 3.2 JTS V6 | Power | 260 hp
+2005 Alfa Romeo Brera 3.2 JTS V6 | Cylinders | V6
+2005 Alfa Romeo Brera 3.2 JTS V6 | Volume | 3200 cc
 2005 Alfa Romeo Spider | Body | roadster
 2005 Aston Martin DBR9 | Count | 20
 2005 Aston Martin DBR9 | Volume | 5998 cc
@@ -32825,6 +33593,7 @@
 2005 Daewoo G2X | Body | cabriolet
 2005 Daewoo Gentra | Clearance | 155 mm
 2005 Daewoo Gentra | Gears | 5 manual
+2005 Daewoo Gentra | Gears | 4 auto
 2005 Daewoo Matiz | Body | hatchback
 2005 Ferrari FXX | Volume | 6262 cc
 2005 Ferrari FXX | Cylinders | V12
@@ -32866,7 +33635,25 @@
 2005 Hyundai Getz II | Fuel | diesel
 2005 Hyundai Getz II | Fuel | petrol
 2005 Hyundai Grandeur | Body | sedan
+2005 Hyundai Grandeur | Volume | 2.2 L
+2005 Hyundai Grandeur | Volume | 2.7 L
+2005 Hyundai Grandeur | Volume | 3.3 L
+2005 Hyundai Grandeur | Power | 155 hp
+2005 Hyundai Grandeur | Power | 192 hp
+2005 Hyundai Grandeur | Power | 235 hp
+2005 Hyundai Grandeur | Fuel | diesel
+2005 Hyundai Grandeur | Fuel | petrol
+2005 Hyundai Grandeur | Fuel | petrol
+2005 Hyundai Grandeur | Gears | 5 auto
 2005 Hyundai NF Sonata | Body | sedan
+2005 Hyundai NF Sonata | Volume | 2 L
+2005 Hyundai NF Sonata | Volume | 2 L
+2005 Hyundai NF Sonata | Volume | 2.4 L
+2005 Hyundai NF Sonata | Volume | 3.3 L
+2005 Hyundai NF Sonata | Power | 140 hp
+2005 Hyundai NF Sonata | Fuel | petrol
+2005 Hyundai NF Sonata | Power | 144 hp
+2005 Hyundai NF Sonata | Power | 235 hp
 2005 I2B Raven (concept) | Count | 1
 2005 I2B Raven (concept) | Cylinders | V10
 2005 I2B Raven (concept) | Compressor | turbo
@@ -32880,6 +33667,7 @@
 2005 Kia Rio Sedan | Body | sedan
 2005 Kia Sorento | Cylinders | V6
 2005 Kia Sorento (US) | Power | 265 hp
+2005 Kia Sorento (US) | Volume | 3.8 L
 2005 Lamborghini Gallardo Edo Competition | Volume | 4961 cc
 2005 Lamborghini Gallardo Edo Competition | Cylinders | V10
 2005 Lamborghini Gallardo Edo Competition | Power | 550 hp @ 7800 rpm
@@ -33031,10 +33819,14 @@
 2005 Mercedes-Benz A 170 | Fuel consumption | 6.6 L/100km
 2005 Mercedes-Benz A 170 | Torque | 155 nm @ 3500
 2005 Mitsubishi Outlander | Volume | 2 L
+2005 Mitsubishi Outlander | Power | 140 hp
 2005 Opel Astra GTC | Body | hatchback
 2005 Opel Tigra | Body | coupe
 2005 Opel Vectra | Body | hatchback
 2005 Opel Vectra OPC | Body | hatchback
+2005 Opel Vectra OPC | Power | 255 hp
+2005 Opel Vectra OPC | Trunk size | 500 L
+2005 Opel Vectra OPC | Gears | 6 manual
 2005 Opel Vectra Sedan | Body | sedan
 2005 Opel Zafira OPC | Volume | 2 L
 2005 Opel Zafira OPC | Compressor | turbo
@@ -33043,25 +33835,32 @@
 2005 SsangYong Actyon | Power | 150 hp
 2005 SsangYong Actyon | Volume | 2000 cc
 2005 SsangYong Actyon | Volume | 2300 cc
+2005 SsangYong Actyon | Fuel | petrol
+2005 SsangYong Actyon | Volume | 2.3 L
 2005 SsangYong Kyron | Seats | 7
 2005 SsangYong Kyron 2.0 | Volume | 2000 cc
 2005 SsangYong Kyron 2.0 | Gears | 5 auto
 2005 SsangYong Kyron 2.0 | Gears | 5 manual
+2005 SsangYong Kyron 2.0 | Power | 140 hp
 2005 SsangYong Kyron 2.7 | Volume | 2700 cc
 2005 Subaru R1 | Power | 45 hp
+2005 Subaru R1 | Gears | 4 auto
 2005 Subaru Tribeca | Volume | 3.6 L
+2005 Subaru Tribeca | Power | 256 hp
 2005 Subaru Tribeca B9 | Gears | 5 auto
 2005 Subaru Tribeca B9 | Cylinders | 6
 2005 Subaru Tribeca B9 | Volume | 3 L
 2005 Toyota Aygo | Body | hatchback
 2005 Toyota Aygo | Fuel | petrol
 2005 Toyota Aygo | Volume | 1 L
+2005 Toyota Aygo | Power | 68 hp
 2005 Toyota Cami | Seats | 5
 2005 Toyota Cami | Volume | 1.3 L
 2005 Toyota Camry | Body | sedan
 2005 Toyota Corolla T Sport | Volume | 1.8 L
 2005 Toyota Corolla T Sport | Power | 188 hp @ 7800 rpm
 2005 Toyota Corolla T Sport | Torque | 180 nm @ 6800 rpm
+2005 Toyota Corolla T Sport | Tyres | 195/55 R16
 2005 Toyota Fortuner | Doors | 5
 2005 Toyota Fortuner | Seats | 7
 2005 Toyota Yaris | Body | hatchback
@@ -33083,6 +33882,7 @@
 2005 Volvo XC90 V8 | Fuel | petrol
 2005 Volvo XC90 V8 | Volume | 4.4 L
 2005 Volvo XC90 V8 | Cylinders | V8
+2005 Volvo XC90 V8 | Trunk size | 613 L
 2005 VW Golf | Fuel | petrol
 2005 VW Golf | Power | 75 hp
 2005 VW Golf | Volume | 1.4 L
@@ -33101,6 +33901,9 @@
 2005 VW Golf | Fuel | diesel
 2005 VW Golf | Gears | 5 manual
 2005 VW Golf | Gears | 6 manual
+2005 VW Golf | Trunk size | 1450 L
+2005 VW Golf | Trunk size | 505 L
+2005 VW Golf | Trunk size | 395 L
 2005 VW Touareg V8 | Price | 86900 USD @ 2005 Russia
 2005 VW Touareg V8 | Volume | 4172 cc
 2005 VW Touareg V8 | Cylinders | V8
@@ -33251,6 +34054,7 @@
 2006 BMW X5 | Cylinders | V8
 2006 BMW X5 | Seats | 5
 2006 BMW X5 | Seats | 7
+2006 BMW X5 | Tyres | run-flat, up to 150 km
 2006 BMW Z4 Coupe | Body | coupe
 2006 Cadillac STS-V | Price | 74270 USD
 2006 Cadillac STS-V | Volume | 4371 cc
@@ -33288,16 +34092,26 @@
 2006 Chevrolet Camaro Concept | Volume | 6000 cc
 2006 Chevrolet Camaro Concept | Cylinders | V8
 2006 Chevrolet Camaro Concept | Gears | 6 manual
+2006 Chevrolet Camaro Concept | Tyres | 275/30 R21 front, 305/30 R22 rear
 2006 Daewoo Tosca | Body | sedan
 2006 Dodge Charger Daytona R/T | Power | 350 hp
 2006 Dodge Charger Daytona R/T | Torque | 390 lb-ft
+2006 Dodge Charger Daytona R/T | Tyres | P235/55 R18
 2006 Ford Focus ST | Body | hatchback
 2006 Honda Civic 4D | Power | 140 hp
 2006 Honda Civic 4D | Volume | 1.8 L
 2006 Honda Civic 4D | Fuel | petrol
 2006 Honda Civic 4D | Body | sedan
 2006 Honda Civic 5D | Body | hatchback
+2006 Honda Civic 5D | Volume | 1.3 L
+2006 Honda Civic 5D | Volume | 1.8 L
+2006 Honda Civic 5D | Volume | 2.2 L
+2006 Honda Civic 5D | Power | 140 hp
+2006 Honda Civic 5D | Power | 140 hp
+2006 Honda Civic 5D | Power | 83 hp
+2006 Honda Civic 5D | Gears | 6 manual
 2006 Honda Civic IMA | Volume | 1.3 L
+2006 Honda Civic IMA | Power | 115 hp
 2006 Honda Civic Si | Price | 19990 USD
 2006 Honda Civic Si | Price | 19990 USD
 2006 Honda Civic Si | Volume | 1998 cc
@@ -33359,10 +34173,14 @@
 2006 Hyundai Verna | Fuel | diesel
 2006 Hyundai Verna | Fuel | petrol
 2006 Hyundai Verna | Body | sedan
+2006 Hyundai Verna | Power | 97 hp
+2006 Hyundai Verna | Power | 112 hp
 2006 Kia Magentis | Body | sedan
 2006 Kia Opirus | Body | sedan
 2006 Lada 2112 Coupe | Body | hatchback 3
 2006 Lamborghini Gallardo GT Sport ItalCarDesign | Power | 565 hp
+2006 Lamborghini Gallardo GT Sport ItalCarDesign | Front tyres | 235/30 ZR20
+2006 Lamborghini Gallardo GT Sport ItalCarDesign | Rear tyres | 305/25 ZR20
 2006 Lamborghini Gallardo GT3 | Volume | 4961 cc
 2006 Lamborghini Gallardo GT3 | Cylinders | V10
 2006 Lamborghini Gallardo GT3 | Power | 530 hp @ 7800 rpm
@@ -33594,6 +34412,7 @@
 2006 Mini Cooper S | Drive | front
 2006 Mitsubishi Eclipse | Body | coupe
 2006 Mitsubishi L200 | Body | pickup
+2006 Mitsubishi L200 | Body | pickup
 2006 Mitsubishi Pajero IV | Volume | 3.8 L
 2006 Mitsubishi Pajero IV 3D (3-door) | Wheelbase | 2545 mm
 2006 Mitsubishi Pajero IV 3D (5-door) | Wheelbase | 2780 mm
@@ -33619,40 +34438,61 @@
 2006 Renault Clio | Body | hatchback
 2006 Renault Clio | Trunk size | 288 L
 2006 Renault Clio | Gears | 5 manual
+2006 Renault Clio | Gears | 4 auto
 2006 Renault Clio (rear seats folded) | Trunk size | 1038 L
 2006 Renault Clio 1.2 | Volume | 1200 cc
+2006 Renault Clio 1.2 | Power | 75 hp
 2006 Renault Clio 1.4 | Volume | 1400 cc
+2006 Renault Clio 1.4 | Power | 98 hp
 2006 Renault Clio 1.5 dCi | Volume | 1500 cc
+2006 Renault Clio 1.5 dCi | Power | 106 hp
+2006 Renault Clio 1.5 dCi | Power | 68 hp
+2006 Renault Clio 1.5 dCi | Power | 86 hp
 2006 Renault Clio 1.6 | Volume | 1600 cc
+2006 Renault Clio 1.6 | Power | 112 hp
 2006 Renault Clio Sport | Torque | 215 nm
 2006 Renault Clio Sport | Volume | 2 L
+2006 Renault Clio Sport | Power | 197 hp
 2006 Renault Grand Scenic | Seats | 7
 2006 Renault Grand Scenic | Trunk size | 430 L
 2006 Renault Grand Scenic 2.0 | Volume | 2000 cc
+2006 Renault Grand Scenic 2.0 | Power | 136 hp
 2006 Renault Laguna Estate | Fuel | petrol
 2006 Renault Laguna Estate | Volume | 2 L
 2006 Skoda Fabia (tuned) | Power | 260 hp
+2006 Skoda Fabia (tuned) | Tyres | 235/45 R17
 2006 SsangYong Actyon Sports | Power | 141 hp
 2006 SsangYong Actyon Sports | Body | pickup
 2006 SsangYong Rexton | Seats | 5
 2006 SsangYong Rexton | Seats | 7
 2006 SsangYong Rexton | Gears | 5 auto
 2006 SsangYong Rexton | Gears | 5 manual
+2006 SsangYong Rexton | Gears | 4 auto
 2006 SsangYong Rexton 2.3 | Volume | 2300 cc
+2006 SsangYong Rexton 2.3 | Power | 150 hp
 2006 SsangYong Rexton 2.7 | Volume | 2700 cc
 2006 SsangYong Rexton 2.7 | Cylinders | 6
 2006 SsangYong Rexton 2.7 | Fuel | petrol
+2006 SsangYong Rexton 2.7 | Power | 165 hp
+2006 SsangYong Rexton 2.7 | Power | 217 hp
 2006 Subaru Stella | Gears | 5 auto
 2006 Suzuki SX4 | Volume | 1.6 L
+2006 Suzuki SX4 | Power | 107 hp
 2006 Suzuki SX4 Sedan | Volume | 1.5 L
 2006 Suzuki SX4 Sedan | Volume | 1.6 L
 2006 Suzuki SX4 Sedan | Volume | 1.9 L
 2006 Suzuki SX4 Sedan | Volume | 2 L
+2006 Suzuki SX4 Sedan | Power | 107 hp
+2006 Suzuki SX4 Sedan | Power | 110 hp
+2006 Suzuki SX4 Sedan | Power | 120 hp
+2006 Suzuki SX4 Sedan | Power | 145 hp
 2006 Toyota Aurion | Volume | 3.5 L
 2006 Toyota Aurion | Body | sedan
+2006 Toyota Aurion | Cylinders | V6
 2006 Toyota Aurion TRD | Power | 327 hp
 2006 Toyota Aurion TRD | 0-100 kmph | 6.1 s
 2006 Toyota Belta | Body | sedan
+2006 Toyota Blade | Body | hatchback
 2006 Toyota Blade | Body | hatchback
 2006 Volkswagen GTI 2.0 T | Price | 21990 USD
 2006 Volkswagen GTI 2.0 T | Price | 21990 USD
@@ -33770,6 +34610,7 @@
 2007 Acura MDX | Seats | 7
 2007 Acura MDX | Cylinders | V6
 2007 Acura MDX | Fuel | petrol
+2007 Acura MDX | Volume | 3.7 L
 2007 Alfa Romeo 8C Competizione | Body | coupe
 2007 Aston Martin DBS | Cylinders | 12
 2007 Audi A3 | Power | 160 hp
@@ -33819,6 +34660,10 @@
 2007 Audi-R8 | Fuel consumption | 22.10 L/100km
 2007 Audi-R8 | Torque | 430 nm @ 4500-6000 rpm
 2007 Audi-R8 | Fuel | petrol
+2007 Audi-R8 | Tyres | 235/40R18 front, 285/35R18 rear
+2007 Audi-R8 | Weight | 1560 kg
+2007 Audi-R8 | Fuel tank | 70 L
+2007 Audi-R8 | Volume | 4163 cc
 2007 BMW 1 Series (5-door) | Power | 115 hp
 2007 BMW 1 Series (5-door) | Volume | 1600 cc
 2007 BMW 1 Series (5-door) | Gears | 6 manual
@@ -33880,6 +34725,8 @@
 2007 Fiat Linea | Width | 1730 mm
 2007 Fiat Linea | Height | 1500 mm
 2007 Fiat Linea | Wheelbase | 2600 mm
+2007 Ford Focus Cabriolet (cabriolet) | Trunk size | 248 L
+2007 Ford Focus Cabriolet (coupe) | Trunk size | 534 L
 2007 Ford Focus ST | Gears | 6 manual
 2007 Ford Mondeo | Length | 4844 mm
 2007 Ford Mondeo | Wheelbase | 2850 mm
@@ -33896,8 +34743,13 @@
 2007 Honda Civic Type-R | Body | hatchback 3
 2007 Honda Civic Type-R | Fuel | petrol
 2007 Hyundai Coupe | Body | coupe
+2007 Hyundai Coupe | Volume | 2.7 L
+2007 Hyundai Coupe | Gears | 6 manual
+2007 Hyundai Coupe | Power | 105 hp
+2007 Hyundai Coupe | Power | 165 hp
 2007 Kia Carens | Body | wagon
 2007 Kia Ceed | Body | hatchback
+2007 Kia Ceed | Wheelbase | 2650 mm
 2007 Kia Ceed Wagon | Seats | 5
 2007 Kia Ceed Wagon | Body | wagon
 2007 Kia Picanto | Body | hatchback
@@ -33905,6 +34757,7 @@
 2007 Lada-Kalina-1119 | Body | hatchback 5
 2007 Lada-Kalina-1119 | Gears | 5 manual
 2007 Lada-Priora-2170 | Power | 98 hp
+2007 Lada-Priora-2172 | Tyres | 185/65 R14
 2007 Lamborghini Gallardo SLE Edo Competition | Volume | 4961 cc
 2007 Lamborghini Gallardo SLE Edo Competition | Cylinders | V10
 2007 Lamborghini Gallardo SLE Edo Competition | Power | 560 hp @ 8250 rpm
@@ -34175,6 +35028,7 @@
 2007 Mercedes S-class | Volume | 4.3 L
 2007 Mercedes S-class | Fuel | petrol
 2007 Mercedes S-class | Volume | 5 L
+2007 Mercedes S-class S 63 AMG | Power | 525 hp
 2007 Mercedes-Benz S550 | Price | 85400 USD
 2007 Mercedes-Benz S550 | Price | 85400 USD
 2007 Mercedes-Benz S550 | Volume | 5461 cc
@@ -34231,8 +35085,11 @@
 2007 Mitsubishi Lancer X | Volume | 2 L
 2007 Mitsubishi Outlander XL | Power | 220 hp
 2007 Nissan GT-R | Volume | 3.8 L
+2007 Nissan GT-R | Power | 480 hp
 2007 Nissan Rogue | Wheels | 17
 2007 Opel Astra Sedan | Body | sedan
+2007 Opel Astra Sedan | Length | 4587 mm
+2007 Opel Astra Sedan | Wheelbase | 2703 mm
 2007 Opel Corsa GSi | Power | 150 hp
 2007 Opel Corsa GSi | Fuel | petrol
 2007 Opel Corsa GSi | Volume | 1.6 L
@@ -34295,6 +35152,7 @@
 2007 SSC Ultimate Aero | Front wheels | 9.5x19
 2007 SSC Ultimate Aero | Rear wheels | 13x20
 2007 SSC Ultimate Aero | Drive | rear
+2007 Subaru Justy | Gears | 5 manual
 2007 Toyota Aurion | Body | sedan
 2007 Toyota Auris | Power | 124 hp
 2007 Toyota Auris | Seats | 5
@@ -34305,11 +35163,27 @@
 2007 Toyota Corolla | Seats | 5
 2007 Toyota Corolla | Body | sedan
 2007 Toyota Corolla | Fuel | petrol
+2007 Toyota Corolla | Volume | 1.4 L
+2007 Toyota Corolla | Volume | 1.6 L
 2007 Toyota Corolla Verso | Volume | 2200 cc
 2007 Toyota Tundra | Body | pickup
 2007 Toyota Yaris | Power | 133 hp
 2008 Alfa Romeo 8C Spider | Body | roadster
+2008 Alfa Romeo 8C Spider | Power | 450 hp
+2008 Alfa Romeo 8C Spider | Power | 450 hp @ 7000 rpm
+2008 Alfa Romeo 8C Spider | Cylinders | V8
+2008 Alfa Romeo 8C Spider | 0-100 kmph | 4.5 s
+2008 Alfa Romeo 8C Spider | Volume | 4700 cc
+2008 Alfa Romeo 8C Spider | Weight | 1608 kg
 2008 Alfa Romeo MiTo | Body | hatchback
+2008 Alfa Romeo MiTo | Body | hatchback 3
+2008 Alfa Romeo MiTo | Fuel | petrol
+2008 Alfa Romeo MiTo 1.4 | Power | 105 hp
+2008 Alfa Romeo MiTo 1.4 | Volume | 1.4 L
+2008 Alfa Romeo MiTo 1.4 Turbo | Power | 135 hp
+2008 Alfa Romeo MiTo 1.4 Turbo | Volume | 1.4 L
+2008 Alfa Romeo MiTo 1.4 Turbo 170 | Power | 170 hp
+2008 Alfa Romeo MiTo 1.4 Turbo 170 | Volume | 1.4 L
 2008 Audi A6 | Power | 290 hp
 2008 Audi A6 | Torque | 420 nm
 2008 Audi Q5 | Fuel consumption | 8.5 L/100km
@@ -34371,6 +35245,7 @@
 2008 Ferrari California | Rear tyres | 285/35 ZR20
 2008 Ford Escape | Power | 145 hp
 2008 Ford Escape | Torque | 200 nm @ 4000 rpm
+2008 Ford Escape | Gears | 4 auto
 2008 Ford Focus | Body | hatchback
 2008 Ford Focus Sedan | Body | sedan
 2008 Ford Kuga | Gears | 6 manual
@@ -34386,6 +35261,13 @@
 2008 Honda Pilot | Seats | 8
 2008 Hyundai Genesis | Body | sedan
 2008 Hyundai i30 | Body | hatchback
+2008 Hyundai i30 | Volume | 1.4 L
+2008 Hyundai i30 | Volume | 1.6 L
+2008 Hyundai i30 | Volume | 2 L
+2008 Hyundai i30 | Power | 108 hp
+2008 Hyundai i30 | Power | 122 hp
+2008 Hyundai i30 | Power | 140 hp
+2008 Hyundai i30 | Wheelbase | 2650 mm
 2008 Kia c'eed | Price | 490440 RUR @ 2009 Russia
 2008 Kia c'eed | Price | 641860 RUR @ 2009 Russia
 2008 Kia c'eed | Volume | 1.4 L
@@ -34405,6 +35287,8 @@
 2008 Kia c'eed | Wheelbase | 2650 mm
 2008 Kia c'eed | Gears | 4 auto
 2008 Kia c'eed | Gears | 5 manual
+2008 Kia Pro Ceed | Body | hatchback
+2008 Kia Pro Ceed | Doors | 3
 2008 Kia Pro Ceed | Body | hatchback
 2008 Kia Soul | Doors | 5
 2008 Lamborghini Alar | Volume | 7700 cc
@@ -34721,6 +35605,7 @@
 2008 Mazda Atenza | Volume | 2300 cc
 2008 Mazda CX-9 | Power | 273 hp
 2008 Mazda CX-9 | Volume | 3700 cc
+2008 Mazda CX-9 | Cylinders | V6
 2008 Mazda Demio | Body | hatchback
 2008 Mazda Demio | Volume | 1300 cc
 2008 Mazda Demio | Volume | 1500 cc
@@ -34730,6 +35615,7 @@
 2008 Mercedes SL 65 AMG | Power | 612 hp
 2008 Mercedes SL 65 AMG | Cylinders | V12
 2008 Mercedes-Benz CLC-class | Volume | 3.5 L
+2008 Mercedes-Benz CLC-class | Power | 272 hp
 2008 Mitsubishi Lancer Evolution | Body | sedan
 2008 Mitsubishi Pajero Sport | Volume | 2500 cc
 2008 Mitsubishi Pajero Sport | Volume | 3200 cc
@@ -34740,6 +35626,12 @@
 2008 Nissan Pathfinder | Cylinders | V8
 2008 Nissan Pathfinder | Power | 321 hp
 2008 Nissan Pathfinder | Volume | 5600 cc
+2008 Nissan Pathfinder | Volume | 2500 cc
+2008 Nissan Pathfinder | Volume | 4000 cc
+2008 Nissan Pathfinder | Cylinders | V6
+2008 Nissan Pathfinder | Power | 171 hp
+2008 Nissan Pathfinder | Power | 269 hp
+2008 Nissan Pathfinder | Seats | 7
 2008 Opel Insignia | Body | sedan
 2008 Opel Insignia Hatchback | Body | hatchback
 2008 Opel Insignia Sports Tourer | Body | wagon
@@ -34775,6 +35667,7 @@
 2008 Skoda Octavia | Gears | 7
 2008 Skoda Octavia | Gears | 7 seq
 2008 Subaru Dex | Power | 94 hp
+2008 Subaru Dex | Gears | 4 auto
 2008 Subaru Exiga | Seats | 7
 2008 Subaru Exiga | Gears | 5 auto
 2008 Subaru Exiga | Gears | 6 manual
@@ -34796,9 +35689,13 @@
 2008 Suzuki Alto | Volume | 1000 cc
 2008 Suzuki Splash | Volume | 1 L
 2008 Suzuki Splash | Volume | 1.2 L
+2008 Suzuki Splash | Power | 65 hp
+2008 Suzuki Splash | Power | 86 hp
 2008 Toyota Auris | Body | hatchback
 2008 Toyota Avensis Wagon | Volume | 1.8 L
 2008 Toyota Avensis Wagon | Volume | 2 L
+2008 Toyota Avensis Wagon | Power | 147 hp
+2008 Toyota Avensis Wagon | Power | 152 hp
 2008 Toyota iQ | Body | hatchback
 2008 Toyota iQ | Body | hatchback
 2008 Toyota iQ | Power | 68 hp
@@ -34891,6 +35788,7 @@
 2009 BMW 5 Series Grand Turismo | Trunk size | 430 L
 2009 BMW 5 Series Grand Turismo (rear seats forward) | Trunk size | 570 L
 2009 BMW ActiveHybrid X6 | Torque | 780 nm
+2009 BMW X1 | Tyres | run-flat, up to 250 km
 2009 BMW Z4 Roadster (II) | Price | 35900 EUR @ 2009 Europe
 2009 BMW Z4 Roadster (II) | Price | 47450 EUR @ 2009 Europe
 2009 BMW Z4 Roadster (II) | Volume | 3 L
@@ -35108,8 +36006,12 @@
 2009 Opel Astra | Volume | 1.4 L
 2009 Opel Astra | Volume | 1.6 L
 2009 Opel Astra | Volume | 2 L
+2009 Opel Astra | Power | 100 hp
+2009 Opel Astra | Power | 115 hp
+2009 Opel Astra | Power | 160 hp
 2009 Opel Insignia OPC | Body | sedan
 2009 Opel Insignia OPC Hatchback | Body | hatchback
+2009 Opel Insignia OPC Hatchback | Power | 325 hp
 2009 Opel Insignia OPC Sports Tourer | Body | wagon
 2009 Opel Insignia OPC Sports Tourer | Volume | 2.8 L
 2009 Opel Insignia OPC Sports Tourer | Compressor | turbo
@@ -35120,9 +36022,12 @@
 2009 Porsche Panamera Turbo | Power | 500 hp
 2009 Renault Fluence | Volume | 1.6 L
 2009 Renault Sandero Stepway | Volume | 1.6 L
+2009 Renault Sandero Stepway | Power | 84 hp
 2009 Suzuki Kizashi | Power | 178 hp
 2009 Suzuki Kizashi | Volume | 2400 cc
 2009 Suzuki Kizashi | Gears | 6 manual
+2009 Suzuki Kizashi | Fuel | petrol
+2009 Suzuki Kizashi | Volume | 2.4 L
 2009 Toyota Avensis | Body | sedan
 2009 Toyota Avensis III | Body | sedan
 2009 Toyota Avensis III | Volume | 1800 cc
@@ -35188,6 +36093,7 @@
 2010 Audi RS5 | Power | 450 hp
 2010 Audi RS5 | Seats | 4
 2010 Audi RS5 | Volume | 4.2 L
+2010 Audi RS5 | Tyres | 265/35 (19-inch)
 2010 Audi RS5 Coupe | Cylinders | V8
 2010 Audi RS5 Coupe | Volume | 4.2 L
 2010 Bentley Continental GT | Fuel consumption | 16.5 L/100km
@@ -35250,6 +36156,7 @@
 2010 Nissan Patrol | 0-100 kmph | 6.6 s
 2010 Nissan Patrol | Volume | 5.6 L
 2010 Nissan Patrol | Cylinders | V8
+2010 Nissan Patrol | Cylinders | 6
 2010 Opel Astra NEW | Body | hatchback
 2010 Opel Astra ST | Body | wagon
 2010 Porsche 911 GT3R Hybrid | Power | 640 hp
@@ -35262,9 +36169,14 @@
 2010 Renault Latitude | Power | 177 hp
 2010 Renault Latitude | Volume | 2000 cc
 2010 Renault Latitude | Volume | 2500 cc
+2010 Renault Latitude | Fuel | petrol
+2010 Renault Latitude | Volume | 2.5 L
+2010 Renault Latitude | Cylinders | V6
 2010 Renault Logan | Seats | 5
 2010 Renault Logan 1.4 Authentique | Volume | 1400 cc
+2010 Renault Logan 1.4 Authentique | Power | 75 hp
 2010 Renault Logan 1.6 Expression | Volume | 1600 cc
+2010 Renault Logan 1.6 Expression | Power | 90 hp
 2010 Renault Megane Coupe | Body | coupe
 2010 Renault Sandero | Body | hatchback
 2010 Renault Sandero Stepway | Body | hatchback
@@ -35275,6 +36187,7 @@
 2010 Subaru Outback | Clearance | 195 mm
 2010 Subaru Outback | Cylinders | 6
 2010 Subaru Outback | Power | 245 hp
+2010 Subaru Outback | Volume | 3 L
 2010 Subaru Outback | Volume | 3 L
 2010 Toyota Prius | Body | sedan
 2011 Aston Martin Cygnet | Cylinders | 4
@@ -35315,6 +36228,7 @@
 2011 Audi A6 Avant | Wheelbase | 2912 mm
 2011 Audi A6 Avant | Width | 1874 mm
 2011 Audi A6 Avant | Gears | 6 manual
+2011 Audi A6 Avant | Weight | 1640 kg
 2011 Audi A6 Avant 2.0 TDI | Power | 177 hp
 2011 Audi A6 Avant 2.8 FSI | Power | 204 hp
 2011 Audi A6 Avant 3.0 TDI | Power | 204 hp
@@ -35342,11 +36256,13 @@
 2011 Audi RS3 Sportback | Power | 340 hp
 2011 Audi RS3 Sportback | Torque | 450 nm
 2011 Audi RS3 Sportback | Volume | 2.5 L
+2011 Audi RS3 Sportback | Tyres | 19-inch
 2011 BMW 1M Coupe | Cylinders | 6
 2011 BMW 1M Coupe | Power | 335 hp
 2011 BMW 1M Coupe | Torque | 450 nm
 2011 BMW 1M Coupe | Volume | 3000 cc
 2011 BMW 1M Coupe | Gears | 6 manual
+2011 BMW 1M Coupe | Max rpm | 7000
 2011 BMW 1M Coupe (overboost) | Torque | 500 nm
 2011 BMW 6 Series Cabrio | Wheelbase | 2855 mm
 2011 BMW 6 Series Coupe | Height | 1365 mm
@@ -35418,7 +36334,9 @@
 2011 Opel Corsa NEW | Body | hatchback
 2011 Opel Corsa OPC | Body | hatchback 3
 2011 Opel Corsa OPC | 0-100 kmph | 7.2 s
+2011 Opel Corsa OPC | Power | 192 hp
 2011 Opel Corsa OPC NEW | Body | hatchback
+2011 SSC-Tuatara | Speed | 440 kmph
 2012 Audi A6 Allroad quattro | Clearance | 185 mm
 2012 Audi S4 | Cylinders | 6
 2012 Audi S4 | Length | 4716 mm
@@ -35445,6 +36363,7 @@
 2012 TMG-Sports-650-Concept | Weight | 2050 kg
 2012 TMG-Sports-650-Concept | Power | 650 hp @ 6500 rpm
 2012 TMG-Sports-650-Concept | 0-100 kmph | 3.9 s
+2012 TMG-Sports-650-Concept | Tyres | Michelin 275/35R20 front, 345/30R20 rear
 2013 Ferrari LaFerrari | Drive | rear
 2013 Ferrari LaFerrari | Front tyres | 265/30 Pirelli P Zero
 2013 Ferrari LaFerrari | Height | 1116 mm
@@ -35455,6 +36374,7 @@
 2013 Ferrari LaFerrari | Wheelbase | 2650 mm
 2013 Ferrari LaFerrari | Width | 1992 mm
 2013 Ferrari LaFerrari | Volume | 6.3 L
+2013 Ferrari LaFerrari | Cylinders | V12
 2013 Hennessey-Venom-GT | Volume | 7 L
 2013 Hennessey-Venom-GT | Power | 1500 hp
 2013 Hennessey-Venom-GT (previous version) | Volume | 6.2 L
