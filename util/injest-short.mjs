@@ -2,28 +2,64 @@ import readline from "readline/promises";
 
 const main = async () => {
   const rl = readline.createInterface(process.stdin);
+  let ok = 0;
   for await (const line of rl) {
-    const specs = parse(line);
-    if (!specs) {
-      console.log(line);
-      continue;
+    const row = line.split("|").map((x) => x.trim());
+    const outrows = mapRow(row);
+    if (outrows[0] !== row) {
+      ok++;
     }
-    for (const spec of specs) {
-      console.log(spec.join(" | "));
+    for (const row of outrows) {
+      console.log(row.join(" | "));
+    }
+  }
+  console.log("# ok = " + ok);
+};
+
+const mapRow = (row) => {
+  let rows = [row];
+  rows = rows.map((row) => ors(row) || [row]).flat(1);
+  rows = rows.map((row) => debrace(row) || [row]).flat(1);
+  rows = rows.map((row) => deshort(row) || [row]).flat(1);
+  return rows;
+};
+
+const ors = (row) => {
+  if (row.length == 3 && row[2].includes("::")) {
+    const vals = row[2].split("::").map((s) => s.trim());
+    return vals.map((val) => [row[0], row[1], val]);
+  }
+};
+
+const debrace = (row) => {
+  if (row.length == 3) {
+    const m = row[1].match(/^(.*?) \((.*?)\)$/);
+    if (m) {
+      return [[`${row[0]} (${m[2]})`, m[1], row[2]]];
     }
   }
 };
 
-const parse = (line) => {
-  const cols = line.split("|").map((x) => x.trim());
-  if (cols.length != 2) {
-    return null;
+const deshort = (row) => {
+  if (row.length == 2) {
+    const facts = parseShort(row[1]);
+    if (facts) {
+      return [
+        ["# " + row.join(" | ")],
+        ...facts.map((fact) => [row[0], ...fact]),
+      ];
+    }
   }
-  let [id, s] = cols;
-  const facts = [];
+};
 
+const parseShort = (line) => {
+  const facts = [];
+  let s = line;
   for (;;) {
-    s = s.trim();
+    while (s[0] == "," || s[0] == " ") {
+      s = s.substring(1, s.length);
+    }
+
     if (s == "") break;
 
     // find the longest match
@@ -35,14 +71,14 @@ const parse = (line) => {
       })
       .filter((x) => x !== null)
       .sort((a, b) => b.m[0].length - a.m[0].length);
-
     if (matches.length == 0) {
       console.warn({ line, facts, remaining: s });
       return null;
     }
 
-    const f = matches[0].matcher[1];
-    const m = matches[0].m;
+    const mm = matches[0];
+    const f = mm.matcher[1];
+    const m = mm.m;
     const params = f(...m);
     if (Array.isArray(params[0])) {
       facts.push(...params);
@@ -54,8 +90,7 @@ const parse = (line) => {
     s = s.replace(")", "");
     s = s.replace(";", "");
   }
-
-  return facts.map((fact) => [id, ...fact]);
+  return facts;
 };
 
 const matchers = [
@@ -75,6 +110,17 @@ const matchers = [
     (v) => ["Body", v],
   ],
   [/(2|4)-door sedan/, (_, n) => ["Body", `sedan ${n}`]],
+
+  //
+  //
+  //
+  [
+    /(\d+)-valve V(\d+)/,
+    (_, v, c) => [
+      ["Valves per cylinder", v / c],
+      ["Cylinders", c],
+    ],
+  ],
 
   //
   // Valves per cylinder
@@ -102,7 +148,10 @@ const matchers = [
   //
   // Cylinders
   //
-  [/B6|b12|b4|v8|R4|V6|v12|R6|VR6|VR5|R3|V10|W12|R5/i, (v) => ["Cylinders", v]],
+  [
+    /B6|b12|b4|v8|R4|V6|R8|v12|R6|VR6|VR5|R3|V10|W12|R5/i,
+    (v) => ["Cylinders", v],
+  ],
   [/6-cylinder/, (v) => ["Cylinders", 6]],
   [/(\d)[\- ]?cyl/, (_, v) => ["Cylinders", v]],
   [/4 cyl/, (v) => ["Cylinders", 4]],
@@ -243,6 +292,7 @@ const matchers = [
   //
   [/front-drive/, () => ["Drive", "front"]],
   [/front drive/, () => ["Drive", "front"]],
+  [/rear drive/, () => ["Drive", "rear"]],
   [/4wd/, () => ["Drive", "full"]],
   [/rwd/, () => ["Drive", "rear"]],
 
