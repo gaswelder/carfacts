@@ -29,6 +29,10 @@ const ors = (row) => {
     const vals = row[2].split("::").map((s) => s.trim());
     return vals.map((val) => [row[0], row[1], val]);
   }
+  if (row.length == 2 && row[1].includes("::")) {
+    const vals = row[1].split("::").map((s) => s.trim());
+    return vals.map((val) => [row[0], val]);
+  }
 };
 
 const debrace = (row) => {
@@ -106,7 +110,7 @@ const matchers = [
   // Body
   //
   [
-    /coupe|targa|wagon 3|sedan|cabriolet|roadster|hatchback 5|wagon|spyder/i,
+    /coupe|targa|wagon 3|sedan|cabriolet|roadster|hatchback 5|wagon|spyder|suv/i,
     (v) => ["Body", v],
   ],
   [/(2|4)-door sedan/, (_, n) => ["Body", `sedan ${n}`]],
@@ -115,10 +119,10 @@ const matchers = [
   //
   //
   [
-    /(\d+)-valve V(\d+)/,
-    (_, v, c) => [
+    /(\d+)-valve (V|B|R)(\d+)/,
+    (_, v, l, c) => [
       ["Valves per cylinder", v / c],
-      ["Cylinders", c],
+      ["Cylinders", `${l}${c}`],
     ],
   ],
 
@@ -149,17 +153,17 @@ const matchers = [
   // Cylinders
   //
   [
-    /B6|b12|b4|v8|R4|V6|R8|v12|R6|VR6|VR5|R3|V10|W12|R5/i,
+    /B6|b12|b4|v8|R4|V6|R8|v12|R6|VR6|VR5|R3|V10|W12|R5|r4|r6/i,
     (v) => ["Cylinders", v],
   ],
-  [/6-cylinder/, (v) => ["Cylinders", 6]],
+  [/(\d)-cylinder/, (v) => ["Cylinders", v]],
   [/(\d)[\- ]?cyl/, (_, v) => ["Cylinders", v]],
   [/4 cyl/, (v) => ["Cylinders", 4]],
 
   //
   // Fuel
   //
-  [/petrol|diesel/, (v) => ["Fuel", v]],
+  [/petrol|diesel/i, (v) => ["Fuel", v]],
 
   //
   // Volume
@@ -208,6 +212,7 @@ const matchers = [
   //
   [/2\+2/, () => ["Seats", "2+2"]],
   [/(\d)\s?seats/, (_, v) => ["Seats", v]],
+  [/(\d)-seat/, (_, v) => ["Seats", v]],
   [/seats=(\d)/i, (_, v) => ["Seats", v]],
 
   //

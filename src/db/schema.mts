@@ -55,15 +55,13 @@ const size = unit(["mm", "in", "m", "cm"], {
 
 const isnum = (s: string) => s.match(/^\d+(\.\d+)?$/);
 
-const brakes = (val: string) => {
-  val = val.replace("discs", "disc");
-  if (val == "drums") {
-    return { val: "drum" };
-  }
-  if (["ventilated disc", "drum", "disc"].includes(val)) {
-    return { val };
-  }
-};
+const brakes = oneof([
+  { canonical: "drum", aliases: ["drums"] },
+  { canonical: "all drum", aliases: ["all drums"] },
+  "disc",
+  "all disc",
+  "ventilated disc",
+]);
 
 const tyres = (val: string) => {
   const x = parseTyre(val);
@@ -114,7 +112,7 @@ export const known = {
   // Engine
   Volume: unit(["cc", "L", "cin"], { defaults: [{ unit: "L", max: 10 }] }),
   Cylinders: oneof(
-    `1 10 12 16 18 2 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5 R3
+    `1 10 12 16 18 2 3 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5 R3
         V10 V12 V16 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),
   ),
   Compressor: oneof([
@@ -141,77 +139,36 @@ export const known = {
     ],
     {},
   ),
-  // Torque: (s: string) => {
-  //   const p = parseTorque(s);
-  //   if (!p) return null;
-  //   if (!p.u) p.u = "nm";
-  //   return { val: p.format() };
-  // },
   Fuel: oneof([
-    "petrol",
-    "natural gas",
+    "bioethanol",
     "diesel",
     "electric",
+    "hydrogen",
+    "kerosene",
+    "natural gas",
     "petrol 72",
+    "petrol 76",
     "petrol 92",
     "petrol 95",
     "petrol 98",
-    "kerosene",
+    "petrol",
   ]),
-  "Fuel feed": (s: string) => {
-    const feeds = [
-      "2 carb SU",
-      "2 carb Weber",
-      "2 carb Zenith",
-      "2 carb",
-      "3 carb Weber",
-      "3 carb",
-      "4 carb",
-      "6 carb Weber",
-      "4 carb Weber",
-      "carb Solex 1B2",
-      "carb Solex 2B4",
-      "carb Solex 32 TDID",
-      "carb Solex 35 PDSIT-5",
-      "carb Solex 4A1",
-      "carb Solex DIDTA 32/32",
-      "carb Solex",
-      "carb Weber 46IDA",
-      "carb Weber",
-      "carb Zenith",
-      "carb",
-      "direct injection",
-      "distributed injection",
-      "injection Bosch K-Jetronic",
-      "injection Bosch KE-Jetrоnic",
-      "injection Bosch L-jetronic",
-      "injection Bosch LH-Jetronic",
-      "injection Bosch Motronic M5.4",
-      "injection Bosch Motronic",
-      "injection Bosch Motroniс",
-      "injection L-Jetronic",
-      "injection K-Jetronic",
-      "injection Jetronic",
-      "injection Bosch LE-Jetronic",
-      "injection Bosch MH-Motronic",
-      "injection TAG 3.8",
-      "injection TAGtronic",
-      "injection",
-      "mechanical injection Bosch",
-      "mechanical injection Kugelfischer",
-      "mechanical injection",
-      "sequential distributed injection",
-      "sequential multi-point injection",
-      "carb Keihin",
-      "carb Pierburg 1B3",
-      "carb Pierburg 2E2",
-    ];
-    let t = s.replace("carburetor", "carb");
-    if (t == "Solex carb") {
-      t = "carb Solex";
-    }
-    return oneof(feeds)(t);
-  },
+  "Fuel feed": oneof([
+    "2 carb",
+    "3 carb",
+    "4 carb",
+    "6 carb",
+    "carb",
+    "direct injection",
+    "distributed injection",
+    "injection",
+    "mechanical injection",
+    "sequential distributed injection",
+    "sequential multi-point injection",
+    "port injection",
+    "electronic injection",
+    "multi-point injection",
+  ]),
 
   // Engine details
   "Compression ratio": unitless(1),
@@ -319,15 +276,7 @@ export const known = {
       return { val };
     }
   },
-  "Fuel tank": (val: string) => {
-    const x = Val.parse(val);
-    if (x.unit == "l") {
-      x.unit = "L";
-    }
-    if (["L", "gal"].includes(x.unit)) {
-      return { val: x.format() };
-    }
-  },
+  "Fuel tank": unit([{ canonical: "L", aliases: ["litres"] }], {}),
   Cx: unitless(3),
   "Trunk size"(s: string) {
     return matchRange(s, ["L", "cubic ft"], { unitAliases: { л: "L" } });
@@ -349,13 +298,7 @@ export const known = {
     "rear longitudinal",
     "rear",
   ]),
-  Brakes: oneof([
-    { canonical: "drum", aliases: ["drums"] },
-    { canonical: "all drum", aliases: ["all drums"] },
-    "disc",
-    "all disc",
-    "ventilated disc",
-  ]),
+  Brakes: brakes,
   "Rear brakes": brakes,
   "Front brakes": brakes,
   "Brakes size": unit(["mm", "in"], {}),
@@ -370,7 +313,7 @@ export const known = {
 
   Gears: oneof([
     "var",
-    ...[2, 3, 4, 5, 6, 7].flatMap((n) => [
+    ...[2, 3, 4, 5, 6, 7, 8].flatMap((n) => [
       `${n} auto`,
       `${n} manual`,
       `${n}`,
