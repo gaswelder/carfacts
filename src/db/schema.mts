@@ -110,7 +110,9 @@ export const known = {
   },
 
   // Engine
-  Volume: unit(["cc", "L", "cin"], { defaults: [{ unit: "L", max: 10 }] }),
+  Volume: unit(["cc", { canonical: "L", aliases: ["l"] }, "cin"], {
+    defaults: [{ unit: "L", max: 10 }],
+  }),
   Cylinders: oneof(
     `1 10 12 16 18 2 3 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5 R3
         V10 V12 V16 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),

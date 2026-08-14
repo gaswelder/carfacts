@@ -99,6 +99,11 @@ const parseShort = (line) => {
 
 const matchers = [
   //
+  // generic k=v
+  //
+  [/(\w+)=(\w+)/, (_, k, v) => [k, v]],
+
+  //
   // Power
   //
   [/\d+\s?hp\s?@\s?\d\d\d\d\s?(rpm)?/i, (v) => ["Power", v]],
@@ -188,19 +193,11 @@ const matchers = [
   [/\d+ lbs/, (v) => ["Weight", v]],
 
   //
-  // Cx
-  //
-  [/Cx=(0\.\d+)/, (_, cx) => ["Cx", cx]],
-
-  //
-  // Count
-  //
-  [/count(=| )(\d+)/, (...m) => ["Count", m[2]]],
-
-  //
   // Engine placement
   //
   [/(front|center|rear) engine/, (_, v) => ["Engine placement", v]],
+  [/mid-engine/, () => ["Engine placement", "center"]],
+  [/rear-mounted/, () => ["Engine placement", "rear"]],
   [/engine transverse/, () => ["Engine placement", "transverse"]],
   [
     /center longitudinal engine/,
@@ -213,7 +210,6 @@ const matchers = [
   [/2\+2/, () => ["Seats", "2+2"]],
   [/(\d)\s?seats/, (_, v) => ["Seats", v]],
   [/(\d)-seat/, (_, v) => ["Seats", v]],
-  [/seats=(\d)/i, (_, v) => ["Seats", v]],
 
   //
   // Doors

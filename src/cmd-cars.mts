@@ -134,14 +134,20 @@ const cmd: Record<string, (args: string[]) => void> = {
     }
     console.log(`${ok} inserted, ${fails} failed`);
 
-    const ff = failed
-      .entries()
-      .map(([k, v]) => {
-        return ["# " + k, ...v, ""].join("\n");
-      })
-      .toArray()
-      .join("\n");
-    fs.writeFileSync(`fails-${Date.now()}.txt`, ff);
+    const lines = [] as string[];
+    for (const [k, v] of failed.entries()) {
+      lines.push("# " + k);
+      v.sort((a, b) => {
+        const colsa = a.split("|");
+        const colsb = b.split("|");
+        return colsa.at(-1)?.localeCompare(colsb.at(-1) || "") || 0;
+      });
+      for (const x of v) {
+        lines.push(x);
+      }
+      lines.push("");
+    }
+    fs.writeFileSync(`fails-${Date.now()}.txt`, lines.join("\n"));
 
     if (ok > 0) {
       await db.save("carfacts.txt.tmp");
