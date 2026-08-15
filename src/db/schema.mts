@@ -1,5 +1,4 @@
 import { parsePower } from "../parsers/power.mts";
-import { parseTorque } from "../parsers/torque.mts";
 import { parseTyre } from "../parsers/tyres.mts";
 import { readWheel } from "../parsers/wheels.mts";
 import { oneof, unitless, unit } from "./schemabase.mts";
@@ -61,6 +60,7 @@ const brakes = oneof([
   "disc",
   "all disc",
   "ventilated disc",
+  "all ventilated disc",
 ]);
 
 const tyres = (val: string) => {
@@ -86,7 +86,7 @@ export const getParam = (name: string) => {
 };
 
 export const known = {
-  Price: unit(["USD", "DM", "GBP", "RUR", "EUR", "BYN"], {}),
+  Price: unit(["USD", "DM", "GBP", "RUR", "EUR", "BYN", "RUB"], {}),
   Count(val: string) {
     let m = val.match(/(\d+) (in|@) (\d+)/);
     if (m) {
@@ -115,7 +115,7 @@ export const known = {
   }),
   Cylinders: oneof(
     `1 10 12 16 18 2 3 4 5 6 8 B12 B2 B4 B6 B8 I6 R 12 R2 R4 R6 R6 R8 R12 R5 R3
-        V10 V12 V16 V2 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),
+        V10 V12 V16 V2 V4 V5 V6 V8 VR4 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),
   ),
   Compressor: oneof([
     "turbo",
@@ -139,6 +139,7 @@ export const known = {
     [
       { canonical: "nm", aliases: ["N·m", "Nm"] },
       { canonical: "lb-ft", aliases: ["ft-lb"] },
+      { canonical: "kgfm", aliases: ["kgm"] },
     ],
     {},
   ),
@@ -210,6 +211,11 @@ export const known = {
     if (m) {
       return { val: `${m[1]} L/100km` };
     }
+    // 13.0 km/L
+    m = val.match(/^([\d.]+)\s?km\s?\/\s?l$/i);
+    if (m) {
+      return { val: `${m[1]} km/L` };
+    }
     // 5.1 kg/100km
     m = val.match(/^([\d.]+)\s?kg\s?\/\s?100\s?km$/i);
     if (m) {
@@ -250,11 +256,13 @@ export const known = {
     "hatchback 4",
     "hatchback 5",
     "hatchback",
+    "landaulet",
     "limousine",
     "limousine 4",
     "monocock",
     "minivan",
     "minivan 4",
+    "minivan 5",
     "roadster",
     "sedan 2",
     "sedan 4",

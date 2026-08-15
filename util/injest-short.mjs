@@ -16,43 +16,32 @@ const main = async () => {
   console.log("# ok = " + ok);
 };
 
-const mapRow = (row) => {
-  let rows = [row];
-  rows = rows.map((row) => ors(row) || [row]).flat(1);
-  rows = rows.map((row) => price(row) || [row]).flat(1);
-  rows = rows.map((row) => deshort(row) || [row]).flat(1);
-  rows = rows.map((row) => borestroke(row) || [row]).flat(1);
-  return rows;
-};
+const isparam = (row, p) => row.length == 3 && row[1].toLowerCase() == p;
 
 const borestroke = (row) => {
   if (row.length == 3 && row[1].toLowerCase() == "bore x stroke") {
-    const m = row[2].match(/^([\d.]+)\s*(mm)? x ([\d.]+)\s*mm$/);
+    const m = row[2].match(/^([\d.]+)\s*(mm)?\s*x\s*([\d.]+)\s*mm$/);
     if (m) {
       return [
         [row[0], "Bore", `${m[1]} mm`],
         [row[0], "Stroke", `${m[3]} mm`],
       ];
     }
-  }
-};
-
-const ors = (row) => {
-  if (row.length == 3 && row[2].includes("::")) {
-    const vals = row[2].split("::").map((s) => s.trim());
-    return vals.map((val) => [row[0], row[1], val]);
-  }
-  if (row.length == 2 && row[1].includes("::")) {
-    const vals = row[1].split("::").map((s) => s.trim());
-    return vals.map((val) => [row[0], val]);
+    const m2 = row[2].match(/^([\d.]+)\s*(in)?\s*x\s*([\d.]+)\s*in$/);
+    if (m2) {
+      return [
+        [row[0], "Bore", `${m2[1]} in`],
+        [row[0], "Stroke", `${m2[3]} in`],
+      ];
+    }
   }
 };
 
 const price = (row) => {
-  if (row.length == 3 && row[1].toLowerCase() == "price") {
-    const m = row[2].match(/^\\$(\d+),000$/);
+  if (isparam(row, "price")) {
+    const m = row[2].match(/\$([\d,]+)/);
     if (m) {
-      return [["Price", `${m[1]}000 USD`]];
+      row[2] = row[2].replace(m[0], `${m[1]} USD`);
     }
   }
 };
@@ -67,6 +56,37 @@ const deshort = (row) => {
       ];
     }
   }
+};
+
+const mappers = [
+  // Use "::" to split into separate facts.
+  (row) => {
+    if (row.length == 3 && row[2].includes("::")) {
+      const vals = row[2].split("::").map((s) => s.trim());
+      return vals.map((val) => [row[0], row[1], val]);
+    }
+    if (row.length == 2 && row[1].includes("::")) {
+      const vals = row[1].split("::").map((s) => s.trim());
+      return vals.map((val) => [row[0], val]);
+    }
+  },
+  price,
+  deshort,
+  borestroke,
+  // Parse numerals for count
+  (row) => {
+    if (isparam(row, "count")) {
+      row[2] = row[2].replace(",", "");
+    }
+  },
+];
+
+const mapRow = (row) => {
+  let rows = [row];
+  for (const m of mappers) {
+    rows = rows.map((row) => m(row) || [row]).flat(1);
+  }
+  return rows;
 };
 
 const parseShort = (line) => {
@@ -114,7 +134,7 @@ const matchers = [
   //
   // generic k=v
   //
-  [/(\w+)=(\w+)/, (_, k, v) => [k, v]],
+  [/(\w+)=([\w.+]+)/, (_, k, v) => [k, v]],
 
   //
   // Power
@@ -127,8 +147,12 @@ const matchers = [
   // Body
   //
   [
-    /coupe|targa|wagon \d|sedan|cabriolet|roadster|hatchback \d|wagon|spyder|suv|minivan/i,
-    (v) => ["Body", v],
+    /(coupe|targa|wagon|sedan|cabriolet|roadster|hatchback|wagon|spyder|suv|minivan)/i,
+    (_, t) => ["Body", `${t}`],
+  ],
+  [
+    /(coupe|targa|wagon|sedan|cabriolet|roadster|hatchback|wagon|spyder|suv|minivan)( \d)/i,
+    (_, t, d) => ["Body", `${t} ${d}`],
   ],
   [/(2|4)-door sedan/, (_, n) => ["Body", `sedan ${n}`]],
   [/^open$/, () => ["Body", "cabriolet"]],
@@ -177,10 +201,11 @@ const matchers = [
   //
   // Cylinders
   //
-  [/(R|B|V)(2|3|4|5|6|8|10|12)/i, (v) => ["Cylinders", v]],
+  [/(R|B|V)(2|3|4|5|6|8|10|12|16)/i, (v) => ["Cylinders", v]],
   [/(\d)-cylinder/, (v) => ["Cylinders", v]],
   [/(\d)[\- ]?cyl/, (_, v) => ["Cylinders", v]],
   [/w12/i, () => ["Cylinders", "W12"]],
+  [/w16/i, () => ["Cylinders", "W16"]],
 
   //
   // Fuel
@@ -191,7 +216,7 @@ const matchers = [
   // Volume
   //
   [/(\d+)\s?cc/, (v) => ["Volume", v]],
-  [/(\d+) cin/, (_, v) => ["Volume", v]],
+  [/(\d+) cin/, (v) => ["Volume", v]],
   [/(\d\.\d)\s?(Liter|L|л)/i, (_, v) => ["Volume", v + "L"]],
   [/(\d)\s?(L|л)/i, (_, v) => ["Volume", v + "L"]],
 
@@ -213,10 +238,10 @@ const matchers = [
   //
   // Engine placement
   //
-  [/(front|center|rear)(-| )engine/, (_, v) => ["Engine placement", v]],
+  [/(front|center|rear)(-| )engine/i, (_, v) => ["Engine placement", v]],
   [/mid-engine/i, () => ["Engine placement", "center"]],
-  [/rear-mounted/, () => ["Engine placement", "rear"]],
-  [/engine transverse/, () => ["Engine placement", "transverse"]],
+  [/Rear-engine/i, () => ["Engine placement", "rear"]],
+  [/rear-mounted/i, () => ["Engine placement", "rear"]],
   [
     /center longitudinal engine/,
     () => ["Engine placement", "center longitudinal"],
@@ -233,12 +258,6 @@ const matchers = [
   // Doors
   //
   [/(\d) doors/, (_, v) => ["Doors", v]],
-
-  //
-  //
-  //
-  [/\d+\.\d:1/, (v) => ["Compression ratio", v]],
-  [/\b\d\.\d\b/, (v) => ["Volume", v + "L"]],
 
   //
   // Tyres
@@ -277,11 +296,13 @@ const matchers = [
   //
   [/2-carburetor/, (v) => ["Fuel feed", "2 carb"]],
   [/carb/, (v) => ["Fuel feed", "carb"]],
-  [/carb Solex/, (v) => ["Fuel feed", "carb Solex"]],
-  [/K-Jetronic fuel injection/i, (v) => ["Fuel feed", "injection K-Jetronic"]],
-  [/(direct|distributed|mechanical) injection/, (v) => ["Fuel feed", v]],
-  [/injector/, () => ["Fuel feed", "injection"]],
-  [/injection( L-Jetronic)?/, (v) => ["Fuel feed", v]],
+  [/2 carb/, (v) => ["Fuel feed", "2 carb"]],
+  [/3 carb/, (v) => ["Fuel feed", "3 carb"]],
+  [
+    /(direct|distributed|mechanical|electronic|multi-point) injection/,
+    (v) => ["Fuel feed", v],
+  ],
+  [/injector|injection/, () => ["Fuel feed", "injection"]],
 
   //
   // Wheels
@@ -294,6 +315,7 @@ const matchers = [
   //
   [/front-drive/, () => ["Drive", "front"]],
   [/front drive/, () => ["Drive", "front"]],
+  [/full( |-)drive/, () => ["Drive", "full"]],
   [/rear drive/, () => ["Drive", "rear"]],
   [/4wd/i, () => ["Drive", "full"]],
   [/awd/i, () => ["Drive", "full"]],
@@ -334,7 +356,9 @@ const matchers = [
   [/twin(-| )turbo/, () => ["Compressor", "2 turbo"]],
   [/biturbo/, () => ["Compressor", "2 turbo"]],
   [/(2 )?turbo/i, (v) => ["Compressor", v]],
-  [/supercharger|supercharged/, () => ["Compressor", "mechanical"]],
+  [/(4 )?turbo/i, (v) => ["Compressor", v]],
+  [/2-turbo/i, (v) => ["Compressor", "2 turbo"]],
+  [/supercharger|supercharged|compressor/, () => ["Compressor", "mechanical"]],
 
   //
   // Fuel consumption
