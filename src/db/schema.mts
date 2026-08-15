@@ -114,8 +114,8 @@ export const known = {
     defaults: [{ unit: "L", max: 10 }],
   }),
   Cylinders: oneof(
-    `1 10 12 16 18 2 3 4 5 6 8 B12 B4 B6 B8 I6 R 12 R4 R6 R6 R8 R12 R5 R3
-        V10 V12 V16 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),
+    `1 10 12 16 18 2 3 4 5 6 8 B12 B2 B4 B6 B8 I6 R 12 R2 R4 R6 R6 R8 R12 R5 R3
+        V10 V12 V16 V2 V4 V5 V6 V8 VR5 VR6 W12 W15 W16 W18`.split(/\s+/),
   ),
   Compressor: oneof([
     "turbo",
@@ -126,6 +126,7 @@ export const known = {
     "twincharger",
     "roots",
     "mechanical",
+    "2 mechanical",
   ]),
   "Compressor pressure": range(["bar", "atm", "psi"]),
   Power: (s: string) => {
@@ -249,6 +250,7 @@ export const known = {
     "hatchback 4",
     "hatchback 5",
     "hatchback",
+    "limousine",
     "limousine 4",
     "monocock",
     "minivan",
@@ -260,6 +262,7 @@ export const known = {
     "suv",
     "spyder",
     "targa",
+    "torpedo",
     "truck",
     "van",
     "van 3",
@@ -272,7 +275,21 @@ export const known = {
   Length: size,
   Width: size,
   Height: size,
-  Seats: oneof(["2", "4", "2+2", "5", "6", "7", "1", "8", "4+2", "35"]),
+  Seats: oneof([
+    "1",
+    "2",
+    "3",
+    "4",
+    "2+2",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "15",
+    "4+2",
+    "35",
+  ]),
   Doors(val: string) {
     if (isnum(val)) {
       return { val };
@@ -281,7 +298,9 @@ export const known = {
   "Fuel tank": unit([{ canonical: "L", aliases: ["litres"] }], {}),
   Cx: unitless(3),
   "Trunk size"(s: string) {
-    return matchRange(s, ["L", "cubic ft"], { unitAliases: { л: "L" } });
+    return matchRange(s, ["L", "cubic ft", "m3"], {
+      unitAliases: { л: "L", l: "L" },
+    });
   },
 
   // Chassis
@@ -315,6 +334,7 @@ export const known = {
 
   Gears: oneof([
     "var",
+    "1",
     ...[2, 3, 4, 5, 6, 7, 8].flatMap((n) => [
       `${n} auto`,
       `${n} manual`,

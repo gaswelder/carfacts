@@ -19,9 +19,22 @@ const main = async () => {
 const mapRow = (row) => {
   let rows = [row];
   rows = rows.map((row) => ors(row) || [row]).flat(1);
-  rows = rows.map((row) => debrace(row) || [row]).flat(1);
+  rows = rows.map((row) => price(row) || [row]).flat(1);
   rows = rows.map((row) => deshort(row) || [row]).flat(1);
+  rows = rows.map((row) => borestroke(row) || [row]).flat(1);
   return rows;
+};
+
+const borestroke = (row) => {
+  if (row.length == 3 && row[1].toLowerCase() == "bore x stroke") {
+    const m = row[2].match(/^([\d.]+)\s*(mm)? x ([\d.]+)\s*mm$/);
+    if (m) {
+      return [
+        [row[0], "Bore", `${m[1]} mm`],
+        [row[0], "Stroke", `${m[3]} mm`],
+      ];
+    }
+  }
 };
 
 const ors = (row) => {
@@ -35,11 +48,11 @@ const ors = (row) => {
   }
 };
 
-const debrace = (row) => {
-  if (row.length == 3) {
-    const m = row[1].match(/^(.*?) \((.*?)\)$/);
+const price = (row) => {
+  if (row.length == 3 && row[1].toLowerCase() == "price") {
+    const m = row[2].match(/^\\$(\d+),000$/);
     if (m) {
-      return [[`${row[0]} (${m[2]})`, m[1], row[2]]];
+      return [["Price", `${m[1]}000 USD`]];
     }
   }
 };
@@ -107,18 +120,18 @@ const matchers = [
   // Power
   //
   [/\d+\s?hp\s?@\s?\d\d\d\d\s?(rpm)?/i, (v) => ["Power", v]],
-  [/(\d+)\s?b?hp/, (v) => ["Power", v]],
+  [/(\d+)\s?b?hp/i, (v) => ["Power", v]],
   [/\d+ kWt?/, (v) => ["Power", v]],
-  [/330HP/, () => ["Power", "330 hp"]],
 
   //
   // Body
   //
   [
-    /coupe|targa|wagon 3|sedan|cabriolet|roadster|hatchback 5|wagon|spyder|suv/i,
+    /coupe|targa|wagon \d|sedan|cabriolet|roadster|hatchback \d|wagon|spyder|suv|minivan/i,
     (v) => ["Body", v],
   ],
   [/(2|4)-door sedan/, (_, n) => ["Body", `sedan ${n}`]],
+  [/^open$/, () => ["Body", "cabriolet"]],
 
   //
   //
@@ -126,6 +139,13 @@ const matchers = [
   [
     /(\d+)-valve (V|B|R)(\d+)/,
     (_, v, l, c) => [
+      ["Valves per cylinder", v / c],
+      ["Cylinders", `${l}${c}`],
+    ],
+  ],
+  [
+    /(V|B|R)(\d+) (\d+)-valve/,
+    (_, l, c, v) => [
       ["Valves per cylinder", v / c],
       ["Cylinders", `${l}${c}`],
     ],
@@ -157,13 +177,10 @@ const matchers = [
   //
   // Cylinders
   //
-  [
-    /B6|b12|b4|v8|R4|V6|R8|v12|R6|VR6|VR5|R3|V10|W12|R5|r4|r6/i,
-    (v) => ["Cylinders", v],
-  ],
+  [/(R|B|V)(2|3|4|5|6|8|10|12)/i, (v) => ["Cylinders", v]],
   [/(\d)-cylinder/, (v) => ["Cylinders", v]],
   [/(\d)[\- ]?cyl/, (_, v) => ["Cylinders", v]],
-  [/4 cyl/, (v) => ["Cylinders", 4]],
+  [/w12/i, () => ["Cylinders", "W12"]],
 
   //
   // Fuel
@@ -174,6 +191,7 @@ const matchers = [
   // Volume
   //
   [/(\d+)\s?cc/, (v) => ["Volume", v]],
+  [/(\d+) cin/, (_, v) => ["Volume", v]],
   [/(\d\.\d)\s?(Liter|L|л)/i, (_, v) => ["Volume", v + "L"]],
   [/(\d)\s?(L|л)/i, (_, v) => ["Volume", v + "L"]],
 
@@ -195,8 +213,8 @@ const matchers = [
   //
   // Engine placement
   //
-  [/(front|center|rear) engine/, (_, v) => ["Engine placement", v]],
-  [/mid-engine/, () => ["Engine placement", "center"]],
+  [/(front|center|rear)(-| )engine/, (_, v) => ["Engine placement", v]],
+  [/mid-engine/i, () => ["Engine placement", "center"]],
   [/rear-mounted/, () => ["Engine placement", "rear"]],
   [/engine transverse/, () => ["Engine placement", "transverse"]],
   [
@@ -237,7 +255,6 @@ const matchers = [
       ["Fuel feed", "injection"],
     ],
   ],
-  [/bore=102 mm/, () => ["Bore", "102 mm"]],
 
   //
   // Price
@@ -258,31 +275,13 @@ const matchers = [
   //
   // Fuel feed
   //
-  [/Zenith carbs/, (v) => ["Fuel feed", "carb Zenith"]],
   [/2-carburetor/, (v) => ["Fuel feed", "2 carb"]],
   [/carb/, (v) => ["Fuel feed", "carb"]],
   [/carb Solex/, (v) => ["Fuel feed", "carb Solex"]],
-  [/Solex/i, () => ["Fuel feed", "carb Solex"]],
-  [/4 Webers/i, () => ["Fuel feed", "4 carb Weber"]],
-  [/(\d) carb weber/i, (_, v) => ["Fuel feed", v + " carb Weber"]],
-  [
-    /mechanical injector Bosch K-Jetronic/,
-    (v) => ["Fuel feed", "mechanical injection Bosch"],
-  ],
-  [
-    /mechanical injector Bosch/,
-    (v) => ["Fuel feed", "mechanical injection Bosch"],
-  ],
-  [
-    /mechanical( fuel)? injection/i,
-    (v) => ["Fuel feed", "mechanical injection"],
-  ],
   [/K-Jetronic fuel injection/i, (v) => ["Fuel feed", "injection K-Jetronic"]],
-  [/(direct|distributed) injection/, (v) => ["Fuel feed", v]],
+  [/(direct|distributed|mechanical) injection/, (v) => ["Fuel feed", v]],
   [/injector/, () => ["Fuel feed", "injection"]],
   [/injection( L-Jetronic)?/, (v) => ["Fuel feed", v]],
-  [/L-Jetronic/, (v) => ["Fuel feed", "injection " + v]],
-  [/injection Jetronic/, (v) => ["Fuel feed", v]],
 
   //
   // Wheels
@@ -296,8 +295,9 @@ const matchers = [
   [/front-drive/, () => ["Drive", "front"]],
   [/front drive/, () => ["Drive", "front"]],
   [/rear drive/, () => ["Drive", "rear"]],
-  [/4wd/, () => ["Drive", "full"]],
-  [/rwd/, () => ["Drive", "rear"]],
+  [/4wd/i, () => ["Drive", "full"]],
+  [/awd/i, () => ["Drive", "full"]],
+  [/rwd/i, () => ["Drive", "rear"]],
 
   //
   // Dimensions
@@ -331,6 +331,8 @@ const matchers = [
   //
   // Compressor
   //
+  [/twin(-| )turbo/, () => ["Compressor", "2 turbo"]],
+  [/biturbo/, () => ["Compressor", "2 turbo"]],
   [/(2 )?turbo/i, (v) => ["Compressor", v]],
   [/supercharger|supercharged/, () => ["Compressor", "mechanical"]],
 
